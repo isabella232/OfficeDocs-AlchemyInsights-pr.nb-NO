@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383393"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454439"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383393"
 ## <a name="week-of-january-07-2019"></a>Uke i januar 07, 2019
 
 
-| Publisert på |Emnetittel | Endre |
+| Publisert på |Emnetittel | Endre. |
 |------|------------|--------|
 | 7/1/2019 | [Endre passordet](/AlchemyInsights/change-your-password-in-outlook.com) | lagt til |
 | 7/1/2019 | [Hvis du endrer tillatelser for en postboks](/AlchemyInsights/changing-permissions-on-a-mailbox) | lagt til |
@@ -207,7 +207,7 @@ ms.locfileid: "29383393"
 | 1/10/2019 | [Det vises en svart bakgrunn eller celleformatering ser ikke riktig](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | lagt til |
 | 1/10/2019 | [Ingen tilgang når du tilordner en stasjon til SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | lagt til |
 | 1/10/2019 | [Ingen tilgang når du viser en arbeidsflyt](/AlchemyInsights/access-denied-when-viewing-a-workflow) | lagt til |
-| 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | lagt til |
+| 1/10/2019 | Access Services | lagt til |
 | 1/10/2019 | [Hvis du vil aktivere et nytt abonnement med en produktnøkkel](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | lagt til |
 | 1/10/2019 | [Aktivere Office](/AlchemyInsights/activate-office) | lagt til |
 | 1/10/2019 | [Aktiverer et abonnement for Microsoft Office 365 volum lisens](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | lagt til |
@@ -218,7 +218,7 @@ ms.locfileid: "29383393"
 | 1/10/2019 | [Legge til eller fjerne en e-postalias for en bruker](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | lagt til |
 | 1/10/2019 | [Legge til seter i et forhåndsbetalt abonnement](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | lagt til |
 | 1/10/2019 | [Legge til seter i et forhåndsbetalt abonnement](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | lagt til |
-| 1/10/2019 | [Legge til brukere i Office 365](/AlchemyInsights/add-users-to-office-365) | lagt til |
+| 1/10/2019 | Legge til brukere i Office 365 | lagt til |
 | 1/10/2019 | [Legge til eksterne brukere i en distribusjonsgruppe?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | lagt til |
 | 1/10/2019 | [Legge til eksterne brukere](/AlchemyInsights/adding-external-users) | lagt til |
 | 1/10/2019 | [ADFS Federation sertifikatet utløper](/AlchemyInsights/adfs-federation-certificate-expiring) | lagt til |
@@ -272,7 +272,7 @@ ms.locfileid: "29383393"
 | 1/10/2019 | [Endre domenenavnet i SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | lagt til |
 | 1/10/2019 | [Endre hvor ofte du skal betale.](/AlchemyInsights/change-how-often-you-pay) | lagt til |
 | 1/10/2019 | [Endre MDM myndighet](/AlchemyInsights/change-mdm-authority) | lagt til |
-| 1/10/2019 | [Endre NameServers](/AlchemyInsights/change-nameservers) | lagt til |
+| 1/10/2019 | Change nameservers | lagt til |
 | 1/10/2019 | [Endre OneDrive for Business lagringskvoten](/AlchemyInsights/change-onedrive-for-business-storage-quota) | lagt til |
 | 1/10/2019 | [Endre betalingsmåte](/AlchemyInsights/change-payment-method) | lagt til |
 | 1/10/2019 | [Endre tillatelser for en SharePoint-liste eller et bibliotek](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | lagt til |
@@ -504,7 +504,7 @@ ms.locfileid: "29383393"
 | 11/1/2019 | [Det vises en svart bakgrunn eller celleformatering ser ikke riktig](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | endret |
 | 11/1/2019 | [Ingen tilgang når du tilordner en stasjon til SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | endret |
 | 11/1/2019 | [Ingen tilgang når du viser en arbeidsflyt](/AlchemyInsights/access-denied-when-viewing-a-workflow) | endret |
-| 11/1/2019 | [Access Services](/AlchemyInsights/access-services) | endret |
+| 11/1/2019 | Access Services | endret |
 | 11/1/2019 | [Hvis du vil aktivere et nytt abonnement med en produktnøkkel](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | endret |
 | 11/1/2019 | [Aktivere Office](/AlchemyInsights/activate-office) | endret |
 | 11/1/2019 | [Aktiverer et abonnement for Microsoft Office 365 volum lisens](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | endret |
@@ -515,7 +515,7 @@ ms.locfileid: "29383393"
 | 11/1/2019 | [Legge til eller fjerne en e-postalias for en bruker](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | endret |
 | 11/1/2019 | [Legge til seter i et forhåndsbetalt abonnement](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | endret |
 | 11/1/2019 | [Legge til seter i et forhåndsbetalt abonnement](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | endret |
-| 11/1/2019 | [Legge til brukere i Office 365](/AlchemyInsights/add-users-to-office-365) | endret |
+| 11/1/2019 | Legge til brukere i Office 365 | endret |
 | 11/1/2019 | [Legge til eksterne brukere i en distribusjonsgruppe?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | endret |
 | 11/1/2019 | [Legge til eksterne brukere](/AlchemyInsights/adding-external-users) | endret |
 | 11/1/2019 | [ADFS Federation sertifikatet utløper](/AlchemyInsights/adfs-federation-certificate-expiring) | endret |
@@ -569,7 +569,7 @@ ms.locfileid: "29383393"
 | 11/1/2019 | [Endre domenenavnet i SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | endret |
 | 11/1/2019 | [Endre hvor ofte du skal betale.](/AlchemyInsights/change-how-often-you-pay) | endret |
 | 11/1/2019 | [Endre MDM myndighet](/AlchemyInsights/change-mdm-authority) | endret |
-| 11/1/2019 | [Endre NameServers](/AlchemyInsights/change-nameservers) | endret |
+| 11/1/2019 | Change nameservers | endret |
 | 11/1/2019 | [Endre OneDrive for Business lagringskvoten](/AlchemyInsights/change-onedrive-for-business-storage-quota) | endret |
 | 11/1/2019 | [Endre betalingsmåte](/AlchemyInsights/change-payment-method) | endret |
 | 11/1/2019 | [Endre tillatelser for en SharePoint-liste eller et bibliotek](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | endret |
@@ -637,7 +637,7 @@ ms.locfileid: "29383393"
 ## <a name="week-of-january-14-2019"></a>Uke 14. januar 2019
 
 
-| Publisert på |Emnetittel | Endre |
+| Publisert på |Emnetittel | Endre. |
 |------|------------|--------|
 | 14/1/2019 | Plassholder for Alkymi | fjernet |
 | 14/1/2019 | Legge til domenet Alkymi | fjernet |
