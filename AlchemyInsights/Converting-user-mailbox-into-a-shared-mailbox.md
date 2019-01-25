@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303563"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481522"
 ---
 Du kan bare konvertere en Brukerpostboks til en delt postboks Hvis brukeren har en lisens for Exchange. Når postboksen er konvertert, vil den fortsette å vises i brukerlisten over aktive fordi listen inneholder delte postbokser. Imidlertid vil konverterte postboksen også vises i listen over delte postbokser. 
   

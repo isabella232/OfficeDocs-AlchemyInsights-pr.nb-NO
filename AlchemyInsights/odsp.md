@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: cbae9c4e-b63e-4495-9d7f-17272b796b33
 description: Start artikkelen din med en svært kort introduksjon (1-setning). Sett deg selv i leserens sted - Hvorfor er de her? Hva gjør de?
 ms.openlocfilehash: 0e4d0b3c65ff1de76700e998568398875358d64e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302874"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481266"
 ---
 Start artikkelen din med en svært kort introduksjon (1-setning). Sett deg selv i leserens sted - Hvorfor er de her? Hva gjør de? 
   

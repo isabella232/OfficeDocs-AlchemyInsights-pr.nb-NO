@@ -1,5 +1,5 @@
 ---
-title: Utvide prøveperioden for Office 365 for bedrifter
+title: Forlenge prøveperioden for Office 365 for Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302497"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481430"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Utvide prøveperioden for Office 365 for bedrifter
+# <a name="extend-your-trial-for-office-365-for-business"></a>Forlenge prøveperioden for Office 365 for Business
 
 Hvis prøveabonnementet er innen 15 dager etter utløper og ikke er utvidet prøveversjon av før, kan du utvide prøveperioden for en annen 30-dagers periode. Du kan bare gjøre dette én gang.
   

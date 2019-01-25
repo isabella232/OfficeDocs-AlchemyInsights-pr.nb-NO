@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 41d5d191ae78ffe8073898d6856c2d39a54ed310
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302676"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481389"
 ---
 # <a name="buy-additional-licenses"></a>Kjøpe flere lisenser
 
 1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
     
-2. Velg abonnementet som du vil legge til lisenser til på siden **abonnementer** , og deretter velger du **Legg til/fjern lisenser**.
+2. Velg abonnementet der du vil legge til lisenser på **Abonnementer**-siden, og velg deretter **Legg til/fjern lisenser**.
     
     [Hva om jeg ikke ser koblingen Legg til/fjern?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Angi det totale antallet lisenser som du trenger for dette abonnementet i **Totalt antall lisenser** -boksen, og velg deretter **Send** \> **Lukk**. Hvis du har 100 lisenser, og du må legge til flere 5, angi 105.
+3. Angi det totale antallet lisenser du trenger for dette abonnementet, i **Totalt antall lisenser**-boksen, og velg deretter **Send inn** \> **Lukk**. Hvis du for eksempel har 100 lisenser og du trenger å legge til 5, må du skrive inn tallet 105.
     
     > [!NOTE]
     > Hvis du betaler for abonnementet via kredittkort eller bankkonto, vil eventuelle nye lisenser du kjøper, er tilgjengelige umiddelbart etter at du mottar en bestillingsbekreftelse. Hvis du betaler fakturaen, må du kanskje vente på en kredittkontroll før de nye lisensene er tilgjengelige for bruk. 

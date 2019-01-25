@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303406"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482189"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Hvordan du tilordner en lisens til en bruker
 
 En bruker trenger en lisens til å få tilgang til tjenester. Her er fremgangsmåten for å legge til, endre eller fjerne en lisens fra en bruker.
   
-1. Gå til siden [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) i administrasjonssenteret, eller velg **brukere** \> **aktive brukere**.
+1. Gå til [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822)-siden i administrasjonssenteret, eller velg **Brukere** \> **Aktive brukere**.
     
 2. Merk navnet på brukeren du vil tilordne, endre eller fjerne en lisens.
     

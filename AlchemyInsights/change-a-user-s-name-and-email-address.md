@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.openlocfilehash: 79d7b6bb76398dbc41b32af0bbb75edea652c8c2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302986"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481407"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Endre en brukers navn og e-postadresse
 
 Det er enkelt å endre en brukers navn og e-postadresse! Gå til [Aktive brukere](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users) , og velg brukeren du vil redigere informasjonen. Du kan også bruke denne artikkelen hvis du vil ha trinnvise instruksjoner: 
   
-[Endre et brukernavn og e-postadresse i Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297?wt.mc_id=change_email_AI.aspx)
+Endre et brukernavn og e-postadresse i Office 365
   
  **Merk**: Hvis du endrer brukerens primære e-postadressen, gamle e-postadressen fortsatt skal være gyldig for å motta e-post (dette skjer automatisk). Hvis organisasjonen har Hybrid tilstanden, må alle endringer i e-post og bruker navn også være gjort i lokale Active Directory og synkroniseres deretter til skyen. 
   

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303478"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482192"
 ---
 - Hvis du vil bruke en rettstvist sperring eller på stedet holder til en postboks, en [Exchange Online planlegge 2 lisens](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) kreves. Hvis du har en annen Plan, kan du tilordne en egen lisens for [Exchange Online-arkivering](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     

@@ -1,5 +1,5 @@
 ---
-title: Betalingsalternativer
+title: Betalingsalternativer.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303672"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482151"
 ---
- **Betalingsalternativer**
+ Betalingsalternativer.
   
 Kredittkort, Bankkonto (direkte debet) og faktura (betale med sjekk eller elektronisk pengeoverføring)
   
@@ -32,12 +32,12 @@ Hvis abonnementet koster over en viss mengde penger (beløpet varierer etter pla
   
 Hvis du betaler fakturaen for abonnementet, får du en e-post som sier at kontoutdraget er klar til å vise. Denne e-postmeldingen inneholder ikke en kopi av din kontoutdraget. Du kan imidlertid også velge å [motta en kopi av din kontoutdraget i e-post](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Din kontoutdraget inneholder opplysninger om hvordan du foretar en betaling. Hvis du angir et bestillingsnummer (PO) når du kjøper et abonnement, vises nummeret på din kontoutdraget. Hvis du vil ha informasjon om tilgang til betalingskontoen setningene, vise [regningen eller fakturaen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Endre hvordan du skal betale.**
+ Endre hvordan du betaler.
   
 Hvis du vil endre hvordan du betaler for gjeldende abonnement, følger du instruksjonene [her](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Tilleggsinformasjon**
   
-[Betale for din Office 365 for Business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Betale for abonnementet på Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
