@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.openlocfilehash: fc27604014531cc056f853030cf446743a95b36d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303008"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481498"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="3cad0-102">Gjenopprette en slettet postboks</span><span class="sxs-lookup"><span data-stu-id="3cad0-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="42d1d-102">Gjenopprette en slettet postboks</span><span class="sxs-lookup"><span data-stu-id="42d1d-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="3cad0-p101">Når en bruker mister sine Exchange Online-lisens, beholdes postboksen i 30 dager. Postboksen kan gjenopprettes ved å tilordne lisensen for brukeren i den 30-dagers perioden. Men er dette bare mulig i 30 dager.</span><span class="sxs-lookup"><span data-stu-id="3cad0-p101">When a user loses their Exchange Online license, their mailbox is retained for 30 days. During that 30-day period, the mailbox can be recovered by re-assigning the license to the user. However, this is only possible for 30 days.</span></span>
+<span data-ttu-id="42d1d-p101">Når en bruker mister sine Exchange Online-lisens, beholdes postboksen i 30 dager. Postboksen kan gjenopprettes ved å tilordne lisensen for brukeren i den 30-dagers perioden. Men er dette bare mulig i 30 dager.</span><span class="sxs-lookup"><span data-stu-id="42d1d-p101">When a user loses their Exchange Online license, their mailbox is retained for 30 days. During that 30-day period, the mailbox can be recovered by re-assigning the license to the user. However, this is only possible for 30 days.</span></span>
   
-<span data-ttu-id="3cad0-106">I Admin-Portal:</span><span class="sxs-lookup"><span data-stu-id="3cad0-106">In the Admin Portal:</span></span>
+<span data-ttu-id="42d1d-106">I Admin-Portal:</span><span class="sxs-lookup"><span data-stu-id="42d1d-106">In the Admin Portal:</span></span>
   
-- <span data-ttu-id="3cad0-p102">Gå til **brukere** \> **aktive brukere**. Velg den aktuelle brukeren.</span><span class="sxs-lookup"><span data-stu-id="3cad0-p102">Go to **Users** \> **Active users**. Select the user in question.</span></span>
+- <span data-ttu-id="42d1d-p102">Gå til **brukere** \> **aktive brukere**. Velg den aktuelle brukeren.</span><span class="sxs-lookup"><span data-stu-id="42d1d-p102">Go to **Users** \> **Active users**. Select the user in question.</span></span>
     
-- <span data-ttu-id="3cad0-109">Velg \*\* redigere \*\* endre produktlisenser.</span><span class="sxs-lookup"><span data-stu-id="3cad0-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
+- <span data-ttu-id="42d1d-109">Velg \*\* redigere \*\* endre produktlisenser.</span><span class="sxs-lookup"><span data-stu-id="42d1d-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
     
-- <span data-ttu-id="3cad0-110">Tilordne Exchange Online-lisens for brukeren, og velg deretter **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="3cad0-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
+- <span data-ttu-id="42d1d-110">Tilordne Exchange Online-lisens for brukeren, og velg deretter **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="42d1d-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
     
-<span data-ttu-id="3cad0-p103">Delte postbokser kan også gjenopprettes innen 30 dager. Du kan søke etter delte postbokser under **brukere** \> **Slettede brukere**. Delte postbokser krever ikke en Exchange Online-lisens.</span><span class="sxs-lookup"><span data-stu-id="3cad0-p103">Shared mailboxes are also recoverable within 30 days. You can find shared mailboxes under **Users** \> **Deleted users**. Shared mailboxes do not require an Exchange Online license.</span></span>
+<span data-ttu-id="42d1d-p103">Delte postbokser kan også gjenopprettes innen 30 dager. Du kan søke etter delte postbokser under **brukere** \> **Slettede brukere**. Delte postbokser krever ikke en Exchange Online-lisens.</span><span class="sxs-lookup"><span data-stu-id="42d1d-p103">Shared mailboxes are also recoverable within 30 days. You can find shared mailboxes under **Users** \> **Deleted users**. Shared mailboxes do not require an Exchange Online license.</span></span>
   
 

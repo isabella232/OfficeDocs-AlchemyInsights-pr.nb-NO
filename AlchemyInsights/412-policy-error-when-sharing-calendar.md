@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15cd5fd8-6e4d-4e65-9507-5f605cb8db38
 ms.openlocfilehash: eb3b35cef63d5bc4937d37e5dc5a1ba8435faa8d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302718"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482154"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="61710-102">Feil når du deler en kalender</span><span class="sxs-lookup"><span data-stu-id="61710-102">Policy error when sharing a calendar</span></span>
+# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="d2df0-102">Feil når du deler en kalender</span><span class="sxs-lookup"><span data-stu-id="d2df0-102">Policy error when sharing a calendar</span></span>
 
-<span data-ttu-id="61710-103">Hvis du prøver å dele kalenderen din, og du får feilmeldingen, "policyen tillater ikke gis tillatelser på dette nivået til én eller flere mottaker(e)", se [dette emnet](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="61710-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
+<span data-ttu-id="d2df0-103">Hvis du prøver å dele kalenderen din, og du får feilmeldingen, "policyen tillater ikke gis tillatelser på dette nivået til én eller flere mottaker(e)", se [dette emnet](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="d2df0-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
   
 

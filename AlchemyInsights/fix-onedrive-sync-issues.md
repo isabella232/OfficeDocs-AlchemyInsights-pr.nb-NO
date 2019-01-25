@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.openlocfilehash: 7944b3e426e88d3b961ee90e03e5d32359a5f5cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303617"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29481359"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="453c3-102">Løse synkroniseringsproblemer med OneDrive</span><span class="sxs-lookup"><span data-stu-id="453c3-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="702b0-102">Løse synkroniseringsproblemer med OneDrive</span><span class="sxs-lookup"><span data-stu-id="702b0-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="453c3-103">Hvis OneDrive ikke synkronisere filene slik du forventer, kan du [Feilsøke synkroniseringsfeil for OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="453c3-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="702b0-103">Hvis OneDrive ikke synkronisere filene slik du forventer, kan du [Feilsøke synkroniseringsfeil for OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="702b0-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 
