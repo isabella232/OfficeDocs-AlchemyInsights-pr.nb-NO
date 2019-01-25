@@ -13,17 +13,17 @@ ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: Mer enn 500 ord for en artikkel som mål.
 ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303334"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498167"
 ---
 Mer enn 500 ord for en artikkel som mål.
   
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Har en ansatt forlater og trenger å blokkere tilgang til data og e-post?
 
-Å gjøre dette:
+Hvis du vil gjøre dette
   
 1. Gå til [aktive brukere](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).
     
