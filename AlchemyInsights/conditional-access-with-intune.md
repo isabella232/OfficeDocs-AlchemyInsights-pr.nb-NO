@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302608"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482096"
 ---
 # <a name="conditional-access-with-intune"></a>Betinget tilgang med Intune
 
@@ -25,7 +25,7 @@ Ved hjelp av **Betinget tilgang** med Intune krever 3 trinn:
     
 - Å sørge for **Både samsvar policyer** og **Policyer** for betinget tilgang er rettet mot de ønskede gruppene av brukere. Dette kan kreve å opprette bestemte grupper av brukere i Active Directory-Azure. 
     
-Les mer:
+Les mer
   
 - [Rutiner for betinget tilgang](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     

@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303669"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482110"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Sette opp abonnementet nødvendigste på O365
 
 Opprette Office 365-kontoer og legge til domenet ditt
   
-- I dette trinnet kan du bruke veiviseren til å opprette Office 365-kontoer for brukere og legge til ditt eget domene. Veiviseren kan du tilpasse for alle bruker-ID, og e-post for bedriften, som [rob@contoso.com](mailto:rob@contoso.com).
+- I dette trinnet kan du bruke konfigurasjonsveiviseren til å opprette Office 365-kontoer for brukerne og legge til ditt eget domene. Veiviseren lar deg tilpasse alles bruker-ID og e-post for bedriften din, for eksempel jan@contoso.com.
     
 - Gå til [Administrasjonssenter for Office 365](https://login.partner.microsoftonline.cn/).
     
