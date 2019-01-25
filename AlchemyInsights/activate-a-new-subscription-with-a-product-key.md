@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
 ms.openlocfilehash: d5827be98ada15060542a624ec9840625057acf1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28302519"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499607"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Hvis du vil aktivere et nytt abonnement med en produktnøkkel
 
