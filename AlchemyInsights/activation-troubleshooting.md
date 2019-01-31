@@ -2,44 +2,28 @@
 title: Feilsøking i forbindelse med aktivering
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Start artikkelen din med en svært kort introduksjon (1-setning). Sett deg selv i leserens sted - Hvorfor er de her? Hva gjør de?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498275"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646968"
 ---
-Start artikkelen din med en svært kort introduksjon (1-setning). Sett deg selv i leserens sted - Hvorfor er de her? Hva gjør de? 
-  
-1. Få direkte til en rask oversikt over trinnene for å fullføre aktiviteten.
-    
-    Hvis du trenger å forklare et konsept, eller de har å gjøre nødvendige trinn, kan du legge til et raskt sammendrag under trinn der de trenger, og [koblingen](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) til konsept eller trinn. 
-    
-2. Hold prosedyrer kort - fortrinnsvis 5 eller færre trinn, ikke mer enn 8.
-    
-3. Bruk **stilen** for elementer i brukergrensesnittet eller tekst brukerne må skrive inn. 
-    
-4. Bruk verb velger du, velger, eller angi som handlinger og formatere menyer som **menyen** \> **kommandoen**.
-    
-5. Du kan også legge til et skjermbilde for konteksten (Hvis UI er vanskelig å finne, eller hvis det er nødvendig for å fullføre oppgaven).
-    
-    Maksimal bredde: 520 piksler. Bruke et tema som standard, ikke Vis personlig informasjon, og Beskjær for å vise bare det som er relevant. 
-    
-    ![Plassholder - maksimale bredden for Orb artikkelen art er 520 piksler](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Hvis du vil legge til en video eller skjermbilde, bruker et rutenett med to kolonner og har trinnene i venstre og video eller bilde av høyre - se [trinn og video rutenettet eksempel](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Mer enn 500 ord for en artikkel som mål.
-  
-# <a name="example-article"></a>Eksempel artikkelen
+# <a name="activation-troubleshooting"></a>Feilsøking i forbindelse med aktivering
 
-[Endre bildet](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+I **Kontrollpanel** \> **programmer og funksjoner**, Søk etter Office. Du bør se Microsoft Office 365 ProPlus eller Microsoft Office 365-Business. Hvis du ser mer enn én versjon av Office som er oppført, kan du avinstallere versjonen du ikke bruker. 
   
-
+Hvis du ikke kan avinstallere fullført ved hjelp av Kontrollpanel, bruke [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy) til å avinstallere versjonen du ikke bruker. 
+  
+Hvis Office er fortsatt ulisensiert, gå tilbake til **Kontrollpanel** \> **programmer og funksjoner**. Høyreklikk gjenværende Office-installasjonen, velger du **Endre** (eller endre), og velg deretter **Online reparasjon**. Online reparasjonen kan ta en stund. Deretter starter Office på nytt og logge på ved hjelp av arbeidet eller skolen-konto hvis du blir bedt om.
+  
+Hvis Office er fortsatt ulisensiert, laste ned og deretter kjøre [feilsøking for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) på den berørte maskinen til å løse aktiveringsproblemer med. 
+  
+Hvis du vil ha mer informasjon, se: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

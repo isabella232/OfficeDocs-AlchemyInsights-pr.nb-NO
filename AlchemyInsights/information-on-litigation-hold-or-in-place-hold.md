@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482192"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660140"
 ---
-- Hvis du vil bruke en rettstvist sperring eller på stedet holder til en postboks, en [Exchange Online planlegge 2 lisens](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) kreves. Hvis du har en annen Plan, kan du tilordne en egen lisens for [Exchange Online-arkivering](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
+- Hvis du vil bruke en rettstvist sperring eller på stedet holder til en postboks, en [Exchange Online planlegge 2 lisens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) kreves. Hvis du har en annen Plan, kan du tilordne en egen lisens for [Exchange Online-arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     
-- **Slik aktiverer du en rettstvist sperring** for en enkelt bruker, kan du følge fremgangsmåten [her](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når rettstvist sperring er aktivert, er alt innhold i postboksen satt på vent.
+- **Slik aktiverer du en rettstvist sperring** for en enkelt bruker, kan du følge fremgangsmåten [her](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når rettstvist sperring er aktivert, er alt innhold i postboksen satt på vent.
     
-- Hvis du vil bruke en **på stedet holder på enkelt brukere** eller en sperring **alle postbokser i hele organisasjonen**, kan du bruke oppbevaringspolicyer i Office 365-sikkerhet og overholdelse center ved å følge de trinnene disponerte [her](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- Hvis du vil bruke en **på stedet holder på enkelt brukere** eller en sperring **alle postbokser i hele organisasjonen**, kan du bruke oppbevaringspolicyer i Office 365-sikkerhet og overholdelse center ved å følge de trinnene disponerte [her](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > For hele organisasjonskartet oppbevaringspolicyer legges nye brukere automatisk til i sperringen. 
   
-- Hvis du vil vise eller søke i postboksinnholdet som er satt på vent, kan du bruke **eDiscovery Søk og eksport**. For informasjon om bruk av **eDiscovery Søk og eksport**, følger du den fremgangsmåten disponerte [her](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- Hvis du vil vise eller søke i postboksinnholdet som er satt på vent, kan du bruke **eDiscovery Søk og eksport**. For informasjon om bruk av **eDiscovery Søk og eksport**, følger du den fremgangsmåten disponerte [her](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

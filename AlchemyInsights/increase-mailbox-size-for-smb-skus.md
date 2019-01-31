@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482254"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660896"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Bryteren planlegger å øke størrelsen på postboksen
 
-Hvis størrelsen på postboksen er 50 GB, kan du øke størrelsen på postboksen til 100 GB ved å bytte til [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Her er fremgangsmåten for å bytte til en annen plan for Office 365:
+Hvis størrelsen på postboksen er 50 GB, kan du øke størrelsen på postboksen til 100 GB ved å bytte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er fremgangsmåten for å bytte til en annen plan for Office 365:
   
 1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) i Office 365-administrasjonssenteret, eller velg **Fakturering** \> **abonnementer**.
     

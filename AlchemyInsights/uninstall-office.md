@@ -2,37 +2,33 @@
 title: Avinstallere Office
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Fremgangsmåten nedenfor beskriver hvordan du avinstallerer Office fra en PC.
-ms.openlocfilehash: 04111e20f94d7c5c16d4e25c57f7ace9eac91d57
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9eecacd13793dbf1c788daed5a90ae6e44f84397
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481341"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646680"
 ---
-Fremgangsmåten nedenfor beskriver hvordan du avinstallerer Office fra en PC.
-  
 # <a name="uninstall-office"></a>Avinstallere Office
 
-1. Last ned og Installer [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy).
-    
-    > [!TIP]
-    > Avhengig av leseren, for å fullføre installasjonen for støtte og gjenoppretting av hjelperen, velger **Kjør** (i kanten), **Åpne** fra filen i nedre venstre hjørne (i krom), eller **Lagre filen** (i Firefox). Følg instruksjonene for å fullføre installasjonen. 
+Last ned og Installer [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-2. Velg versjonen du vil avinstallere, og velg **Neste** **avinstallere Office-produkter** . 
+1. Når du åpner, Velg versjonen du vil avinstallere, og velg **Neste** **avinstallere Office-produkter** . 
     
-3. Fortsette å gå gjennom skjermbilder og starte på nytt når du blir spurt.
+2. Fortsette å gå gjennom skjermbilder og starte på nytt når du blir spurt.
     
     Etter omstart åpner støtte og gjenoppretting hjelperen automatisk på nytt for å fullføre avinstallasjonsprosessen.
     
-4. Følg anvisningene, og installere Office på nytt eller Lukk hjelperen.
+3. Følg resten spørsmål og [installere Office på nytt](https://portal.office.com/OLS/MySoftware.aspx) eller Lukk hjelperen. 
     
-For en liste over andre Avinstaller alternativer, velger du [Avinstallerer Office fra en PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx).
+For en liste over andre Avinstaller alternativer, velger du [Avinstallerer Office fra en PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   
 

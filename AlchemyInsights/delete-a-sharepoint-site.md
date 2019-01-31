@@ -2,51 +2,30 @@
 title: Slette et SharePoint-område
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482155"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660025"
 ---
 # <a name="delete-a-sharepoint-site"></a>Slette et SharePoint-område
-
- **Slette områder som hører til en Office 365-gruppen:**
+ **Slette områder fra den nye SharePoint-administrasjonssenteret**
   
-Når brukere oppretter et nytt teamområde fra Hjemmeside for SharePoint (eller du kan opprette et nytt teamområde fra ny SharePoint admin center forhåndsvisning), opprettes det automatisk en tilsvarende Office 365-gruppen. Office 365-gruppen koblet team områder opprettes også når du oppretter en Office 365-gruppe eller en gruppe i Microsoft Teams. Hvis du vil slette et SharePoint-område som tilhører en gruppe for Office 365, må du slette selve Office 365-gruppen. 
+Hvis du vil slette et aktivt område, kan du gå til administrasjonssenteret gjeldende SharePoint, og klikk "Prøv det nå" øverst til høyre. Velg **aktive områder**, merker du området, og deretter velger du **Slett**. [Vise og gjenopprette slettede områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), merker du **slettet områder**. For mer informasjon, se [Administrere områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Gå til [grupper-siden i Office 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/groups).
+**Viktig:** Hvis området er en del av en oppbevaringspolicy, du kan ikke slette det til området er fjernet fra den [Sikkerhet &amp; kompatibilitet administrasjonssenteret](https://protection.office.com/?rfr=AdminCenter#/homepage). For mer informasjon, kan du se [Oversikt over policyer for dokumentoppbevaring](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Merk av ved siden av gruppen.
-  
-3. Velg **Slett**. 
-  
-Merk: Når du sletter en gruppe, det kan være en forsinkelse før området er fjernet fra SharePoint.
-  
- **Slett kommunikasjon eller klassisk områder:**
-  
-1. Gå til området.
-  
-2. Klikk den ** innstillinger ** (Tannhjul hjulet ikon) øverst til høyre. 
-  
-3. Klikk **Innstillinger for webområde**. Klikk **Slett dette området**under **Områdeinformasjon** eller **Områdehandlinger**, og klikk deretter **Slett**. 
-  
- **Slette en SharePoint-områdesamling:**
-  
-Slik sletter du en klassisk områdesamling:
-  
-1. I klassisk SharePoint administrasjonssenteret, på siden for samlinger, velger du **avmerkingsboksen** ved siden av områdesamlingen. 
-  
-2. Velg kategorien områdesamlinger **slette.**
-  
- **Slette et område ved et uhell?**
-  
-Se [Gjenopprett en slettet områdesamling](https://go.microsoft.com/fwlink/?linkid=867660).
+Tips:
+- Global administratorer og SharePoint-administratorer kan nå slette områder som hører til en **Office 365-gruppen**. Dette vil slette gruppen og alle dens ressurser, inkludert Outlook-postboksen og kalenderen, og team kanalene. For mer informasjon, kan du se [slette et SharePoint-område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Du kan gjenopprette slettede områder for 93 dager. Vær oppmerksom på at slettede grupper må gjenopprettes innen 30 dager. For mer informasjon, kan du se [vise og gjenopprette slettede områder](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- For å fullstendig fjerne et område med Powershell, kan du se eksemplet [Fjern-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) -cmdleten. 
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 6c7a31514515054da84d5e315b6ab55b39674374
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2623ac8a06b0fd277c04dd0ed7a800a56d30e2bb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481512"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659780"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Opprette eller legge til et e-postalias for en bruker
 
@@ -34,6 +34,6 @@ Du må opprette en e-postalias for en bruker eller legge til en ekstra e-postadr
     
     Vanligvis tar det ca. 30 minutter for det nye aliaset skal tre i kraft.
     
-    **For flere detaljer, se denne artikkelen:** [Legg til flere e-postaliaser til en bruker](https://support.office.com/article/https://support.office.com/en-US/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **For flere detaljer, se denne artikkelen:** [Legg til flere e-postaliaser til en bruker](https://support.office.com/article/https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
     
 

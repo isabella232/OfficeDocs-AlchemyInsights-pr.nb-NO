@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
-ms.openlocfilehash: 6f52183b7f0096b52a9967743551613c1b4e29d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9e2e4a6cd1ed23ff6a4471dd51f1f3705e86aea
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481713"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661076"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Feilsøke problemer med DEP-registrering i Microsoft Intune
 
@@ -22,10 +22,10 @@ Se gjennom ressursene som vises nedenfor for å løse problemet nå.
   
 1. Hvis DEP-enheten kan ikke registrere og MFA (multifaktorautentisering) er aktivert, deaktiverer du MFA. For øyeblikket støttes ikke MFA for DEP-registrering
     
-2. Bruke [Intune feilsøking Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til å diagnostisere og løse vanlige registrering-feil. Gå gjennom [dette dokumentet](https://docs.microsoft.com/en-us/intune/help-desk-operators) for mer informasjon. 
+2. Bruke [Intune feilsøking Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til å diagnostisere og løse vanlige registrering-feil. Gå gjennom [dette dokumentet](https://docs.microsoft.com/intune/help-desk-operators) for mer informasjon. 
     
-3. Se gjennom disse dokumentene for en liste over vanlige feil som hindrer registrering og løsninger for hver: [Troubleshooting guide](https://support.microsoft.com/en-us/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [feilsøking doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Se gjennom disse dokumentene for en liste over vanlige feil som hindrer registrering og løsninger for hver: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [feilsøking doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
     
-4. [Lær mer om programmet for registrering av enheten](https://docs.microsoft.com/en-us/intune/device-enrollment-program-enroll-ios).
+4. [Lær mer om programmet for registrering av enheten](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
     
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482000"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646392"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette områder som hører til en Office 365-gruppen:
 
@@ -30,7 +30,7 @@ Når brukere oppretter et nytt teamområde fra Hjemmeside for SharePoint (eller 
     
 Merk: Når du sletter en gruppe, det kan være en forsinkelse før området er fjernet fra SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Slett kommunikasjon eller klassisk områder:
+**Slett kommunikasjon eller klassisk områder:**
 
 1. Gå til området.
   
@@ -38,7 +38,7 @@ Merk: Når du sletter en gruppe, det kan være en forsinkelse før området er f
   
 3. Klikk **Innstillinger for webområde**. Klikk **Slett dette området**under **Områdeinformasjon** eller **Områdehandlinger**, og klikk deretter **Slett**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Slette en SharePoint-områdesamling:
+**Slette en SharePoint-områdesamling:**
 
 Slik sletter du en klassisk områdesamling:
   
@@ -46,7 +46,7 @@ Slik sletter du en klassisk områdesamling:
     
 2. Velg kategorien områdesamlinger **slette.**
     
-## <a name="deleted-a-site-by-accident"></a>Slette et område ved et uhell?
+**Slette et område ved et uhell?**
 
 Se [Gjenopprett en slettet områdesamling](https://go.microsoft.com/fwlink/?linkid=867660).
   
