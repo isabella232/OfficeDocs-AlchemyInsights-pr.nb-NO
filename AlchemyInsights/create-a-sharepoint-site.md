@@ -2,29 +2,25 @@
 title: Opprette et SharePoint-område
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481736"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657512"
 ---
 # <a name="create-a-sharepoint-site"></a>Opprette et SharePoint-område
 
-Hvis du vil behandle i administrasjonssenteret nye SharePoint-områder, kan du gå til administrasjonssenteret gjeldende SharePoint, klikk "Prøv det nå" øverst til høyre og velg aktive områder. Se for informasjon om den nye SharePoint-administrasjonssenteret [Komme i gang med den nye SharePoint-administrasjonssenteret.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Se [Behandle områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/manage-site-creation ) for alternativer for oppretting av område. Velg for å opprette et [Gruppeområde](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (som vil opprette en Office 365-gruppen) eller et [område for kommunikasjon](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Hvis du vil opprette et [Klassisk område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)eller et nytt teamområde som ikke inneholder en Office 365-gruppen, klikker du **andre alternativer**. 
   
-1. Klikk på Opprett 
-    
-2. Velg dette alternativet for å opprette et gruppeområde (som vil opprette en Office 365-gruppen) eller et område for kommunikasjon. Hvis du vil opprette et klassisk område eller et nytt teamområde som ikke inneholder en Office 365-gruppen, klikker du **andre alternativer**. For informasjon om de nye områdemalene, kan du se [opprette et teamområde i SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) og [opprette et område for kommunikasjon i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Merk:** Du kan ikke opprette et nytt område med samme URL-adressen for et eksisterende område. Hvis du slettet et område, og er som ønsker å bruke URL-adressen på nytt, er det mulig i området med URL-adressen du ønsker for å bruke finnes fortsatt i **slettet områder.** Klikk **Slettede områder**, merker du området som skal slettes, og velg **Slett** -knappen. 
-  
- **Merk:** Hvis du vil styre hvem som kan opprette områder, kan du se [Behandle områdeoppretting i SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Tips:
+- *Du kan ikke opprette et område med samme URL-adressen for et eksisterende område. Hvis du har slettet et område, og er som ønsker å bruke URL-adressen på nytt, er det mulig det slettede området fremdeles finnes under **områder slettet**. Slette områder, kan du se [slette et område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)til å behandle. For å fullstendig fjerne et område med Powershell, kan du se eksemplet [Fjern-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) -cmdleten.*
+- *Noen brukere kan ikke opprette et område. Se [Behandle områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Det er mulig, vises området sitter fast på **opprette** lengre tid enn forventet. Hvis det har gått mer enn 24 timer etter at du først så dette problemet, logger du deg en support billett. I mange tilfeller kan arbeider vi allerede med en løsning. Gi oss minst 24 timer å fullføre en løsning.*
