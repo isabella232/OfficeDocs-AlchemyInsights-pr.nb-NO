@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499535"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661796"
 ---
 # <a name="file-open-read-only"></a>Filen åpen i skrivebeskyttet modus
 
@@ -30,7 +30,7 @@ Du kan se i filegenskapene ved å høyreklikke filen og velge Egenskaper. Hvis d
   
  **Innholdet er i beskyttet visning**
   
-Filer fra Internett og andre potensielt usikre plasseringer kan inneholde virus, ormer og andre typer skadelig programvare som kan skade datamaskinen din. Dette er også ofte tilfellet med e-postvedlegg eller filer du har lastet ned. For å beskytte datamaskinen, er filer fra disse potensielt usikre plasseringer åpnet i beskyttet visning. Ved hjelp av beskyttet visning, kan du lese en fil og vise innholdet samtidig redusere risikoen. Hvis du vil ha mer informasjon om beskyttet visning og hvordan du endrer innstillingene, se denne artikkelen: [Hva er beskyttet visning?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Filer fra Internett og andre potensielt usikre plasseringer kan inneholde virus, ormer og andre typer skadelig programvare som kan skade datamaskinen din. Dette er også ofte tilfellet med e-postvedlegg eller filer du har lastet ned. For å beskytte datamaskinen, er filer fra disse potensielt usikre plasseringer åpnet i beskyttet visning. Ved hjelp av beskyttet visning, kan du lese en fil og vise innholdet samtidig redusere risikoen. Hvis du vil ha mer informasjon om beskyttet visning og hvordan du endrer innstillingene, se denne artikkelen: [Hva er beskyttet visning?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Er OneDrive full?**
   
@@ -38,7 +38,7 @@ Hvis filen er lagret på OneDrive og OneDrive lagringsplassen er full, kan du ik
   
  **Er Office aktivert?**
   
-Hvis Office ikke er aktivert, eller hvis abonnementet ditt har utløpt, kan du være i skrivebeskyttet modus for redusert funksjonalitet. Hvis du vil ha informasjon om hvordan du aktiverer Office, se: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Hvis Office ikke er aktivert, eller hvis abonnementet ditt har utløpt, kan du være i skrivebeskyttet modus for redusert funksjonalitet. Hvis du vil ha informasjon om hvordan du aktiverer Office, se: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Hvis alt annet mislykkes...**
   

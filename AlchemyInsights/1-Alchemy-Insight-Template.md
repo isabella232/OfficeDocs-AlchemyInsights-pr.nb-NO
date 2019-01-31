@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454223"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662939"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Nødvendige kunden motstående H1, H2 fungerer ikke
 Eksempeltekst blokker - Følg disse instruksjonene:
 
-1. Filene i mappen **AlchemyInsights** bør ha regel-ID og navn på regel fra [Alkymi partnerportal](https://alchemyportal.azurewebsites.net) i mane.
+1. Filene i mappen **AlchemyInsights** skal ha regel-ID og navn på regel fra [Alkymi partnerportal](https://alchemyportal.azurewebsites.net) i filnavnet.
     1. f.eks. ***976-How-to-enable-litigation-hold***
 1. Bruke metadata på toppen av denne filen som malen. Ikke noe annet er nødvendig.
 1. Naviger ned til delen i [Alkymi partnerportal](https://alchemyportal.azurewebsites.net) **kunden innsikt tittel:** og bruk som starter en peker for H1 tittelen for innsikt. 
@@ -34,3 +34,8 @@ Eksempeltekst blokker - Følg disse instruksjonene:
     1. Koblinger må alltid være enten **"koblinger til Web-område" / ekstern** eller **dyp-koblinger til grensesnittelementene**, ikke interne koblinger.
 
 Og dette er virkelig allerede litt for langt. Beste praksis er omtrent 400 tegn---
+
+Når innholdet er klar, drar du den til live grenen. Deretter kan du gå til [partnerportalen på Alkymi](https://alchemyportal.azurewebsites.net) og skriver inn filnavnet i feltet URL-adresse. Kontroller at innsikt gjennomgått og publisert sier "Ja", og klikk deretter Oppdateringsregelen. (Dette ser prettier i den nye versjonen av portalen - slippe snart.)
+
+![URL-adresse-feltet](media/for-content-team.PNG)
+

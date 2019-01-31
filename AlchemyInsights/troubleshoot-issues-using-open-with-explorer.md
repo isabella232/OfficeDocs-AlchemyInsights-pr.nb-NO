@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482203"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661760"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Løs problemer med åpne med Explorer
 
@@ -31,6 +31,6 @@ Løs vanlige problemer med å åpne et dokumentbibliotek i SharePoint eller OneD
 > [!NOTE]
 > Åpne et bibliotek i Filutforsker er nyttig hvis du skal kopiere eller flytte flere filer og mapper når, men hvis du vil arbeide regelmessig i biblioteket, anbefaler vi synkroniserer den. Hvis du vil feilsøke problemer med å åpne i File Explorer, kan du se [åpen i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). For informasjon om hvordan du definerer synkronisering, kan du se [Synkroniser SharePoint-filer med den nye OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Se [hvordan du bruker kommandoen "Åpne med Explorer" til å feilsøke problemer i SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) -artikkelen for mer informasjon. 
+Se [hvordan du bruker kommandoen "Åpne med Explorer" til å feilsøke problemer i SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) -artikkelen for mer informasjon. 
   
 
