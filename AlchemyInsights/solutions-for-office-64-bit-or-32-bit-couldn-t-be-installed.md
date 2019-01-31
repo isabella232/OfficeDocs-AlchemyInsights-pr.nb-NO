@@ -3,33 +3,42 @@ title: Løsninger for ' kunne ikke installeres Office (64-biters eller 32-biters
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: ffd6057f91a9c2fbee5835c8d4f7e6a6b95869e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6d2da7713fb73e069c73d0fe21993072e9adb988
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481257"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645384"
 ---
-<span data-ttu-id="040a1-102">"Office (64-biters eller 32-biters) kan ikke installeres</span><span class="sxs-lookup"><span data-stu-id="040a1-102">"Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="e9a01-102">Løsninger for "Office (64-biters eller 32-biters) ikke kan installeres</span><span class="sxs-lookup"><span data-stu-id="e9a01-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="040a1-103">Løsninger for "Office (64-biters eller 32-biters) ikke kan være installert"</span><span class="sxs-lookup"><span data-stu-id="040a1-103">Solutions for "Office (64-bit or 32-bit) couldn't be installed"</span></span>
 
-<span data-ttu-id="040a1-104">"Office (64-biters eller 32-biters) kan ikke installeres"-feil oppstår fordi du ikke kan blande 64-biters og 32-biters versjoner av Office.</span><span class="sxs-lookup"><span data-stu-id="040a1-104">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+
+<span data-ttu-id="e9a01-103">"Office (64-biters eller 32-biters) kan ikke installeres"-feil oppstår fordi du ikke kan blande 64-biters og 32-biters versjoner av Office.</span><span class="sxs-lookup"><span data-stu-id="e9a01-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="040a1-105">Hvis du vil rette opp denne feilen og bytte fra 32-biters til 64-biters, må du gjøre følgende i denne rekkefølgen.</span><span class="sxs-lookup"><span data-stu-id="040a1-105">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="e9a01-104">Hvis du vil rette opp denne feilen og bytte fra 32-biters til 64-biters, må du gjøre følgende i denne rekkefølgen.</span><span class="sxs-lookup"><span data-stu-id="e9a01-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="040a1-106">Gå til [Avinstallere Office fra en PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx) og følg fremgangsmåten for å avinstallere versjonen av Office (eller frittstående Office-program, for eksempel Visio- eller Project) du ikke vil ha.</span><span class="sxs-lookup"><span data-stu-id="040a1-106">Go to [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx) and follow the steps to uninstall the version of Office (or stand-alone Office application, such as Visio or Project) you don't want.</span></span> 
+1. <span data-ttu-id="e9a01-105">Last ned og Installer [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e9a01-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-2. <span data-ttu-id="040a1-p101">Installere 32-biters eller 64-biters versjonen av Office. Se [laste ned og installere eller installere Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA.aspx).</span><span class="sxs-lookup"><span data-stu-id="040a1-p101">Install the 32-bit or 64-bit version of Office. See [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA.aspx).</span></span>
+1. <span data-ttu-id="e9a01-106">Når du åpner, Velg versjonen du vil avinstallere, og velg **Neste** **avinstallere Office-produkter** .</span><span class="sxs-lookup"><span data-stu-id="e9a01-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-[<span data-ttu-id="040a1-109">"Office (64-biters eller 32-biters) kan ikke installeres" feil når du prøver å installere</span><span class="sxs-lookup"><span data-stu-id="040a1-109">"Office (64-bit or 32-bit) couldn't be installed" error when trying to install</span></span>](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA.aspx)
+2. <span data-ttu-id="e9a01-107">Fortsette å gå gjennom skjermbilder og starte på nytt når du blir spurt.</span><span class="sxs-lookup"><span data-stu-id="e9a01-107">Continue going through screens and restart your computer when prompted.</span></span>
+    
+    <span data-ttu-id="e9a01-108">Etter omstart åpner støtte og gjenoppretting hjelperen automatisk på nytt for å fullføre avinstallasjonsprosessen.</span><span class="sxs-lookup"><span data-stu-id="e9a01-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    
+3. <span data-ttu-id="e9a01-109">Følg gjenværende ledetekster, og [installere Office på nytt](https://portal.office.com/OLS/MySoftware.aspx) med riktig 32-biters eller 64-biters versjon.</span><span class="sxs-lookup"><span data-stu-id="e9a01-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span> 
+    
+    <span data-ttu-id="e9a01-110">Følg trinnene i [Installere Office på en PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e9a01-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+    
+<span data-ttu-id="e9a01-111">Hvis du vil ha mer informasjon, se ["Office (64-biters eller 32-biters) kan ikke installeres" feil når du prøver å installere](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e9a01-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
   
 
