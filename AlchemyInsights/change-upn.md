@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 0c4ccf9b3b1e1666430013b8f827b212688a73af
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656108"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759145"
 ---
 # <a name="change-a-users-email-address"></a>Endre en brukers e-postadresse
 
@@ -38,6 +38,6 @@ Det er enkelt å endre andres e-postadresse! Bare Følg disse trinnene:
     
 6. Velg **Lagre**, **lukke**, og du er ferdig!
     
-Var ikke så enkelt? For mer detaljer og trinn med skjermbilder, kan du sjekke ut denne artikkelen: [Endre brukernavn og e-postadresse i Office 365](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Var ikke så enkelt? For mer detaljer og trinn med skjermbilder, kan du sjekke ut denne artikkelen: [Endre brukernavn og e-postadresse i Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

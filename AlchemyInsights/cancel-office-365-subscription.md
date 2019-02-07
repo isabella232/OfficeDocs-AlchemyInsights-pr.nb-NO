@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 01900178c853e516bb1480af434db0735f2cb11b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656324"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759398"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Annullering av Office 365-abonnement?
 
@@ -24,10 +24,10 @@ Vi beklager å se deg gå, men her er alternativene til å avbryte abonnementet:
   
 - Hvis du er en prøveversjon kunde, er det ingenting å avbryte. Abonnementer på prøveversjonen utløper automatisk med mindre du har en betalingsmåte.
     
-- Hvis du har færre enn 25 tildelt lisenser, kan du avbryte abonnementet på Internett. Gå til [Fakturering](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) \> **abonnementer**, og deretter velger du **flere handlinger** \> **si opp abonnementet**.
+- Hvis du har færre enn 25 tildelt lisenser, kan du avbryte abonnementet på Internett. Gå til [Fakturering](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **abonnementer**, og deretter velger du **flere handlinger** \> **si opp abonnementet**.
     
 - Hvis du har mer enn 25 tildelt lisenser, kan du enten fjerne brukere før du har færre enn 25, eller bruke alternativet "La oss ringe deg" til å snakke med en kundestøttetekniker.
     
-- Hvis du vil ha mer informasjon om avbryter et abonnement, eller hvis du vil ha trinnvise instruksjoner, kan du se [avbryte Office 365 for bedrifter](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
+- Hvis du vil ha mer informasjon om avbryter et abonnement, eller hvis du vil ha trinnvise instruksjoner, kan du se [avbryte Office 365 for bedrifter](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).
     
 

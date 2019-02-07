@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
-ms.openlocfilehash: 15f6fc741adde2208093b2ff45e5594f5beabbe3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 279afd104d442bfd99a56ea1d17168a9b2a5cfea
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481479"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759649"
 ---
 # <a name="service-incident-in-progress"></a>Tjenesten hendelsen pågår
 
-Du kan bli påvirket av en service-hendelse eller sikkerhetsveiledning som for øyeblikket undersøkes. Du kan kontrollere den nyeste statusen ved å gå til siden [Tjenesten helse](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) . 
+Du kan bli påvirket av en service-hendelse eller sikkerhetsveiledning som for øyeblikket undersøkes. Du kan kontrollere den nyeste statusen ved å gå til siden [Tjenesten helse](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
   
 Av praktiske hensyn finner du et sammendrag av denne hendelsen nedenfor:
   
-> **Hendelsen nummer:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Hendelsen nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Påvirke beskrivelse: {ImpactDescription}
     

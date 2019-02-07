@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: 4082c39a3b2bfa7fc34bda963b83857670547547
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 576d4a0fbe80b804be9739479e53d94067debda8
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482029"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29760009"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Få en TenantAccessBlockedException-feil ved tilgang til e-post?
 
 Det finnes flere forskjellige grunner til hvorfor du kan få en feilmelding som sier at tilgang til din leier er blokkert. Hvis du vil løse problemet, kan du prøve følgende fremgangsmåte:
   
-- Kontroller at abonnementet er gyldig på siden [abonnementer](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) . 
+- Kontroller at abonnementet er gyldig på siden [abonnementer](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
     
-- Se siden [betaling](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/billoverview) etter siste Kontingent på kontoen din. 
+- Se siden [betaling](https://admin.microsoft.com/adminportal/home#/billoverview) etter siste Kontingent på kontoen din. 
     
 - Hvis kontoen din er i rekkefølge nå, men nylig har blitt endret, kan det ta litt tid før endringene overføres til alle servere. Forsøk igjen om noen minutter, og hvis problemet vedvarer, kontakter du oss.
     

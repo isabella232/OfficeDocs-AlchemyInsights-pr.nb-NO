@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657836"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759469"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sjekk e-post videresending av innstillingene for en postboks
 
@@ -30,6 +30,6 @@ Hvis du vil ha mer informasjon, kan du se [konfigurere e-post videresending i Of
   
 Hvis du vil sende instruksjoner til brukerne, slik at de kan konfigurere videresending av e-post på sin egen postboks, velger du dem til å [videresende e-post fra Office 365 til en annen e-postkonto ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Merk: du kan videresende til bare én e-postadresse. Hvis du trenger å sette opp videresending til en gruppe personer, kan du opprette en distribusjonsliste (under grupper), legge til brukere i den, og deretter konfigurere videresending til denne gruppen.
   
-Har du en ansatt forlater? Se [fjerne en tidligere ansatt fra Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for anbefalte trinn du bør ta. 
+Har du en ansatt forlater? Se [fjerne en tidligere ansatt fra Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for anbefalte trinn du bør ta. 
   
 
