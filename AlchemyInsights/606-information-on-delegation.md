@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482139"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770662"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Om representanter i Outlook og Outlook på weben
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Feilsøking i forbindelse med hjelp av Outlook og Outlook på weben
 
-Hvis du vil ha mer informasjon, ser du følgende emner:
-  
-- **Outlook**: [la noen andre til å behandle e-post og kalender](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook på weben**: [delegering av kalenderen i Outlook på weben for bedrifter](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Feilsøking i forbindelse med SaRA-verktøyet:**
 
+1. Laste ned og installere verktøyet for SaRA herfra
+1. Velg Outlook, og deretter "Jeg har problemer med Min kalender"
+1. La oss si Ja for maskin
+1. Legge til e-postadressen til den aktuelle brukeren
+1. Velg "Jeg har problemer med Representanttillatelser"
+1. På den neste ledeteksten, hvis du er personen som gir tillatelser, kan du angi e-postadressen til representanten. Hvis du mottok tillatelser og du er representanten, skriver du inn e-postadressen til personen som gav deg tillatelser.
+1. På den neste menyen, velg alternativet som passer din situasjon. 
+1. På den neste menyen, velg tillatelsesnivået.
+1. På dette stadiet, SaRA verktøyet utføre automatiserte sjekker og det gir deg mulig løsning eller alternativt gir diagnoseloggen som kan brukes for videre feilsøking.
+1. Du kan finne loggene i mappen SaRA resultatene på C:\Users\Username\AppData\Local\SaraResults
