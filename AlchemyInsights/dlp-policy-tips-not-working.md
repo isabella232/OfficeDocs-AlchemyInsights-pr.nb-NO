@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657769"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786743"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP Policy tips problemer
+
 Når du bruker **DLP-policyer**, kan brukere varsles om policybrudd på med **policyen tips**. Administratorer kan konfigurere policyen tips til å vise under testing DLP policyen eller når policyen ikke er i modus for full håndhevelse. 
   
 Tips om DLP-policy for sikkerhet og overholdelse midt i modus for full aktivering gjør følgende for å konfigurere policy:
