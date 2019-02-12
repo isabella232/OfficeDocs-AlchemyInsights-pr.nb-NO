@@ -7,21 +7,21 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e6af15bb29c6808acab3169ffbc5f4820e258a26
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ca4b234cfd7268d43ce7b21a3e06f27ce40c1e51
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29654496"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905697"
 ---
-# <a name="proxyaddress-incorrect"></a><span data-ttu-id="6195f-102">ProxyAddress feil</span><span class="sxs-lookup"><span data-stu-id="6195f-102">ProxyAddress incorrect</span></span>
+# <a name="proxyaddress-incorrect"></a><span data-ttu-id="81210-102">ProxyAddress feil</span><span class="sxs-lookup"><span data-stu-id="81210-102">ProxyAddress incorrect</span></span>
 
-<span data-ttu-id="6195f-p101">Når et objekt er synkronisert til Azure AD, verdiene som er angitt i attributtet physicalDeliveryOfficeName i Active Directory er sammenlignet med Azure AD-regler, og deretter physicalDeliveryOfficeName-attributtet fylles i Azure AD. Derfor kan verdiene for physicalDeliveryOfficeName-attributtet for objektet i Active Directory ikke være de samme verdiene for physicalDeliveryOfficeName-attributtet i Azure AD.</span><span class="sxs-lookup"><span data-stu-id="6195f-p101">When an object is synchronized to Azure AD, the values that are specified in the proxyAddresses attribute in Active Directory are compared with Azure AD rules, and then the proxyAddresses attribute is populated in Azure AD. Therefore, the values of the proxyAddresses attribute for the object in Active Directory may not be the same as the values of the proxyAddresses attribute in Azure AD.</span></span>
+<span data-ttu-id="81210-p101">Når et objekt er synkronisert til Azure AD, verdiene som er angitt i attributtet physicalDeliveryOfficeName i Active Directory er sammenlignet med Azure AD-regler, og deretter physicalDeliveryOfficeName-attributtet fylles i Azure AD. Derfor kan verdiene for physicalDeliveryOfficeName-attributtet for objektet i Active Directory ikke være de samme verdiene for physicalDeliveryOfficeName-attributtet i Azure AD.</span><span class="sxs-lookup"><span data-stu-id="81210-p101">When an object is synchronized to Azure AD, the values that are specified in the proxyAddresses attribute in Active Directory are compared with Azure AD rules, and then the proxyAddresses attribute is populated in Azure AD. Therefore, the values of the proxyAddresses attribute for the object in Active Directory may not be the same as the values of the proxyAddresses attribute in Azure AD.</span></span>
   
-<span data-ttu-id="6195f-105">Hvis du vil vite mer om hvordan du proxyaddress er fylt ut, kan du se [hvordan proxyAddress-attributtet fylles ut i Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span><span class="sxs-lookup"><span data-stu-id="6195f-105">To learn more about how the proxyaddress is populated, see [How the proxyAddress attribute is populated in Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span></span>
+<span data-ttu-id="81210-105">Hvis du vil vite mer om hvordan du proxyaddress er fylt ut, kan du se [hvordan proxyAddress-attributtet fylles ut i Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span><span class="sxs-lookup"><span data-stu-id="81210-105">To learn more about how the proxyaddress is populated, see [How the proxyAddress attribute is populated in Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span></span>
   
 
