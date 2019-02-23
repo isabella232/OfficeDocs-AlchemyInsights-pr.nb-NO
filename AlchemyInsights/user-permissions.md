@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941121"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209854"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Brukertillatelser i SharePoint og OneDrive
 
 Hvis en bruker i organisasjonen ikke får tilgang til SharePoint- eller OneDrive, må du kontrolle at vedkommende har en lisens som inkluderer SharePoint og OneDrive. 
   
-1. Gå til [siden aktive brukere i administrasjonssenteret for Office 365](https://portal.office.com/adminportal/home#/users) , og velg brukeren. 
+1. Gå til [siden aktive brukere i administrasjonssenteret for Microsoft 365](https://portal.office.com/adminportal/home#/users) og velg brukeren. 
     
 2. Kontroller at under **produktlisenser**en lisens tilordnes og **SharePoint Online** er valgt. 
     

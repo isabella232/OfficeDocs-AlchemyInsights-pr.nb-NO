@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898245"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209386"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Legge til en gruppe på et SharePoint-område
 
@@ -24,7 +24,7 @@ Noen SharePoint-gruppeområder (inkludert de som er opprettet i Microsoft Teams)
   
 Behandle Office 365 gruppemedlemmer:
   
-1. Gå til [grupper-siden i Office 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/groups).
+1. Gå til [grupper-siden i Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/groups).
     
 2. Velg en gruppe for å se eiere og medlemmer. Hvis du vil legge til eller fjerne brukere, klikker du koblingen **Rediger** i raden **eiere** eller **medlemmer** . 
     
