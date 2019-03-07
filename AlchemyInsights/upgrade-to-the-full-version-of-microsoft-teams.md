@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904869"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468996"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Oppgradere til den fullstendige versjonen av Microsoft Teams
 
-Du kan oppgradere fra Microsoft Teams (gratis) til den fullstendige versjonen av Microsoft Teams når du er klar.
-  
-Den beste måten å starte oppgraderingen er å klikke **La oss ringe deg** nedenfor. 
-  
-Støtte-agenten kontakter du Hjelp og du velger en Office 365-plan, angi kontakt- og informasjon om, velg organisasjonskart domenenavnet og oppgradere medlem-listen.
-  
+Trenger du å oppgradere fra en gratis til den fullstendige versjonen av Microsoft Teams? Se [Oppgradere Microsoft Team gratis versjonen av Office 365-abonnement](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Du må oppfylle disse kravene:
+- Du er personen som er registrert for den gjeldende versjonen av grupper.
+- Hvis du har ditt eget domene, kan ikke den allerede være knyttet til Azure Active Directory.
+- Hvis du vil overføre data når du oppgraderer, må du abonnere på under oppgraderingsprosessen. Hvis du kjøpte Office 365 utenfor oppgraderingen, kan du overføre data.
+
 

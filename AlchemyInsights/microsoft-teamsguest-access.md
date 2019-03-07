@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941589"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468492"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Team - gjestetilgang
 
+Trenger du Hjelp for å slå på og konfigurere funksjonen gjestetilgang i Microsoft Teams?
 
-Hvis du må aktivere eller konfigurere Access Gjesterollen i Microsoft-Teams, har vi en trinnvis instruksjon guide for deg: [Sjekkliste for gjest-tilgang](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Du må kanskje vente i opptil 24 timer for Team konfigurasjonsendringene skal tre i kraft.
-  
+Her er hva du må gjøre:
+
+1. Godkjenne gjestetilgang.
+1. Legge til gjestebrukere i gruppen.
+1. Definere gjester brukertillatelser.
+
+Hvis du vil ha mer informasjon, inkludert hvordan videoer, kan du se [gjestetilgang i Microsoft Team](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
