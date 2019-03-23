@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917865"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754443"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Dele filer i OneDrive med personer utenfor organisasjonen
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917865"
   - **Bestemte personer** får tilgang bare til personer du angir, selv om andre allerede har tilgang. Hvis personer videresender delingsinvitasjonen, vil bare personer som allerede har tilgang til elementet kunne bruke koblingen. 
     
     > [!NOTE]
-    > Hvis ett av disse alternativene ikke er tilgjengelig, eller hvis du vil bruke en annen koblingstype skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til administrasjonssenteret OneDrive og velge **Deling** i den venstre ruten. [Lær mer](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Hvis ett av disse alternativene ikke er tilgjengelig, eller hvis du vil bruke en annen koblingstype skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til administrasjonssenteret OneDrive og velge **Deling** i den venstre ruten. [få mer informasjon](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Som standard, Tillat redigering** er aktivert. Hvis du vil at brukere bare kan vise filene, fjerner du merket for. 
     

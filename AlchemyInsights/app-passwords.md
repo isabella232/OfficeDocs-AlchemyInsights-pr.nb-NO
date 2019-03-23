@@ -1,39 +1,37 @@
 ---
-title: App-passord
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app-passord
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938241"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762541"
 ---
 # <a name="app-passwords"></a>App-passord
 
-Et passord for app er en kode som gir et program eller enhet tillatelse til å få tilgang til Office 365-kontoen. Hvis administrator har aktivert multifaktorautentisering for organisasjonen, og du bruker programmer som kobler til Office 365-kontoen, må du generere et passord for app slik at programmet kan koble til Office 365. Hvis du bruker Outlook-2016 eller tidligere med Office 365, må du for eksempel opprette et passord for programmet.
+Et passord for app er en kode som gir et program eller enhet tillatelse til å få tilgang til Office 365-arbeid eller skolen konto. Hvis kontoen din krever multifaktorautentisering (MFA), og programmet kobler til kontoen din, må du generere et passord for app slik at programmet kan koble til Office 365. For eksempel 2016 for Outlook og Outlook av kreve et passord for app tidligere versjoner.
   
-1. Kontroller om Office 365-administrator har aktivert multifaktorautentisering for kontoen. Hvis de ikke har, når du prøver å utføre disse trinnene vil du ikke se alternativene i Office 365.
+ **Merknad**: før du prøver fremgangsmåten, kontroller med Office 365-admin at MFA kreves for kontoen din. Hvis ikke, kan alternativene som er beskrevet i trinnene ikke tilgjengelige for deg.
+  
+1. Logge på Office 365 med ditt arbeid eller skole konto og passord.
     
-2. Logg på Office 365 med arbeid eller et skoleprosjekt kontoen med passordet som du vanligvis gjør. Når du velger å **logge på**, ser du en side med ditt brukernavn og noen alternativer 
+2. Velg **konfigurere den nå**.
     
-3. Velg **konfigurere den nå**. 
+3. Velg metode for nettverksgodkjenning og følg instruksjonene.
     
-4. Velg metode for nettverksgodkjenning, og følg deretter instruksjonene på siden.
+4. Når du har bekreftet den alternative kontaktmåte, velger du **Neste**.
     
-5. Når du har bekreftet den alternative kontaktmåte, velger du **Neste**. 
-    
-6. Du får en app passord som du kan bruke med Outlook, Apple Mail, osv. Velg ikonet kopi kopiere passordet til utklippstavlen. Du trenger ikke å huske dette passordet. 
-    
-7. Når du legger til i Office 365-e-postkonto i Outlook (eller et annet program), og du blir bedt om et passord, forbi denne app passordet i passord-boksen i stedet for å skrive inn passordet for kontoen. 
+5. Du får en app passord som du kan bruke med Outlook, Apple Mail og andre programmer som trenger den. Velg **Kopier** til å kopiere passordet slik at du kan lime den inn et annet sted (du ikke trenger å huske det). 
     
 

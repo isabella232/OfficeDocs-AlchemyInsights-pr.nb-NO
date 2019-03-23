@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: 6e4ce2a604ebee4d80a8625f45d6d4eab323d63d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924669"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753399"
 ---
 # <a name="pay-by-invoice"></a>Betale med faktura
 
 Hvis Office 365-abonnementet ditt koster mer enn et bestemt beløp (dette beløpet varierer etter tjenestested), vil du ha muligheten til å betale med faktura ved bruk av bankoverføring eller sjekk. Det kan være nødvendig med kredittvurdering for betaling av større fakturaer. Hvis en kredittvurdering kreves, blir du varslet når du kjøper abonnementet. Hvis du har valgt å bli kontaktet, får du også en e-postmelding som inneholder mer informasjon om søke om kredittgodkjenning. Kredittsjekker fullføres som regel innen to arbeidsdager.
   
-Hvis du betaler fakturaen for abonnementet, får du en e-post som sier at kontoutdraget er klar til å vise. Denne e-postmeldingen inneholder ikke en kopi av din kontoutdraget. Du kan imidlertid også velge å [motta en kopi av din kontoutdraget i e-post](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Din kontoutdraget inneholder opplysninger om hvordan du foretar en betaling. Hvis du angir et bestillingsnummer (PO) når du kjøper et abonnement, vises nummeret på din kontoutdraget. Hvis du vil ha informasjon om tilgang til betalingskontoen setningene, kan du se [vise regningen eller fakturaen for Office 365 for bedrifter](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
+Hvis du betaler for abonnementet med faktura, får du en e-postmelding om at fakturaoversikten er tilgjengelig. Denne e-postmeldingen inneholder ikke en kopi av fakturaoversikten. Du kan imidlertid også velge å [motta en kopi av din kontoutdraget i e-post](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Fakturaoversikten inkluderer detaljer om betalingsalternativene. Hvis du angir et kjøpsordrenummer (PO-nummer) når du kjøper et abonnement, vises nummeret på fakturaoversikten. Hvis du vil ha informasjon om hvordan du får tilgang til fakturaoversiktene, kan du se [Vise fakturaen for Office 365 for bedrifter](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
   
 Hvis du vil vite mer om betaling av faktura, kan du se [Betal for business Office 365-abonnementet](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
