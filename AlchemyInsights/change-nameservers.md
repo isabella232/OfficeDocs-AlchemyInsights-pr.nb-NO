@@ -1,5 +1,5 @@
 ---
-title: Endre NameServers
+title: Endre navneservere
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405332"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754695"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserverne for domenet til Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserveren for domenet til Office 365
 
-Merk: Nameserver endringer kan ta opptil 48 timer å overføre.
+Obs! Noen ganger kan det ta opptil 48 timer før endringer i navneserverne overføres.
   
 Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet i Office 365. Opprette eller redigere navneserverpostene hos domeneregistratoren.
   
@@ -28,9 +28,9 @@ Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet 
     
 2. Opprett eller rediger to navneserverposter slik at de samsvarer med disse verdiene:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Lagre endringer.
     
