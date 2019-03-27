@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11492c6c9430dc4c67a1492fc22a4a98e5d38767
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938756"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766789"
 ---
-# <a name="billing-cycle-credit-card"></a><span data-ttu-id="b3d38-102">Fakturering syklus kredittkort</span><span class="sxs-lookup"><span data-stu-id="b3d38-102">Billing cycle credit card</span></span>
+# <a name="billing-cycle-credit-card"></a><span data-ttu-id="a45d0-102">Fakturering syklus kredittkort</span><span class="sxs-lookup"><span data-stu-id="a45d0-102">Billing cycle credit card</span></span>
 
-<span data-ttu-id="b3d38-p101">Når du kjøper et Office 365 for business abonnementet direkte fra Microsoft, kan du betale med et kreditt eller debet kort. I noen land eller regioner, kan du også betale med en bankkonto.</span><span class="sxs-lookup"><span data-stu-id="b3d38-p101">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card. In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="a45d0-103">Når du kjøper et Office 365 for business abonnementet direkte fra Microsoft, kan du betale med et kreditt eller debet kort.</span><span class="sxs-lookup"><span data-stu-id="a45d0-103">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="a45d0-104">I noen land eller regioner, kan du også betale med en bankkonto.</span><span class="sxs-lookup"><span data-stu-id="a45d0-104">In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="b3d38-105">Hvis du velger å bruke et kredittkort som betalingsmåten, kan du lære hvordan du håndterer og feilsøke fra å [legge til, oppdatere, eller fjerne et kredittkort eller bankkonto i Office 365 for bedrifter](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="b3d38-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
+<span data-ttu-id="a45d0-105">Hvis du velger å bruke et kredittkort som betalingsmåten, kan du lære hvordan du håndterer og feilsøke fra å [legge til, oppdatere, eller fjerne et kredittkort eller bankkonto i Office 365 for bedrifter](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="a45d0-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
   
-<span data-ttu-id="b3d38-106">Dette inkluderer å løse problemer når kredittkortet ble avslått og endre kredittkortinformasjonen slik at kortet er godtatt.</span><span class="sxs-lookup"><span data-stu-id="b3d38-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="a45d0-106">Dette inkluderer å løse problemer når kredittkortet ble avslått og endre kredittkortinformasjonen slik at kortet er godtatt.</span><span class="sxs-lookup"><span data-stu-id="a45d0-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
   
 
