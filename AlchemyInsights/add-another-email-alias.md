@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208018"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767329"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Opprette eller legge til et e-postalias for en bruker
 
@@ -28,7 +28,7 @@ Du må opprette en e-postalias for en bruker eller legge til en ekstra e-postadr
     
 3. Velg **Rediger** til høyre i **Brukernavn/e-postaliaser**-raden.
     
-4. I **Alias** -boksen skriver du inn en ny e-post, og velg deretter **Legg til**. Hvis du kjøpte abonnementet fra GoDaddy eller en annen Partner, for å angi det nye aliaset som primært, må du gå til administrasjonskonsollen GoDaddy/partner. 
+4. I **Alias** -boksen skriver du inn en ny e-post, og velg deretter **Legg til**. Hvis du kjøpte abonnementet fra GoDaddy eller en annen partner, må du gå til administrasjonskonsollen for GoDaddy/partner for å angi det nye aliaset som hovedalias. 
     
     **VIKTIG!**: Hvis du får feilmeldingen « **Et parameter som samsvarer med parameternavn «EmailAddresses», finnes ikke**», betyr det at det tar litt lengre tid for Office 365 å fullføre konfigurasjonen av leieren eller det egendefinerte domenet hvis du nylig har lagt det til. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
     

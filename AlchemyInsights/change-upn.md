@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208450"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767041"
 ---
 # <a name="change-a-users-email-address"></a>Endre en brukers e-postadresse
 
@@ -30,11 +30,11 @@ Det er enkelt å endre andres e-postadresse! Bare Følg disse trinnene:
     
 4. I **Alias** -boksen skriver du inn en ny e-post, og velg deretter **Legg til**.
     
-    **Viktig**: Hvis du får feilmeldingen " **en parameter ikke blir funnet som samsvarer med parameternavnet ' EmailAddresses**" betyr det at det tar litt lengre tid for Office 365 for å konfigurere din leier eller ditt egendefinerte domene Hvis du nylig har lagt til en . Denne prosessen kan ta opptil 4 timer å fullføre. Vent en stund slik at installasjonen har tid til å fullføre, og prøv deretter på nytt. Hvis problemet vedvarer, kontakt Support og de vil gjøre en fullstendig synkronisering for deg.
+    **VIKTIG!**: Hvis du får feilmeldingen « **Et parameter som samsvarer med parameternavn «EmailAddresses», finnes ikke**», betyr det at det tar litt lengre tid for Office 365 å fullføre konfigurasjonen av leieren eller det egendefinerte domenet hvis du nylig har lagt det til. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv deretter på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
     
     Hvis du får feilmeldingen " **Vi beklager, men brukeren ikke kan redigeres. Se gjennom informasjon om bruker og prøv på nytt**"betyr det at du ikke er en global administrator for Office 365, og du ikke har tillatelse til å endre navnet på brukeren.
     
-5. Velg **Angi som primær** for e-postadressen du vil angi som den primære e-postadressen for denne personen. Hvis du kjøpte abonnementet fra GoDaddy, må du logge på til sine administrasjonskonsollen til å angi den primære e-postadressen. 
+5. Velg **Angi som primær** for e-postadressen du vil angi som primær e-postadresse for denne personen. Hvis du kjøpte abonnementet fra GoDaddy, må du logge på til sine administrasjonskonsollen til å angi den primære e-postadressen. 
     
 6. Velg **Lagre**, **lukke**, og du er ferdig!
     
