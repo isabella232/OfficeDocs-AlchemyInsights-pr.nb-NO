@@ -37,8 +37,8 @@
 | 3/4/2019 | [Overføre e-post fra IMAP](/AlchemyInsights/migrate-email-from-imap) | endret |
 | 3/4/2019 | [Betalingsalternativer](/AlchemyInsights/payment-options) | endret |
 | 3/4/2019 | [Hva du bør gjøre hvis en konto er utsatt](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | endret |
-| 3/4/2019 | [Avsender blokkert for søppelpost for mye](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | endret |
-| 3/4/2019 | [Sende forespørsler om Dynamics 365-støtte](/AlchemyInsights/submit-dynamics-365-support-requests) | endret |
+| 3/4/2019 | [Avsender er blokkert fordi vedkommende sender for mye søppelpost](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | endret |
+| 3/4/2019 | [Send inn støtteforespørsler for Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | endret |
 | 3/4/2019 | [Domenet er allerede i bruk](/AlchemyInsights/the-domain-is-already-in-use) | endret |
 | 3/4/2019 | [Problemer med å fullføre et kjøp på Office 365-portalen](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | endret |
 | 3/4/2019 | [Oppdatere DNS-poster](/AlchemyInsights/update-dns-records-0) | endret |
@@ -56,7 +56,7 @@
 | 3/6/2019 | [Har du legitime meldinger merkes som søppelpost?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | endret |
 | 3/6/2019 | [Aktiver Microsoft Team](/AlchemyInsights/enable-microsoft-teams) | endret |
 | 3/6/2019 | [Har du aktivert Team for studenter?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | endret |
-| 3/6/2019 | [Hvordan du aktiverer et abonnement](/AlchemyInsights/how-to-reactivate-a-subscription) | endret |
+| 3/6/2019 | [Slik aktiverer du et abonnement på nytt](/AlchemyInsights/how-to-reactivate-a-subscription) | endret |
 | 3/6/2019 | Intune App distribusjon - regel-IDen 991 | fjernet |
 | 3/6/2019 | [Problemet med Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | endret |
 | 3/6/2019 | [Microsoft Team - gjestetilgang](/AlchemyInsights/microsoft-teamsguest-access) | endret |
@@ -329,7 +329,7 @@
 | 3/22/2019 | [Hvordan kjøpe Office 365 for ikke-fortjeneste](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | endret |
 | 3/22/2019 | [Hvordan kjøpe Office 365 for ikke-fortjeneste](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | endret |
 | 3/22/2019 | [Hvordan kjøpe Office 365 for ikke-fortjeneste](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | endret |
-| 3/22/2019 | [Hvordan du aktiverer et abonnement](/AlchemyInsights/how-to-reactivate-a-subscription) | endret |
+| 3/22/2019 | [Slik aktiverer du et abonnement på nytt](/AlchemyInsights/how-to-reactivate-a-subscription) | endret |
 | 3/22/2019 | [Å reaktivere og administrere fornyelse](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | endret |
 | 3/22/2019 | [8000033 hvordan du svarer på eller videresende meldinger i Outlook.com-beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | nytt navn |
 | 3/22/2019 | [8000063 hvordan du høyreklikker på en Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | nytt navn |
@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-Perform-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | nytt navn |
 
 
-## <a name="week-of-february-18-2019"></a>Uke 18 februar 2019
+## <a name="week-of-march-25-2019"></a>Uke 25. mars 2019
 
 
 | Publisert på |Emnetittel | Endre |
 |------|------------|--------|
-| 2/19/2019 | [Fikk feilmeldingen 'Finner ikke parameteren'?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | endret |
-| 2/19/2019 | [Flytt e-post til Office 365](/AlchemyInsights/move-email-to-office-365) | endret |
-| 2/19/2019 | [Gjenopprette slettede postboksen](/AlchemyInsights/restore-deleted-mailbox) | endret |
-| 21/2/2019 | [Slik installerer du Office for Mac fra portal](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | nytt navn |
-| 2/22/2019 | [1048 5.7.750 tjenesten er ikke tilgjengelig. Klienten som er blokkert fra å sende fra uregistrerte domener](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | endret |
-| 2/22/2019 | [125 komme en ugyldig Lisensfeil i Outlook på weben?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | endret |
-| 2/22/2019 | [126 komme en postboks ikke blir funnet feil i OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | endret |
-| 2/22/2019 | [127 får feilmeldingen TenantAccessBlockedException når du får tilgang til e-post?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | endret |
-| 2/22/2019 | [128 får feilmeldingen TenantAccessBlockedException når du får tilgang til e-post?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | endret |
-| 2/22/2019 | [Opprette en distribusjonsliste eller 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | endret |
-| 2/22/2019 | [912 Konfigurer Focused innboks for alle i organisasjonen](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | endret |
-| 2/22/2019 | [Fjerne domenet](/AlchemyInsights/remove-domain) | endret |
-| 2/22/2019 | [Legge til en gruppe på et SharePoint-område](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | endret |
-| 2/22/2019 | [Legge til en annen e-postalias](/AlchemyInsights/add-another-email-alias) | endret |
-| 2/22/2019 | [Legge til kontakter i O365 gruppe](/AlchemyInsights/add-contacts-to-o365-group) | endret |
-| 2/22/2019 | [Endre UPN](/AlchemyInsights/change-upn) | endret |
-| 2/22/2019 | [Hvis du endrer tillatelser for fellesmapper](/AlchemyInsights/changing-public-folder-permissions) | endret |
-| 2/22/2019 | [Hvis du endrer delt postboks-Send som-virkemåten](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | endret |
-| 2/22/2019 | [Kontroller synkroniseringsstatus for AAD identitet](/AlchemyInsights/check-aad-identity-sync-status) | endret |
-| 2/22/2019 | [Sammenligne Office 365-planer](/AlchemyInsights/compare-office-365-plans) | endret |
-| 2/22/2019 | [Opprette et klassisk område](/AlchemyInsights/create-a-classic-site) | endret |
-| 2/22/2019 | [Opprette et område i SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | endret |
-| 2/22/2019 | [Opprette fellesmapper](/AlchemyInsights/creating-public-folders) | endret |
-| 2/22/2019 | [Slette et SharePoint-område](/AlchemyInsights/delete-a-sharepoint-site-0) | endret |
-| 2/22/2019 | [Gi brukere tilgang til SharePoint- og OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | endret |
-| 2/22/2019 | [Fikk feilmeldingen 'Finner ikke parameteren'?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | endret |
-| 2/22/2019 | [Har du problemer med e-levering?](/AlchemyInsights/having-email-delivery-issues-0) | endret |
-| 2/22/2019 | [Har du problemer med e-levering?](/AlchemyInsights/having-email-delivery-issues) | endret |
-| 2/22/2019 | [Har du problemer med å få Outlook til å koble?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | endret |
-| 2/22/2019 | [Har du problemer med å få Outlook til å koble?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | endret |
-| 2/22/2019 | [Tilordne lisenser for Office for Mac-brukere](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | endret |
-| 2/22/2019 | [Hvordan å kjøpe lisenser for business Office 365-abonnementet](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | endret |
-| 2/22/2019 | [Hvordan du øker lagring i OneDrive for bedrifter](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | endret |
-| 2/22/2019 | [Hvordan du aktiverer et abonnement](/AlchemyInsights/how-to-reactivate-a-subscription) | endret |
-| 2/22/2019 | [Øke størrelsen på postboksen for Enterprise-SKUer](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | endret |
-| 2/22/2019 | [Øke størrelsen på postboksen for SMB-SKUer](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | endret |
-| 2/22/2019 | [Øke størrelsen på postboksen](/AlchemyInsights/increase-mailbox-size) | endret |
-| 2/22/2019 | [Problemet med Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | endret |
-| 2/22/2019 | [Administrere synkroniserte kontoer](/AlchemyInsights/manage-synchronized-user-accounts) | endret |
-| 2/22/2019 | [Overvåke bruk av OneDrive og SharePoint og aktivitet](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | endret |
-| 2/22/2019 | [Slik aktiverer du et abonnement](/AlchemyInsights/reactivate-a-subscription) | endret |
-| 2/22/2019 | [Gjenopprette en slettet OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | endret |
-| 2/22/2019 | [Gjenopprett en Office 365-gruppe ved hjelp av Exchange-administrasjonssenteret](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | endret |
-| 2/22/2019 | [Sette opp abonnementet nødvendigste på O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | endret |
-| 2/22/2019 | [Deling med eksterne brukere fungerer ikke](/AlchemyInsights/sharing-with-external-users-isn-t-working) | endret |
-| 2/22/2019 | [Prøver å finne en prøveversjon?](/AlchemyInsights/trying-to-find-a-trial) | endret |
-| 2/22/2019 | [Aktiver ekstern deling på eller av for SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | endret |
-| 2/22/2019 | [Aktiver ekstern deling på eller av for SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | endret |
-| 2/22/2019 | [Brukertillatelser](/AlchemyInsights/user-permissions) | endret |
-| 2/22/2019 | [Når fakturaen genereres?](/AlchemyInsights/when-is-the-billing-statement-generated) | endret |
-| 2/22/2019 | [Slik kontrollerer du domenet med Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | endret |
+| 25/3/2019 | [Outlook.com endre språk](/AlchemyInsights/outlook-com-change-language) | endret |
+| 27/3/2019 | [Slette et SharePoint-område](/AlchemyInsights/delete-a-sharepoint-site) | endret |
+| 3/28/2019 | Begrense SharePoint Online til klassisk modus | lagt til |
+| 3/28/2019 | [Kan ikke legge til standard godkjenningsarbeidsflyt i 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | endret |
+| 3/28/2019 | [Begrense SharePoint Online til klassisk modus](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | nytt navn |
 
 
 ## <a name="week-of-february-25-2019"></a>Uke 25 februar 2019
