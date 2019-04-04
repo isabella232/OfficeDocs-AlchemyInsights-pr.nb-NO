@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907749"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397015"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="22014-102">550 5.7.705 tilgang, leier har overskredet terskelen</span><span class="sxs-lookup"><span data-stu-id="22014-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="2fc97-102">550 5.7.705 tilgang, leier har overskredet terskelen</span><span class="sxs-lookup"><span data-stu-id="2fc97-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="22014-p101">Denne meldingen vises når for mye spam eller bulk e-post som er sendt av Office 365-organisasjon. Hvis du vil fjerne denne blokken, må du forstå og forklare årsaken til en agent for støtte, i tillegg til å løse det underliggende problemet.</span><span class="sxs-lookup"><span data-stu-id="22014-p101">This message occurs when too much spam or bulk mail has been sent by your Office 365 organization. To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-  
+<span data-ttu-id="2fc97-103">Denne meldingen vises når for mye spam eller bulk e-post som er sendt av din organisasjon og vi plassere en blokk på utgående e-post.</span><span class="sxs-lookup"><span data-stu-id="2fc97-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="2fc97-104">Vanlige årsaker kan være utsatt lokale servere eller utsatt admin kontoer som har blitt brukt til å opprette koblinger.</span><span class="sxs-lookup"><span data-stu-id="2fc97-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="2fc97-105">En av betingelsene kan tillate at spam kan passere gjennom organisasjonen din.</span><span class="sxs-lookup"><span data-stu-id="2fc97-105">Either condition can allow spam to pass through your organization.</span></span>
+
+<span data-ttu-id="2fc97-106">Hvis du vil fjerne denne blokken, må du forstå og forklare årsaken til en agent for støtte, i tillegg til å løse det underliggende problemet.</span><span class="sxs-lookup"><span data-stu-id="2fc97-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="2fc97-107">Klikk **Kontakt oss** nedenfor når du er klar.</span><span class="sxs-lookup"><span data-stu-id="2fc97-107">Click **Contact us** below once you're ready.</span></span>
 
