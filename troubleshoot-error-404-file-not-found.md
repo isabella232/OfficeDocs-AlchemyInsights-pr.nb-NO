@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044048"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747247"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Feilsøking i forbindelse med feil 404 Finner ikke filen
 
@@ -23,7 +23,7 @@ En feil 404 er mottatt når brukere prøver å få tilgang til et område eller 
 Se [Gjenopprett en slettet områdesamling](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)for klassisk områder som finnes i klassisk administrasjonssenteret.
 
 
-Moderne områder (kommunikasjon, gruppe-tilkoblet, eller andre områder) som finnes i den nye admin center forhåndsvisningen, kan du se [vise og gjenopprette slettede områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Moderne områder (kommunikasjon, gruppe-tilkoblet, eller andre områder) som finnes i den nye administrasjonssenteret for SharePoint, kan du se [vise og gjenopprette slettede områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Å løse feil 404 for en fil (eller et annet element) som har fått nytt navn, flyttet eller slettet:
 

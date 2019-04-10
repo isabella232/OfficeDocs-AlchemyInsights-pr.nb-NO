@@ -1,6 +1,6 @@
 ---
 title: Opprette et område i SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764593"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747751"
 ---
 # <a name="create-a-site"></a>Opprette et område
 
-Du kan opprette ulike typer områder i SharePoint Online. Hvis du vil opprette en av de nye område-typene, kan du se disse emnene.
-  
-- [Opprett et gruppeområde som har en Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=866292)
+Du kan opprette ulike typer områder i SharePoint Online. Hvis du vil vite hvordan du gjør dette i den nye administrasjonssenteret for SharePoint, kan du se [opprette et område](https://go.microsoft.com/fwlink/?linkid=866295). For informasjon om å tillate brukere å lage sine egne områder, kan du se [Behandle områdeoppretting i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+For informasjon om hvilke området, kan du se [gruppe koblet gruppeområder](https://go.microsoft.com/fwlink/?linkid=866292) eller [områder for kommunikasjon](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Opprette et område for kommunikasjon i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Du kan også opprette disse områdene fra ny SharePoint admin center forhåndsvisningen.
-  
-Hvis du vil opprette et klassisk område, gjør du ett av følgende:
-  
-- Gå til [områder-siden i Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/SitesList), og velg deretter **Legg til et område**.
-    
-- I klassisk SharePoint administrasjonssenteret, på siden for samlinger, velger du **Ny** \> **Private områdesamlingen**.
-    
-Hvis du vil ha mer informasjon, kan du se [opprette en områdesamling](https://go.microsoft.com/fwlink/?linkid=866295). For informasjon om å tillate brukere å lage sine egne områder, kan du se [Behandle områdeoppretting i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 

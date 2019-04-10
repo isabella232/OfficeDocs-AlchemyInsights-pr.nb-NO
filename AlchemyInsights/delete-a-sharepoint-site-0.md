@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754659"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748003"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette områder som hører til en Office 365-gruppen:
 
-Når brukere oppretter et nytt teamområde fra Hjemmeside for SharePoint (eller du kan opprette et nytt teamområde fra ny SharePoint admin center forhåndsvisning), opprettes det automatisk en tilsvarende Office 365-gruppen. Office 365-gruppen koblet team områder opprettes også når du oppretter en Office 365-gruppe eller en gruppe i Microsoft Teams. Hvis du vil slette et SharePoint-område som tilhører en gruppe for Office 365, må du slette selve Office 365-gruppen. 
+Når brukere oppretter et nytt teamområde fra SharePoint-hjemmeside, eller du oppretter et nytt teamområde fra den nye SharePoint-administrasjonssenteret, opprettes det automatisk en tilsvarende Office 365-gruppen. Office 365-gruppen koblet team områder opprettes også når du oppretter en Office 365-gruppe eller en gruppe i Microsoft Teams. Hvis du vil slette et SharePoint-område som tilhører en gruppe for Office 365, må du slette selve Office 365-gruppen. 
   
 1. Gå til [grupper-siden i Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Merk: Når du sletter en gruppe, det kan være en forsinkelse før området er f
   
 **Slette en SharePoint-områdesamling:**
 
-Slik sletter du en klassisk områdesamling:
+Slik sletter du et område:
   
-1. I klassisk SharePoint administrasjonssenteret, på siden for samlinger, velger du **avmerkingsboksen** ved siden av områdesamlingen. 
+1. I den nye SharePoint-administrasjonssenteret, på områder-siden klikker du **avmerkingsboksen** ved siden av området du vil slette. 
     
-2. Velg kategorien områdesamlinger **slette.**
+2. På båndet, og velg deretter **slette.**
     
 **Slette et område ved et uhell?**
 

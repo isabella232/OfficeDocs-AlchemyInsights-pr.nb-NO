@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932481"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747679"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Hvordan du bruker SharePoint Online termlageret
 
-Termlageret er tilgjengelig til en Global administrator for Office 365, SharePoint Admin og Term butikken administratorer og finnes i klassisk SharePoint Online administrasjonssenteret. 
+Termlageret er tilgjengelig til en Global administrator for Office 365, SharePoint Admin og Term butikken administratorer og finnes i nye SharePoint Online administrasjonssenteret. 
   
 Hvis du vil ha mer informasjon om hvordan du bruker SharePoint Online termlageret og taksonomi i SharePoint Online, kan du se [Introduksjon til administrerte metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   

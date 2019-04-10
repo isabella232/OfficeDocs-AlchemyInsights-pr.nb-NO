@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette en slettet områdesamling
+title: Gjenopprette et slettet område
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 1f9a66daf7bee43291b785b6260aec8725ee782f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 0cf10a3a0effc1774d8a07c5d0be96384362c175
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753795"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747787"
 ---
-# <a name="restore-a-deleted-site-collection"></a>Gjenopprette en slettet områdesamling
+# <a name="restore-a-deleted-site"></a>Gjenopprette et slettet område
 
-Når en administrator sletter en klassisk områdesamling, plasseres den i områdesamlingen Papirkurv, der den holdes i 93 dager før de slettes permanent. Slik gjenoppretter du områdesamlingen:
+Når en administrator sletter et område, plasseres den i områdesamlingen Papirkurv, der den holdes i 93 dager før de slettes permanent. Slik gjenoppretter du området:
   
-1. I klassisk administrasjonssenteret for SharePoint, klikker du **Papirkurven** på båndet. 
+1. I den nye SharePoint-administrasjonssenteret, velger du **Papirkurven** på båndet. 
     
 2. Merk av ved siden av områdesamlingen du vil gjenopprette.
     
 3. Klikk **Gjenopprett slettede elementer**.
     
-Hvis du vil gjenopprette et slettet kommunikasjon-område, kan du bruke ny SharePoint admin center forhåndsvisning. Hvis ikke, må du bruke PowerShell. Hvis du vil gjenopprette et område som tilhører en gruppe for Office 365, må du gjenopprette gruppen i administrasjonssenteret Exchange. Grupper kan gjenopprettes i 30 dager etter at de er slettet.
+Hvis du vil gjenopprette et slettet kommunikasjon-område, kan du bruke den nye SharePoint-administrasjonssenteret. Hvis ikke, må du bruke Microsoft PowerShell. Hvis du vil gjenopprette et område som tilhører en gruppe for Office 365, må du gjenopprette gruppen i administrasjonssenteret Exchange. Grupper kan gjenopprettes i 30 dager etter at de er slettet.
   
 
