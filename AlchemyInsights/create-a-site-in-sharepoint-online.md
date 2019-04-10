@@ -1,6 +1,6 @@
 ---
 title: Opprette et område i SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764593"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747751"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="4e32e-102">Opprette et område</span><span class="sxs-lookup"><span data-stu-id="4e32e-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="81b91-102">Opprette et område</span><span class="sxs-lookup"><span data-stu-id="81b91-102">Create a site</span></span>
 
-<span data-ttu-id="4e32e-103">Du kan opprette ulike typer områder i SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="4e32e-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="4e32e-104">Hvis du vil opprette en av de nye område-typene, kan du se disse emnene.</span><span class="sxs-lookup"><span data-stu-id="4e32e-104">To create one of the new site types, see these topics.</span></span>
-  
-- [<span data-ttu-id="4e32e-105">Opprett et gruppeområde som har en Office 365-gruppe</span><span class="sxs-lookup"><span data-stu-id="4e32e-105">Create a team site that has an Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=866292)
+<span data-ttu-id="81b91-103">Du kan opprette ulike typer områder i SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="81b91-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="81b91-104">Hvis du vil vite hvordan du gjør dette i den nye administrasjonssenteret for SharePoint, kan du se [opprette et område](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="81b91-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="81b91-105">For informasjon om å tillate brukere å lage sine egne områder, kan du se [Behandle områdeoppretting i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="81b91-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+ 
+<span data-ttu-id="81b91-106">For informasjon om hvilke området, kan du se [gruppe koblet gruppeområder](https://go.microsoft.com/fwlink/?linkid=866292) eller [områder for kommunikasjon](https://go.microsoft.com/fwlink/?linkid=866294).</span><span class="sxs-lookup"><span data-stu-id="81b91-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
     
-- [<span data-ttu-id="4e32e-106">Opprette et område for kommunikasjon i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4e32e-106">Create a communication site in SharePoint Online</span></span>](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-<span data-ttu-id="4e32e-107">Du kan også opprette disse områdene fra ny SharePoint admin center forhåndsvisningen.</span><span class="sxs-lookup"><span data-stu-id="4e32e-107">You can also create these sites from the new SharePoint admin center preview.</span></span>
-  
-<span data-ttu-id="4e32e-108">Hvis du vil opprette et klassisk område, gjør du ett av følgende:</span><span class="sxs-lookup"><span data-stu-id="4e32e-108">To create a classic site, do one of the following:</span></span>
-  
-- <span data-ttu-id="4e32e-109">Gå til [områder-siden i Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/SitesList), og velg deretter **Legg til et område**.</span><span class="sxs-lookup"><span data-stu-id="4e32e-109">Go to the [Sites page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span>
-    
-- <span data-ttu-id="4e32e-110">I klassisk SharePoint administrasjonssenteret, på siden for samlinger, velger du **Ny** \> **Private områdesamlingen**.</span><span class="sxs-lookup"><span data-stu-id="4e32e-110">In the classic SharePoint admin center, on the site collections page, select **New** \> **Private Site Collection**.</span></span>
-    
-<span data-ttu-id="4e32e-111">Hvis du vil ha mer informasjon, kan du se [opprette en områdesamling](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="4e32e-111">For more details, see [Create a site collection](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="4e32e-112">For informasjon om å tillate brukere å lage sine egne områder, kan du se [Behandle områdeoppretting i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="4e32e-112">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
-  
+
 
