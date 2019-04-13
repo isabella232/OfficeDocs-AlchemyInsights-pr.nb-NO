@@ -13,21 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754263"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858393"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="f711e-102">Få en TenantAccessBlockedException-feil ved tilgang til e-post?</span><span class="sxs-lookup"><span data-stu-id="f711e-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="b24a4-102">Få en TenantAccessBlockedException-feil ved tilgang til e-post?</span><span class="sxs-lookup"><span data-stu-id="b24a4-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="f711e-103">Det finnes flere forskjellige grunner til hvorfor du kan få denne feilmeldingen.</span><span class="sxs-lookup"><span data-stu-id="f711e-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="f711e-104">Eksempel:</span><span class="sxs-lookup"><span data-stu-id="f711e-104">For example:</span></span>
-  
-- <span data-ttu-id="f711e-105">Kontroller at abonnementet er gyldig i **Fakturering** \> siden **abonnementer** i Microsoft 365 administrasjonssenteret ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="f711e-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
-    
-- <span data-ttu-id="f711e-106">Se etter noen forfalt meldinger under **Fakturering** \> **regninger** side i Microsoft 365 administrasjonssenteret ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="f711e-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
-    
-- <span data-ttu-id="f711e-107">Hvis betalings- og abonnementer for kontoen din har blitt oppdatert nylig, kan det ta tid å overføre endringene.</span><span class="sxs-lookup"><span data-stu-id="f711e-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="f711e-108">Prøv på nytt om noen minutter, og hvis problemet vedvarer, kontakter du oss.</span><span class="sxs-lookup"><span data-stu-id="f711e-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
-    
+<span data-ttu-id="b24a4-103">Det finnes flere forskjellige grunner til hvorfor du kan få denne feilmeldingen.</span><span class="sxs-lookup"><span data-stu-id="b24a4-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="b24a4-104">Eksempel:</span><span class="sxs-lookup"><span data-stu-id="b24a4-104">For example:</span></span>
 
+- <span data-ttu-id="b24a4-105">Kontroller at abonnementet er gyldig i **Fakturering** \> siden **abonnementer** i [Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="b24a4-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
+
+- <span data-ttu-id="b24a4-106">Se etter noen forfalt meldinger under **Fakturering** \> **regninger** siden [Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="b24a4-106">Check for any past due notifications in the **Billing** \> **Bills** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).</span></span>
+
+- <span data-ttu-id="b24a4-107">Hvis betalings- og abonnementer for kontoen din har blitt oppdatert nylig, kan det ta tid å overføre endringene.</span><span class="sxs-lookup"><span data-stu-id="b24a4-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="b24a4-108">Prøv på nytt om noen minutter, og hvis problemet vedvarer, kontakter du oss.</span><span class="sxs-lookup"><span data-stu-id="b24a4-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
