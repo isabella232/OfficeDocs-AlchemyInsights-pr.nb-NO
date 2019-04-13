@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1049
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 363214d75c255d2f493e6a771749d2c2817042f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5bb496363b9612427e5b704cdba12b8913676885
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780465"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859581"
 ---
 # <a name="453-too-many-recipients-as780090"></a>4.5.3 for mange mottakere (AS780090)
 
 Denne feilen oppstår når volumet av e-post trafikk fra kilde-IP-adressen overskrider grensen basert på omdømme (eller mangel på rykte) av kildens IP-adresse.
-  
-Blokkering av e-post fra IP-kildeadresse utløper innen en time. Hvis kildens IP-adresse er en lokale e-postserver som hører til deg, kan du kontrollere konfigurasjonen av e-post flyt koblingen. Hvis atferden vedvarer for mer enn en time, kan du kontakte kundestøtte for å be om et unntak for kildens IP-adresse.
-  
 
+Blokkering av e-post fra IP-kildeadresse utløper innen en time. Hvis kildens IP-adresse er en lokale e-postserver som hører til deg, kan du kontrollere konfigurasjonen av e-post flyt koblingen. Hvis atferden vedvarer for mer enn en time, kan du kontakte kundestøtte for å be om et unntak for kildens IP-adresse.
