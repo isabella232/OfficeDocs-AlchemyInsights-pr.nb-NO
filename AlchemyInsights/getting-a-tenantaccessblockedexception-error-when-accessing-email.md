@@ -13,21 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754263"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858393"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Få en TenantAccessBlockedException-feil ved tilgang til e-post?
 
 Det finnes flere forskjellige grunner til hvorfor du kan få denne feilmeldingen. Eksempel:
-  
-- Kontroller at abonnementet er gyldig i **Fakturering** \> siden **abonnementer** i Microsoft 365 administrasjonssenteret ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
-    
-- Se etter noen forfalt meldinger under **Fakturering** \> **regninger** side i Microsoft 365 administrasjonssenteret ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
-    
-- Hvis betalings- og abonnementer for kontoen din har blitt oppdatert nylig, kan det ta tid å overføre endringene. Prøv på nytt om noen minutter, og hvis problemet vedvarer, kontakter du oss.
-    
 
+- Kontroller at abonnementet er gyldig i **Fakturering** \> siden **abonnementer** i [Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/subscriptions).
+
+- Se etter noen forfalt meldinger under **Fakturering** \> **regninger** siden [Microsoft 365 administrasjonssenteret](https://portal.office.com/adminportal/home#/billoverview).
+
+- Hvis betalings- og abonnementer for kontoen din har blitt oppdatert nylig, kan det ta tid å overføre endringene. Prøv på nytt om noen minutter, og hvis problemet vedvarer, kontakter du oss.
