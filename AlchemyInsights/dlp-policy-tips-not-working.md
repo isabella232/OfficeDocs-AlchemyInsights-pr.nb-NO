@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900801"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869604"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP Policy tips problemer
 
 Når du bruker **DLP-policyer**, kan brukere varsles om policybrudd på med **policyen tips**. Administratorer kan konfigurere policyen tips til å vise under testing DLP policyen eller når policyen ikke er i modus for full håndhevelse. 
   
-Tips om DLP-policy for sikkerhet og overholdelse midt i modus for full aktivering gjør følgende for å konfigurere policy:
+Hvis du vil konfigurere policy for tips om DLP-policyen sikkerhet og overholdelse midt i full gjennomføring modus, gjør du følgende:
   
-- Sikre Policy tips er **aktivert** på DLP regelen ved hjelp av fremgangsmåten [her](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Sikre policy tips er **aktivert** på DLP regelen ved hjelp av fremgangsmåten [her](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
 - Sikre din **innhold samsvarer med** hva som er **nødvendig** å utløse regelen som er beskrevet i denne artikkelen [her](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     

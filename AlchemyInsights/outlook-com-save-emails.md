@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779170"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903745"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Når du lagrer meldinger i Outlook.com
 
@@ -29,4 +29,4 @@ Verktøyet Microsoft skrive ut til PDF-fil som er inkludert i Windows-10, kan du
 4. Velg **Skriv ut**.
 5. Skriv inn et navn og velg deretter **Lagre**.
 
-**Merk:** Dette anbefales ikke på delte eller felles datamaskiner som andre brukere kan ha tilgang til alle PDF-filene du lagrer til PCen, og du må ikke slette.
+**Merk:** Dette anbefales ikke på delte eller felles datamaskiner som andre brukere kan ha tilgang til alle PDF-filene du lagrer til PCen og ikke slette.

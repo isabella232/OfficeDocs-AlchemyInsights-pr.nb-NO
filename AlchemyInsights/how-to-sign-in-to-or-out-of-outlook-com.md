@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788060"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903422"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Hvordan du logger på eller ut av Outlook.com
 
-Hvis ikke kan logge i til Outlook.com, MSN, Hotmail eller Live e-postkonto, eller du ikke er sikker på hvordan du kan logge på eller logge av, [her er noen løsninger](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Hvis du ikke kan logge på din Outlook.com, MSN, Hotmail eller Live e-postkonto, eller du er ikke sikker på hvordan du kan logge på eller logge av, [her er noen løsninger](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
 Hvis du fremdeles har problemer med å logge på, kan du se [Når du ikke kan logge på Microsoft-konto](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
