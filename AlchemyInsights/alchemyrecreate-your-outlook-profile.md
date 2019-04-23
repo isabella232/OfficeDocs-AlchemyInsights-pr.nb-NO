@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 62d18bf39bcebf4bb22e88dda6d87020816459d7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 678a881b70b2117dc2d93b5835aafc0389706cdb
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761786"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869640"
 ---
-# <a name="create-an-outlook-profile"></a><span data-ttu-id="12666-102">Opprette en Outlook-profil</span><span class="sxs-lookup"><span data-stu-id="12666-102">Create an Outlook Profile</span></span>
+# <a name="create-an-outlook-profile"></a><span data-ttu-id="2cb42-102">Opprette en Outlook-profil</span><span class="sxs-lookup"><span data-stu-id="2cb42-102">Create an Outlook Profile</span></span>
 
-<span data-ttu-id="12666-103">Hvis du vil opprette eller gjenopprette Outlook-profilen, kan du kjøre [verktøyet for Outlook-profilen](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte datamaskinen.</span><span class="sxs-lookup"><span data-stu-id="12666-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> 
+<span data-ttu-id="2cb42-103">Hvis du vil opprette eller gjenopprette Outlook-profilen, kan du kjøre [Outlook-profil verktøyet] (https://aka.ms/ SaRA-OutlookSetupProfile-Alkymi) på den berørte datamaskinen.</span><span class="sxs-lookup"><span data-stu-id="2cb42-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/ SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span> 
   
-<span data-ttu-id="12666-104">Verktøyet utfører forskjellige kontroller, og når du er klar vil opprette en Outlook-profil med e-postadressen din.</span><span class="sxs-lookup"><span data-stu-id="12666-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
+<span data-ttu-id="2cb42-104">Verktøyet utfører forskjellige kontroller, og når du er klar vil opprette en Outlook-profil med e-postadressen din.</span><span class="sxs-lookup"><span data-stu-id="2cb42-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
   
 
