@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
 ms.openlocfilehash: d09630ae4960cba3eda457a670696ddd7f7fa2bc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757071"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417327"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="b0e37-102">Hvordan kjøpe Office 365 for frivillige</span><span class="sxs-lookup"><span data-stu-id="b0e37-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="deed6-102">Hvordan kjøpe Office 365 for frivillige</span><span class="sxs-lookup"><span data-stu-id="deed6-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="b0e37-103">Vi har gått gjennom forespørselen og avgjort denne organisasjonen ikke er kvalifisert som en kvalifisert ideell organisasjon for Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b0e37-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="deed6-103">Vi har gått gjennom forespørselen og avgjort denne organisasjonen ikke er kvalifisert som en kvalifisert ideell organisasjon for Microsoft.</span><span class="sxs-lookup"><span data-stu-id="deed6-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="b0e37-104">Hvis du vil kjøpe Office 365 kommersielt, kan du se [tilgjengelige tilbud](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="b0e37-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="deed6-104">Hvis du vil kjøpe Office 365 kommersielt, kan du se [tilgjengelige tilbud](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="deed6-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
   
 
