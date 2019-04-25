@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
 ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767581"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370083"
 ---
 # <a name="subscription-recurring-billing"></a>Gjentakende fakturering av abonnement
 
 Hvis du vil vite når et månedlig eller årlig abonnement vil bli belastet (Hvis **Gjentakende fakturering** er aktivert) eller utløper (Hvis **Gjentakende fakturering** er slått av): 
   
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
     
 2. Velg abonnementet som du vil vite mer om.
     

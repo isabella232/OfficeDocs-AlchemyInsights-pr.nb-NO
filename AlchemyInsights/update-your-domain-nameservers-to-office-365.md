@@ -1,5 +1,5 @@
 ---
-title: Oppdatere navneserverne for domenet til Office 365
+title: Oppdatere navneserveren for domenet til Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918468"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423660"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserverne for domenet til Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserveren for domenet til Office 365
 
-Merk: Nameserver endringer kan ta opptil 48 timer å overføre.
+Obs! Noen ganger kan det ta opptil 48 timer før endringer i navneserverne overføres.
   
 Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet i Office 365. Opprette eller redigere navneserverpostene hos domeneregistratoren.
   
@@ -25,9 +25,9 @@ Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet 
     
 2. Opprett eller rediger to navneserverposter slik at de samsvarer med disse verdiene:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Lagre endringer.
     
