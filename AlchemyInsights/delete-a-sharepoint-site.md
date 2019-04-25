@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935610"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405633"
 ---
 # <a name="delete-a-sharepoint-site"></a>Slette et SharePoint-område
 **Slette fra administrasjonssenteret nye SharePoint-områder** Ved hjelp av nye administrasjonssenteret for SharePoint, kan du slette både klassiske og moderne områder. Velg **aktive områder**, merker du området, og deretter velger du **Slett**. [Vise og gjenopprette slettede områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), merker du **slettet områder**. For mer informasjon, kan du se [slette et område i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
