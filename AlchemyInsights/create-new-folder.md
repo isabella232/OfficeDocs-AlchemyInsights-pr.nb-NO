@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
 ms.openlocfilehash: 53d13e8a3a1e4aeab603e604645621427cd85765
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785260"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406965"
 ---
-# <a name="create-a-new-folder"></a><span data-ttu-id="49019-102">Opprett en ny mappe</span><span class="sxs-lookup"><span data-stu-id="49019-102">Create a new folder</span></span>
+# <a name="create-a-new-folder"></a><span data-ttu-id="39e81-102">Opprett en ny mappe</span><span class="sxs-lookup"><span data-stu-id="39e81-102">Create a new folder</span></span>
 
-1. <span data-ttu-id="49019-103">Under **mapper** i navigasjonsruten, velger du **Ny mappe**.</span><span class="sxs-lookup"><span data-stu-id="49019-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
+1. <span data-ttu-id="39e81-103">Under **mapper** i navigasjonsruten, velger du **Ny mappe**.</span><span class="sxs-lookup"><span data-stu-id="39e81-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
     
-2. <span data-ttu-id="49019-104">Skriv inn et navn på mappen og trykk Enter.</span><span class="sxs-lookup"><span data-stu-id="49019-104">Type a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="39e81-104">Skriv inn et navn på mappen og trykk Enter.</span><span class="sxs-lookup"><span data-stu-id="39e81-104">Type a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="49019-105">Hvis du vil ha mer informasjon, kan du se [opprette en mappe i Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="49019-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
+<span data-ttu-id="39e81-105">Hvis du vil ha mer informasjon, kan du se [opprette en mappe i Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="39e81-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
   
 
