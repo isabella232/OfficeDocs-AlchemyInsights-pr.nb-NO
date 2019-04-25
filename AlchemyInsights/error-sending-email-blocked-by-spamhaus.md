@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
 ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761642"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402268"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Feil under sending av e-post: klient-vert som er blokkert ved hjelp av Spamhaus
 

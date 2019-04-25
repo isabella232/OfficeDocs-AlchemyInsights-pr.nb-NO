@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388720"
 ---
 Office 365 amerikanske regjeringen planer er utformet for de unike behovene til amerikanske offentlige organisasjoner. De gir alle funksjonene og mulighetene til Office 365-tjenester i en segmentert offentlige sky fellesskap som gjør det muliggjør for organisasjoner å oppfylle amerikanske samsvar og sikkerhetsstandarder.
   
