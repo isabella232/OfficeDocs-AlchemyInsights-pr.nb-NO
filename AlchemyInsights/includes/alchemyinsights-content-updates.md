@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Uke 11 mars 2019
-
-
-| Publisert på |Emnetittel | Endre |
-|------|------------|--------|
-| 12/3/2019 | 8000054 Outlook.com-innboksen ikke lastet | lagt til |
-| 12/3/2019 | [8000078 Outlook.com-innboksen ikke lastet](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | nytt navn |
-| 12/3/2019 | [8000078 Outlook.com-innboksen ikke lastet](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | endret |
-| 13/3/2019 | [Videresende e-postmeldinger via Office 365](/AlchemyInsights/relay-email-through-office-365) | endret |
-| 3/14/2019 | [samme som filnavnet er best [REGEL #-beskrivelse]](/AlchemyInsights/1-alchemy-insight-template) | endret |
-| 3/14/2019 | [Øke størrelsen på postboksen](/AlchemyInsights/increase-mailbox-size) | endret |
-| 3/15/2019 | [Outlook stasjonære tilbakekalle eller erstatte en e-postmelding](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | lagt til |
-
-
 ## <a name="week-of-march-18-2019"></a>Uke 18 mars 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 oppgraderer AADConnect](/AlchemyInsights/upgrading-aadconnect) | endret |
 | 12/4/2019 | [725 ved hjelp av e-postalias på mobil enhet](/AlchemyInsights/using-email-alias-on-mobile-device) | endret |
 | 12/4/2019 | [1554 Winsock-feil 10061](/AlchemyInsights/winsock-error-10061) | endret |
+
+
+## <a name="week-of-april-15-2019"></a>15. April 2019 uke
+
+
+| Publisert på |Emnetittel | Endre |
+|------|------------|--------|
+| 4/15/2019 | [Alkymi - diagnostisere og løse tilkoblingsproblemer for Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | endret |
+| 4/15/2019 | [Alkymi - Opprett Outlook-profilen](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | endret |
+| 4/15/2019 | [DLP må kanskje en egendefinert type](/AlchemyInsights/dlp-might-need-custom-type) | lagt til |
+| 4/15/2019 | [DLP fungerer ikke som forventet](/AlchemyInsights/dlp-not-working-as-expected) | endret |
+| 4/15/2019 | [DLP Policy Tips fungerer ikke](/AlchemyInsights/dlp-policy-tips-not-working) | endret |
+| 4/15/2019 | [Outlook.com-feil 550](/AlchemyInsights/outlook-com-error-550) | lagt til |
+| 4/15/2019 | [Outlook.com over kvote](/AlchemyInsights/outlook-com-over-quota) | lagt til |
+| 4/15/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | lagt til |
+| 4/15/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | lagt til |
+| 4/15/2019 | [182 Kjør SaRA å diagnostisere &amp; løse godkjenningsproblemer i Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | endret |
+| 4/16/2019 | [9000233 Outlook.com PIN-kode](/AlchemyInsights/outlook-com-pin) | endret |
+| 4/16/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | endret |
+| 4/16/2019 | [8000088 lagre e-post i Outlook.com](/AlchemyInsights/outlook-com-save-emails) | endret |
+| 4/16/2019 | [8000052 Legg ved filer i Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | endret |
+| 4/16/2019 | [8000015 blokkere eller fjerne blokkeringen av avsendere](/AlchemyInsights/block-or-unblock-senders) | endret |
+| 4/16/2019 | [8000014 hvordan du endrer språket i Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | endret |
+| 4/16/2019 | [8000059 hvordan du endrer oppsettet](/AlchemyInsights/how-to-change-your-layout) | endret |
+| 4/16/2019 | [8000033 hvordan du svarer på eller videresende meldinger i Outlook.com-beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | endret |
+| 4/16/2019 | [8000055 hvordan du logger på eller ut av Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | endret |
+| 4/16/2019 | [Flytte en mappe i Outlook.com 8000062](/AlchemyInsights/moving-a-folder-in-outlook-com) | endret |
+| 4/16/2019 | [Bruk for følsomhetsetiketter automatisk](/AlchemyInsights/auto-apply-sensitivity-labels) | lagt til |
+| 4/16/2019 | [Følsomhetsetiketter vises ikke](/AlchemyInsights/sensitivity-labels-not-appearing) | lagt til |
+| 4/16/2019 | [Nye oppbevaring etiketter som er opprettet automatisk](/AlchemyInsights/new-retention-labels-created-automatically) | lagt til |
+| 4/16/2019 | [SharePoint og OneDrive overvåkingslogger](/AlchemyInsights/classic-sharepoint-audit-log-reports) | lagt til |
+| 4/16/2019 | [Identifisere Slett melding hendelser i overvåkingslogger](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | lagt til |
+| 4/16/2019 | [Identifisere ekstern e-post videresending på postbokser i overvåkingslogger](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | lagt til |
+| 4/16/2019 | [Identifisere innboksen regelen aktivitet i overvåkingslogger](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | lagt til |
+| 4/16/2019 | [Identifisere IP-adressen og klient i overvåkingslogger](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | lagt til |
+| 4/16/2019 | [Reparer PST-fil før du importerer](/AlchemyInsights/repair-pst-before-importing) | lagt til |
+| 4/16/2019 | [Rapportene klassisk SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | lagt til |
+| 4/16/2019 | [Rapportene klassisk SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | endret |
+| 4/16/2019 | [Identifisere ekstern e-post videresending på postbokser i overvåkingslogger](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | endret |
+| 4/16/2019 | [Identifisere innboksen regelen aktivitet i overvåkingslogger](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | endret |
+| 4/16/2019 | [Rapportene klassisk SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | endret |
+| 17/4/2019 | [Løse problemer for levering av e-post til e-post fellesmapper](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | lagt til |
+| 17/4/2019 | [Team SKIFT](/AlchemyInsights/teams-shifts) | endret |
+| 18/4/2019 | [8000011 Gjenopprett slettede e-post i Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | endret |
