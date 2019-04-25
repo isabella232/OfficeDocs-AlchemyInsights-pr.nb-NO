@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
 ms.openlocfilehash: b1edf5063c46e0957d61c9a112c12d33a5117009
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31869388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398051"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="31dee-102">Diagnostisere og løse tilkoblingsproblemer for Outlook</span><span class="sxs-lookup"><span data-stu-id="31dee-102">Diagnose and resolve Outlook connectivity issues</span></span>
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="75b3b-102">Diagnostisere og løse tilkoblingsproblemer for Outlook</span><span class="sxs-lookup"><span data-stu-id="75b3b-102">Diagnose and resolve Outlook connectivity issues</span></span>
 
-<span data-ttu-id="31dee-103">For å diagnostisere og løse tilkoblingsproblemer i Outlook, kan du kjøre [verktøyet for Outlook-tilkobling](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) på den berørte datamaskinen.</span><span class="sxs-lookup"><span data-stu-id="31dee-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span> 
+<span data-ttu-id="75b3b-103">For å diagnostisere og løse tilkoblingsproblemer i Outlook, kan du kjøre [verktøyet for Outlook-tilkobling](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) på den berørte datamaskinen.</span><span class="sxs-lookup"><span data-stu-id="75b3b-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span> 
   
-<span data-ttu-id="31dee-104">Dette verktøyet vil utføre diagnosekontroller og foreslår mulige løsninger for å løse Outlook-nettverkstilkobling.</span><span class="sxs-lookup"><span data-stu-id="31dee-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
+<span data-ttu-id="75b3b-104">Dette verktøyet vil utføre diagnosekontroller og foreslår mulige løsninger for å løse Outlook-nettverkstilkobling.</span><span class="sxs-lookup"><span data-stu-id="75b3b-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
   
 
