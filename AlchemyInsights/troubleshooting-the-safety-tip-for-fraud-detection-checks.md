@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 98627edcd2b685673dda8a8a18821eddf9b64bc1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936369"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391218"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Feilsøking i forbindelse med safety tips for svindel-gjenkjenning kontrollerer
 
@@ -29,6 +29,6 @@ Her er noen andre koblinger som kan bidra til å:
   
 - [Hvordan Office 365 bruker sender policy framework (SPF) til å forhindre forfalskning (spoofing)](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
     
-- [Sette opp SPF i Office 365 for å hindre forfalskning](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Sette opp SPF i Office 365 for å forhindre forfalskning (spoofing)](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
 

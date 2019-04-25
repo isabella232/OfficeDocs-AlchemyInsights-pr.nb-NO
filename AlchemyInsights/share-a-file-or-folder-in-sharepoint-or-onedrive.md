@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
 ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747859"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370407"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Dele en fil eller mappe i SharePoint eller OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "31747859"
   - **Bestemte personer** får tilgang bare til personer du angir, selv om andre allerede har tilgang. Hvis personer videresender delingsinvitasjonen, vil bare personer som allerede har tilgang til elementet kunne bruke koblingen. 
     
     > [!NOTE]
-    > Hvis ett av disse alternativene ikke er tilgjengelig, eller hvis du vil bruke en annen koblingstype skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til den nye SharePoint-administrasjonssenteret og velge **Deling** i den venstre ruten. [Mer informasjon](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Hvis ett av disse alternativene ikke er tilgjengelig, eller hvis du vil bruke en annen koblingstype skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til den nye SharePoint-administrasjonssenteret og velge **Deling** i den venstre ruten. [få mer informasjon](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Som standard, Tillat redigering** er aktivert. Hvis du vil at brukere bare kan vise filene, fjerner du merket for. 
     
