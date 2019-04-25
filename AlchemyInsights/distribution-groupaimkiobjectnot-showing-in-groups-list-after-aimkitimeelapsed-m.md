@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: 52d30b2058f3d070ab38ca57aca83eb3f8febfb4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915345"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404499"
 ---
-<span data-ttu-id="17530-102">"{AimKIObject}" ikke vises i listen for grupper etter {AimKITimeElapsed} minutter</span><span class="sxs-lookup"><span data-stu-id="17530-102">"{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+<span data-ttu-id="a8aa2-102">"{AimKIObject}" ikke vises i listen for grupper etter {AimKITimeElapsed} minutter</span><span class="sxs-lookup"><span data-stu-id="a8aa2-102">"{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="17530-103">Distribusjonsgruppe "{AimKIObject}" ikke vises i listen for grupper etter {AimKITimeElapsed} minutter</span><span class="sxs-lookup"><span data-stu-id="17530-103">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="a8aa2-103">Distribusjonsgruppe "{AimKIObject}" ikke vises i listen for grupper etter {AimKITimeElapsed} minutter</span><span class="sxs-lookup"><span data-stu-id="a8aa2-103">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-<span data-ttu-id="17530-p101">Gruppen "{AimKIObject}" ble opprettet i {AimKITimeElapsed} minutter siden. Det tar vanligvis ikke mer enn 60 minutter for ditt nye distribusjonsgruppen som skal vises i administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="17530-p101">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago. It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
+<span data-ttu-id="a8aa2-104">Gruppen "{AimKIObject}" ble opprettet i {AimKITimeElapsed} minutter siden.</span><span class="sxs-lookup"><span data-stu-id="a8aa2-104">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="a8aa2-105">Det tar vanligvis ikke mer enn 60 minutter for ditt nye distribusjonsgruppen som skal vises i administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="a8aa2-105">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
   
-<span data-ttu-id="17530-106">Du kan kanskje bruke mottakerne--\> grupper-funksjonen i [Administrasjonssenteret for Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) til å behandle gruppen nå, eller Bruk alternativet "La oss ringe deg" til å snakke med en kundestøttetekniker.</span><span class="sxs-lookup"><span data-stu-id="17530-106">You may be able to use the Recipients --\> Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="a8aa2-106">Du kan kanskje bruke mottakerne--\> grupper-funksjonen i [Administrasjonssenteret for Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) til å behandle gruppen nå, eller Bruk alternativet "La oss ringe deg" til å snakke med en kundestøttetekniker.</span><span class="sxs-lookup"><span data-stu-id="a8aa2-106">You may be able to use the Recipients --\> Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
 
