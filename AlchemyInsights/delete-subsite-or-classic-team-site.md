@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
 ms.openlocfilehash: 0162486b36a945576c1be822f7abba7641fa3cd1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404938"
 ---
-# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="b6905-102">Slette en klassisk SharePoint team-område eller sekundært område</span><span class="sxs-lookup"><span data-stu-id="b6905-102">Delete a classic SharePoint team site or subsite</span></span>
+# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="d4c6d-102">Slette en klassisk SharePoint team-område eller sekundært område</span><span class="sxs-lookup"><span data-stu-id="d4c6d-102">Delete a classic SharePoint team site or subsite</span></span>
 
-1. <span data-ttu-id="b6905-103">Gå til området.</span><span class="sxs-lookup"><span data-stu-id="b6905-103">Go to the site.</span></span>
+1. <span data-ttu-id="d4c6d-103">Gå til området.</span><span class="sxs-lookup"><span data-stu-id="d4c6d-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="b6905-104">Klikk **ikonet øverst til høyre** .</span><span class="sxs-lookup"><span data-stu-id="b6905-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="d4c6d-104">Klikk **ikonet øverst til høyre** .</span><span class="sxs-lookup"><span data-stu-id="d4c6d-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="b6905-105">Klikk **Innstillinger for webområde**.</span><span class="sxs-lookup"><span data-stu-id="b6905-105">Click **Site settings**.</span></span> <span data-ttu-id="b6905-106">Klikk **Slett dette området**under **Områdehandlinger**, og klikk deretter **Slett**.</span><span class="sxs-lookup"><span data-stu-id="b6905-106">Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="d4c6d-105">Klikk **Innstillinger for webområde**.</span><span class="sxs-lookup"><span data-stu-id="d4c6d-105">Click **Site settings**.</span></span> <span data-ttu-id="d4c6d-106">Klikk **Slett dette området**under **Områdehandlinger**, og klikk deretter **Slett**.</span><span class="sxs-lookup"><span data-stu-id="d4c6d-106">Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
