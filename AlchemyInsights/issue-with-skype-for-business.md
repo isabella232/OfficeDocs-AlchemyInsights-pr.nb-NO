@@ -1,5 +1,5 @@
 ---
-title: Problemet med Skype for Business?
+title: Har du problemer med Skype for Business?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468456"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409915"
 ---
-# <a name="issue-with-skype-for-business"></a>Problemet med Skype for Business?
+# <a name="issue-with-skype-for-business"></a>Har du problemer med Skype for Business?
 
-Vi har oppdaget at følgende domene(r) har problemer som kan forhindre at Skype for bedrifter fungerer som den skal:
+Vi har oppdaget at følgende domene(r) har problemer som kan forhindre at Skype for Business fungerer:
   
 {HealthCheckString}
   
-NS-, CNAME- eller SRV-postene for (DNS)-Domeneinnstillinger er ikke riktig konfigurert for Skype for bedrifter. Du kan se [oppdatere DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detaljerte instruksjoner. 
+NS-, CNAME- eller SRV-postene for innstillingene for domenet (DNS) er ikke riktig konfigurert for Skype for Business. Du kan se [Oppdatere DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detaljerte instruksjoner. 
   
-Hvis du vil løse problemet, du gå kan til siden [domener](https://admin.microsoft.com/adminportal/home#/Domains) i administrasjonssenteret for Microsoft 365, og hjelper vi deg med den. 
+Hvis du vil løse problemet, kan du gå til [Domener](https://admin.microsoft.com/adminportal/home#/Domains)-siden i Administrasjonssenteret for Microsoft 365, så hjelper vi deg. 
   
-Hvis du har problemer med kommunikasjonen med brukere som er ekstern for organisasjonen, kan du referere til å [definere Skype for Business Online ekstern kommunikasjon](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) for detaljerte instruksjoner. 
+Hvis du har problemer med å kommunisere med brukere som er utenfor organisasjonen, kan du se [Konfigurere ekstern kommunikasjon for Skype for Business Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) for detaljerte instruksjoner. 
   
-[Se delen Vanlige spørsmål for domener](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for andre felles løsninger. 
+[Se vanlige spørsmål om domener](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for andre vanlige løsninger. 
   
 
