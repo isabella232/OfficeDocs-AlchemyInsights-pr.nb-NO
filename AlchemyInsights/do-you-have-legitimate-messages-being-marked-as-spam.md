@@ -1,5 +1,5 @@
 ---
-title: Har du legitime meldinger merkes som søppelpost?
+title: Merkes ekte meldinger som søppelpost?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469068"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399150"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="96c2a-102">Har du legitime meldinger merkes som søppelpost?</span><span class="sxs-lookup"><span data-stu-id="96c2a-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="acc6d-102">Merkes ekte meldinger som søppelpost?</span><span class="sxs-lookup"><span data-stu-id="acc6d-102">Do you have legitimate messages being marked as spam?</span></span>
 
 
-<span data-ttu-id="96c2a-103">Prøv ovenfor diagnoseverktøyet eller [trinnvise instruksjoner for feilsøking av god meldinger merkes som søppelpost](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="96c2a-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="acc6d-103">Prøv diagnostikken over, eller prøv denne [trinnvise veiledningen for feilsøking av ekte meldinger som merkes som søppelpost](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="acc6d-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="96c2a-104">Den beste måten å rapportere slike problemer er å:</span><span class="sxs-lookup"><span data-stu-id="96c2a-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="acc6d-104">Den beste måten å rapportere denne typen problemer på er å:</span><span class="sxs-lookup"><span data-stu-id="acc6d-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="96c2a-105">[Aktivere rapportering tillegget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brukeren.</span><span class="sxs-lookup"><span data-stu-id="96c2a-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="acc6d-105">[Aktivere rapporteringstillegget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brukeren.</span><span class="sxs-lookup"><span data-stu-id="acc6d-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="96c2a-106">Har brukeren [rapporten melding som ikke useriøs](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="96c2a-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="acc6d-106">Få [brukeren til å rapportere meldingen](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US) som ikke søppelpost.</span><span class="sxs-lookup"><span data-stu-id="acc6d-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
     
-<span data-ttu-id="96c2a-107">Hvis du vil åpne en support billett, Legg de fullstendige meldingshodene fra minst **én hele originalmeldingen** nedenfor.</span><span class="sxs-lookup"><span data-stu-id="96c2a-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
+<span data-ttu-id="acc6d-107">Hvis du vil åpne en støtteforespørsel, kan du legge ved fullstendige e-posthoder fra minst **én hel opprinnelig melding** nedenfor.</span><span class="sxs-lookup"><span data-stu-id="acc6d-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
   
 
