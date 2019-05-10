@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401193"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867947"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Løse problemer med søk ved å bygge Direktesøk-katalogen
+# <a name="troubleshoot-search-issues"></a>Feilsøke problemer med søk
 
-1. Lukk Outlook og åpne **Kontrollpanel**.
-    
-    > [!NOTE]
-    > Avhengig av hvilken versjon av Office som du bruker, må du kanskje Klikk **startknappen** og høyreklikk **Kontrollpanel**på **Start** -menyen. 
-  
-2. Gjør ett av følgende:
-    
-  - Velge **Indekseringsalternativer**.
-    
-  - *Indeksering* i **Søk** -boksen, og deretter velge **Indekseringsalternativer**.
-    
-3. **I dialogboksen **Indekserte plasseringer** under **Endre valgte plasseringer**, merker du av for lokasjonen du vil endre.**
-    
-4. I dialogboksen **Avanserte alternativer** i kategorien **Indeksinnstillinger** under **feilsøking**, velger du **Gjenoppbygg**.
-    
-    > [!NOTE]
-    > En **Gjenoppbygge indeksen** dialogboks åpnes advarsel som den "indeks kan ta lang tid å fullføre." Velg **OK** for å starte å bygge indeksen på nytt. 
-  
-Hvis du vil ha mer informasjon, kan du se det kjente problemet [Ingen søkeresultater for POP/IMAP-kontoer](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Hvis du har problemer med søk, kan du se koblingene nedenfor for å feilsøke hjelp.
 
+Disse er de vanligste problemene, og er et bra sted å starte:
+- [Outlook Søk returnerer ingen resultater](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook Søk returnerer ufullstendige resultater](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook Søk finner ikke eldre e-post](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Mulige løsninger for mindre vanlige problemer du finner her:
+- [Bare Outlook-2016: kategorien Søk er nedtonet](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Delt postboks: Problemer med søkeresultater](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Feil: Søkeytelsen berøres på grunn av et problem med hvordan Outlook er konfigurert](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Søkemapper vises uventet PersonMetadata-elementer med ingen emne](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
