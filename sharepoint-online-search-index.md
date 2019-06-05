@@ -1,0 +1,22 @@
+---
+title: Behandle Søk ordlister i SharePoint Online
+ms.author: kirks
+author: Techwriter40
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
+ms.openlocfilehash: 4b51c6d44940c1a65ecf93a149430f05882452ba
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: nb-NO
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715360"
+---
+# <a name="search-in-sharepoint-online"></a>Søk i SharePoint Online
+
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; background: white;">Innhold må være kravlesøkt og lagt til i søkeindeksen for brukerne å finne det de søker etter i SharePoint Online. Innhold kravlesøkes automatisk basert på en forhåndsdefinert kravlesøk tidsplan (tidsplan for kravlesøk ikke kan endres). Kravlesøkeren plukker opp innhold som er endret siden sist kravlesøk og oppdaterer indeksen.</span> For å sikre innhold kravlesøkes og indeksen oppdateres, følger du trinnene nedenfor.</p> <ol style="margin-top: 0in;" start="1" type="1"> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;">Pass på at du finner innhold ved å gjøre innhold søkbart. For mer informasjon, kan du se <a href="https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable">aktivere innholdet på et område skal være søkbare</a>. <br /><br /></span></li> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;"><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Når du har endret en forvaltet egenskap, eller når du har endret tilordning av kravlesøkt og forvaltede egenskaper, gjenspeiles <strong>området må kravlesøkes på nytt</strong> før endringene i søkeindeksen. <span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Fordi endringene er gjort i søkeskjemaet, og ikke til det faktiske området, søkemotoren vil ikke automatisk indeksere på nytt området.</span> </span> </span> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: windowtext;">For mer informasjon, se <a href="https://docs.microsoft.com/en-us/sharepoint/crawl-site-content">Be om kravlesøk og indeksering på nytt på et område, et bibliotek eller en liste manuelt</a>.&nbsp;<br /><br /></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Merk:</span> </strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> vente minst 24 timer etter manuelt ber om et kravlesøk og full indeksere på nytt for å se om du fremdeles har et problem. <span style="color: black; background: white;">Hvis det har gått mer enn 24 timer etter at du startet kravlesøk og full indeksere på nytt, logger du deg en sak for støtte. I mange tilfeller kan arbeider vi allerede med en løsning. Gi oss minst 24 timer å fullføre en løsning.<br /><br /></span></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Viktig:</span></strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Hvis et område, (bibliotek)-dokument eller en liste ble slettet, og fortsatt vises i søkeresultatene, brukerne får en feil 404 Finner ikke filen når du prøver å få tilgang til. Dette problemet bør være logget som en støtte sak for videre undersøkelse. </span></li> </ol>
+
+
+
