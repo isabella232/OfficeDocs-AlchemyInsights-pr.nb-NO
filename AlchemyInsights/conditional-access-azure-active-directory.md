@@ -7,14 +7,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 043c208336ef9ad92e46c5ada409d49b2c4ee65b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: dafe4897c5ef23531de9ba0a29bf297421527d12
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34715045"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753929"
 ---
 # <a name="conditional-access"></a>Betinget tilgang
 
-<p>Betinget tilgang er en funksjon av Azure Active Directory. Med betinget tilgang, kan du implementere en automatisert access control beslutninger for å få tilgang til din cloud-programmer som er basert på betingelser. Hvis du vil ha mer informasjon, kan du gå <a href="https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview">Configuring Location-Based policyer</a>.</p> <p>Som en IT-administrator kan du også styre tilgang til SharePoint- og OneDrive ressurser basert på definerte nettverksplasseringer eller enheter som du stoler på. Hvis du vil ha mer informasjon, kan du besøke koblingene nedenfor.</p> <ul> <li><a href="https://docs.microsoft.com/en-us/sharepoint/control-access-based-on-network-location">Kontrollere tilgang til SharePoint Online- og OneDrive-data basert på nettverksplassering</a></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/control-access-from-unmanaged-devices">Kontrollere tilgang fra ikke-administrerte enheter</a></li> </ul>
+Betinget tilgang er en funksjon av Azure Active Directory. Med betinget tilgang, kan du implementere en automatisert access control beslutninger for å få tilgang til din cloud-programmer som er basert på betingelser. Hvis du vil ha mer informasjon, kan du gå [Configuring Location-Based policyer](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+
+Som en IT-administrator kan du også styre tilgang til SharePoint- og OneDrive ressurser basert på definerte nettverksplasseringer eller enheter som du stoler på. Hvis du vil ha mer informasjon, kan du besøke koblingene nedenfor.
+
+- [Kontrollere tilgang til SharePoint Online- og OneDrive-data basert på nettverksplassering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+- [Kontrollere tilgang fra ikke-administrerte enheter](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

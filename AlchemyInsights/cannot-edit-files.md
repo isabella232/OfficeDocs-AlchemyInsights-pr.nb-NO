@@ -8,13 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 875abf0c820c480f4dbf905f19d75cc4c299f9fb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718020"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756351"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Hvorfor du kanskje ikke kunne redigere filer?
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">Hvis et dokument, regneark eller presentasjon er låst for redigering og kan&rsquo;t åpnes, kan det være at filen er allerede som redigeres av en annen person, eller de har filen utsjekket. La oss ta en rask titt på noen av grunner til <a href="https://support.office.com/en-us/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b"><span style="color: blue;">Hvorfor du kanskje ikke kunne redigere filen</span></a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Merk:</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Biblioteker med utsjekkingen, kreves kolonner/metadata, eller når sikkerhet for kladdeelement er satt til bare brukere som kan redigere eller bare brukere som kan godkjenne elementer i innstillinger for versjon av biblioteket</span></p> <ul style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">OneDrive viser en lås-ikonet ved siden av synkroniseringsstatus for biblioteker som OneDrive, og brukeren vil ikke kunne synkronisere biblioteket til disse innstillingene har blitt fjernet.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Hvis du vil ha mer informasjon om låste filer for Word/Excel, kan du se artiklene nedenfor.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.office.com/en-us/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3"> <span style="color: blue;">Excel-filen er låst for redigering av en annen bruker</span></a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when"> <span style="color: blue;">Word-filen er låst for redigering av en annen bruker</span></a></span></p>
+Hvis et dokument, regneark eller presentasjon er låst for redigering, og kan ikke åpnes, kan det hende at filen er allerede som redigeres av en annen person, eller de har filen utsjekket. La oss ta en rask titt på noen av grunner til [Hvorfor du kanskje ikke kunne redigere filen](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+
+Merk: Biblioteker med utsjekkingen, kreves kolonner/metadata, eller når sikkerhet for kladdeelement er satt til bare brukere som kan redigere eller bare brukere som kan godkjenne elementer i innstillinger for versjon av biblioteket.
+
+OneDrive viser en lås-ikonet ved siden av synkroniseringsstatus for biblioteker som OneDrive, og brukeren vil ikke kunne synkronisere biblioteket til disse innstillingene har blitt fjernet.
+
+Hvis du vil ha mer informasjon om låste filer for Word/Excel, kan du se artiklene nedenfor.
+
+- [Excel-filen er låst for redigering av en annen bruker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [Word-filen er låst for redigering av en annen bruker](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
