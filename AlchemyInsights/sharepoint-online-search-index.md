@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736061"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758774"
 ---
 # <a name="search-in-sharepoint-online"></a>Søk i SharePoint Online
 
 Innhold må være kravlesøkt og lagt til i søkeindeksen for brukerne å finne det de søker etter i SharePoint Online. Innhold kravlesøkes automatisk basert på en forhåndsdefinert kravlesøk tidsplan (tidsplan for kravlesøk ikke kan endres). Kravlesøkeren plukker opp innhold som er endret siden sist kravlesøk og oppdaterer indeksen. For å sikre innhold kravlesøkes og indeksen oppdateres, følger du trinnene nedenfor.
 
-Pass på at du finner innhold ved å gjøre innhold søkbart. For mer informasjon, kan du se [aktivere innholdet på et område skal være søkbare](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+Pass på at du finner innhold ved å gjøre innhold søkbart. For mer informasjon, kan du se [aktivere innholdet på et område skal være søkbare](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 Når du har endret en forvaltet egenskap, eller når du har endret tilordning av kravlesøkt og administreres må, området være kravlesøkt på nytt før endringene gjenspeiles i søkeindeksen. 
 
 Fordi endringene er gjort i søkeskjemaet, og ikke til det faktiske området, vil søkemotoren ikke automatisk indeksere området på nytt. 
 
-For mer informasjon, se [Be om kravlesøk og indeksering på nytt på et område, et bibliotek eller en liste manuelt](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+For mer informasjon, se [Be om kravlesøk og indeksering på nytt på et område, et bibliotek eller en liste manuelt](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  Vent minst 24 timer etter manuelt ber om et kravlesøk og full indeksere på nytt for å se om du fremdeles har et problem. 
 
