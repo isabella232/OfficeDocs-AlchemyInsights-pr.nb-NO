@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 2258ab81f9f4d0d659dcfb410c2ffef0cd9b81a4
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: f467ac76f91b1a43787cadff6b225a24400a2249
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735116"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759509"
 ---
 # <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Eksterne delte innstillinger for SharePoint-& OneDrive
 
@@ -37,4 +37,4 @@ Kontroller innstillingene for ekstern deling for et bestemt område.
 - Velg aktive områder til å se områder som er tilgjengelig.
 - Velg det aktuelle webområdet, og velg knappen **Deling** fra menyen for å kontrollere innstillingen for området.
 
-For mer informasjon, kan du se [Oversikt over eksterne deling](https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview).
+For mer informasjon, kan du se [Oversikt over eksterne deling](https://docs.microsoft.com/sharepoint/external-sharing-overview).
