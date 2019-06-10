@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412502"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769904"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Bryteren planlegger å øke størrelsen på postboksen
 
@@ -34,4 +34,4 @@ Hvis størrelsen på postboksen er 50 GB, kan du øke den til 100 GB ved å bytt
     
 For mer informasjon, kan du se [bytte til en annen plan for Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Hvis du har en [plan for O365 som støtter et arkiv på plass](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), kan du også få ekstra e-lagring ved å aktivere en arkiv-postboks.  En arkiv-postboks gir deg ekstra lagringsplass, og du kan flytte, kopi, og søk etter meldinger i både primært og Arkiver postboks. Fremgangsmåte om aktivering av en arkiv-postboks, kan du se [aktivere en arkiv-postboks](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Hvis du har en [plan for O365 som støtter et arkiv på plass](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), kan du også få ekstra e-lagring ved å aktivere en arkiv-postboks.  En arkiv-postboks gir deg ekstra lagringsplass, og du kan flytte, kopi, og søk etter meldinger i både primært og Arkiver postboks. Fremgangsmåte om aktivering av en arkiv-postboks, kan du se [aktivere en arkiv-postboks](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

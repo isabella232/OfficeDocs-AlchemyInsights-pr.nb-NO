@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630024"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770255"
 ---
 # <a name="how-to-import-nk2-files"></a>Hvordan du importerer .nk2-filer 
 
@@ -37,4 +37,4 @@ Når du importerer .nk2-fil, flettes innholdet i filen til den eksisterende hurt
 
 **Merknad**: nk2-filen har fått nytt navn med filtypen OLD neste gang du starter Outlook 2013, Outlook-2016, 2019 i Outlook eller Outlook for Office 365. Hvis du Importer nk2-filen på nytt, må du fjerne filtypen OLD først.
 
-Hvis du vil ha mer informasjon, kan du se [importere eller kopiere Autofullfør-listen til en annen datamaskin](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Hvis du vil ha mer informasjon, kan du se [importere eller kopiere Autofullfør-listen til en annen datamaskin](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

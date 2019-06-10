@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756650"
+ms.locfileid: "34770641"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Innhold Søk-verktøyet til å finne relevant informasjon
 
 Bruk verktøyet innholdssøk i sikkerhet & overholdelsessenteret til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive steder og direktemeldinger samtaler i Skype for bedrifter. Du kan bruke verktøyet innhold søk til å søke etter e-post, dokumenter og direktemeldinger samtaler i Office 365 samarbeidsverktøy som Microsoft Teams og Office 365-grupper.
 
 
-Før du bruker [Innholdssøk](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhet & overholdelsessenteret](https://sip.protection.office.com/homepage), vil du fullføre konfigurasjonsinnstillinger for eksempel [Konfigurere tillatelser](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [innstillingen nedlastingshastigheten](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportere innstillinger](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Før du bruker [Innholdssøk](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhet & overholdelsessenteret](https://sip.protection.office.com/homepage), vil du fullføre konfigurasjonsinnstillinger for eksempel [Konfigurere tillatelser](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [innstillingen nedlastingshastigheten](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportere innstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Du vil vite mer om innholdssøk ved å se gjennom de [krav og begrensninger](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [undersøker delvis indekserte elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater skal være klar over.
 

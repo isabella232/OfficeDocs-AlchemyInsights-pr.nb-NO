@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420862"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771423"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Jeg ønsker å registrere deg for gratis team, men jeg kan ikke.
 
-- Hvis du bruker en Office 365-arbeid eller skolen konto, vil dette gratis tilbudet er ikke tilgjengelig. Organisasjonen din, men kanskje allerede bruker grupper. Hvis ikke, går du til [Microsoft Team](https://products.office.com/en-us/microsoft-teams/group-chat-software) for å se om det er kvalifisert for en gratis prøveversjon.
+- Hvis du bruker en Office 365-arbeid eller skolen konto, vil dette gratis tilbudet er ikke tilgjengelig. Organisasjonen din, men kanskje allerede bruker grupper. Hvis ikke, går du til [Microsoft Team](https://products.office.com/microsoft-teams/group-chat-software) for å se om det er kvalifisert for en gratis prøveversjon.
 
 - Akademiske institusjoner er ikke kvalifisert for denne gratis tilbud. Lærere og elever, kan imidlertid få en gratis versjon av Office 365, som inneholder en fullstendig versjon av Microsoft Teams. Se [Office 365-lisens for Microsoft Team](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 

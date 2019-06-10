@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408727"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769551"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Bruk for følsomhetsetiketter automatisk
 
@@ -25,7 +25,7 @@ Bruk automatisk følsomhetsetiketter fjerner behovet for å lære opp brukere om
 Hvis du vil bruke etiketter automatisk, kreves følgende:
 
 - Azure informasjon beskyttelse P2-abonnement
-- [Last ned og installer Azure informasjonsbeskyttelse enhetlig adresserte klienten](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Last ned og installer Azure informasjonsbeskyttelse enhetlig adresserte klienten](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Vi arbeider med innebygd støtte som ikke krever Azure informasjonsbeskyttelse enhetlig adresserte klienten i fremtiden.
 
@@ -33,5 +33,5 @@ For tiden støtter bare Windows unified adresserte klienten.  Funksjonen støtte
 
 Hvis du vil ha mer informasjon om for følsomhetsetiketter og bruke dem automatisk til innholdet, kan du se:
 
-- [Oversikt over følsomhetsetiketter](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Bruke en etikett for følsomhet til innhold automatisk](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Oversikt over følsomhetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Bruke en etikett for følsomhet til innhold automatisk](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

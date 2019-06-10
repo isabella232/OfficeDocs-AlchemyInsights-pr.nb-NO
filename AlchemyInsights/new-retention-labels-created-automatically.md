@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418140"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771208"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nye oppbevaring etiketter som er opprettet automatisk
 
-Du kan se [tre nye etiketter for oppbevaring](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) som opprettes automatisk i organisasjonen under **oppbevaring etiketter** i administrasjonssenteret sikkerhet eller overholdelse. Etikettnavn på er:
+Du kan se [tre nye etiketter for oppbevaring](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) som opprettes automatisk i organisasjonen under **oppbevaring etiketter** i administrasjonssenteret sikkerhet eller overholdelse. Etikettnavn på er:
 
 - Operative prosedyren
 - Generell Business
@@ -30,4 +30,4 @@ Første gang du velger **Fil Plan** Hvis det ikke er noen andre oppbevaring etik
 
 1. Velg oppbevaring etikettene som du vil fjerne **slette etiketten**> > **Ja** Hvis du vil slette etiketten.
 
-Planlegge Filbehandling, kan du administrere oppbevaring etiketter og policyer i organisasjonen din - hvis du vil ha mer informasjon, se [Oversikt over planlegger Filbehandling](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Planlegge Filbehandling, kan du administrere oppbevaring etiketter og policyer i organisasjonen din - hvis du vil ha mer informasjon, se [Oversikt over planlegger Filbehandling](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

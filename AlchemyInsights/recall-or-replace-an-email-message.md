@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096574"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770817"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Tilbakekalle eller erstatte en e-postmelding
 
@@ -36,7 +36,7 @@ Hvis du vil ha mer informasjon, inkludert hvordan du kontrollerer tilbakekalling
 
 ***Søk etter og Slett e-postmeldinger i organisasjonen*** Hvis du vil søke etter og slette e-postmeldinger i organisasjonen, er det enklest Hvis du er en global administrator. Hvis du ikke er en global admin, må kontoen legges til rollegruppen eDiscovery Manager eller overholdelse Søk management-rollen. Hvis du vil slette meldinger, må du koble til rollegruppen organisasjon Management eller rollen Søk og Tøm management. Tillatelser til disse rollene tilordnes i [samsvar for Sikkerhetssenter &](https://protection.office.com/).
 
-1. [Opprett en innhold Søk](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) til å finne meldingen for å slette.
-2. [Koble til sikkerhet & overholdelsessenteret PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Opprett en innhold Søk](https://docs.microsoft.com/office365/securitycompliance/content-search) til å finne meldingen for å slette.
+2. [Koble til sikkerhet & overholdelsessenteret PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Hvis du bruker MFA, kan du se [koble til Office 365-sikkerhet & kompatibilitet Center PowerShell ved hjelp av multifaktorautentisering](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Hvis du bruker MFA, kan du se [koble til Office 365-sikkerhet & kompatibilitet Center PowerShell ved hjelp av multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
