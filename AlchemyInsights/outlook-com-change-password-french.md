@@ -1,29 +1,32 @@
 ---
-title: 8000075 Outlook.com endre passord - FRANSK
+title: Endre passord Outlook.com - FRANSK
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388465"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820193"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="ebe24-102">Skifter maksimale mot de passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ebe24-102">Changer votre mot de passe dans Outlook.com</span></span>
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="76a0d-102">Skifter maksimale mot de passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="76a0d-102">Changer votre mot de passe dans Outlook.com</span></span>
 
-<span data-ttu-id="ebe24-103">Maksimale mot de passe Outlook.com est le même que maksimale mot de passe Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ebe24-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
+<span data-ttu-id="76a0d-103">Maksimale mot de passe Outlook.com est le même que maksimale mot de passe Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="76a0d-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
 
-1. <span data-ttu-id="ebe24-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **modifikator le mot de passe**.</span><span class="sxs-lookup"><span data-stu-id="ebe24-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Modifier le mot de passe**.</span></span>
-2. <span data-ttu-id="ebe24-105">Pålydende mesure de sécurité, du pouvez être invité à confirmer maksimale identité à l'aide d'un kode de sécurité.</span><span class="sxs-lookup"><span data-stu-id="ebe24-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
-3. <span data-ttu-id="ebe24-106">Entrez maksimale mot de passe actuel, maksimale nouveau mot de passe, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="ebe24-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
+1. <span data-ttu-id="76a0d-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span><span class="sxs-lookup"><span data-stu-id="76a0d-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
+2. <span data-ttu-id="76a0d-105">Pålydende mesure de sécurité, du pouvez être invité à confirmer maksimale identité à l'aide d'un kode de sécurité.</span><span class="sxs-lookup"><span data-stu-id="76a0d-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
+3. <span data-ttu-id="76a0d-106">Entrez maksimale mot de passe actuel, maksimale nouveau mot de passe, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="76a0d-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
 
-<span data-ttu-id="ebe24-107">Si du ansvar oublié maksimale mot de passe, accédez à la [siden de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les inviterer.</span><span class="sxs-lookup"><span data-stu-id="ebe24-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
+<span data-ttu-id="76a0d-107">Si du ansvar oublié maksimale mot de passe, accédez à la [siden de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les inviterer.</span><span class="sxs-lookup"><span data-stu-id="76a0d-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
 
-<span data-ttu-id="ebe24-108">Si du pensez que maksimale Outlook.com en été piraté voir [man compte Outlook.com piraté en été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span><span class="sxs-lookup"><span data-stu-id="ebe24-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
+<span data-ttu-id="76a0d-108">Si du pensez que maksimale Outlook.com en été piraté voir [man compte Outlook.com piraté en été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span><span class="sxs-lookup"><span data-stu-id="76a0d-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
