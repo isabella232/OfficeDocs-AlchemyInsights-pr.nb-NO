@@ -1,35 +1,33 @@
 ---
-title: 8000035 hvordan du gjør det nye utseendet i Outlook.com som den gamle
+title: Slik gjør du det nye utseendet i Outlook.com som den gamle
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409411"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117622"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Slik gjør du det nye utseendet i Outlook.com som den gamle versjonen
 
-Her er noen innstillinger og visninger du kan endre for å gjøre det nye utseendet i Outlook.com som den gamle versjonen.
+Her er noen innstillinger du kan endre for å gjøre det nye utseendet i Outlook.com som den gamle versjonen:
 
-1. Velg girikonet øverst på siden for å åpne innstillinger.
-2. Velg foretrukket **tema**.
-3. Endre **diskusjonsvisningen** **nyeste meldinger på toppen**.
-4. Endre **leseruten** **skjule**.
-5. Bytt **Focused innboksen** til **av**.
-6. Bytter **avsenderen bildet** til **av**. 
-7. Bytt **gruppemeldinger etter dato** til **av**. 
-8. Bytt **Forhåndsvisning av vedlegg** til **av**. 
-9. Bytt **Forhåndsvisning av meldingsteksten** til **på**.
+1. Gå til [Innstillinger for oppsett](https://outlook.live.com/mail/options/mail/layout).
+1. Under **Focused innboks**, velger du **ikke sortere meldingene mine**.
+1. Velg **nyeste meldingene på toppen** **meldingen organisasjon**.
+1. Velg **ikke Vis sender bilder**under **bildet av avsenderen**.
+1. Under **leseruten**, velger du **Skjul leserute**.
+1. Under **Forhåndsvisning av meldingsteksten**, velger du **Vis forhåndsvisning av teksten**.
+1. Under **innebygde forhåndsvisninger**, velger du **ikke Vis vedlegg i meldingslisten**.
 
-Merk: Dette er bare noen anbefalte innstillinger som kan gi mest mulig oppsettet til den klassiske versjonen av Outlook.com. Det fortsatt avhenger av ønskede innstillinger.
-
-Hvis du vil endre innstillingene for e-post slik at innboksen din ser ut og virker slik du ønsker, kan du se [Tilpasse opplevelsen for ny e-post i Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Hvis du vil endre innstillingene for e-post slik at innboksen din ser ut og virker slik du ønsker, kan du se [Endre utseendet på postboksen i Outlook.com og den nye Outlook på weben](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

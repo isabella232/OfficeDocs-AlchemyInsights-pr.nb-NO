@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709025"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957389"
 ---
 # <a name="print-email-and-calendars"></a>Skrive ut e-post og kalendere
 
 Skrive ut en e-postmelding:
   
 1. Velg meldingen du vil skrive ut.
-1. Over leseruten, velger tre prikker, og velg deretter **Skriv ut**.
+1. I øvre høyre hjørne av meldingen, velg tre prikker, og velg deretter **Skriv ut**.
 
 Skriver ut kalenderen:
 

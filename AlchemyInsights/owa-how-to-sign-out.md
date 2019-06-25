@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643526"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273616"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Slik logger du av Outlook på weben
 
-1. Merk navnet eller bilde øverst i høyre hjørne.
-    
-    Hvis du ikke ser bildet på toppen av skjermen, kontrollere om blokkering av annonser er slått på. Noen ganger forhindrer dette bildet vises.
-    
-2. Velg **Logg**. 
-    
-    Hvis du vil stoppe automatisk pålogging til arbeidet eller skolen konto, Fjern merket for **Hold meg pålogget** på siden der du skriver inn passordet ditt. 
-    
+Hvis du vil logge av Outlook på weben, Velg navn eller bilde øverst i høyre hjørne og velg **Logg**.
+
+Slik stopper du automatisk pålogging til arbeid eller et skoleprosjekt kontoen:
+
+1. Velg navn eller bilde, og velg **Logg**.
+1. Gå til [Outlook.office.com](https://outlook.office.com/) og velger å **bruke en annen konto**.
+1. Logg på med e-postadressen du vil bruke.
+
 Hvis du vil ha mer informasjon, kan du se [hvordan du logger på eller ut av Outlook på weben](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
