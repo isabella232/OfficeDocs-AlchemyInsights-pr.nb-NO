@@ -3,7 +3,7 @@ title: Kan ikke slette bilder eller filer fra filer i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/31/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 4b292661c4d9c58ad1ff3bb62c6d62f871c664d2
-ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.openlocfilehash: 6126fcc1027b34ef44160e3d13c120c179457307
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34669225"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115853"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a><span data-ttu-id="19008-102">Kan ikke slette filer eller bilder fra filer</span><span class="sxs-lookup"><span data-stu-id="19008-102">Can't delete files or photos from Files</span></span>
+# <a name="cant-delete-files-or-photos-from-files"></a><span data-ttu-id="86d7f-102">Kan ikke slette filer eller bilder fra filer</span><span class="sxs-lookup"><span data-stu-id="86d7f-102">Can't delete files or photos from Files</span></span>
 
-<span data-ttu-id="19008-103">Filer viser filer og bilder som er knyttet til meldinger i postboksen.</span><span class="sxs-lookup"><span data-stu-id="19008-103">Files shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="19008-104">Du kan ikke slette filer eller bilder direkte fra filer.</span><span class="sxs-lookup"><span data-stu-id="19008-104">You can't delete files or photos directly from Files.</span></span> <span data-ttu-id="19008-105">Hvis du vil slette filer og bilder, må du slette e-postmeldingene de er tilknyttet:</span><span class="sxs-lookup"><span data-stu-id="19008-105">To delete files and photos, you'll need to delete the email messages they're attached to:</span></span>
+<span data-ttu-id="86d7f-103">**Filer** viser filer og bilder som er knyttet til meldinger i postboksen.</span><span class="sxs-lookup"><span data-stu-id="86d7f-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="86d7f-104">Hvis du vil fjerne filer og bilder fra filer, må du slette e-postmeldingene de er tilknyttet.</span><span class="sxs-lookup"><span data-stu-id="86d7f-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="86d7f-105">Når du har slettet meldingene, må du også slette dem fra Slettede elementer-mappen.</span><span class="sxs-lookup"><span data-stu-id="86d7f-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
 
-<span data-ttu-id="19008-106">Hvis du vil ha mer informasjon, kan du lese [hvordan du sletter filer eller bilder i Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span><span class="sxs-lookup"><span data-stu-id="19008-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
+<span data-ttu-id="86d7f-106">Hvis du vil ha mer informasjon, kan du lese [hvordan du sletter filer eller bilder i Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="86d7f-106">To learn more, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
