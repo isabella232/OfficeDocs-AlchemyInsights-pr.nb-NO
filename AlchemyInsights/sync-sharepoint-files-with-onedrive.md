@@ -1,5 +1,5 @@
 ---
-title: Synkronisere SharePoint-filer med den nye synkroniseringsklienten for OneDrive
+title: Feilsøke problemer med «Åpne med Explorer» i SharePoint Online
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757828"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223649"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synkronisere SharePoint-filer med den nye synkroniseringsklienten for OneDrive
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Feilsøke problemer med «Åpne med Explorer» i SharePoint Online
 
-Kommandoen Åpne med Utforsker åpner en lokal forekomst av Windows Utforsker som viser mappestrukturen på serveren som er vert for SharePoint-området. Vi anbefaler imidlertid at du [synkroniserer SharePoint-filer med den nye synkroniseringsklienten for OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> som gir tilgang til [filer ved behov](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), fordi den gir lokal tilgang til filene og tilbyr den beste ytelsen.
+Kommandoen Åpne med Explorer åpner en lokal forekomst av Windows Utforsker som viser mappestrukturen på serveren som er vert for SharePoint-området. Vi anbefaler imidlertid at du [synkroniserer SharePoint-filer med den nye synkroniseringsklienten for OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> som gir tilgang til [filer ved behov](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), fordi den gir lokal tilgang til filene og tilbyr den beste ytelsen.
 
 
 Hvis du valgte å bruke utforskervisningen i stedet for å bruke den nye synkroniseringsklienten, må du passe på at du følger trinnene og gode fremgangsmåter i artiklene nedenfor.
