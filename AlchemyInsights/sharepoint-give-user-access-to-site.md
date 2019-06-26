@@ -1,5 +1,5 @@
 ---
-title: Gi brukere tilgang til SharePoint- og OneDrive
+title: Få tilgang til forespørsler-funksjonen
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4bb81a3ea87130b0da3bd028ee06cbbf21d1bec7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760139"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223757"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>Gi brukere tilgang til SharePoint-området
 
@@ -24,15 +24,15 @@ Funksjonen for forespørsel kan be om tilgang til innhold som de ikke har tillat
 
 Her er noen vanlige koblinger når det gjelder forespørsler om tilgang:
 
-[Tilgang til"tilgangsforespørsler listen eller"Be om godkjenning mislyktes"når du utfører en ventende forespørsel i SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Tilgang til"tilgangsforespørsler listen eller"Be om godkjenning mislyktes"når du utfører en ventende forespørsel i SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
 
-[Endre access-forespørsler innstillinger](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Endre access-forespørsler innstillinger](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-[Godkjenne eller avslå forespørsler om tilgang til et område](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Godkjenne eller avslå forespørsler om tilgang til et område](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-[Behandle invitasjoner til eksterne brukere (bare SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Behandle invitasjoner til eksterne brukere (bare SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-[Sende en invitasjon på nytt](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Sende en invitasjon på nytt](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
