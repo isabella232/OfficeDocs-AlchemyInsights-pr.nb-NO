@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
-ms.openlocfilehash: be85c3636d128ae80c6a2dfedd0c1c8670bfb1ef
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "19"
+- "6"
+ms.openlocfilehash: 159125f8ce899cacac665fb8a7025a791c4cd9bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388840"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370972"
 ---
 # <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxy-adresse feil under oppretting av en delt postboks
 
@@ -23,4 +26,3 @@ Du må søke etter brukeren, gruppen eller delt postboks som har denne e-postadr
   
 Hvis du vil slette den eksisterende e-postadressen, velger du en ny e-postadresse for den delte postboksen.
   
-

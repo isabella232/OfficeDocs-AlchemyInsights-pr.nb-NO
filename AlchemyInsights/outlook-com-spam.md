@@ -1,34 +1,29 @@
 ---
-title: Outlook.com søppelpost og søppelpost
+title: Håndtering av søppelpost og søppelpost i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373541"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372018"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam og useriøs e-post i Outlook.com
+# <a name="mark-email-messages-as-junk"></a>Merk e-postmeldinger som søppelpost
 
-Slik merker du en e-postmelding som søppelpost eller spam:
+Hvis du vil markere en melding som søppelpost eller spam, merker du meldingen i meldingslisten, og velg **useriøs** > **useriøs**.
 
-1. Merk meldingen eller meldingene i meldingslisten.
-1. Velg **useriøs**over meldingslisten > **søppelpost**.
+Merk meldingen eller meldingene i meldingslisten for å blokkere alle meldinger fra en bestemt e-postadresse, og velg deretter **useriøs** > **blokk**.
 
-**Merk:** Hvis du oppdager at en e-postmelding ikke søppelpost, merker du meldingen på nytt (det vil være i mappen Useriøs e-post), og velg **ikke useriøs** > **ikke søppelpost**. Elementer i mappen Useriøs e-post blir slettet etter 30 dager.  [Lær mer om hvordan du kan holde søppelpost og søppelpost borte fra innboksen Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Hvis du merker en melding som søppelpost ved en feiltakelse, merker du meldingen i [mappen Useriøs e-post](https://outlook.live.com/mail/junkemail) og Merk som **ikke useriøs** > **ikke søppelpost**. (*Notat:* elementer i mappen Useriøs e-post skal slettes etter 30 dager.)
 
-Å blokkere alle meldinger fra bestemte e-postadresser eller domener:
-
-1. Merk meldingen eller meldingene i meldingslisten, og velg deretter **useriøs** > **blokk** > **OK**. (Hvis e-postmeldingen er allerede åpen i et nytt vindu, **blokk** vises som et alternativ på toppen av vinduet.)
-1. Åpne [Innstillinger for useriøs e-post](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), Skriv inn e-postadressen eller domenet du vil blokkere, og velg **Legg til** > **Lagre**.
-1. I [filtre for useriøs e-post](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), kan du velge å bare stole på e-post fra adresser i Min avsendere og listen over sikre distribusjonslister.
-
-[Lær mer om hvordan du kan blokkere eller oppheve blokkeringen avsendere i Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Hvis du vil ha mer informasjon, kan du lese [merke e-post som avsendere av søppelpost eller blokker i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
