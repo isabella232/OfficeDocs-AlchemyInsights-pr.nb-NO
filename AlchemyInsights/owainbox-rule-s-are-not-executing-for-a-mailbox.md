@@ -8,27 +8,29 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1332
+ms.custom:
+- "1332"
+- "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 28b03183552e00dd2522fff51b061cc27d5032ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 7d1848830847fc6722da20e09a4875f49bf02bd3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762232"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360926"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="73eb7-102">En regel som ikke virker som forventet</span><span class="sxs-lookup"><span data-stu-id="73eb7-102">An Inbox rule doesn't work as expected</span></span>
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="4b3b1-102">En regel som ikke virker som forventet</span><span class="sxs-lookup"><span data-stu-id="4b3b1-102">An Inbox rule doesn't work as expected</span></span>
 
-<span data-ttu-id="73eb7-103">Kontroller følgende innstillinger:</span><span class="sxs-lookup"><span data-stu-id="73eb7-103">Verify the following settings:</span></span>
+<span data-ttu-id="4b3b1-103">Kontroller følgende innstillinger:</span><span class="sxs-lookup"><span data-stu-id="4b3b1-103">Verify the following settings:</span></span>
 
-- <span data-ttu-id="73eb7-104">En melding kan omadresseres videresendte og besvarte automatisk basert på innboksregler bare én gang.</span><span class="sxs-lookup"><span data-stu-id="73eb7-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="73eb7-105">En omadresserer regel (en Innboksregel eller flyt-post, også kjent som regel en transport) kan legge til opptil ti videresending mottakere på en melding.</span><span class="sxs-lookup"><span data-stu-id="73eb7-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="73eb7-106">Hvis du vil ha mer informasjon, kan du se [Journal, Transport, og innboksen grenser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="73eb7-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
+- <span data-ttu-id="4b3b1-104">En melding kan omadresseres videresendte og besvarte automatisk basert på innboksregler bare én gang.</span><span class="sxs-lookup"><span data-stu-id="4b3b1-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="4b3b1-105">En omadresserer regel (en Innboksregel eller flyt-post, også kjent som regel en transport) kan legge til opptil ti videresending mottakere på en melding.</span><span class="sxs-lookup"><span data-stu-id="4b3b1-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="4b3b1-106">Hvis du vil ha mer informasjon, kan du se [Journal, Transport, og innboksen grenser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="4b3b1-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
 
-- <span data-ttu-id="73eb7-107">Innboksregler fungerer ikke på alternative loggføring postboksen.</span><span class="sxs-lookup"><span data-stu-id="73eb7-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="73eb7-108">Hvis du vil ha mer informasjon om alternative loggføring postboksen, kan du se [alternative loggføring postboks](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="73eb7-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
+- <span data-ttu-id="4b3b1-107">Innboksregler fungerer ikke på alternative loggføring postboksen.</span><span class="sxs-lookup"><span data-stu-id="4b3b1-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="4b3b1-108">Hvis du vil ha mer informasjon om alternative loggføring postboksen, kan du se [alternative loggføring postboks](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="4b3b1-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
 
-<span data-ttu-id="73eb7-109">Hvis du vil løse disse problemene, kan du se [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="73eb7-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
+<span data-ttu-id="4b3b1-109">Hvis du vil løse disse problemene, kan du se [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="4b3b1-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
 
-<span data-ttu-id="73eb7-110">Hvis de ovenstående problemene ikke bruker, kjører du innboksen regelen diagnoserapporten før du eskalere problemet til Microsoft Support:</span><span class="sxs-lookup"><span data-stu-id="73eb7-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
+<span data-ttu-id="4b3b1-110">Hvis de ovenstående problemene ikke bruker, kjører du innboksen regelen diagnoserapporten før du eskalere problemet til Microsoft Support:</span><span class="sxs-lookup"><span data-stu-id="4b3b1-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
 
-1. <span data-ttu-id="73eb7-111">Åpne postboksen i Outlook på weben, og klikk **Innstillinger** \> **Alternativer** \> **Ordne e-post** \> **innboksregler**.</span><span class="sxs-lookup"><span data-stu-id="73eb7-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
+1. <span data-ttu-id="4b3b1-111">Åpne postboksen i Outlook på weben, og klikk **Innstillinger** \> **Alternativer** \> **Ordne e-post** \> **innboksregler**.</span><span class="sxs-lookup"><span data-stu-id="4b3b1-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
 
-2. <span data-ttu-id="73eb7-112">Nederst på siden, klikker du **Hvis reglene ikke virker på Klikk her for å generere en rapport**.</span><span class="sxs-lookup"><span data-stu-id="73eb7-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
+2. <span data-ttu-id="4b3b1-112">Nederst på siden, klikker du **Hvis reglene ikke virker på Klikk her for å generere en rapport**.</span><span class="sxs-lookup"><span data-stu-id="4b3b1-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>

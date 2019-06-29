@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "2008"
+- "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3c93a1e78d3481394a39aa484bf2cdd1435be2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421213"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354770"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="d18bb-102">Behandle SharePoint Online-lagring</span><span class="sxs-lookup"><span data-stu-id="d18bb-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="c0e08-102">Behandle SharePoint Online-lagring</span><span class="sxs-lookup"><span data-stu-id="c0e08-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="d18bb-103">De fleste bedrifter administreres SharePoint-lager automatisk slik at du ikke trenger å angi grenser per områdesamlingen.</span><span class="sxs-lookup"><span data-stu-id="d18bb-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="d18bb-104">Slik kontrollerer du hvor mye du har SharePoint-lager:</span><span class="sxs-lookup"><span data-stu-id="d18bb-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="c0e08-103">De fleste bedrifter administreres SharePoint-lager automatisk slik at du ikke trenger å angi grenser per områdesamlingen.</span><span class="sxs-lookup"><span data-stu-id="c0e08-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="c0e08-104">Slik kontrollerer du hvor mye du har SharePoint-lager:</span><span class="sxs-lookup"><span data-stu-id="c0e08-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="d18bb-105">Se etter tilgjengelige og total lagringen i nye SharePoint administrasjonssenteret, øverst til høyre på områder-siden.</span><span class="sxs-lookup"><span data-stu-id="d18bb-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
-    
-<span data-ttu-id="d18bb-106">For informasjon om hvordan grensen beregnes, kan du se [SharePoint Online grenser](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="d18bb-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="d18bb-107">Hvis du vil kjøpe ekstra lagringsplass, kan du se [Endre lagringsplass for abonnementet](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="d18bb-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
-  
-<span data-ttu-id="d18bb-108">For informasjon om hvordan du overvåker lagring av individuelle områder ved hjelp av PowerShell og administrere samling lagringsplassen på området manuelt, kan du se [Behandle områdesamling lagringsgrenser](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="d18bb-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
-  
+- <span data-ttu-id="c0e08-105">Se etter tilgjengelige og total lagringen i nye SharePoint administrasjonssenteret, øverst til høyre på områder-siden.</span><span class="sxs-lookup"><span data-stu-id="c0e08-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
 
+<span data-ttu-id="c0e08-106">For informasjon om hvordan grensen beregnes, kan du se [SharePoint Online grenser](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="c0e08-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="c0e08-107">Hvis du vil kjøpe ekstra lagringsplass, kan du se [Endre lagringsplass for abonnementet](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="c0e08-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+  
+<span data-ttu-id="c0e08-108">For informasjon om hvordan du overvåker lagring av individuelle områder ved hjelp av PowerShell og administrere samling lagringsplassen på området manuelt, kan du se [Behandle områdesamling lagringsgrenser](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="c0e08-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+  
