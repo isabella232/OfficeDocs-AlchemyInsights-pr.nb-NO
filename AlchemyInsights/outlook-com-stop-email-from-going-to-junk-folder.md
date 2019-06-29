@@ -1,26 +1,34 @@
 ---
-title: Outlook.com stop-meldinger går til Søppelpost-mappen
+title: Stoppe meldinger fra gå til mappen Useriøs e-post i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373253"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371802"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Stoppe meldinger til mappen Useriøs e-post
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Stoppe meldinger fra gå til mappen Useriøs e-post
 
-Hvis du oppdager at en e-postmelding i mappen Useriøs e-post ikke er søppelpost eller useriøs:
+Hvis du oppdager at en e-postmelding i mappen Useriøs e-post ikke er søppelpost:
 
-1. Åpne [mappen for useriøs e-post](https://outlook.live.com/mail/junkemail) , og velg meldingen. (Elementer i mappen Useriøs e-post blir slettet etter 30 dager).
+1. Åpne [mappen for useriøs e-post](https://outlook.live.com/mail/junkemail).
+1. Velg meldingen. (*Notat:* elementer i mappen Useriøs e-post skal slettes etter 30 dager.)
 1. Over meldingslisten velger du **ikke useriøs** > **ikke søppelpost**.
+
+Hvis du vil hindre at meldinger fra en avsender gå til mappen Useriøs e-post, kan du legge til avsenderen i listen over avsendere:
+
 1. Åpne [Innstillinger for useriøs e-post](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Under **avsendere**, Skriv inn e-postadressen eller domenet du vil legge til, og velg **Legg til**. E-post fra adresser eller domener på listen ikke bli flyttet til mappen Useriøs e-post avsendere.
+1. Under **avsendere og domener**, velger du **Legg til**, Skriv inn e-postadressen eller domenet du vil legge til, og velg **Lagre**.
+
+Hvis du vil ha mer informasjon, kan du lese [merke e-post som avsendere av søppelpost eller blokker i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

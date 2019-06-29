@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373325"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371442"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innhold Søk og eDiscovery-Søk
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373325"
 2. Klikk **Søk & undersøkelser > innhold Søk**.
 3. Klikk **nytt søk** for å opprette et nytt søk.
 4. Angi de nødvendige søkebetingelsene inkludert nøkkelord og plassering av innhold.  
-5. Klikk **Lagre Kjør &** for å navngi søket, starte den, og Forhåndsvis deretter resultatene. 
- 
+5. Klikk **Lagre Kjør &** for å navngi søket, starte den, og Forhåndsvis deretter resultatene.
+
 Hvis du vil ha detaljerte instruksjoner om å opprette søk, og eksportere resultatene, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **eDiscovery-Søk**

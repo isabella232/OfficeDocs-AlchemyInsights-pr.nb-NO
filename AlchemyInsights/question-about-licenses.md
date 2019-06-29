@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "491"
+- "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371451"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370684"
 ---
 # <a name="question-about-licenses"></a>Spørsmål om lisenser
 
 Hvis du vil vite hvor mange lisenser som du har kjøpt eller hvor mange lisenser som er tilordnet fra et abonnement:
   
 1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
-    
-2. Velg abonnementet du vil vite mer om.
-    
-3. På venstre side av kortet abonnement er informasjon om lisensene:
-    
-  - **Kjøpt** antall er antallet lisenser du betaler for. 
-    
-  - Nummeret **tilordnet** er antallet lisenser som er tilordnet til en bruker. 
-    
-4. Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til/fjern lisenser** for å justere mengden kjøpt. 
-    
 
+2. Velg abonnementet du vil vite mer om.
+
+3. På venstre side av kortet abonnement er informasjon om lisensene:
+
+  - **Kjøpt** antall er antallet lisenser du betaler for.
+
+  - Nummeret **tilordnet** er antallet lisenser som er tilordnet til en bruker.
+
+4. Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til/fjern lisenser** for å justere mengden kjøpt.
