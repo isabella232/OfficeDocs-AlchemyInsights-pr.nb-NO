@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "265"
+- "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 566408a0c38057ee3090acbf155288d579e64b17
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404222"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389082"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ikke tvinge meg til å oppgradere. Hvordan går jeg tilbake til den forrige versjonen av Office?
 
-Når du åpner en Office-fil, vil prøveversjonen av et Office-program kan åpne, i stedet for en annen versjon. Dette skjer hvis du har en prøveversjon av Office 365. 
+Når du åpner en Office-fil, vil prøveversjonen av et Office-program kan åpne, i stedet for en annen versjon. Dette skjer hvis du har en prøveversjon av Office 365.
   
-Når du installerer en prøveversjon av Office 365, 2016 prøveversjonen av programmene er installert. Disse prøveversjonene, blir standard for å åpne Word, Excel og PowerPoint-filer. For eksempel hvis du har installert Excel 2013 og du også har installert prøveversjonen av Office 365, og deretter arbeidsbøkene åpnes i prøveversjonen av Microsoft Excel-2016. 
+Når du installerer en prøveversjon av Office 365, 2016 prøveversjonen av programmene er installert. Disse prøveversjonene, blir standard for å åpne Word, Excel og PowerPoint-filer. For eksempel hvis du har installert Excel 2013 og du også har installert prøveversjonen av Office 365, og deretter arbeidsbøkene åpnes i prøveversjonen av Microsoft Excel-2016.
   
-Hvis du har dette problemet, du kan [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-programmer, og bruker eldre versjoner av programmer du allerede har installert. Eventuelt kan du [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) eldre versjoner av filen Apps.inf og oppgraderer til nyere versjoner som er inkludert i Office 365. 
-  
-
+Hvis du har dette problemet, du kan [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-programmer, og bruker eldre versjoner av programmer du allerede har installert. Eventuelt kan du [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) eldre versjoner av filen Apps.inf og oppgraderer til nyere versjoner som er inkludert i Office 365.

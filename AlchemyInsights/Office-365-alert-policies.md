@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1385
+ms.custom:
+- "1385"
+- "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 428d5b943737f78c683aa50578b0c0a1fb0034c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389573"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359414"
 ---
 # <a name="office-365-alert-policies"></a>Policyer for Office 365-varsel
 
@@ -26,7 +28,7 @@ Sikkerhet for Office 365-& samsvar Center tilbyr [alert standardpolicyer](https:
 - Tilordne tillatelser til postboksen.
 - Dele eller slette et stort antall filer i SharePoint-fildeling.
 - Opprette eDiscovery Søk og eksporterer søkeresultatene.
- 
+
 Se gjennom og handle på et varsel:
 
 1. Gå til [Sikkerhet & kompatibilitet Center](https://protection.office.com) , og Logg på.

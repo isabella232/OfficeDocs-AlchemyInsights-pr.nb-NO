@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755858"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380010"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Overføre fellesmappe data til Office 365
 
-Hvis du ikke har mye felles-mappene til å hente til Office 365, er den enkleste måten å få dem til å kopiere dataene til. PST-filer, og deretter importere dem til Office 365. For små mengder data, en enkel dra og slipp i fellesmappen i en. PST-filen kan være tilstrekkelig. Hvis du har mer data enn det (opptil 30GB), har vi [dokumentert en prosess](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) som du kan bruke til å eksportere mapper til PST-filer. 
+Hvis du ikke har mye felles-mappene til å hente til Office 365, er den enkleste måten å få dem til å kopiere dataene til. PST-filer, og deretter importere dem til Office 365. For små mengder data, en enkel dra og slipp i fellesmappen i en. PST-filen kan være tilstrekkelig. Hvis du har mer data enn det (opptil 30GB), har vi [dokumentert en prosess](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) som du kan bruke til å eksportere mapper til PST-filer.
   
 Vi har flere veiledninger som er tilgjengelige for større organisasjoner som flytter fellesmapper i Office 365:
   
-- [Overfør eldre fellesmapper](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 og tidligere) 
-    
+- [Overfør eldre fellesmapper](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 og tidligere)
+
 - [Overføre fellesmapper for Exchange-2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [Mirate fellesmapper for Exchange-2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
+
+- [Overføre fellesmapper for Exchange-2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
 Du har også muligheten til å [overføre felles-mappene i Office 365-grupper](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
   
-
