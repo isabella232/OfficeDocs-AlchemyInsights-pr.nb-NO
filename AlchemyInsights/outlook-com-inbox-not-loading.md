@@ -1,24 +1,37 @@
 ---
-title: 8000078 Outlook.com-innboksen ikke lastet
+title: Outlook.com-innboksen ikke lastet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/12/2019
+ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000078
-ms.openlocfilehash: 0d08c38e624d293a58ddad0463016dace3283510
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1271"
+- "1963"
+- "8000078"
+ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418732"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374538"
 ---
-# <a name="inbox-not-loading-with-firefox"></a><span data-ttu-id="2e84f-102">Innboksen ikke lastet med Firefox</span><span class="sxs-lookup"><span data-stu-id="2e84f-102">Inbox not loading with Firefox</span></span>
+# <a name="empty-inbox"></a><span data-ttu-id="22f31-102">Tom innboks</span><span class="sxs-lookup"><span data-stu-id="22f31-102">Empty inbox</span></span>
 
-<span data-ttu-id="2e84f-103">Enkelte tilleggsprogrammer i webleseren Firefox kan forhindre at innboksen Outlook.com innlasting.</span><span class="sxs-lookup"><span data-stu-id="2e84f-103">Certain add-ons in the Firefox browser might prevent your Outlook.com inbox from loading.</span></span>
-  
-<span data-ttu-id="2e84f-104">Gå til Firefox-støtte for å lære hvordan du kan [deaktivere eller fjerne tillegg](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="2e84f-104">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+<span data-ttu-id="22f31-103">**Min innboks er tom**</span><span class="sxs-lookup"><span data-stu-id="22f31-103">**My inbox is empty**</span></span>
 
+- <span data-ttu-id="22f31-104">Enkelte tilleggsprogrammer i webleseren Firefox kan forhindre at innboksen innlasting.</span><span class="sxs-lookup"><span data-stu-id="22f31-104">Certain add-ons in the Firefox browser might prevent your inbox from loading.</span></span> <span data-ttu-id="22f31-105">Gå til Firefox-støtte for å lære hvordan du kan [deaktivere eller fjerne tillegg](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="22f31-105">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+
+<span data-ttu-id="22f31-106">**Jeg ønsker å tømme innboksen**</span><span class="sxs-lookup"><span data-stu-id="22f31-106">**I want to empty my inbox**</span></span>
+
+<span data-ttu-id="22f31-107">Hvis du vil tømme innboksen og slette alle dine e-post:</span><span class="sxs-lookup"><span data-stu-id="22f31-107">If you want to empty your inbox and delete all your email:</span></span>
+
+1. <span data-ttu-id="22f31-108">Velg sirkelen ved siden av [Innboks](https://outlook.live.com/mail/inbox) på toppen av meldingslisten for å merke alle meldinger.</span><span class="sxs-lookup"><span data-stu-id="22f31-108">Select the circle next to [Inbox](https://outlook.live.com/mail/inbox) at the top of your message list to select all your messages.</span></span>
+1. <span data-ttu-id="22f31-109">Toppen av siden, velger du en **tom mappe** (eller **Tom fokusert** / **tom andre** Hvis fokusert innboksen er slått på).</span><span class="sxs-lookup"><span data-stu-id="22f31-109">At the top of the page, select **Empty folder** (or **Empty Focused** / **Empty Other** if Focused Inbox is turned on).</span></span>
+1. <span data-ttu-id="22f31-110">Velg **Slett alle**.</span><span class="sxs-lookup"><span data-stu-id="22f31-110">Select **Delete all**.</span></span>
+1. <span data-ttu-id="22f31-111">Hvis du vil fjerne alle slettede meldinger, åpne mappen [Slettede elementer-mappen](https://outlook.live.com/mail/deleteditems) , og velg **Tøm mappen** > **sletter alle**, deretter velger du **gjenopprette elementer som er slettet fra denne mappen** på toppen av siden, og velg **Tøm mappen** på nytt .</span><span class="sxs-lookup"><span data-stu-id="22f31-111">To purge all your deleted messages, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder** > **Delete all**, then select **Recover items deleted from this folder** at the top of the page and select **Empty folder** again.</span></span>
+
+<span data-ttu-id="22f31-112">Hvis du vil ha mer informasjon, kan du se [slette e-post i Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span><span class="sxs-lookup"><span data-stu-id="22f31-112">For more information, see [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span></span>
