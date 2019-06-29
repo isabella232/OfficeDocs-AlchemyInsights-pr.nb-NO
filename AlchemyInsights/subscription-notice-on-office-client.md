@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "56"
+- "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 68592c1fd0626bb1d0f75ad2465e857245b87e13
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9bd764984a3ea053e6135124c7d217280d2e4fe9
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421105"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367946"
 ---
-# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="6974c-102">Abonnement ser i Office-klienten?</span><span class="sxs-lookup"><span data-stu-id="6974c-102">Subscription notice in your Office client?</span></span>
+# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="43c86-102">Abonnement ser i Office-klienten?</span><span class="sxs-lookup"><span data-stu-id="43c86-102">Subscription notice in your Office client?</span></span>
 
-<span data-ttu-id="6974c-103">Det ser ut som om du ser en melding i din Office-klient som er knyttet til statusen for Office 365-abonnementet.</span><span class="sxs-lookup"><span data-stu-id="6974c-103">It looks like you are seeing a notice in your Office client related to the status of your Office 365 subscription.</span></span> <span data-ttu-id="6974c-104">Du finner informasjon om hvordan du løser problemet i denne artikkelen: [en abonnement-meldingen vises når jeg åpner et program i Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="6974c-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
+<span data-ttu-id="43c86-103">Det ser ut som om du ser en melding i din Office-klient som er knyttet til statusen for Office 365-abonnementet.</span><span class="sxs-lookup"><span data-stu-id="43c86-103">It looks like you are seeing a notice in your Office client related to the status of your Office 365 subscription.</span></span> <span data-ttu-id="43c86-104">Du finner informasjon om hvordan du løser problemet i denne artikkelen: [en abonnement-meldingen vises når jeg åpner et program i Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="43c86-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
   
-<span data-ttu-id="6974c-105">Hvis Office 365-abonnementet er oppdatert, kan du har truffet et midlertidig problem som førte til Office-aktivering mislyktes.</span><span class="sxs-lookup"><span data-stu-id="6974c-105">If your Office 365 subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="6974c-106">Det finnes enkle trinn du kan gjøre for å unngå disse meldingene, som kontrollerer datamaskinen gangen, kjører Office som Administrator og logge deg på å aktivere.</span><span class="sxs-lookup"><span data-stu-id="6974c-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="6974c-107">Du finner en detaljert fremgangsmåte for å løse disse problemene i denne artikkelen: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="6974c-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span> 
+<span data-ttu-id="43c86-105">Hvis Office 365-abonnementet er oppdatert, kan du har truffet et midlertidig problem som førte til Office-aktivering mislyktes.</span><span class="sxs-lookup"><span data-stu-id="43c86-105">If your Office 365 subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="43c86-106">Det finnes enkle trinn du kan gjøre for å unngå disse meldingene, som kontrollerer datamaskinen gangen, kjører Office som Administrator og logge deg på å aktivere.</span><span class="sxs-lookup"><span data-stu-id="43c86-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="43c86-107">Du finner en detaljert fremgangsmåte for å løse disse problemene i denne artikkelen: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="43c86-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
   
-<span data-ttu-id="6974c-108">Hvis disse ikke fungerer for deg, du kontakte kan oss med koblingene nedenfor og vi vil gjerne hjelpe.</span><span class="sxs-lookup"><span data-stu-id="6974c-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
+<span data-ttu-id="43c86-108">Hvis disse ikke fungerer for deg, du kontakte kan oss med koblingene nedenfor og vi vil gjerne hjelpe.</span><span class="sxs-lookup"><span data-stu-id="43c86-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
   
-
