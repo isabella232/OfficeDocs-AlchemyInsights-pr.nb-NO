@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "232"
+- "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e1c773901cf367f40256597e1559da4d5da861c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401085"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387210"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Formatering skriftproblemer i Excel
 
-I Excel 2016 kanskje skriftformatering vises ikke riktig i en celle. Dette kan skje hvis en celle inneholder mer enn én type skriftformatering. Hvis for eksempel noen tegn er uthevet, og andre ikke er uthevet, kan du ikke se viser det fete formatet som vises. Eller hvis du har forskjellige fargede tegn i samme celle, kan du ikke se fargene vises på riktig måte. Vår utvikling team er klar over problemet og jobber med en hurtigreparasjon. I mellomtiden kan du prøve å bruke en annen skrift. Eller prøv å unngå å bruke flere typer formatering i samme celle til dette problemet er løst. 
+I Excel 2016 kanskje skriftformatering vises ikke riktig i en celle. Dette kan skje hvis en celle inneholder mer enn én type skriftformatering. Hvis for eksempel noen tegn er uthevet, og andre ikke er uthevet, kan du ikke se viser det fete formatet som vises. Eller hvis du har forskjellige fargede tegn i samme celle, kan du ikke se fargene vises på riktig måte. Vår utvikling team er klar over problemet og jobber med en hurtigreparasjon. I mellomtiden kan du prøve å bruke en annen skrift. Eller prøv å unngå å bruke flere typer formatering i samme celle til dette problemet er løst.
   
-

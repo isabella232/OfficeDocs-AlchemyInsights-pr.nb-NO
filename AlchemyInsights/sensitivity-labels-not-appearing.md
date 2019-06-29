@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770782"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355742"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Følsomhetsetiketter vises ikke
 
@@ -25,8 +28,7 @@ Hvis du har konfigurert følsomhet etikettene, men de vises ikke i Office-progra
 - Bekreft følsomhet etiketten har blitt [publisert](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) til brukerne og gruppene du vil bruke.
 
 - Bekreft at du bruker et program som støtter følsomhetsetiketter - se [følsomhetsetiketter i dokumentet](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Hvis du [overfører Azure informasjonsbeskyttelse etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), må du være klar over de vurderinger oppført [her](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Data tap forebygging (DLP) støtte: for øyeblikket bare oppbevaring etiketter kan brukes som en betingelse i DLP-policyer.  Støtte for følsomhetsetiketter i en DLP-policy er ikke tilgjengelig ennå, men vi arbeider med den.

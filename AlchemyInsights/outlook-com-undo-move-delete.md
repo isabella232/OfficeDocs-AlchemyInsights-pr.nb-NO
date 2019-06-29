@@ -1,26 +1,28 @@
 ---
-title: 9000193 Angre Flytt eller Slett i Outlook.com
+title: Angre Flytt eller Slett i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373001"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361070"
 ---
 # <a name="action-confirmations"></a>Handlingen bekreftelser
 
-Funksjonen handling bekreftelser i Outlook.com, kan du angre en flytte- eller sletting du akkurat har ved en feiltakelse. Angre-dialogboksen vil vises nederst på skjermen i omtrent fem sekunder, og reversere flyttingen eller slette handlingen.
+Hvis du ved et uhell har flyttet eller slettet en melding, kan du angre handlingen. Angre-dialogboksen vises nederst på skjermen i omtrent fem sekunder. Velg **Angre** til å avbryte flyttingen eller slette handlingen.
 
-Du kan slå det av i [handlingen bekreftelser](https://outlook.live.com/mail/options/general/notifications) (**Innstillinger for** > **Vis alle innstillinger i Outlook** > **Generelt** > **varsler**).
+Du kan slå av denne funksjonen i [handlingen bekreftelser](https://outlook.live.com/mail/options/general/notifications) (**Innstillinger for** > **Vis alle innstillinger i Outlook** > **Generelt** > **varsler**).
 
-Merk: Du kan ikke angre sending av melding. Hvis du vil ha mer informasjon, ser du [jeg vil kalle tilbake en melding i Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Merk: Når en melding er sendt, du kan ikke angre denne handlingen. Hvis du vil ha mer informasjon, ser du [jeg vil kalle tilbake en melding i Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
