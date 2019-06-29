@@ -9,35 +9,37 @@ ms.topic: get-started-article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800014
+ms.custom:
+- "598"
+- "900"
+- "1800014"
+- "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: ac6647bb7c500ed7265d230a2aece0d19ed048fe
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 168761c46cb7534d466664d6172c6e9f2ce74101
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761375"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355310"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="ad885-102">Konfigurere e-post i Outlook mobile-programmet</span><span class="sxs-lookup"><span data-stu-id="ad885-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="1bf48-102">Konfigurere e-post i Outlook mobile-programmet</span><span class="sxs-lookup"><span data-stu-id="1bf48-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="ad885-103">Hvis det er din første gang konfigurere e-post i mobile app, velger du **Komme i gang** .</span><span class="sxs-lookup"><span data-stu-id="ad885-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="ad885-104">Hvis ikke, Tapp **-menyen** , og tapp deretter **Innstillinger** \> **Legge til konto** \> **Legge til e-postkonto**.</span><span class="sxs-lookup"><span data-stu-id="ad885-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span> 
-    
-2. <span data-ttu-id="ad885-105">Skriv inn fullstendige e-postadressen din og velg **Fortsett** eller **Legge til kontoen**.</span><span class="sxs-lookup"><span data-stu-id="ad885-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
-    
-3. <span data-ttu-id="ad885-106">Skriv inn passordet for e-postkontoen, og tapp deretter **Sign In** eller **Neste**.</span><span class="sxs-lookup"><span data-stu-id="ad885-106">Enter your email account password and tap **Sign In** or **Next**.</span></span> 
-    
-4. <span data-ttu-id="ad885-107">Hvis [multifaktorautentisering](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) er aktivert, kan du kontrollere ved hjelp av metoden du definere (6-sifret kode, telefonsamtale eller Microsoft Authenticator app).</span><span class="sxs-lookup"><span data-stu-id="ad885-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span> 
-    
-5. <span data-ttu-id="ad885-108">Hvis det er flere policyer for IT-administrasjon på stedet, tapper du **Aktiver** for å aktivere dem.</span><span class="sxs-lookup"><span data-stu-id="ad885-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span> 
-    
-6. <span data-ttu-id="ad885-109">Outlook kan be om tillatelse til å få tilgang til kalenderen, kontakter og annen informasjon.</span><span class="sxs-lookup"><span data-stu-id="ad885-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="ad885-110">Velg **Ja** eller **tillate**.</span><span class="sxs-lookup"><span data-stu-id="ad885-110">Select **Yes** or **Allow**.</span></span> 
-    
-<span data-ttu-id="ad885-111">Få detaljert Sett opp instruksjoner for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) eller [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) her.</span><span class="sxs-lookup"><span data-stu-id="ad885-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span> 
-  
- <span data-ttu-id="ad885-112">**Trenger du hjelp?**</span><span class="sxs-lookup"><span data-stu-id="ad885-112">**Need help?**</span></span>
-  
-- [<span data-ttu-id="ad885-113">Feilsøking i forbindelse med oppsett av e-post på mobile</span><span class="sxs-lookup"><span data-stu-id="ad885-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
-    
-- [<span data-ttu-id="ad885-114">Få hjelp i app for Outlook for iOS og Android</span><span class="sxs-lookup"><span data-stu-id="ad885-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
-    
+1. <span data-ttu-id="1bf48-103">Hvis det er din første gang konfigurere e-post i mobile app, velger du **Komme i gang** .</span><span class="sxs-lookup"><span data-stu-id="1bf48-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="1bf48-104">Hvis ikke, Tapp **-menyen** , og tapp deretter **Innstillinger** \> **Legge til konto** \> **Legge til e-postkonto**.</span><span class="sxs-lookup"><span data-stu-id="1bf48-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
+2. <span data-ttu-id="1bf48-105">Skriv inn fullstendige e-postadressen din og velg **Fortsett** eller **Legge til kontoen**.</span><span class="sxs-lookup"><span data-stu-id="1bf48-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+
+3. <span data-ttu-id="1bf48-106">Skriv inn passordet for e-postkontoen, og tapp deretter **Sign In** eller **Neste**.</span><span class="sxs-lookup"><span data-stu-id="1bf48-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+
+4. <span data-ttu-id="1bf48-107">Hvis [multifaktorautentisering](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) er aktivert, kan du kontrollere ved hjelp av metoden du definere (6-sifret kode, telefonsamtale eller Microsoft Authenticator app).</span><span class="sxs-lookup"><span data-stu-id="1bf48-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+
+5. <span data-ttu-id="1bf48-108">Hvis det er flere policyer for IT-administrasjon på stedet, tapper du **Aktiver** for å aktivere dem.</span><span class="sxs-lookup"><span data-stu-id="1bf48-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+
+6. <span data-ttu-id="1bf48-109">Outlook kan be om tillatelse til å få tilgang til kalenderen, kontakter og annen informasjon.</span><span class="sxs-lookup"><span data-stu-id="1bf48-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="1bf48-110">Velg **Ja** eller **tillate**.</span><span class="sxs-lookup"><span data-stu-id="1bf48-110">Select **Yes** or **Allow**.</span></span>
+
+<span data-ttu-id="1bf48-111">Få detaljert Sett opp instruksjoner for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) eller [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) her.</span><span class="sxs-lookup"><span data-stu-id="1bf48-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+  
+ <span data-ttu-id="1bf48-112">**Trenger du hjelp?**</span><span class="sxs-lookup"><span data-stu-id="1bf48-112">**Need help?**</span></span>
+  
+- [<span data-ttu-id="1bf48-113">Feilsøking i forbindelse med oppsett av e-post på mobile</span><span class="sxs-lookup"><span data-stu-id="1bf48-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+
+- [<span data-ttu-id="1bf48-114">Få hjelp i app for Outlook for iOS og Android</span><span class="sxs-lookup"><span data-stu-id="1bf48-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
