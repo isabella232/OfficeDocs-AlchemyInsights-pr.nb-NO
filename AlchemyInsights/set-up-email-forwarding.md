@@ -9,27 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "20"
+- "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: b35fecdcb232ea731659d7d585c56d01d2fb9f45
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32377893"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355382"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sjekk e-post videresending av innstillingene for en postboks
 
 Det er lett å kontrollere e-post videresending av innstillingene på en postkasse! Følg disse trinnene.
   
-> Hvis dette er en Brukerpostboks, går du til **brukere** \> **aktive brukere** , og velg brukergruppen som har postboksen du videresender. Under e-postinnstillinger, velger du **Rediger** for videresending av e-post. 
+> Hvis dette er en Brukerpostboks, går du til **brukere** \> **aktive brukere** , og velg brukergruppen som har postboksen du videresender. Under e-postinnstillinger, velger du **Rediger** for videresending av e-post.
     
-> Hvis dette er en delt postboks, kan du gå til **grupper** \> **Delte postbokser** , og velg den delte postboksen du videresender. Velg **Rediger** for videresending av e-post. 
-    
-Hvis du vil ha mer informasjon, kan du se [konfigurere e-post videresending i Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74). 
-  
-Hvis du vil sende instruksjoner til brukerne, slik at de kan konfigurere videresending av e-post på sin egen postboks, velger du dem til å [videresende e-post fra Office 365 til en annen e-postkonto ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Merk: du kan videresende til bare én e-postadresse. Hvis du trenger å sette opp videresending til en gruppe personer, kan du opprette en distribusjonsliste (under grupper), legge til brukere i den, og deretter konfigurere videresending til denne gruppen.
-  
-Har du en ansatt forlater? Se [fjerne en tidligere ansatt fra Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for anbefalte trinn du bør ta. 
-  
+> Hvis dette er en delt postboks, kan du gå til **grupper** \> **Delte postbokser** , og velg den delte postboksen du videresender. Velg **Rediger** for videresending av e-post.
 
+Hvis du vil ha mer informasjon, kan du se [konfigurere e-post videresending i Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
+  
+Hvis du vil sende instruksjoner til brukerne, slik at de kan konfigurere videresending av e-post på sin egen postboks, velger du dem til å [videresende e-post fra Office 365 til en annen e-postkonto](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Merk: du kan videresende til bare én e-postadresse. Hvis du trenger å sette opp videresending til en gruppe personer, kan du opprette en distribusjonsliste (under grupper), legge til brukere i den, og deretter konfigurere videresending til denne gruppen.
+  
+Har du en ansatt forlater? Se [fjerne en tidligere ansatt fra Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for anbefalte trinn du bør ta.
+  

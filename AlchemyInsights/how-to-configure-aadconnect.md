@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752570"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385365"
 ---
 # <a name="configure-sync-features"></a>Konfigurere synkroniseringsfunksjoner
 
@@ -23,7 +25,7 @@ Koble til Azure AD inneholder flere funksjoner som er aktivert som standard, ell
 
 - [Filtrering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) grenser objektene synkroniseres Azure AD. Som standard, alle brukere, kontakter, grupper og Windows 10 synkroniseres datamaskinkontoer. Du kan inkludere eller utelate objekter basert på domener, organisasjonsenheter eller andre attributter.
 
-- [Passord hash synkroniseringen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniserer passord hash-koden fra den lokale Active Directory til Azure AD. Dette gjør at passordadministrasjon på ett sted, men bruk av samme passord i både lokale og sky miljøer. Active Directory er den autoritative kilden, kan du bruke dine egne passordpolicyer for.
+- [Synkronisering av passord hash](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniserer passord hash-koden fra den lokale Active Directory til Azure AD. Dette gjør at passordadministrasjon på ett sted, men bruk av samme passord i både lokale og sky miljøer. Active Directory er den autoritative kilden, kan du bruke dine egne passordpolicyer for.
 
 - [Self service for å tilbakestille passord (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) , lar brukerne tilbakestiller sine egne passord i skyen under fortsatt bruk av den lokale policyen.
 

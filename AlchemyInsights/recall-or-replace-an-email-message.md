@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770817"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356606"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Tilbakekalle eller erstatte en e-postmelding
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770817"
 - Hvis du er en administrator, kan du **tilbakekalling av meldinger på vegne av brukere ved hjelp av PowerShell**. Du kan ikke tilbakekalle meldinger fra administrasjonssenteret. Bla ned til "Søk etter og Slett e-postmeldinger i organisasjonen" for mer informasjon.
 
 ***Tilbakekalle eller erstatte en e-postmelding du har sendt***
+
 1. Velg mappen Sendte elementer i mapper-ruten til venstre i Outlook-vinduet.
 2. Åpne meldingen du vil kalle tilbake. Du må dobbeltklikke for å åpne meldingen. Å merke meldingen slik den vises i leseruten mulig ikke å kalle tilbake meldingen.
 3. Velg **Handlinger**i kategorien melding > **Kall tilbake denne meldingen**.
 4. Velg **Slette uleste kopier av denne meldingen** , eller **Slette uleste kopier og erstatte dem med en ny melding**, og velg deretter **OK**.
 5. Hvis du sender en ny melding, meldingen, og deretter velger du **Send**.
-6. Vellykket eller mislykket tilbakekalling av en melding, avhengig av mottakerens innstillinger i Outlook. 
+6. Vellykket eller mislykket tilbakekalling av en melding, avhengig av mottakerens innstillinger i Outlook.
 
 Hvis du vil ha mer informasjon, inkludert hvordan du kontrollerer tilbakekallingen, kan du se [tilbakekalle eller erstatte en e-postmelding som er sendt](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

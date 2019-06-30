@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000229"
 - "1811"
-ms.openlocfilehash: 5908474649dbf3eb77e7b91f8df6a508e36f8080
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+- "9000229"
+ms.openlocfilehash: 1006351fcfd84cc8ab5f4c83739ed3f56f71cded
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643525"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377274"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Legge til en fødselsdagskalender i Outlook.com
 
-1. Nederst på siden, velger du Kalender-ikonet for å gå til kalenderen.
+1. Nederst på siden, velger du Kalender-ikonet for å [Gå til kalenderen](https://outlook.live.com/mail/calendar).
 1. I venstre rute, høyreklikk **fødselsdager** og velg **Ny fødselsdag**.
 1. Skriv inn personens navn og Fødselsdato, og velg **Opprett**.
 1. Velg **Fødselsdag** i kalenderen for å slå påminnelser på og av.
