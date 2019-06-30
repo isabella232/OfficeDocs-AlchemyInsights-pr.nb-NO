@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1900
+ms.custom:
+- "1900"
+- "3500008"
 ms.assetid: ''
-ms.openlocfilehash: fb5deac1c4495dce6f2867035359daf8787b5ce5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f030f601d3cf0f8d603cea774e59eb29fe4b932c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751854"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382530"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="48125-102">Øke EWS regulere grenser for overføring av e-post</span><span class="sxs-lookup"><span data-stu-id="48125-102">Increase EWS throttling limits for mail migration</span></span>
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="f92a3-102">Øke EWS regulere grenser for overføring av e-post</span><span class="sxs-lookup"><span data-stu-id="f92a3-102">Increase EWS throttling limits for mail migration</span></span>
 
-<span data-ttu-id="48125-103">Hvis du vil øke din leier EWS regulere grenser for migrering av e-post, fortsette og åpne en support billett.</span><span class="sxs-lookup"><span data-stu-id="48125-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
+<span data-ttu-id="f92a3-103">Hvis du vil øke din leier EWS regulere grenser for migrering av e-post, fortsette og åpne en support billett.</span><span class="sxs-lookup"><span data-stu-id="f92a3-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
