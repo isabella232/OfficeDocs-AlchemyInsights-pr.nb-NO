@@ -7,28 +7,30 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "957"
+- "3100016"
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0f5c0ef451c6f1ba6862f5bcec45c4bada374b60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388984"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356534"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Anbefalt fremgangsmåte hvis en konto kompromitteres
 
 [VIDEO: Reparere en kompromittert Office 365-konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Tilbakestille brukerpassordet](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) umiddelbart. Ikke formidle det nye passordet til sluttbrukeren via e-post. 
-    
-2. Fjern eventuelle mistenkelige [videresendingsadresser](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) angitt på postboksnivå. 
-    
-3. Fjern eventuelle mistenkelige [innboksregler](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) angitt i postboksen. 
-    
+1. [Tilbakestille brukerpassordet](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) umiddelbart. Ikke formidle det nye passordet til sluttbrukeren via e-post.
+
+2. Fjern eventuelle mistenkelige [videresendingsadresser](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) angitt på postboksnivå.
+
+3. Fjern eventuelle mistenkelige [innboksregler](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) angitt i postboksen.
+
 4. Hvis brukeren er blokkert fra å sende e-postmeldinger, kan du [gå til Begrensede brukere for å oppheve blokkeringen av kontoen](https://protection.office.com/?hash=/restrictedusers). Når du er ferdig, kan brukeren fortsette å sende meldinger i løpet av én time.
-    
-5. Fjern brukerkontoen fra eventuelle [administrative rollegrupper](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) til du er sikker på at kontoen ikke lenger er kompromittert. 
-    
+
+5. Fjern brukerkontoen fra eventuelle [administrative rollegrupper](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) til du er sikker på at kontoen ikke lenger er kompromittert.
+
 For å minimere et mulig databrudd eller en kompromittert konto i fremtiden anbefaler vi at du leser [artikkelen Gode fremgangsmåter for sikkerhet for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
   
-

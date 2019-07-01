@@ -1,5 +1,5 @@
 ---
-title: Klargjøre for bruk av TLS 1.2 i Office 365
+title: Klargjør for bruk av TLS 1.2 i Office 365
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29481909"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370936"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Klargjøre for bruk av TLS 1.2 i Office 365
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Klargjør for bruk av TLS 1.2 i Office 365
 
-Fra og med oktober 31, 2018 fortsetter Office 365 gå over til TLS 1.2. Dette betyr at Microsoft ikke løse nye problemer som er funnet i klienter, enheter eller tjenester som kobler til Office 365 ved hjelp av TLS 1.0 og 1.1. **Dette betyr ikke Office 365 vil blokkere TLS 1.0 og 1.1 tilkoblinger.** Eventuell nedgraderingen datoen bestemmes ved bruk av kunde og gjeldende status for eldre TLS-sikkerhet. Når en beslutning er gjort, vil det være en kunngjøring seks måneder i forveien Hvis vi blir klar over et kjent kompromiss, da vi har til å handle i mindre enn seks måneder for å beskytte kunder som bruker tjenestene. 
+Fra og med 31. oktober 2018 vil vi fortsette med overgangen til TLS 1.2 for Office 365. Dette betyr at Microsoft ikke løser nye problemer som finnes i klienter, enheter eller tjenester som kobler til Office 365 ved hjelp av TLS 1.0 og 1.1. **Dette betyr ikke at TLS 1.0- og 1.1-tilkoblinger blokkeres i Office 365.** Den endelige avskrivingsdatoen bestemmes av kundenes forbruk og gjeldende status for eldre TLS-sikkerhet. Når det er tatt en beslutning, vil det komme en kunngjøring seks måneder på forhånd, med mindre vi blir klare over en kjent risiko. Hvis det er tilfelle, må vi kanskje handle på mindre enn seks måneders varsel for å beskytte kunder som bruker tjenestene.
   
-Det anbefales på det sterkeste at alle servere og klienter kobler til Office 365, må du aktivere TLS 1.2 så snart som mulig.
+Det anbefales på det sterkeste at du aktiverer TLS 1.2 så fort som mulig for alle servere og klienter som brukes til å koble til Office 365.
   
-For mer informasjon se [forberede TLS 1.2 i Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Hvis du vil ha mer informasjon, kan du se [Klargjør for TLS 1.2 i Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
-
