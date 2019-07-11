@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377778"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614143"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Legge til andre e-postkontoer i Outlook.com
 
@@ -32,6 +32,6 @@ Legge til en tilkoblet konto:
 
 Du kan sende e-post fra en hvilken som helst konto du har koblet til Outlook.com-kontoen din. Når du skriver en e-post, velger du **fra** , og velge hvilke e-postadressen du vil bruke, eller [oppdatere standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Hvis du vil ha mer informasjon, kan du lese [Legg til dine andre e-postkontoer til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Hvis du vil ha mer informasjon, kan du lese [Legg til dine andre e-postkontoer til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Hvis du vil opprette en ny e-postadresse som bruker den samme Outlook.com-kontoen, kan du lese [legge til eller fjerne en e-postalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Hvis du vil opprette en ny e-postadresse som bruker den samme Outlook.com-kontoen, kan du lese [legge til eller fjerne en e-postalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377706"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614107"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Legge til et e-postalias i Outlook.com
 
@@ -30,6 +30,6 @@ Legge til en e-postadresse:
     2. Legge til en eksisterende e-postadresse som alias.
 3. Velg **Legg til aliaset**.
 
-Les mer om hvordan du [legger til eller fjerner et postalias for e-i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).  
+Les mer om hvordan du [legger til eller fjerner et postalias for e-i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Les [hvordan du kan koble til en annen e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) på Outlook.com-kontoen.
+Les [hvordan du kan koble til en annen e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) på Outlook.com-kontoen.
