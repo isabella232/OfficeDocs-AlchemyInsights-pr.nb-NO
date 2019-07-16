@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000054
-ms.openlocfilehash: 5e5e1a38e3fb4d09b1da3223f473e08fe2bd3684
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 34739b8a61ae5a4bd1c39ec919fc8ab4f4d6a76f
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372713"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35703957"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>E-post og lagring kvote i Outlook.com
 
@@ -22,8 +22,8 @@ ms.locfileid: "32372713"
 
 Microsoft tilbyr 15 GB e lagringsplass per konto for gratis Outlook.com. Hjemmeside for Office 365 og Office 365 personlige abonnenter får 50 GB plass.
   
-Hvis innboksen er full, du vil ikke kunne sende eller motta meldinger, og personer som sender deg e-får en feilmelding om at innboksen din er full. Tips om hvordan du frigjøre lagringsplass i innboksen, kan du se [lagringsgrenser i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001900&amp;clcid=0x409).
+Hvis innboksen er full, du vil ikke kunne sende eller motta meldinger, og personer som sender deg e-får en feilmelding om at innboksen din er full. Tips om hvordan du frigjøre lagringsplass i innboksen, kan du se [lagringsgrenser i Outlook.com](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Begrensninger for sending**
 
-Som en del av våre anstrengelser for å redusere plass, er det en daglig e-post sende grensen i Outlook.com. Se [begrensninger for Sending i Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e) å lære hva du kan gjøre for å hjelpe.
+Som en del av våre anstrengelser for å redusere plass, er det en daglig e-post sende grensen i Outlook.com. Se [begrensninger for Sending i Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy) å lære hva du kan gjøre for å hjelpe.

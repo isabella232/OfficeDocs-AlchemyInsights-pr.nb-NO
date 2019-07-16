@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373818"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701296"
 ---
 # <a name="account-locked"></a>Kontoen er låst
 
@@ -25,4 +25,4 @@ Hvis du ser meldingen "kontoen er låst" når du prøver å logge på, er det fo
 1. Gå til [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) og logge på kontoen din er låst.Hvis du vil låse opp kontoen din, må du angi Sikkerhetskoden du fikk i meldingen fra Microsoft. Hvis du vil ha meldingen, må du ha en mobiltelefon som støtter tekstmeldinger. Hvis telefonen ikke støtter tekstmeldinger, kan du be en venn eller et familiemedlem til å bruke deres telefon. Microsoft Lagre ikke dette telefonnummeret, slik at telefonnummeret som du bruker til å motta denne meldingen, ikke trenger å være knyttet til kontoen din.
 2. Hvis du ser meldingen "Bruk grense overskredet", går du til [Kontoen Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) og en av våre agenter vil gjennomgå din konto.
 
-Hvis du vil ha mer informasjon, kan du lese [Unblock Outlook.com-kontoen min](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
+Hvis du vil ha mer informasjon, kan du lese [Unblock Outlook.com-kontoen min](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
