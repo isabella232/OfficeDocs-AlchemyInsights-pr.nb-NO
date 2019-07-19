@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366340"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786422"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nødvendig Alkymi hodet H1, H2's virker ikke.
 Gode fremgangsmåter og retningslinjer for redigering av Alkymi:
@@ -37,4 +37,6 @@ Gode fremgangsmåter og retningslinjer for redigering av Alkymi:
 
 Og dette er virkelig allerede litt for langt. Beste praksis er omtrent 400 tegn---
 
-Når innholdet er klar, drar du den til live grenen. Deretter kan du gå til [partnerportalen på Alkymi](https://alchemyportal.azurewebsites.net) og skriver inn filnavnet i feltet URL-adresse. M
+Når innholdet er klar, drar du den til live grenen. Deretter kan du gå til [partnerportalen på Alkymi](https://alchemyportal.azurewebsites.net) og skriver inn filnavnet i feltet URL-adresse. 
+
+
