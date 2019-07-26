@@ -12,30 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 471958c764ddeb4e4600005b6d9e6772423e29ac
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366146"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903718"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="3709c-102">Oppdater betalingsdetaljer</span><span class="sxs-lookup"><span data-stu-id="3709c-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="392f8-102">Oppdater betalingsdetaljer</span><span class="sxs-lookup"><span data-stu-id="392f8-102">Update payment details</span></span>
 
-1. <span data-ttu-id="3709c-103">Gå til [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Betalingsmåter**.</span><span class="sxs-lookup"><span data-stu-id="3709c-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="3709c-104">Hvis du blir fanget i en løkke som sender deg tilbake til hjemmesiden for administrator før oppdateringene er fullførte, kan du prøve InPrivate- eller inkognitomodus.</span><span class="sxs-lookup"><span data-stu-id="3709c-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
-  
-2. <span data-ttu-id="3709c-105">Velg kredittkortet du ønsker å oppdatere.</span><span class="sxs-lookup"><span data-stu-id="3709c-105">Choose the credit card you would like to update.</span></span>
+1. <span data-ttu-id="392f8-103">Gå til [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Betalingsmåter**.</span><span class="sxs-lookup"><span data-stu-id="392f8-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="3709c-106">Hvis betalingsmåten ble lagt til av en annen administrator, kan du ikke oppdatere kredittkort- eller bankkontoinformasjonen for abonnementet.</span><span class="sxs-lookup"><span data-stu-id="3709c-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="3709c-107">Hvis kredittkortet er i ferd med å utløpe og den andre administratoren ikke kan oppdatere informasjonen, kan du hindre at tjenesten opphører ved å legge til et annet kredittkort eller en ny bankkonto for abonnementet. Dette gjør du ved å velge **Legg til betalingsmåte**.</span><span class="sxs-lookup"><span data-stu-id="3709c-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+    > <span data-ttu-id="392f8-104">Hvis du blir fanget i en løkke som sender deg tilbake til hjemmesiden for administrator før oppdateringene er fullførte, kan du prøve InPrivate- eller inkognitomodus.</span><span class="sxs-lookup"><span data-stu-id="392f8-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
   
-3. <span data-ttu-id="3709c-108">Velg **Rediger betalingsdetaljer** på **Betalingsdetaljer**-siden.</span><span class="sxs-lookup"><span data-stu-id="3709c-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
+2. <span data-ttu-id="392f8-105">Velg kredittkortet du ønsker å oppdatere.</span><span class="sxs-lookup"><span data-stu-id="392f8-105">Choose the credit card you would like to update.</span></span>
 
-4. <span data-ttu-id="3709c-109">Foreta oppdateringene, og velg deretter **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="3709c-109">Make the updates, and then choose **Save**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="392f8-106">Hvis betalingsmåten ble lagt til av en annen administrator, kan du ikke oppdatere kredittkort- eller bankkontoinformasjonen for abonnementet.</span><span class="sxs-lookup"><span data-stu-id="392f8-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="392f8-107">Hvis kredittkortet er i ferd med å utløpe og den andre administratoren ikke kan oppdatere informasjonen, kan du hindre at tjenesten opphører ved å legge til et annet kredittkort eller en ny bankkonto for abonnementet. Dette gjør du ved å velge **Legg til betalingsmåte**.</span><span class="sxs-lookup"><span data-stu-id="392f8-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+  
+3. <span data-ttu-id="392f8-108">Velg **Rediger betalingsdetaljer** på **Betalingsdetaljer**-siden.</span><span class="sxs-lookup"><span data-stu-id="392f8-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
 
-5. <span data-ttu-id="3709c-110">Hvis du vil fjerne denne betalingsmåten, velger du **Slett**.</span><span class="sxs-lookup"><span data-stu-id="3709c-110">To remove this payment method, choose **Delete**.</span></span>
+4. <span data-ttu-id="392f8-109">Foreta oppdateringene, og velg deretter **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="392f8-109">Make the updates, and then choose **Save**.</span></span>
 
-<span data-ttu-id="3709c-111">Hvis du vil ha mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) og [Feilsøke kredittkort og bankkontoer](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="3709c-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+5. <span data-ttu-id="392f8-110">Hvis du vil fjerne denne betalingsmåten, velger du **Slett**.</span><span class="sxs-lookup"><span data-stu-id="392f8-110">To remove this payment method, choose **Delete**.</span></span>
+
+<span data-ttu-id="392f8-111">Hvis du vil ha mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) og [Feilsøke kredittkort og bankkontoer](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="392f8-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
