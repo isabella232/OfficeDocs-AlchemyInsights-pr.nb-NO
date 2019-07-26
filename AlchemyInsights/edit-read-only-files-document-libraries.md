@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132731"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903947"
 ---
 # <a name="edit-a-read-only-file"></a>Redigere en skrivebeskyttet fil
 
@@ -25,7 +25,7 @@ I stedet for å klikke tittelen på dokumentet, klikk **Åpne-menyen** (de tre p
 
 Merknader:
 
-- Hvis du vil heller har dokumenter åpne for redigering i Office Online når du klikker tittelen, kan du definere biblioteket til å gjøre det (så lenge du har tillatelse til å endre innstillinger for dokumentbibliotek).
+- Hvis du vil heller dokumentene som er åpne for redigering i Office når du klikker tittelen, kan du definere biblioteket til å gjøre det (så lenge du har tillatelse til å endre innstillinger for dokumentbibliotek).
 
 - Hvis du har biblioteker med utsjekking, obligatoriske kolonner eller når bare brukere som kan redigere i innstillinger for versjon av et SharePoint-dokumentbibliotek, vil disse elementene som skal synkroniseres med skrivebeskyttelse.
 
