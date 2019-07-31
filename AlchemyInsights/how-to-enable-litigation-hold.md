@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
+ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384762"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937867"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Sette en postboks på juridiske Vent
 
@@ -26,4 +26,4 @@ ms.locfileid: "35384762"
 
 - Aktivere rettstvist holder for en enkelt bruker, [følger du denne fremgangsmåten](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når du holder rettstvist er aktivert, beholdes alt innhold i postboksen.
 
-- Hvis du vil plassere en sperring på alle postbokser i organisasjonen, kan du bruke en oppbevaringspolicy for Office 365 ved å [følge disse trinnene](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Legg merke til at for hele organisasjonen oppbevaringspolicyer nye brukere tilordnes automatisk til policyen.
+- Hvis du vil plassere en sperring på alle postbokser i organisasjonen, kan du bruke en oppbevaringspolicy for Office 365 ved å [følge disse trinnene](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). Legg merke til at for hele organisasjonen oppbevaringspolicyer nye brukere tilordnes automatisk til policyen.
