@@ -15,12 +15,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 1139ddf9028e8e54ec467948705d10a456e4e84f
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: f05e8fa7b973fd4b747aebaac0b76baf3fd67b2d
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35745616"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049185"
 ---
 # <a name="find-missing-folders"></a>Søk etter manglende mapper
 
@@ -28,4 +28,4 @@ Hvis du ikke kan se mappene, må du kontrollere at mappene ikke er skjult. Velg 
   
 Hvis du ved et uhell sletter en mappe, kan du gjenopprette det hvis det er fremdeles i mappen Slettede elementer. Hvis du vil ha mer informasjon, kan du lese [Restoring slettede e-postmeldinger i Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Det er et kjent problem der mapper mangler. Vi arbeider for å løse dette problemet. Du kan fortsatt finne elementer som er lagret i de manglende mappene ved hjelp av **Søk**, og det kan hjelpe Hvis du logger av og deretter logge på igjen. [Klikk her for å logge av.](https://login.live.com/logout.srf)
+Det er et kjent problem der mapper mangler. Vi arbeider for å løse dette problemet. Du kan fortsatt finne elementer som er lagret i de manglende mappene ved hjelp av **Søk** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, og det kan hjelpe Hvis du logger av og deretter logge på igjen. [Klikk her for å logge av.](https://login.live.com/logout.srf)
