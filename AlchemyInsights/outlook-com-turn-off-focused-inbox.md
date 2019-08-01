@@ -3,7 +3,7 @@ title: Slå av fokusert innboks
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 7/29/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1199"
 - "105"
 - "8000001"
-ms.openlocfilehash: d4b434d49f6cdbc75f892d613e2d0902074fa4a5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4a423a175f0dde5e70345bd82c851444b3f78e45
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371514"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044609"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="b44e8-102">Slå av fokusert innboks</span><span class="sxs-lookup"><span data-stu-id="b44e8-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="ddd78-102">Slå av fokusert innboks</span><span class="sxs-lookup"><span data-stu-id="ddd78-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="b44e8-103">Velg girikonet å åpne innstillinger-ruten øverst på siden.</span><span class="sxs-lookup"><span data-stu-id="b44e8-103">At the top of the page, select the gear icon to open the Settings pane.</span></span>
-2. <span data-ttu-id="b44e8-104">I innstillinger-ruten flytter du **Fokusert innboks** -slå av.</span><span class="sxs-lookup"><span data-stu-id="b44e8-104">In the Settings pane, move the **Focused Inbox** toggle to off.</span></span>
+1. <span data-ttu-id="ddd78-103">Velg øverst på siden</span><span class="sxs-lookup"><span data-stu-id="ddd78-103">At the top of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> <span data-ttu-id="ddd78-104">for å åpne innstillinger-ruten.</span><span class="sxs-lookup"><span data-stu-id="ddd78-104">to open the Settings pane.</span></span>
+2. <span data-ttu-id="ddd78-105">I innstillinger-ruten flytter du **Fokusert innboks** -slå av.</span><span class="sxs-lookup"><span data-stu-id="ddd78-105">In the Settings pane, move the **Focused Inbox** toggle to off.</span></span>
 
-<span data-ttu-id="b44e8-105">Hvis du vil ha mer informasjon, kan du se [Slå av fokusert innboks](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span><span class="sxs-lookup"><span data-stu-id="b44e8-105">For more information, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span></span>
+<span data-ttu-id="ddd78-106">Hvis du vil ha mer informasjon, kan du se [Slå av fokusert innboks](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span><span class="sxs-lookup"><span data-stu-id="ddd78-106">For more information, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span></span>

@@ -15,21 +15,21 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: 2b140bb1adaf7b2817d1e41ca10eb6d2f80f4d6d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 38adb5837f808bf6bf0986784e14d3407ea7067e
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374358"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049293"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="33212-102">Sette inn bilder i en e-postmelding eller kalender-hendelse</span><span class="sxs-lookup"><span data-stu-id="33212-102">Insert pictures in an email message or calendar event</span></span>
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="55d04-102">Sette inn bilder i en e-postmelding eller kalender-hendelse</span><span class="sxs-lookup"><span data-stu-id="55d04-102">Insert pictures in an email message or calendar event</span></span>
 
-<span data-ttu-id="33212-103">Du kan sette inn bilder, GIF-bilder eller utklipp fra datamaskinen eller OneDrive som innebygde bilder i e-postmeldinger, kalenderhendelser, eller e-postsignatur.</span><span class="sxs-lookup"><span data-stu-id="33212-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
+<span data-ttu-id="55d04-103">Du kan sette inn bilder, GIF-bilder eller utklipp fra datamaskinen eller OneDrive som innebygde bilder i e-postmeldinger, kalenderhendelser, eller e-postsignatur.</span><span class="sxs-lookup"><span data-stu-id="55d04-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
 
-1. <span data-ttu-id="33212-104">Start skrive en melding eller opprette en kalenderhendelse.</span><span class="sxs-lookup"><span data-stu-id="33212-104">Begin composing a message or creating a calendar event.</span></span>
-2. <span data-ttu-id="33212-105">Velg **Sett inn linjebundne bilder** -ikonet nederst i skrivevinduet (ved siden av ikonet **Legg ved** ).</span><span class="sxs-lookup"><span data-stu-id="33212-105">Select the **Insert pictures inline** icon at the bottom of the compose window (next to the **Attach** icon).</span></span>
-3. <span data-ttu-id="33212-106">Velg bildet du vil sette inn, og velg **Åpne**.</span><span class="sxs-lookup"><span data-stu-id="33212-106">Choose the picture you want to insert and select **Open**.</span></span>
-4. <span data-ttu-id="33212-107">Dra hjørnene for å endre størrelsen på bildet.</span><span class="sxs-lookup"><span data-stu-id="33212-107">Drag the corners to resize the image.</span></span>
-5. <span data-ttu-id="33212-108">Høyreklikk bildet for å vise formateringsalternativene.</span><span class="sxs-lookup"><span data-stu-id="33212-108">Right-click the image to see formatting options.</span></span>
+1. <span data-ttu-id="55d04-104">Start skrive en melding eller opprette en kalenderhendelse.</span><span class="sxs-lookup"><span data-stu-id="55d04-104">Begin composing a message or creating a calendar event.</span></span>
+2. <span data-ttu-id="55d04-105">Velg ikonet du vil **sette inn bilder på linje**</span><span class="sxs-lookup"><span data-stu-id="55d04-105">Select the **Insert pictures inline** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> <span data-ttu-id="55d04-106">nederst i skrivevinduet (ved siden av ikonet **Legg ved**</span><span class="sxs-lookup"><span data-stu-id="55d04-106">at the bottom of the compose window (next to the **Attach** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' /><span data-ttu-id="55d04-107">).</span><span class="sxs-lookup"><span data-stu-id="55d04-107"></span></span>
+3. <span data-ttu-id="55d04-108">Velg bildet du vil sette inn, og velg **Åpne**.</span><span class="sxs-lookup"><span data-stu-id="55d04-108">Choose the picture you want to insert and select **Open**.</span></span>
+4. <span data-ttu-id="55d04-109">Dra hjørnene for å endre størrelsen på bildet.</span><span class="sxs-lookup"><span data-stu-id="55d04-109">Drag the corners to resize the image.</span></span>
+5. <span data-ttu-id="55d04-110">Høyreklikk bildet for å vise formateringsalternativene.</span><span class="sxs-lookup"><span data-stu-id="55d04-110">Right-click the image to see formatting options.</span></span>
 
-<span data-ttu-id="33212-109">Les mer om hvordan du [legger ved filer i Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).</span><span class="sxs-lookup"><span data-stu-id="33212-109">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).</span></span>
+<span data-ttu-id="55d04-111">Les mer om hvordan du [legger ved filer i Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="55d04-111">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

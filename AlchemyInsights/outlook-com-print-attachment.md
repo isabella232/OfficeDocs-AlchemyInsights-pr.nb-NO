@@ -13,17 +13,17 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: a2c99c03426843314be772f781f7650c2fa5c0c4
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: ffd5dcbc789b41e632262774fbaeb640518e0b1a
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704785"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049041"
 ---
-# <a name="print-an-attachment"></a><span data-ttu-id="7b003-102">Skrive ut et vedlegg</span><span class="sxs-lookup"><span data-stu-id="7b003-102">Print an attachment</span></span>
+# <a name="print-an-attachment"></a><span data-ttu-id="1ab85-102">Skrive ut et vedlegg</span><span class="sxs-lookup"><span data-stu-id="1ab85-102">Print an attachment</span></span>
 
-1. <span data-ttu-id="7b003-103">Åpne meldingen som inneholder vedlegget du vil skrive ut.</span><span class="sxs-lookup"><span data-stu-id="7b003-103">Open the message that contains the attachment you want to print.</span></span>
-2. <span data-ttu-id="7b003-104">Flytt markøren over vedlegget, og velg ikonet for å **laste ned** .</span><span class="sxs-lookup"><span data-stu-id="7b003-104">Move your cursor over the attachment and select the **Download** icon.</span></span>
-3. <span data-ttu-id="7b003-105">Når filen er lastet ned, åpne den med det aktuelle programmet, og velg alternativet for å skrive ut.</span><span class="sxs-lookup"><span data-stu-id="7b003-105">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="7b003-106">Hvis du for eksempel åpner en DOC-fil i Word, og deretter skrive ut.</span><span class="sxs-lookup"><span data-stu-id="7b003-106">For example, open a .doc file in Word and then print.</span></span>
+1. <span data-ttu-id="1ab85-103">Åpne meldingen som inneholder vedlegget du vil skrive ut.</span><span class="sxs-lookup"><span data-stu-id="1ab85-103">Open the message that contains the attachment you want to print.</span></span>
+2. <span data-ttu-id="1ab85-104">Flytt markøren over vedlegget, og velg ikonet for **flere handlinger**</span><span class="sxs-lookup"><span data-stu-id="1ab85-104">Move your cursor over the attachment and select the **More actions** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> <span data-ttu-id="1ab85-105">> **Last ned**.</span><span class="sxs-lookup"><span data-stu-id="1ab85-105">> **Download**.</span></span>
+3. <span data-ttu-id="1ab85-106">Når filen er lastet ned, åpne den med det aktuelle programmet, og velg alternativet for å skrive ut.</span><span class="sxs-lookup"><span data-stu-id="1ab85-106">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="1ab85-107">Hvis du for eksempel åpner en DOC-fil i Word, og deretter skrive ut.</span><span class="sxs-lookup"><span data-stu-id="1ab85-107">For example, open a .doc file in Word and then print.</span></span>
 
-<span data-ttu-id="7b003-107">Hvis du vil ha mer informasjon, kan du lese [Skriv ut e-postmeldinger, vedlegg, og kalendere i Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7b003-107">For more information, read [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="1ab85-108">Hvis du vil ha mer informasjon, kan du lese [Skriv ut e-postmeldinger, vedlegg, og kalendere i Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1ab85-108">For more information, read [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
