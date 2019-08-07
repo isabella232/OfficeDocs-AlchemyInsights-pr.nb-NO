@@ -8,18 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 581c9314c796cd188df123f6cf17e6968e6ef619
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b984831bae71cb4c98f72fab02455bb26fb08b3b
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758984"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35605900"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Installere, oppsett og synkronisere OneDrive eller SharePoint-filer på Mac 
 
 Installere, oppsett og synkronisere OneDrive eller SharePoint-filer på en Mac med instruksjonene fra [synkroniseringsfiler med OneDrive synkronisere klienten på Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
 
 Hvis OneDrive-programmet er installert, og installasjonsprogrammet på en Mac, men brukere opplever synkroniseringsfeil, se [Fix sync problemer med OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&amp;rs=en-US&amp;ad=US).
+
+> [!NOTE]
+> Funksjonen kjent flytte mappen i OneDrive-synkronisering for Windows er ikke tilgjengelig for Mac.
+
 
 
 
