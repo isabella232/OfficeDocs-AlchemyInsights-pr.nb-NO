@@ -1,5 +1,5 @@
 ---
-title: Informasjon for oppbevaring og sletting av OneDrive
+title: OneDrive oppbevaring og sletting
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -10,28 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
-- "2440"
 - "9000596"
-ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+- "2440"
+ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232619"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269421"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="b8df0-102">OneDrive oppbevaring og sletting</span><span class="sxs-lookup"><span data-stu-id="b8df0-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="2bf1a-102">OneDrive oppbevaring og sletting</span><span class="sxs-lookup"><span data-stu-id="2bf1a-102">OneDrive retention and deletion</span></span>
 
-- <span data-ttu-id="b8df0-103">Du kan [gjenopprette en slettet brukere OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) selv.</span><span class="sxs-lookup"><span data-stu-id="b8df0-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="b8df0-104">De er i papirkurven for 93 dager.</span><span class="sxs-lookup"><span data-stu-id="b8df0-104">They are in recycle bin for 93 Days.</span></span> 
+- <span data-ttu-id="2bf1a-103">Du kan [gjenopprette en slettet brukere OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) selv.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="2bf1a-104">De er i papirkurven for 93 dager.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-104">They are in recycle bin for 93 Days.</span></span> 
 
-- <span data-ttu-id="b8df0-105">Se [denne artikkelen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) for å lære:</span><span class="sxs-lookup"><span data-stu-id="b8df0-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
-    - <span data-ttu-id="b8df0-106">Hvordan å gi en annen brukertilgang til en slettet bruker OneDrive.</span><span class="sxs-lookup"><span data-stu-id="b8df0-106">How to give another user access to a deleted user's OneDrive.</span></span>
-    - <span data-ttu-id="b8df0-107">Hva skjer med en bruker OneDrive når du sletter Office 365 til brukerkontoen for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="b8df0-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
-    - <span data-ttu-id="b8df0-108">Slik konfigurerer du automatisk access delegering.</span><span class="sxs-lookup"><span data-stu-id="b8df0-108">How to configure automatic access delegation.</span></span>
-    - <span data-ttu-id="b8df0-109">Hvordan fungerer OneDrive sletteprosessen.</span><span class="sxs-lookup"><span data-stu-id="b8df0-109">How OneDrive deletion process works.</span></span>
+- <span data-ttu-id="2bf1a-105">Se [denne artikkelen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) for å lære:</span><span class="sxs-lookup"><span data-stu-id="2bf1a-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="2bf1a-106">Hvordan å gi en annen brukertilgang til en slettet bruker OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="2bf1a-107">Hva skjer med en bruker OneDrive når du sletter Office 365 til brukerkontoen for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="2bf1a-108">Slik konfigurerer du automatisk access delegering.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="2bf1a-109">Hvordan fungerer OneDrive sletteprosessen.</span><span class="sxs-lookup"><span data-stu-id="2bf1a-109">How OneDrive deletion process works.</span></span>
 
-- <span data-ttu-id="b8df0-110">Er du interessert i sikkerhet og overholdelse Center oppbevaring og hold nede:</span><span class="sxs-lookup"><span data-stu-id="b8df0-110">Interested in Security and Compliance Center retention and hold?:</span></span>
-    - [<span data-ttu-id="b8df0-111">Oppbevaringspolicyer for OneDrive og SharePoint-områder</span><span class="sxs-lookup"><span data-stu-id="b8df0-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [<span data-ttu-id="b8df0-112">Hold nede eDiscovery for OneDrive og SharePoint-områder</span><span class="sxs-lookup"><span data-stu-id="b8df0-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- <span data-ttu-id="2bf1a-110">Er du interessert i sikkerhet og overholdelse Center oppbevaring og hold nede:</span><span class="sxs-lookup"><span data-stu-id="2bf1a-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="2bf1a-111">Oppbevaringspolicyer for OneDrive og SharePoint-områder</span><span class="sxs-lookup"><span data-stu-id="2bf1a-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="2bf1a-112">Hold nede eDiscovery for OneDrive og SharePoint-områder</span><span class="sxs-lookup"><span data-stu-id="2bf1a-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

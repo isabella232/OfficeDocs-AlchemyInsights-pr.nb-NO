@@ -1,27 +1,27 @@
 ---
-title: Aktivere deling av eksternt
-ms.author: kirks
-author: Techwriter40
-ms.date: ''
+title: Ekstern kontakt ikke kan motta en delingsinvitasjon
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1a90ae1e249dc4eedb6541615e04283ce444e9eb
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f135890774ba57198fd09ab74b32f1f72629c68a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760419"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270069"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="458de-102">Aktivere deling av eksternt i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="458de-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="external-contact-is-unable-to-accept-a-sharing-invite"></a><span data-ttu-id="f86f5-102">Ekstern kontakt ikke kan motta en delingsinvitasjon</span><span class="sxs-lookup"><span data-stu-id="f86f5-102">External contact is unable to accept a sharing invite</span></span>
 
-<span data-ttu-id="458de-103">Hvis en ekstern, kan ikke godta en delingsinvitasjon, prøv å besøke koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="458de-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
+<span data-ttu-id="f86f5-103">Hvis en ekstern, kan ikke godta en delingsinvitasjon, prøv å besøke koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="f86f5-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
 
-- [<span data-ttu-id="458de-104">Feilmelding når en ekstern bruker godtar en invitasjon om SharePoint Online ved å bruke en annen konto</span><span class="sxs-lookup"><span data-stu-id="458de-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [<span data-ttu-id="f86f5-104">Feilmelding når en ekstern bruker godtar en invitasjon om SharePoint Online ved å bruke en annen konto</span><span class="sxs-lookup"><span data-stu-id="f86f5-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
 
-- [<span data-ttu-id="458de-105">Ingen tilgang til en delt mappe</span><span class="sxs-lookup"><span data-stu-id="458de-105">Access denied to a shared folder</span></span>](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [<span data-ttu-id="f86f5-105">Ingen tilgang til en delt mappe</span><span class="sxs-lookup"><span data-stu-id="f86f5-105">Access denied to a shared folder</span></span>](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
 
-- [<span data-ttu-id="458de-106">OSE deling feil i Sharepoint og OneDrive</span><span class="sxs-lookup"><span data-stu-id="458de-106">OSE sharing errors in Sharepoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="f86f5-106">OSE deling feil i Sharepoint og OneDrive</span><span class="sxs-lookup"><span data-stu-id="f86f5-106">OSE sharing errors in Sharepoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
