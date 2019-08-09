@@ -2,6 +2,7 @@
 title: Versjonskontroll i SharePoint- og OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232667"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270429"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versjonskontroll i SharePoint- og OneDrive 
 
@@ -37,6 +38,7 @@ For mer informasjon om versjonskontroll kan du gå til den under artikler.
 
 - [Versjonskontroll grenser](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Merk:** Hvis du er en kunde i Office 365, er versjonskontroll nå aktivert som standard når du oppretter nye OneDrive for Business biblioteker, og den vil automatisk lagre siste 500 versjoner av et dokument. Dette hjelper deg med å unngå å miste viktige dokumenter eller data. Hvis du har eksisterende biblioteker på din OneDrive for Business-område eller på Gruppeområde som ikke har versjonskontroll aktivert, kan du aktivere versjonskontroll for dem når som helst.
+>[!Note] 
+>Hvis du er en kunde i Office 365, er versjonskontroll nå aktivert som standard når du oppretter nye OneDrive for Business biblioteker, og den vil automatisk lagre siste 500 versjoner av et dokument. Dette hjelper deg med å unngå å miste viktige dokumenter eller data. Hvis du har eksisterende biblioteker på din OneDrive for Business-område eller på Gruppeområde som ikke har versjonskontroll aktivert, kan du aktivere versjonskontroll for dem når som helst.
 
 

@@ -1,9 +1,9 @@
 ---
 title: Feilsøke problemer med «Åpne med Utforsker» i SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803047"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270717"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Feilsøke problemer med «Åpne med Utforsker» i SharePoint Online
 
@@ -31,9 +31,9 @@ Hvis du valgte å bruke Utforsker-visning i stedet for å bruke den nye synkroni
 
 > [!Note]  
 > **Åpne med Utforsker**-knappen vises ikke i den nye bibliotekopplevelsen Velg **Vis** rullegardinmenyen oppe til høyre (navnet på rullegardinmenyen endres basert på gjeldende visning), og velg deretter **Vis i Filutforsker**.
-
+>
  >SharePoint Åpne med Utforsker bruker ActiveX-kontroller, så det støttes bare i Internet Explorer 10 eller 11. Åpne med Utforsker virker ikke i Windows med Microsoft Edge, Google Chrome, Mozilla Firefox eller på Mac-plattformen. På grunn av dette kan det hende at alternativet Utforsker-visning er nedtonet.
-
+>
 > - [Hvorfor er SharePoint-båndknapper utilgjengelige eller nedtonet](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 
