@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385698"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386305"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Hvordan du tilordner en lisens til en bruker
 
 En bruker trenger en lisens til 책 f책 tilgang til tjenester. Her er fremgangsm책ten for 책 legge til, endre eller fjerne en lisens fra en bruker.
   
-1. G책 til siden [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) i administrasjonssenteret, eller velg **brukere** \> **aktive brukere**.
+1. G책 til **brukere** i administrasjonssenteret, \> [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden.
 
 2. Merk navnet p책 brukeren du vil tilordne, endre eller fjerne en lisens.
 
@@ -38,5 +38,4 @@ En bruker trenger en lisens til 책 f책 tilgang til tjenester. Her er fremgangsm�
 
 5. Velg **Lagre******\>****\> nederst i ruten **Produktlisenser**.
 
-Hvis du vil ha mer informasjon, se [tilordne lisenser til brukere i Office 365 for bedrifter](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), og [fjerne lisenser fra brukere i Office 365 for bedrifter](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Hvis du vil ha mer informasjon, se [tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), og [fjerne lisenser fra brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

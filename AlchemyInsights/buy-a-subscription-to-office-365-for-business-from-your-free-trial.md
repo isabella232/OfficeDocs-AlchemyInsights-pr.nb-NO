@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359366"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386881"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kjøpe et abonnement på Office 365 fra et gratis prøveabonnement
 
@@ -26,18 +26,16 @@ Du har prøvd Office 365, og nå er du klar til å kjøpe. Du har to alternative
   
  **Du kan kjøpe den samme planen som en prøveperiode**
   
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
 2. Velg **Kjøp nå** for prøveabonnementet du vil bruke, og følg trinnene for å sjekke ut.
 
 eller **du kan kjøpe et annet abonnement**
   
-1. Logg på Office 365 som global administrator med din jobbkonto eller skolekonto. [Lær hvordan du logger på](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
-2. Velg **Office 365** på startsiden.
+2. Velg **Legg til abonnement**på **abonnement** -siden.
 
-3. Velg **Kjøp**øverst til høyre på siden, under navigasjonsfeltet.
+3. Finn abonnementet du vil kjøpe, velg **Kjøp nå**, og følg trinnene for å sjekke ut.
 
-4. Planen du prøver har en **Prøveversjon i** banneret på **Kjøp abonnementer** -siden.
-
-5. Velg **Kjøp nå** for prøveabonnementet du vil bruke, og følg trinnene for å sjekke ut.
+Bruker du den nye administrasjonssenteret? Se [kjøpe et abonnement på Office 365 for bedrifter fra en gratis prøveperiode](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)for nye fremgangsmåten.

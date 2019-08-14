@@ -13,28 +13,30 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388038"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389094"
 ---
 # <a name="expired-subscription"></a>Utløpte abonnementet
 
 Det vises at du har én eller flere utløpte abonnementer. Hvis du vil fortsette tjenesten, må du aktivere abonnementet på nytt, eller gjøre en ny bestilling.
   
- **Aktivere på nytt**
+**Aktivere på nytt**
   
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
 2. Velg abonnementet aktiveres.
 
 3. Til høyre velger du **reaktivere**.
 
- **Foreta en ny bestilling**
+Bruker du den nye administrasjonssenteret? Ny fremgangsmåte, kan du se [aktivere abonnementet på nytt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**Foreta en ny bestilling**
   
-1. Gå til siden [Kjøp tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) eller velg **Fakturering** i administrasjonssenteret, \> **Kjøp tjenester**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [Kjøp](https://go.microsoft.com/fwlink/p/?linkid=868433) tjenester.
 
 2. Velg et abonnement som du vil kjøpe.
 

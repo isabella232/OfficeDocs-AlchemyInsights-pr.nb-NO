@@ -13,20 +13,20 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367406"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388033"
 ---
 # <a name="too-many-licenses"></a>For mange lisenser?
 
 Hvis du tror du er blir fakturert for for mange lisenser, skyldes dette vanligvis har kjøpt flere lisenser du trenger.
   
- **Reduser antall kjøpte lisenser**
+**Reduser antall kjøpte lisenser**
   
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
 2. Velg abonnementet som du vil fjerne lisenser til venstre.
 
@@ -35,3 +35,5 @@ Hvis du tror du er blir fakturert for for mange lisenser, skyldes dette vanligvi
 4. Angi det totale antallet brukere som er nødvendig. Hvis du har 25 lisenser, og du vil fjerne 5, angir du 20 i dette feltet.
 
 5. Velg **Submit**.
+
+Bruker du den nye administrasjonssenteret? Se [fjerne lisenser fra din Office 365 for business abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)for nye trinnene.

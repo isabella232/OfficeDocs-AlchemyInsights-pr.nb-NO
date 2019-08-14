@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387914"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389041"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Utvide prøveperioden for Office 365 for bedrifter
 
 Hvis prøveabonnementet er innen 15 dager etter utløper og ikke er utvidet prøveversjon av før, kan du utvide prøveperioden for en annen 30-dagers periode. Du kan bare gjøre dette én gang.
   
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
 2. Velg prøveabonnement som du vil utvide.
 
-3. Velg **Utvid prøveversjonen** og fullført trinnene i veiviseren.
+3. Velg **Utvid prøveversjonen** og fullføre resten av trinnene.
 
 4. Du må oppgi kredittkortopplysninger for å utvide prøveperioden. Vi vil ikke belaste kredittkortet ditt for prøveversjonen filtypen.
 
-Hvis du vil vite mer om utvidelse forsøk, eller hvis du vil ha trinnvise instruksjoner, kan du se [Utvid prøveversjonen for Office 365 for bedrifter](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
-  
+Hvis du vil vite mer om utvidelse forsøk, eller hvis du vil ha trinnvise instruksjoner, kan du se [Utvid prøveversjonen for Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).

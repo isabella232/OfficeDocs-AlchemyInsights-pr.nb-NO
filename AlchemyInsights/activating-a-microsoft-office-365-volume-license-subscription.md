@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358838"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385874"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktiverer et abonnement for Microsoft Office 365 volum lisens
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358838"
 
 5. Logge på Office 365 ([https://portal.office.com](https://portal.office.com)) ved hjelp av din eksisterende legitimasjonsbeskrivelser for administrator for Office 365. Når du logger på riktig måte, vil du motta en annen e-post som bekrefter din bestilling.
 
-6. Når du har logget på, kan du gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller velg **Fakturering**  - \> **abonnementer** til å bekrefte at de kjøpte Office 365-abonnementer er aktivert i din leier. (Du kan også velge kategorien **abonnement** i VLSC til å vise detaljer som bekrefter at abonnementet er oppbevart.) 
+6. Når du har logget på, kan du gå til **Fakturering** \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden for å bekrefte at de kjøpte Office 365-abonnementer er aktivert i din leier. (Du kan også velge kategorien **abonnement** i VLSC til å vise detaljer som bekrefter at abonnementet er oppbevart.)

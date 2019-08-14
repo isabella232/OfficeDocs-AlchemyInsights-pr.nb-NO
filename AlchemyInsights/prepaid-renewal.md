@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371215"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388609"
 ---
 # <a name="prepaid-renewal"></a>Forhåndsbetalte fornyelse
 
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
 
 2. Velg forhåndsbetalte abonnementet du vil utvide, og deretter velge **Utvid**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371215"
 5. Kontroller at informasjonen er riktig, og velg deretter **Neste**.
 
 6. Velg alternativknappen for å utvide sluttdatoen for de eksisterende lisensene, og deretter velger du **Neste**.
+
+Bruker du den nye administrasjonssenteret? Ny fremgangsmåte, kan du se [legge til lisenser til, eller utvide et abonnement som er betalt for å bruke en produktnøkkel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

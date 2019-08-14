@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366758"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387853"
 ---
 # <a name="trying-to-find-a-trial"></a>Prøver å finne en prøveversjon?
 
-Hvis du ønsker å prøve en ny tjeneste som du kan finne en liste over abonnementer som er tilgjengelige for prøveversjon i administrasjonssenteret for Microsoft 365.
+Hvis du ønsker å prøve en ny tjeneste som du kan finne en liste over abonnementer som er tilgjengelige for prøveversjon i administrasjonssenteret.
   
-1. Gå til siden [Kjøp tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) , eller velg **Fakturering** \> **Kjøp tjenester**.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [Kjøp](https://go.microsoft.com/fwlink/p/?linkid=868433) tjenester.
 
 2. Finn abonnementet som oppfyller dine behov, musen over den, og velger **Start gratis prøveperiode**.
 
