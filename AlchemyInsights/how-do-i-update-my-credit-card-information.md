@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386022"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389005"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan oppdaterer jeg kredittkortinformasjonen?
 
-1. Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden, eller velg **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** \> [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret.
 
 2. Velg abonnementet du har kjøpt med kredittkortet eller bankkontoen du vil oppdatere, og velg deretter **Oppdater betalingsdetaljer**.
 
@@ -32,5 +32,6 @@ ms.locfileid: "35386022"
 
 5. En bekreftelsesmelding burde komme til syne.
 
-Hvis du vil ha mer informasjon, se [Feilsøking av kredittkort og bankkontoer](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Hvis du vil ha mer informasjon, se [Feilsøking av kredittkort og bankkontoer](https://docs.microsoft.com/nb-NO/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+
+Bruker du det nye administrasjonssenteret? For nye trinn kan du se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/nb-NO/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
