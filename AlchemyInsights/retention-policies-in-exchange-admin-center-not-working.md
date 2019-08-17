@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369674"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444817"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Oppbevaringspolicyer i Exchange administrasjonssenteret
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369674"
   ```
 
  **Merk:** Hvis en postboks er mindre enn 10 MB, behandler administrert Mappeassistent automatisk ikke postboksen.
-  
+ 
+For mer informasjon om oppbevaringspolicyer i administrasjonssenteret Exchange, kan du se:
+- [Koder for oppbevaring og oppbevaringspolicyer](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Bruk en oppbevaringspolicy på postbokser](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Legge til eller fjerne koder for oppbevaring](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Slik identifiserer du typen sperring som er plassert på en postboks](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
