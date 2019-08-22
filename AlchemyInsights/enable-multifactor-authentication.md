@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403684"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527480"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktiver multifaktorautentisering
 
-1. Gå til **brukere** \> **aktive brukere**
+Slik aktiverer du multifaktorautentisering i administrasjonssenteret for Microsoft 365:
+
+1. Gå til **brukere** \> **aktive brukere** -siden.
     
-2. Klikk **mer** \> **installasjonsprogrammet Azure Multi-faktor-godkjenning**. 
+2. Velg **multifaktorautentisering**øverst på siden. 
     
-3. Søke etter brukeren eller brukerne du vil aktivere for MFA. Hvis du vil se alle brukerne, må du kanskje endre Statusvisning for Multi-faktor-godkjenning på toppen.
+3. Søke etter brukeren eller brukerne du vil aktivere for multifaktorautentisering. Hvis du vil se alle brukerne, må du kanskje endre statusfilteret **Multi-faktor-godkjenning** på toppen.
     
-4. Merk av for ved siden av brukerne du vil aktivere.
+4. Merk av for brukerne du vil aktivere.
     
-5.  I informasjonsruten til høyre bruker under **hurtigtrinn** vil du se Aktivere og behandle brukerinnstillinger for. Velg **Aktiver**. 
+5.  Velg **Aktiver**i høyre bruker i informasjonsruten **hurtigtrinn**. 
     
-6. I dialogboksen åpnes som, **klikker du Aktiver Multi-faktor-godkjenning**. 
+6. I dialogboksen som åpnes, velger du **Aktiver Multi-faktor-godkjenning**. 
     
 
