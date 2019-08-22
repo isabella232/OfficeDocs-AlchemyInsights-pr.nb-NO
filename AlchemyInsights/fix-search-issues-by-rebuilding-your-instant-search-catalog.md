@@ -13,16 +13,16 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: f29d2b256f7cf0dbb39283724532194ecd1edb77
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387426"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524888"
 ---
 # <a name="troubleshoot-search-issues"></a>Feilsøke problemer med søk
 
-Hvis du har problemer med søk, kan du se koblingene nedenfor for å feilsøke hjelp.
+Hvis du har problemer med Søk i Outlook, kan du se koblingene nedenfor for å feilsøke hjelp.
 
 Disse er de vanligste problemene, og er et bra sted å starte:
 

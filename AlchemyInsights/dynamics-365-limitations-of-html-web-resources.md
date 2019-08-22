@@ -9,17 +9,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: 2b3ae7b8b7526fb3a5f10660a21c7aba4f7cb020
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748272"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528524"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Begrensninger for webside (HTML) web-ressurser
 
 * En webressurs for HTML kan ikke inneholde en kode som må utføres på serveren. ASP.NET-sider kan ikke lastes opp som HTML web-ressurser.
 
-* HTML-webressurser kan bare godta et begrenset antall parametere for spørrestrenger. Mer informasjon: [sende parametere til HTML web-ressurser](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-webressurser kan bare godta et begrenset antall parametere for spørrestrenger. Mer informasjon: [sende parametere til HTML web-ressurser](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
 [Web-ressurser for webside (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
