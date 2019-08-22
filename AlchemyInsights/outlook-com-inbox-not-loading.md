@@ -12,16 +12,16 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 6b3b8d2136236abe7ca71c613f5c991a67bf4f99
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049113"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536444"
 ---
 # <a name="empty-inbox"></a>Tom innboks
 
-**Min innboks er tom**
+**Innboksen Outlook.com er tom**
 
 - Enkelte tilleggsprogrammer i webleseren Firefox kan forhindre at innboksen innlasting. Gå til Firefox-støtte for å lære hvordan du kan [deaktivere eller fjerne tillegg](https://support.mozilla.org/kb/disable-or-remove-add-ons).
 

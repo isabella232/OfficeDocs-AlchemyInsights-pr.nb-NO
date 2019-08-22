@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537466"
 ---
 # <a name="change-your-email-name"></a>Endre e-postnavnet ditt
 
-Hvis du har en e-postadresse og ønsker å endre vil navnet mottakerne se i meldingene:
+Hvis du har en Outlook.com e-postadressen og ønsker å endre vil navnet mottakerne se i meldingene:
   
 1. Velg kontobilde på øverst til høyre på siden.
 2. Velg **profilen min**.
