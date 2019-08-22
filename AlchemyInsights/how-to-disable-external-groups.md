@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 95e60599b5298090db23bf887cb860350280964f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384834"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540910"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="a91e0-102">Slik deaktiverer du eksterne grupper</span><span class="sxs-lookup"><span data-stu-id="a91e0-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="f25bd-102">Slik deaktiverer du eksterne grupper</span><span class="sxs-lookup"><span data-stu-id="f25bd-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="a91e0-103">Yammer eksterne meldinger gjelder Exchange Transportregler (ETRs), et sett med proaktiv kontroller for å hindre at selskapet informasjon blir delt.</span><span class="sxs-lookup"><span data-stu-id="a91e0-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="a91e0-104">Hvis du vil hindre brukere i å opprette eksterne grupper, må du konfigurere en Exchange transport regel (ETR), og deretter konfigurere Yammer Hvis du vil bruke regelen for Exchange Transport til å blokkere eksternt messaging.</span><span class="sxs-lookup"><span data-stu-id="a91e0-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="f25bd-103">Yammer eksterne meldinger gjelder Exchange Transportregler (ETRs), et sett med proaktiv kontroller for å hindre at selskapet informasjon blir delt.</span><span class="sxs-lookup"><span data-stu-id="f25bd-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="f25bd-104">Hvis du vil hindre brukere i å opprette eksterne grupper, må du konfigurere en Exchange transport regel (ETR), og deretter konfigurere Yammer Hvis du vil bruke regelen for Exchange Transport til å blokkere eksternt messaging.</span><span class="sxs-lookup"><span data-stu-id="f25bd-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="a91e0-105">Når du har opprettet en regel i Exchange Online administrasjonssenteret, følger du disse trinnene for å angi ETR å bruke i Yammer:</span><span class="sxs-lookup"><span data-stu-id="a91e0-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="f25bd-105">Når du har opprettet en regel i Exchange Online administrasjonssenteret, følger du disse trinnene for å angi ETR å bruke i Yammer:</span><span class="sxs-lookup"><span data-stu-id="f25bd-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="a91e0-106">Logger på Yammer som en kontrollert admin, og **Yammer administrasjonssenteret**, går du til C **innhold og sikkerhet \> sikkerhetsinnstillinger.**</span><span class="sxs-lookup"><span data-stu-id="a91e0-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="f25bd-106">Logger på Yammer som en kontrollert admin, og **Yammer administrasjonssenteret**, går du til C **innhold og sikkerhet \> sikkerhetsinnstillinger.**</span><span class="sxs-lookup"><span data-stu-id="f25bd-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="a91e0-107">**Eksterne meldinger**, velg **gjennomføre Exchange Online Exchange Transport reglene (ETRs) i Yammer.**</span><span class="sxs-lookup"><span data-stu-id="a91e0-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="f25bd-107">**Eksterne meldinger**, velg **gjennomføre Exchange Online Exchange Transport reglene (ETRs) i Yammer.**</span><span class="sxs-lookup"><span data-stu-id="f25bd-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="a91e0-108">Velg **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="a91e0-108">Choose **Save**.</span></span>
+- <span data-ttu-id="f25bd-108">Velg **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="f25bd-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="a91e0-109">Hvis du vil ha mer informasjon, se [kontrollere eksterne meldinger i Yammer-nettverket med Exchange Transportregler](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span><span class="sxs-lookup"><span data-stu-id="a91e0-109">For more information, see [Control external messaging in a Yammer network with Exchange Transport rules](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span></span>
+<span data-ttu-id="f25bd-109">Hvis du vil ha mer informasjon, se [kontrollere eksterne meldinger i Yammer-nettverket med Exchange Transportregler](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span><span class="sxs-lookup"><span data-stu-id="f25bd-109">For more information, see [Control external messaging in a Yammer network with Exchange Transport rules](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)</span></span>
   
