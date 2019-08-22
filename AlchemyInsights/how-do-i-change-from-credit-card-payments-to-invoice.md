@@ -13,27 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: da38d20aca2b367a423250cda997ee09ed42b25a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390377"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523124"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan endrer jeg fra kredittkortbetalinger skal faktureres?
 
 > [!NOTE]
-> Alternativet for å betale med faktura er bare tilgjengelig hvis kostnadene dine for Office 365-abonnementet overskrider en viss sum (som varierer etter tjenestested). En kredittvurdering kan være nødvendig for større fakturabetalinger. Se [Betale for abonnementet på Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription) hvis du vil lære mer.
+> Alternativet for å betale med faktura er bare tilgjengelig hvis kostnadene dine for Office 365-abonnementet overskrider en viss sum (som varierer etter tjenestested). En kredittvurdering kan være nødvendig for større fakturabetalinger. Se [Betale for abonnementet på Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription) hvis du vil lære mer.
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg det abonnementet du vil endre. Velg **Endre betalingsdetaljer** i delen **Betalingsmåter**.
+2. Velg abonnementet som du vil endre. I delen **Fakturering** , velger du alternativet **Rediger** for den gjeldende betalingsmetoden.
 
-3. I ruten **Endre betalingsdetaljer** velger du **Endre betalingsmåte**.
+3. Velg **Endre**i boksen **Endre hvordan du betaler for dette abonnementet** , velge eller legge til en annen betalingsmåte, og velg deretter **Lagre**.
 
-> [!NOTE]
-> Hvis koblingen **Endre betalingsmåte** ikke vises, betyr dette at bytte fra kredittkort eller bankkonto til faktura ikke er tilgjengelig for abonnementet, fordi abonnementet ikke oppfyller minimum kostnadsbeløp for betaling med faktura. Minimalt kostbeløp som er nødvendig for å bli belastet av fakturaen varierer etter geografisk location.*
+   > [!NOTE]
+   > Hvis dette alternativet ikke vises, betyr det at du bytter fra kredittkort eller bankkonto til å fakturere er ikke tilgjengelig for abonnementet fordi abonnementet ikke oppfyller Minimalt kostbeløp for betaling av faktura. Det minste kostnadsbeløpet som kreves for å bli belastet med faktura, varierer geografisk.
   
-4. I dialogboksen **Endre betalingsmåte** velger du **Fortsett**.
-
-5. Velg **OK** for å gå tilbake til administrasjonssenteret.

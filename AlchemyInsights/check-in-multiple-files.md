@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754284"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520532"
 ---
 # <a name="check-in-several-files-at-once"></a>Sjekk inn flere filer samtidig
 
-Sjekke filer inn og ut, er en fin måte å spore og kontrollere hvordan innholdet oppdateres. Hvis du vil gjøre endringer i en fil på et område, og du vil sikre at andre kan redigere den, kan du sjekke ut filen. Når du har filen utsjekket, kan du redigere det tilkoblet eller frakoblet modus, og lagre den flere ganger om nødvendig.
+Sjekke filer inn og ut av en SharePoint er biblioteket en flott måte å spore og kontrollere hvordan innholdet oppdateres. Hvis du vil gjøre endringer i en fil på et område, og du vil sikre at andre kan redigere den, kan du sjekke ut filen. Når du har filen utsjekket, kan du redigere det tilkoblet eller frakoblet modus, og lagre den flere ganger om nødvendig.
 
 Nedenfor er noen nyttige koblinger angående denne funksjonen.
 
-- [Slik finner du ut, sjekke inn eller forkaste endringer i filer](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Hvordan du kan sjekke ut, sjekke inn eller forkaste endringer i filer](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Øverste spørsmål om utsjekking, innsjekking og versjoner](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

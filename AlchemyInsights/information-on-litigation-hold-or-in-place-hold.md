@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754939"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498964"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om rettstvist sperringer og på stedet sperringer
+
 - Hvis du vil bruke en rettstvist sperring eller på stedet holder til en postboks, en [Exchange Online planlegge 2 lisens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) kreves. Hvis du har en annen Plan, kan du tilordne en egen lisens for [Exchange Online-arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     
 - **Slik aktiverer du en rettstvist sperring** for en enkelt bruker, kan du følge fremgangsmåten [her](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når rettstvist sperring er aktivert, er alt innhold i postboksen satt på vent.

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121348"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513116"
 ---
 # <a name="delete-a-site-collection"></a>Slette en områdesamling
 
@@ -28,4 +28,4 @@ Når du sletter et område, slettes alt innenfor det blant annet:
 
 Du bør varsle område-Administratorer og eiere av et sekundært område før du sletter et område, slik at de kan flytte dataene til et annet sted, og også fortelle brukere når områdene vil bli slettet. 
 
-Hvis du vil ha mer informasjon, kan du se [slette en områdesamling](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Hvis du vil ha mer informasjon, kan du se [slette en områdesamling](https://docs.microsoft.com/sharepoint/delete-site-collection). 

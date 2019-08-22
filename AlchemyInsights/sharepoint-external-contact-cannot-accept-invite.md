@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f135890774ba57198fd09ab74b32f1f72629c68a
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270069"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508504"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharing-invite"></a>Ekstern kontakt ikke kan motta en delingsinvitasjon
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Ekstern kontakt ikke kan motta en invitasjon i SharePoint
 
 Hvis en ekstern, kan ikke godta en delingsinvitasjon, prøv å besøke koblingene nedenfor.
 
@@ -23,5 +23,5 @@ Hvis en ekstern, kan ikke godta en delingsinvitasjon, prøv å besøke koblingen
 
 - [Ingen tilgang til en delt mappe](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
 
-- [OSE deling feil i Sharepoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Deling av feil i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

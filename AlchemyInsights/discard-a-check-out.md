@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: f3177ba6290767b3f3838a64b51171b27136d15a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404610"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512684"
 ---
 # <a name="discard-a-check-out-from-a-document-library"></a>Forkaste en sjekk ut fra et dokumentbibliotek
 
@@ -21,8 +21,8 @@ ms.locfileid: "32404610"
     
 2. Klikk **mer**, og deretter klikker du **Se bort fra utsjekking**. 
     
-3. I dialogboksen klikker du ** se bort fra utsjekking ** til å tømme sjekken. 
+3. Klikk **Se bort fra utsjekking** for å fjerne merket i avmerkingsboksen fra dialogboksen. 
     
-For ytterligere spørsmål om innsjekking og utsjekking, se [øverste spørsmål om utsjekking, innsjekking, og versjoner](https://go.microsoft.com/fwlink/?linkid=2018786)
+For ytterligere spørsmål om innsjekking og utsjekking, kan du se [øverste spørsmål om utsjekking, innsjekking, og versjoner](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 
