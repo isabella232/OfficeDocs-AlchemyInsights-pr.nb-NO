@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388196"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534176"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Bytte til en annen Office 365 for Business Plan
 
-Når endringene business, eller du trenger flere funksjoner i Office 365, kan du bytte planer.
+Når endringene business, eller du trenger flere funksjoner i Office 365, kan du oppgradere til en ny plan.
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg **Bytt planer** til å vise listen over nye planer som er tilgjengelige.
+2. Velg abonnementet som du vil oppgradere.
 
-3. Velg en plan for å se den nye total kostnaden per måned. Pass på å lese den viktige informasjonen, og deretter velger du **Neste** til å sjekke ut.
+3. Velg **oppgradering**på detaljsiden for abonnementet.
 
-Knappen veksle planer støttes ikke i alle situasjoner. I noen tilfeller kan du ikke kunne bytte planer manuelt.
-  
-Hvis knappen **veksle planer** ikke er tilgjengelig, kan du prøve å [bytte planer manuelt](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) eller bruke valget "La oss ringe deg" for å snakke med en kundestøttetekniker.
-  
-Bruker du den nye administrasjonssenteret? Ny fremgangsmåte i [oppgradere til en annen plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Søk etter planen du vil oppgradere, og deretter velge **Oppgrader** -knappen.
+
+5. Angi antall lisenser som du trenger, velge om du vil betale hver måned eller for hele året, og velg deretter **Gå til kassen**.
+   
+Hvis du vil ha mer informasjon, kan du se [oppgradere til en annen plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
