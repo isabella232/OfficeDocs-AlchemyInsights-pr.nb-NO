@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374081"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503212"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online regulere
+# <a name="sharepoint-online-throttling"></a>SharePoint Online-regulering
 
 SharePoint Online bruker regulering til å opprettholde optimal ytelse og pålitelighet for SharePoint Online-tjenesten. Regulere begrenser kaller antall brukerhandlinger eller samtidige (som skript eller kode) for å hindre Overforbruk av ressurser. Hvis du begrenset, 99% av tiden er det på grunn av egendefinert kode.
   

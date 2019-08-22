@@ -13,16 +13,16 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430562"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541675"
 ---
 # <a name="change-your-language"></a>Endre språk
 
-1. Gå til innstillinger for [**språk og klokkeslett**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Innstillinger for** \> **Vis alle innstillinger i Outlook** > **Generelt** > **språk og klokkeslett**).
+1. Chang språket i Outlook, går du til innstillinger for [**språk og klokkeslett**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Innstillinger for** \> **Vis alle innstillinger i Outlook** > **Generelt** > **språk og klokkeslett**).
 
 2. Velg ditt språk.
 

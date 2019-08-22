@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383034"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539182"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifisere innboksen regelen aktivitet i overvåkingslogger
 
-Du kan bruke sporing Logg Søk i Security-& overholdelsessenteret for å vise innboksen regelen hendelser (opprette, endre og slette innboksregler).
+Du kan bruke sporing Logg Søk i Office 365-sikkerhet & overholdelsessenteret til å vise innboksen regelen hendelser (opprette, endre og slette innboksregler).
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/)
+1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).
 
-2. Klikk **Søk og undersøkelser** , og velg **Overvåk Logg Søk**.
+2. Gå til **Søk** > **Overvåk Logg Søk** -siden.
 
 3. Velg datointervallet i feltene **Startdato** og **Sluttdato** .
 
