@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270681"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530892"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Arbeidsflyt for e-post blir ikke sendt
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbeidsflyt for e-post blir ikke sendt til en SharePoint-liste eller et bibliotek
 
 1. E-post fra arbeidsflyter er ikke sendt til alle brukere eller bare bestemte brukere, eller du ser feil **i e-postmeldingen ikke kan sendes. Kontroller at e-postmeldingen har en gyldig mottaker**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270681"
     - Hvis brukeren finnes i gruppen tillatelser, må du kontrollere e-postadressen er riktig.
     - Hvis e-postadressen som brukerne ikke er angitt her, oppretter du et eksempel på varselet for brukeren som fremtvinger synkronisering av brukerkontoen fra profiler av SharePoint for denne områdesamlingen.
  
-2. E-post fra arbeidsflyter er sendt til administratorene for områdesamling, men ikke til andre brukere, og se feilen **HTTP forbudt å <spam> <spam> ** <spam> <spam>.
+2. E-post fra arbeidsflyter er sendt til administratorene for områdesamling, men ikke til andre brukere, og se feilen **HTTP forbudt å <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Se [Tilgang når sendt e-post til grupper](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Se [Tilgang når du sender en e-post til en SharePoint-gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Kontroller også at funksjonen **begrenset tilgang tillatelse lockdown brukermodus** samlingen ikke er aktiv.
 
