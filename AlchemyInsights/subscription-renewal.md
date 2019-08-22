@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388204"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501374"
 ---
 # <a name="subscription-recurring-billing"></a>Gjentakende fakturering av abonnement
 
-Hvis du vil vite når et månedlig eller årlig abonnement vil bli belastet (Hvis **Gjentakende fakturering** er aktivert) eller utløper (Hvis **Gjentakende fakturering** er slått av):
+Hvis du vil vite når din månedlig eller årlig abonnement for Office 365 vil bli belastet (Hvis **Gjentakende fakturering** er aktivert) eller utløper (Hvis **Gjentakende fakturering** er slått av):
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg abonnementet som du vil vite mer om.
+2. Hvis abonnementet du vil vite mer om, under **Fakturering**, kan du se **Renews på** eller **Expiring på** datoen.
 
-3. På høyre side av kortet abonnement er informasjon om statusen for abonnementet, innstillingen **Gjentakende fakturering** og dato for neste fakturerings- og utløpsdato.
+4. Hvis du vil endre, velg **Rediger** , og velg deretter, **Slå av** slå den av i **Gjentakende fakturering** innstillinger-ruten. Hvis regelmessig betaling er allerede slått av, velger du **hver måned** eller **én gang** for å aktivere.
 
-4. Hvis du vil fortsette å bruke tjenesten etter denne datoen, kan du bytte **Gjentakende fakturering innstillingene** Aktiver/deaktiver til **på**. Statusen vises neste faktureringsdatoen for abonnementet.
-
-5. For å stoppe tjenesten på denne datoen, Bytt Aktiver/deaktiver den **Gjentakende fakturering** til **av**. Statusen vises datoen abonnementet utløper.
-
-Bruker du den nye administrasjonssenteret? Ny fremgangsmåte i [Slå gjentakende fakturering av eller på](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Hvis du vil ha mer informasjon, se [Slå gjentakende fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

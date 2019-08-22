@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386305"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522476"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Hvordan du tilordner en lisens til en bruker
 
-En bruker trenger en lisens til å få tilgang til tjenester. Her er fremgangsmåten for å legge til, endre eller fjerne en lisens fra en bruker.
+En bruker trenger en Office 365-lisens tilgang til tjenester. Her er fremgangsmåten for å legge til, endre eller fjerne en lisens fra en bruker.
   
-1. Gå til **brukere** i administrasjonssenteret, \> [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden.
+1. Gå til **brukere** i administrasjonssenteret, \> [aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden.
 
-2. Merk navnet på brukeren du vil tilordne, endre eller fjerne en lisens.
+2. Velg navnet på brukeren du vil tilordne, endre eller fjerne en lisens.
 
-3. Til høyre i **Produktlisenser**-raden velger du **Rediger**.
+3. Velg lisensen du vil tilordne til denne brukeren i kategorien **lisenser og Apps** .
 
-4. Bytt vekslebryteren til **På**-posisjonen for lisensen du vil tildele til denne brukeren i ruten **Produktlisenser**.
+    Alle tjenestene forbundet med den lisensen, tilordnes brukeren automatisk. Hvis du vil begrense hvilke tjenester som er tilgjengelige for brukeren, fjerner du merket for tjenester som du ikke vil at brukeren skal ha.
 
-    Alle tjenestene forbundet med den lisensen, tilordnes brukeren automatisk. Du kan begrense hvilke tjenester som er tilgjengelige for brukeren, ved å flytte vekslebryteren til **Av**-posisjonen for tjenestene som du ikke vil at brukeren skal ha.
+4. Nederst i ruten, velger du **Lagre endringer**.
 
-    Bytte til Vis/Skjul til plasseringen **av** å fjerne en lisens.
-
-5. Velg **Lagre******\>****\> nederst i ruten **Produktlisenser**.
-
-Hvis du vil ha mer informasjon, se [tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), og [fjerne lisenser fra brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Hvis du vil ha mer informasjon, se [tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), og [fjerne lisenser fra brukere i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
