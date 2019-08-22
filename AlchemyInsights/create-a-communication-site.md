@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407587"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516285"
 ---
 # <a name="create-a-communication-site"></a>Opprette et område for kommunikasjon
 
-Hvis du vil opprette et område for kommunikasjon, kan du gjøre følgende: 
+Hvis du vil opprette et område for kommunikasjon i SharePoint Online, kan du gjøre følgende: 
   
 1. Klikk Startprogram for app i øverste venstre hjørne på siden, og velge SharePoint-brikken. Hvis du ikke ser SharePoint side ved side, klikker du **områder** eller **alle apps** Hvis SharePoint ikke er synlig. 
     

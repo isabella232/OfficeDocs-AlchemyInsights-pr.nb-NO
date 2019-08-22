@@ -13,20 +13,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388825"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522440"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Legge til eller redusere lisenser
 
-Her er hvordan du kan fjerne eller kjøpe flere lisenser.
+Her er hvordan du kan fjerne eller kjøpe flere lisenser for Office 365.
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg abonnementet som du vil legge til/fjerne lisenser til venstre
+2. Velg abonnementet som du vil legge til/fjerne lisenser.
 
 3. Velg **Legg til/fjern lisenser**.
 
@@ -34,19 +34,17 @@ Her er hvordan du kan fjerne eller kjøpe flere lisenser.
 
     Hvis du har 25 lisenser, og du vil fjerne 5, angir du 20 i dette feltet.
 
-5. Velg **Submit**.
+5. Velg **Send endre**.
 
 > [!NOTE]
 > Eventuelle nye tillegg (lisens økning) eller kreditnota (lisens reduksjon) vil vises på neste regning.
 
-Bruker du den nye administrasjonssenteret? Ny fremgangsmåte i [kjøpe lisenser for din Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+Hvis du vil ha mer informasjon, kan du se [kjøpe lisenser for din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Ressurser**
+ **Flere ressurser**
   
-- [Fjerne lisenser fra Office 365 for bedrifter-abonnementet](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Fjerne lisenser fra Office 365 for bedrifter-abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Kjøpe lisenser for bedriftsabonnementet ditt for Office 365](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Avbryte Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Avbryte Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Kjøpe et annet Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Kjøpe et annet Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
