@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389741"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496120"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Tilbakekalle eller erstatte en e-postmelding
+# <a name="recall-or-replace-an-outlook-email-message"></a>Tilbakekalle eller erstatte en e-postmelding i Outlook
 
 - Som administrator kan du **tilbakekalling av meldinger på vegne av brukere ved hjelp av PowerShell**. Du kan ikke tilbakekalle meldinger fra administrasjonssenteret.
 - Du kan **bare tilbakekalling av meldinger som sendes til personer i organisasjonen**. Hvis meldingen ble sendt til en Gmail-adresse, for eksempel du kan ikke kalle tilbake den.

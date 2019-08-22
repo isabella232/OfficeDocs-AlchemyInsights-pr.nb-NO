@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539038"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifisere IP-adressen og klient i overvåkingslogger
 
-IP-adressen som samsvarer med en aktivitet etter en bruker eller administrator vises i overvåkingsloggen. Informasjon om klient logges også. Her er fremgangsmåten for å identifisere slike opplysninger
+IP-adresse som svarer til en aktivitet med en Office 365-bruker eller administrator vises i overvåkingsloggen. Informasjon om klient logges også. Her er fremgangsmåten for å identifisere slike opplysninger
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/)
+1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).
 
-2. Klikk **Søk og undersøkelser** , og velg **Overvåk Logg Søk**.
+2. Gå til **Søk** > **Overvåk Logg Søk** -siden.
 
    Hvis du er interessert i en bestemt aktivitet, kan du velge den fra **aktiviteter** -listen. Hvis ikke, returneres alle aktiviteter for den valgte brukeren (standardinnstilling).
 

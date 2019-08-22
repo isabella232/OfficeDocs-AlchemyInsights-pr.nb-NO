@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383106"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539110"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifisere når ekstern e-post videresending er konfigurert på postbokser
 
-Når en bruker konfigurerer videresending av ekstern e-post på en postboks, er aktiviteten overvåket som en del av cmdleten **Set-postboks** . Du kan vise aktiviteten ved hjelp av sporing Logg Søk i Security-& overholdelsessenteret.
+Når en bruker for Office 365 konfigurerer videresending av ekstern e-post på en postboks, er aktiviteten overvåket som en del av cmdleten **Set-postboks** . Du kan vise aktiviteten ved hjelp av sporing Logg Søk i Security-& overholdelsessenteret.
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/)
+1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).
 
-2. Klikk **Søk og undersøkelser** , og velg **Overvåk Logg Søk**.
+2. Gå til **Søk** > **Overvåk Logg Søk** -siden.
 
 3. Velg datointervallet i feltene **Startdato** og **Sluttdato** . Du trenger ikke å angi et brukernavn. Kontroller **aktiviteter** -feltet er satt til å **vise resultater for alle aktiviteter**.
 

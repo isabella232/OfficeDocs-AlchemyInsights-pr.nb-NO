@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385621"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495040"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Legge til seter i et forhåndsbetalt abonnement
 
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+Forhåndsbetalte Office 365-lisens er utstedt til deg som en alfanumerisk kode som 25 tegn. Når du har kjøpt lisenser du trenger, kan du legge dem til abonnementet. 
 
-2. Velg forhåndsbetalte abonnementet du vil legge til brukere i.
+1. Gå til **Fakturering**i administrasjonssenteret, > [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-3. Velg **flere handlinger** -menyen i **fornye eller legge til lisensen med token**.
+2. Finn abonnementet du vil legge til lisenser. Velge rullegardinlisten **flere handlinger** , og velg deretter **fornye eller legge til lisensen med token for**.
 
-4. Velg **Ny og ubrukt produktnøkkel** . (Hvis dette abonnementet ble opprettet med en produktnøkkel som er kjøpt til et utsalgssted, må du kanskje legge til brukere med andre betalingsmåter.)
+3. På den **fornye eller legge til brukerlisenser** side, velger du **Bruk en ny og ubrukt produktnøkkel**, og velg deretter **Neste**.
 
-5. Velg **Neste**.
+4. Skriv inn produktnøkkelen, og velg deretter **Neste**.
 
-6. Skriv inn produktnøkkelen, og velg deretter **Neste**.
+    > [!NOTE]
+    > Hvis du har mer enn en produktnøkkel, kan du velge å **legge til en annen produktnøkkel for** å skrive dem inn.
 
-7. Velg alternativet for å legge til flere brukere, velger du **Neste**, og velg deretter **Løs inn**.
+5. Velg dette alternativet å legge til brukere i abonnementet, og deretter velger du **Neste**.
 
-Bruker du den nye administrasjonssenteret? Ny fremgangsmåte, kan du se [legge til lisenser til, eller utvide et abonnement som er betalt for å bruke en produktnøkkel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Se gjennom bestillingsdetaljene, og velg deretter **Løs inn**.
+
+Hvis du vil ha mer informasjon, se [legge til lisenser til, eller utvide et abonnement som er betalt for å bruke en produktnøkkel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
