@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388465"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553585"
 ---
-# <a name="question-about-licenses"></a>Spørsmål om lisenser
+# <a name="questions-about-your-office-365-license"></a>Spørsmål om Office 365-lisens
 
 Hvis du vil vite hvor mange lisenser som du har kjøpt eller hvor mange lisenser som er tilordnet fra et abonnement:
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg abonnementet du vil vite mer om.
+2. Under navnet på abonnementet du vil vite mer om, kan du se antallet lisenser du betaler for, og hvor mange som er tilgjengelige som skal tilordnes.
 
-3. På venstre side av kortet abonnement er informasjon om lisensene:
-
-  - **Kjøpt** antall er antallet lisenser du betaler for.
-
-  - Nummeret **tilordnet** er antallet lisenser som er tilordnet til en bruker.
-
-4. Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til/fjern lisenser** for å justere mengden kjøpt.
+Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til/fjern lisenser** for å justere mengden kjøpt.

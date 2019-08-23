@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171367"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557510"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Endre utseendet på postboksen
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Endre utseendet på Outlook-postboksen
 
 Du kan endre utseendet på listen og lese meldingsruten slik den ser ut og virker slik du ønsker. Velg om meldingene skal vises enkeltvis eller som samtaler, hvis nye meldinger skal vises øverst eller nederst i meldingslisten, og mye mer.
 

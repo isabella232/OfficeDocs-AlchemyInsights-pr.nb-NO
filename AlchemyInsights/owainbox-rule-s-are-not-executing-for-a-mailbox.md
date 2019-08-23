@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204069"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555782"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>En regel som ikke virker som forventet
 
-Kontroller følgende innstillinger:
+Kontroller følgende innstillinger i Outlook på weben:
 
 - En melding kan omadresseres videresendte og besvarte automatisk basert på innboksregler bare én gang. En omadresserer regel (en Innboksregel eller flyt-post, også kjent som regel en transport) kan legge til opptil ti videresending mottakere på en melding. Hvis du vil ha mer informasjon, kan du se [Journal, Transport, og innboksen grenser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 

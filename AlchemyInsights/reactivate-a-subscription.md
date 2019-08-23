@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391061"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553369"
 ---
-# <a name="reactivate-a-subscription"></a>Slik aktiverer du et abonnement
+# <a name="reactivate-an-office-365-subscription"></a>Slik aktiverer du et abonnement på Office 365
 
 Hvis abonnementet utgår, ble deaktivert av Microsoft, eller du har avbrutt det midt i en term som av abonnement, kan du reaktivere den i administrasjonssenteret.
   
-1. Gå til **Fakturering** i administrasjonssenteret, \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) -siden.
+1. Gå til **Fakturering** i administrasjonssenteret, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Velg abonnementet som du vil aktivere på nytt, og deretter velge å **aktivere på nytt**.
+2. Velg abonnementet som du vil reaktivere. I delen fakturering, velger du **reaktivere**.
 
-    Hvis du ikke ser **aktivere på nytt** som en handling som er tilgjengelig, kan du bruke alternativet "La oss ringe deg" for å snakke med en kundestøttetekniker til å aktivere abonnementet på nytt.
+    Hvis du ikke ser **aktivere på nytt** som en handling som tilgjengelig, [Ring kundestøtte](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) for å aktivere abonnementet på nytt.
 
-3. Angi betalingsdetaljer for. Du kan oppdatere eksisterende betalingsinformasjonen her.
+3. Bekrefte dine betalingsdetaljer. Du kan oppdatere eksisterende betalingsinformasjonen her. Når du er ferdig med å angi betalingsmåten, kan du velge å **aktivere på nytt**.
 
-Bruker du den nye administrasjonssenteret? Ny fremgangsmåte, kan du se [aktivere abonnementet på nytt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Hvis du vil ha mer informasjon, kan du se [aktivere abonnementet på nytt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

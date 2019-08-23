@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356606"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553441"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Tilbakekalle eller erstatte en e-postmelding
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Tilbakekalle eller erstatte en e-postmelding i Office 365
 
 - Du kan **bare tilbakekalling av meldinger som sendes til personer i organisasjonen**. Hvis meldingen ble sendt til en Gmail-adresse, for eksempel du kan ikke kalle tilbake den.
 - Du kan **bare tilbakekalling av meldinger sendt fra Outlook-2016 for PC**. Hvis en bruker sender en melding ved hjelp av Outlook for Mac eller Outlook på World Wide web, kan du ikke kan huske den.
 - Hvis du er en administrator, kan du **tilbakekalling av meldinger på vegne av brukere ved hjelp av PowerShell**. Du kan ikke tilbakekalle meldinger fra administrasjonssenteret. Bla ned til "Søk etter og Slett e-postmeldinger i organisasjonen" for mer informasjon.
 
-***Tilbakekalle eller erstatte en e-postmelding du har sendt***
+**Tilbakekalle eller erstatte en e-postmelding du har sendt**
 
 1. Velg mappen Sendte elementer i mapper-ruten til venstre i Outlook-vinduet.
 2. Åpne meldingen du vil kalle tilbake. Du må dobbeltklikke for å åpne meldingen. Å merke meldingen slik den vises i leseruten mulig ikke å kalle tilbake meldingen.

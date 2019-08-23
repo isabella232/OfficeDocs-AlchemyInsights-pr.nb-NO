@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444781"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555242"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innhold Søk og eDiscovery-Søk
 
@@ -32,6 +32,6 @@ Bruk verktøyet innholdssøk i sikkerhet & overholdelsessenteret til raskt å fi
 4. Angi de nødvendige søkebetingelsene inkludert nøkkelord og plassering av innhold.  
 5. Klikk **Lagre Kjør &** for å navngi søket, starte den, og Forhåndsvis deretter resultatene.
 
-For detaljerte instruksjoner om innhold søk, eksportere resultatene, og opprette en eDiscovery tilfeller for lagring av data, kan du se [Innholdssøk](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) og [eDiscovery saker](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+For detaljerte instruksjoner om innhold søk, eksportere resultatene, og opprette en eDiscovery tilfeller for lagring av data, kan du se [Innholdssøk](https://docs.microsoft.com/office365/securitycompliance/content-search) og [eDiscovery saker](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Forstå mer om innholdssøk ved å se gjennom de [krav og begrensninger](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) og [undersøker delvis indekserte elementer](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater skal være klar over.
+Forstå mer om innholdssøk ved å se gjennom de [krav og begrensninger](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) og [undersøker delvis indekserte elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater skal være klar over.
