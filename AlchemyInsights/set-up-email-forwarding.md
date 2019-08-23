@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355382"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549948"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sjekk e-post videresending av innstillingene for en postboks
 
-Det er lett å kontrollere e-post videresending av innstillingene på en postkasse! Følg disse trinnene.
+Det er lett å kontrollere e-post videresending av innstillingene på en Office 365-postboks! Følg disse trinnene.
   
-> Hvis dette er en Brukerpostboks, går du til **brukere** \> **aktive brukere** , og velg brukergruppen som har postboksen du videresender. Under e-postinnstillinger, velger du **Rediger** for videresending av e-post.
+> Hvis dette er en Brukerpostboks, går du til **brukere** \> **aktive brukere** , og velg brukergruppen som har postboksen du videresender. I kategorien **e-post** , velger du **Behandle emaill videresending**.
     
-> Hvis dette er en delt postboks, kan du gå til **grupper** \> **Delte postbokser** , og velg den delte postboksen du videresender. Velg **Rediger** for videresending av e-post.
+> Hvis dette er en delt postboks, kan du gå til **grupper** \> **Delte postbokser** , og velg den delte postboksen du videresender. Redigere **redigere** for videresending av e-post.
 
 Hvis du vil ha mer informasjon, kan du se [konfigurere e-post videresending i Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
