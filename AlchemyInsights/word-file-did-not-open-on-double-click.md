@@ -1,5 +1,5 @@
 ---
-title: WD-filen ikke ble åpnet ved dobbeltklikk
+title: Word-filen ikke ble åpnet ved dobbeltklikk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752770"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558194"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Løsninger for filer som er åpne i feil apps
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åpnes i feil app eller ikke ble åpnet
 
 Prøv ett av disse forslagene:
 
 **Velg Word som standard**
 
-* Høyreklikk dokumentet, velger du **Åpne med**, og velg **Word**
+- Høyreklikk dokumentet, velger du **Åpne med**, og velg **Word**
 
 **Kjøre en rask reparasjon**
 

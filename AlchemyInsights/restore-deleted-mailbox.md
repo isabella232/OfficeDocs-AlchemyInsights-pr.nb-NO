@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356102"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551856"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Gjenopprette en slettet postboks
 
@@ -35,5 +35,5 @@ Når brukeren mister sin Exchange Online-lisens, postboksen beholdes i 30 dager 
 
 3. Tilordne Exchange Online-lisens, og trykk **Lagre**
 
-Hvis du prøver å gjenopprette en delt postboks, er det også gjenopprettes i 30 dager. Du kan finne dem under **brukere** \> **Slettede** brukere. Delte postbokser krever ikke en lisens. Hvis du oppdager at du trenger å gjenopprette en slettet bruker, kan du se [gjenopprette en brukers i Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Hvis du prøver å gjenopprette en delt postboks, er det også gjenopprettes i 30 dager. Du kan finne dem under **brukere** \> **Slettede** brukere. Delte postbokser krever ikke en lisens. Hvis du oppdager at du trenger å gjenopprette en slettet bruker, kan du se [gjenopprette en brukers i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
