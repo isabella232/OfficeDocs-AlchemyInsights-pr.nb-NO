@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389005"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522800"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan oppdaterer jeg kredittkortinformasjonen?
 
-1. Gå til **Fakturering** \> [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret.
+1. Gå til **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden i administrasjonssenteret for Microsoft 365.
 
-2. Velg abonnementet du har kjøpt med kredittkortet eller bankkontoen du vil oppdatere, og velg deretter **Oppdater betalingsdetaljer**.
+2. På **Betalingsmetoder**-siden, velg kreditt kortet eller bank kontoen du vil oppdatere.
 
-3. Velg rullegardinpilen under **Legg til eller velg en betalingsmåte**, velg kredittkortet eller bankkontoen du vil oppdatere, og velg deretter **Rediger detaljer**.
+3. Hvis du vil endre kreditt kort eller bank konto informasjonen, velger du **Rediger betalings detaljer**.
 
-4. Oppdater informasjonen for kredittkortet eller bankkontoen (navnet på kredittkortet eller bankkontoen, faktureringsadressen, telefonnummeret eller utløpsdatoen) etter behov, og velg deretter **Send**.
+> [!NOTE]
+> Hvis abonnementet ble kjøpt av en annen administrator, kan du ikke oppdatere kredittkort- eller bankkontoinformasjonen for abonnementet. Hvis kredittkortet er i ferd med å utløpe og den andre administratoren ikke kan oppdatere informasjonen, kan du hindre at tjenesten opphører ved å legge til et annet kredittkort eller en ny bankkonto for abonnementet.
 
-5. En bekreftelsesmelding burde komme til syne.
+4. Oppdater informasjonen for kredittkortet eller bankkontoen (navnet på kredittkortet eller bankkontoen, faktureringsadressen, telefonnummeret eller utløpsdatoen) etter behov, og velg deretter **Lagre** > **Fullført**.
 
-Hvis du vil ha mer informasjon, se [Feilsøking av kredittkort og bankkontoer](https://docs.microsoft.com/nb-NO/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Bruker du det nye administrasjonssenteret? For nye trinn kan du se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/nb-NO/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+For mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
