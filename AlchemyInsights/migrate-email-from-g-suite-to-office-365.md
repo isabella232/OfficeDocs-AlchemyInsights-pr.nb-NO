@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 24d16ae0770ea252bc658197389975be40840719
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380082"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544594"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="7a7d2-102">Overføre e-post fra G programpakke til Office 365</span><span class="sxs-lookup"><span data-stu-id="7a7d2-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="c6447-102">Overføre e-post fra G programpakke til Office 365</span><span class="sxs-lookup"><span data-stu-id="c6447-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="7a7d2-103">For å overføre e-post fra G-programserien til Office 365, kan du bruke vår overføringsverktøy til å overføre e-post, kalender og kontakter: [Utfør en G programpakke overføring](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="7a7d2-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="c6447-103">For å overføre e-post fra G-programserien til Office 365, kan du bruke vår overføringsverktøy til å overføre e-post, kalender og kontakter: [Utfør en G programpakke overføring](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="c6447-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   

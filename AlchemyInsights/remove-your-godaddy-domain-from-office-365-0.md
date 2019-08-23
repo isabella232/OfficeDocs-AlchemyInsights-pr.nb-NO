@@ -11,14 +11,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 37adb078ad5f81d97fa437cb22884a79207f158d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 95406b0f4858372a18638f9280feccea41ee2710
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370216"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552756"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="c504e-102">Fjerne GoDaddy domenet fra Office 365</span><span class="sxs-lookup"><span data-stu-id="c504e-102">Remove your GoDaddy domain from Office 365</span></span>
+# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="71542-102">Fjerne GoDaddy domenet fra Office 365</span><span class="sxs-lookup"><span data-stu-id="71542-102">Remove your GoDaddy domain from Office 365</span></span>
 
-<span data-ttu-id="c504e-103">Vi kan ikke fjerne domenet GoDaddy fra Office 365 for deg.</span><span class="sxs-lookup"><span data-stu-id="c504e-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="c504e-104">Ring [GoDaddy kundeservice](https://www.godaddy.com/contact-us.aspx.aspx) for å få hjelp.</span><span class="sxs-lookup"><span data-stu-id="c504e-104">Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span>
+<span data-ttu-id="71542-103">Vi kan ikke fjerne domenet GoDaddy fra Office 365 for deg.</span><span class="sxs-lookup"><span data-stu-id="71542-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="71542-104">Ring [GoDaddy kundeservice](https://www.godaddy.com/contact-us.aspx.aspx) for å få hjelp.</span><span class="sxs-lookup"><span data-stu-id="71542-104">Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span>
   
