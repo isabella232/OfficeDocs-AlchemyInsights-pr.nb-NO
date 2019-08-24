@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543862"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620768"
 ---
 # <a name="modern-site-as-root-site"></a>Moderne område som rotområde
 
-Vi har begynt å utrullingen en ny funksjon som lar deg bytte rotområdet klassisk område med et moderne område. Bruk [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til å bytte plasseringen av et område med et annet område under arkivering av det opprinnelige området. Tilgjengelig for både Team (ikke koblet til en gruppe) og kommunikasjon-området. 
+Vi har begynt å utrullingen en ny funksjon som lar deg bytte rotområdet klassisk område med et moderne område. Bruk [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til å bytte plasseringen av et område med et annet område under arkivering av det opprinnelige området. Tilgjengelig for både Team (ikke koblet til en gruppe) og kommunikasjon-området. 
 
 >[!Important]
 > Ikke Slett klassisk rotområdet for å opprette et område for moderne kommunikasjon. Dette støttes ikke av Microsoft. Sletter det primære området, blir alle SharePoint-områder i organisasjonen utilgjengelig for alle brukere, før du kan gjenopprette området eller opprette et nytt område på den samme URL-adressen. Vi skal kommunisere denne funksjonen via Meldingssentret. Du bør forvente at funksjonen skal være aktivert i din leier kort tid.

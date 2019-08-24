@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840524"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620732"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skrivebeskyttet for vedlikehold melding når du prøver å bruke SharePoint- eller OneDrive
 
-Brukere kan få en **Skrivebeskyttet for vedlikehold** melding når du prøver å bruke SharePoint- eller OneDrive.  I så fall må du kontrollere om det er aktivt vedlikehold oppstår på din leier ved å navigere til [Meldingssentral](https://portal.office.com/adminportal/home#/MessageCenter). Kontroller også at å kontrollere [Service helse](https://portal.office.com/adminportal/home#/servicehealth) -dashbordet til å se etter veiledningene/hendelser som kan oppstå.
+Brukere kan få en **Skrivebeskyttet for vedlikehold** melding når du prøver å bruke SharePoint- eller OneDrive for ett av følgende scenarier. 
 
-Hvis verken Meldingssentral eller tjenesten helse dashboard har lagt merke til noe om gjeldende vedlikehold for din leier, kan dette være en Web-leser bufre problemet.
+-   En aktivitet planlagt eller aktiv vedlikehold.  Se etter dem ved å navigere til [Meldingssentral](https://portal.office.com/adminportal/home#/messagecenter).
+-   En høy prioritet, aktive tjenesten problemer som kan oppstå. Se etter eventuelle veiledningene/hendelser ved å navigere til [Health Service](https://portal.office.com/adminportal/home#/servicehealth).
+-   Et mindre automatisk reparasjon gjenoppretting scenario som kan skje på grunn av uventede hendelser på servere som kan vare i mindre enn 30 minutter eller så. 
+    
+    Det finnes ingen Message Center eller tjenesten helse bokfører disse underordnede gjenopprettinger, men du bør være tilbake til normal veldig snart.
+
+Vi observerte at én av tre scenariene ovenfor er årsaken, og tjenesten er gjenopprettet, men hurtigbufferen for webleseren brukere ikke har blitt tømt i svært få tilfeller.
 
 Prøv å tømme hurtigbufferen for webleseren før du navigere til området.
 
