@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539938"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574771"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="4ea81-102">Slik aktiverer du et abonnement på nytt</span><span class="sxs-lookup"><span data-stu-id="4ea81-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="a896a-102">Slik aktiverer du et abonnement på nytt</span><span class="sxs-lookup"><span data-stu-id="a896a-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="4ea81-103">Hvis abonnementet er utløpt eller det har blitt avbrutt eller deaktivert av Microsoft, kan du aktivere det på nytt i administrasjonssenteret for Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="4ea81-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="a896a-103">Hvis abonnementet er utløpt eller det har blitt avbrutt eller deaktivert av Microsoft, kan du aktivere det på nytt i administrasjonssenteret for Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a896a-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="4ea81-104">i administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.</span><span class="sxs-lookup"><span data-stu-id="4ea81-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="a896a-104">I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.</span><span class="sxs-lookup"><span data-stu-id="a896a-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="4ea81-105">Under **Fakturering**, ved siden av **fornyelse** eller **utløper**, velger du **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="4ea81-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="a896a-105">Velg abonnementet du vil aktivere på nytt.</span><span class="sxs-lookup"><span data-stu-id="a896a-105">Choose the subscription that you want to renew.</span></span> <span data-ttu-id="a896a-106">I **Fakturering**, velg **Aktiver på nytt**.</span><span class="sxs-lookup"><span data-stu-id="a896a-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="4ea81-106">Velg alternativet du vil bruke, i ruten med **regelmessige faktureringsinnstillinger.**</span><span class="sxs-lookup"><span data-stu-id="4ea81-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="4ea81-107">Hvis regelmessig fakturering allerede er slått av, velger du **månedlig** eller **en gang** for å slå den på.</span><span class="sxs-lookup"><span data-stu-id="4ea81-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="a896a-107">Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, kontakter du brukerstøtte for å aktivere abonnementet på nytt.</span><span class="sxs-lookup"><span data-stu-id="a896a-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="4ea81-108">Velg **Send endring**.</span><span class="sxs-lookup"><span data-stu-id="4ea81-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="a896a-108">Bekreft betalingsinformasjon.</span><span class="sxs-lookup"><span data-stu-id="a896a-108">Confirm your payment details.</span></span> <span data-ttu-id="a896a-109">Du kan oppdatere eksisterende betalingsinformasjon her.</span><span class="sxs-lookup"><span data-stu-id="a896a-109">You can update your existing payment information here.</span></span> <span data-ttu-id="a896a-110">Når du er ferdig med å skrive inn betalings måten, velger du **Aktiver på nytt**.</span><span class="sxs-lookup"><span data-stu-id="a896a-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="4ea81-109">Hvis du vil ha mer informasjon, kan du se: [Fornye Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="4ea81-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="a896a-111">Bruker du det gamle administrasjonssenteret?</span><span class="sxs-lookup"><span data-stu-id="a896a-111">Are you using the old admin center?</span></span> <span data-ttu-id="a896a-112">For gamle trinn, eller for mer informasjon, kan du se [Aktivere abonnementet på nytt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a896a-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
