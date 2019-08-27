@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539938"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574771"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Slik aktiverer du et abonnement på nytt
 
 Hvis abonnementet er utløpt eller det har blitt avbrutt eller deaktivert av Microsoft, kan du aktivere det på nytt i administrasjonssenteret for Microsoft 365.
   
-1. i administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
+1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
 
-2. Under **Fakturering**, ved siden av **fornyelse** eller **utløper**, velger du **Rediger**.
+2. Velg abonnementet du vil aktivere på nytt. I **Fakturering**, velg **Aktiver på nytt**.
 
-3. Velg alternativet du vil bruke, i ruten med **regelmessige faktureringsinnstillinger.** Hvis regelmessig fakturering allerede er slått av, velger du **månedlig** eller **en gang** for å slå den på.
+    Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, kontakter du brukerstøtte for å aktivere abonnementet på nytt.
 
-4. Velg **Send endring**.
+3. Bekreft betalingsinformasjon. Du kan oppdatere eksisterende betalingsinformasjon her. Når du er ferdig med å skrive inn betalings måten, velger du **Aktiver på nytt**.
 
-Hvis du vil ha mer informasjon, kan du se: [Fornye Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
+Bruker du det gamle administrasjonssenteret? For gamle trinn, eller for mer informasjon, kan du se [Aktivere abonnementet på nytt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

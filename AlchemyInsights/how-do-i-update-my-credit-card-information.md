@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522800"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575351"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan oppdaterer jeg kredittkortinformasjonen?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522800"
 
 4. Oppdater informasjonen for kredittkortet eller bankkontoen (navnet på kredittkortet eller bankkontoen, faktureringsadressen, telefonnummeret eller utløpsdatoen) etter behov, og velg deretter **Lagre** > **Fullført**.
 
-For mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+Bruker du det gamle administrasjonssenteret? For eldre trinn, eller for å lære mer kan du se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
