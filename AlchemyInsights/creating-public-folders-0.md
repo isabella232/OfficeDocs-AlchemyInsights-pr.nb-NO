@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514880"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631827"
 ---
 # <a name="creating-public-folders"></a>Opprette fellesmapper
 
 Før brukerne kan bruke fellesmapper i Office 365, må du opprette minst én postboks i fellesmappen. Slik oppretter du:
   
-1. I O365-portalen ved hjelp av venstre navigasjonsmeny, går du til **Admin sentre** \> **Exchange**.
+1. Gå til **Admin centers** i administrasjonssenteret for Microsoft 365 \> **Exchange**.
 
 2. Gå til **Fellesmapper** \> **fellesmappe postbokser**, og klikk deretter **Legg til**.
 
