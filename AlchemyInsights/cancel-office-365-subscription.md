@@ -1,5 +1,5 @@
 ---
-title: Avbryte Office 365-abonnementer
+title: Avbryte abonnementet på Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576065"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665524"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Annullering av Office 365-abonnement?
+# <a name="cancelling-your-office-365-subscription"></a>Avbryter du abonnementet på Office 365?
 
-Vi beklager å se deg gå, men her er alternativene til å avbryte abonnementet:
+Vi beklager å se deg gå, men her er alternativene for å avslutte abonnementet:
   
-- Hvis du er en prøveversjon kunde, er det ingenting å avbryte. Abonnementer på prøveversjonen utløper automatisk med mindre du har en betalingsmåte.
+- Hvis du er en prøve kunde, er det ingenting å avbryte. Prøveabonnementer utløper automatisk med mindre du oppgir en betalingsmåte.
 
-- Hvis du har færre enn 25 tildelt lisenser, kan du avbryte abonnementet på Internett. Gå til **Fakturering** \> [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054). I delen **Innstillinger for & handlinger** , velger du **si opp abonnementet**.
+- Hvis du har færre enn 25 tilordnede lisenser, kan du avslutte abonnementet på Internett. Gå til **fakturerings** \> [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054). I delen **Innstillinger _AMP_ Actions** velger du **Avbryt abonnement**.
 
-- Hvis du har mer enn 25 tildelt lisenser, kan du enten fjerne brukere før du har færre enn 25, eller bruke alternativet "La oss ringe deg" til å snakke med en kundestøttetekniker.
+- Hvis du har mer enn 25 tilordnede lisenser, kan du enten fjerne brukere til du har færre enn 25, eller bruke alternativet "La oss ringe deg" for å snakke med en kundestøttetekniker.
 
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gammel, eller vil vite mer, kan du se [si opp abonnementet ditt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Hvis du vil vite mer, kan du se [avslutte abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

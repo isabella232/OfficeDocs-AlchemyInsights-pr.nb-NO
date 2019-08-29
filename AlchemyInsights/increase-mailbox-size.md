@@ -1,9 +1,8 @@
 ---
-title: Øke størrelsen på postboksen
+title: Øk størrelsen på postboksen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +12,31 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 67575a64090b013e9cd65123100c77f6f3599cdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499324"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661773"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Bryteren planlegger å øke størrelsen på postboksen
+# <a name="switch-plans-to-increase-mailbox-size"></a>Bytt planer for å øke størrelsen på postboksen
 
-Hvis størrelsen på postboksen er allerede 100 GB, er det ikke mulig å øke den. I så fall kan du følge [denne råd](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Hvis størrelsen på postboksen i Office 365 allerede er 100 GB, er det ikke mulig å øke den. I så fall følger du [dette rådet](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
   
-Hvis størrelsen på postboksen er 50 GB, kan du øke den til 100 GB ved å bytte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er fremgangsmåten for å bytte til en annen plan for Office 365:
+Hvis størrelsen på postboksen er 50 GB, kan du øke den til 100 GB ved å bytte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er fremgangsmåten for å bytte til en annen Office 365-plan:
   
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret for Microsoft 365, eller velg **Fakturering** \> **abonnementer**.
+1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret for Microsoft 365.
 
-2. Velg **Bytt planer** til å vise listen over nye planer som er tilgjengelige.
+2. Velg abonnementet du vil oppgradere.
 
-3. Velg en plan for å se den nye total kostnaden per måned. Pass på å lese **viktig informasjon**, og deretter velger du **Neste** til å sjekke ut.
+3. Velg **Oppgrader**på siden med Abonnementsdetaljer.
 
-4. Når du er ferdig gå til kassen, tar Office 365 noen minutter å fullføre bryteren. Du kan begynne å bruke det nye abonnementet én gang.
+4. Finn planen du vil oppgradere til, og velg deretter **Oppgrader** -knappen.
 
-For mer informasjon, kan du se [bytte til en annen plan for Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+5. Angi antall lisenser du trenger, Velg om du vil betale hver måned eller hele året, og velg deretter **betaling**.
+
+Hvis du vil ha mer informasjon, kan [du se oppgradere til en annen plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+
+Bruker du den gamle administrasjonssenteret? Hvis du vil ha mer informasjon, se [bytte til en annen plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
   
-Hvis du har en [plan for O365 som støtter et arkiv på plass](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), kan du også få ekstra e-lagring ved å aktivere en arkiv-postboks.  En arkiv-postboks gir deg ekstra lagringsplass, og du kan flytte, kopi, og søk etter meldinger i både primært og Arkiver postboks. Fremgangsmåte om aktivering av en arkiv-postboks, kan du se [aktivere en arkiv-postboks](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Hvis du har en [O365-plan som støtter en in-Place-arkiv](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), kan du også få ekstra e-lagring ved å aktivere en arkiv-postboks.  En arkiv-postboks gir deg ekstra lagringsplass og lar deg flytte, kopiere og søke etter meldinger i både hoved-og arkivpostboksen. Hvis du vil ha mer om hvordan du aktiverer en arkivpostboks, se [aktivere en arkiv-postboks](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

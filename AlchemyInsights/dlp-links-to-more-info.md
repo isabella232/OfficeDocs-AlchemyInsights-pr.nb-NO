@@ -1,9 +1,8 @@
 ---
-title: Mer informasjon om problemer med DLP
+title: Mer informasjon om DLP-problemer
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
-ms.date: ''
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: e1340945b5d90505e290d2561d0179856c93679d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530396"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665219"
 ---
-# <a name="more-info-about-dlp-issues"></a>Mer informasjon om problemer med DLP
+# <a name="information-about-dlp-issues"></a>Informasjon om DLP-problemer
 
-Med en DLP-policy, kan du identifisere, overvåke og automatisk Beskytt sensitiv informasjon på tvers av Office 365.
+Med en DLP-policy kan du identifisere, overvåke og automatisk beskytte sensitiv informasjon på tvers av Office 365.
 
-Gå til disse koblingene for mer informasjon:
+Vennligst besøk disse linkene for mer informasjon:
 
-- [Oversikt over forebygging av tap av data](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Hvilken typen sensitiv informasjon, se etter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Opprette en egendefinert sensitiv informasjon](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Sende e-postmeldinger og Vis tips for policy](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Beskytte SharePoint Online filene med etiketter for oppbevaring og DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP- og Microsoft-Team](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Oversikt over hindring av tap av data](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Hva de sensitive informasjonstypene ser etter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Opprette en egendefinert sensitiv informasjonstype](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Sende e-postvarsler og vise policy tips](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Beskytt SharePoint Online-filer med oppbevarings etiketter og DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP og Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-Hvis du vil teste dine data med en innebygd eller egendefinert sensitiv informasjon, kan du bruke alternativet **testtype** under **klassifiseringer** > **Sensitive informasjonstyper**. Hvis du vil ha mer informasjon, kan du se [typene egendefinerte sensitiv informasjon](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Hvis du vil teste dataene med en innebygd eller egendefinert sensitiv informasjonstype, bruker du alternativet **test type** under **klassifiseringer** > **sensitive info typer**. Hvis du vil ha mer informasjon, se [teste egendefinerte sensitive informasjonstyper](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

@@ -1,9 +1,8 @@
 ---
-title: Fakturering syklus kredittkort
+title: Kredittkort for faktureringssyklus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517760"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664797"
 ---
-# <a name="billing-cycle-credit-card"></a>Fakturering syklus kredittkort
+# <a name="payment-methods-for-office-365-for-business"></a>Betalingsmåter for Office 365 for bedrifter
 
-Når du kjøper et Office 365 for business abonnementet direkte fra Microsoft, kan du betale med et kreditt eller debet kort. I noen land eller regioner, kan du også betale med en bankkonto.
+Når du kjøper en Office 365-konto for forretnings abonnement direkte fra Microsoft, kan du betale med et kreditt-eller debetkort. I noen land eller regioner kan du også betale med en bankkonto.
   
-Hvis du velger å bruke et kredittkort som betalingsmåten, kan du lære hvordan du håndterer og feilsøke fra å [legge til, oppdatere, eller fjerne et kredittkort eller bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Hvis du velger å bruke et kredittkort som betalingsmåte, kan du finne ut hvordan du administrerer og feilsøker fra [å legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
-Dette inkluderer å løse problemer når kredittkortet ble avslått og endre kredittkortinformasjonen slik at kortet er godtatt.
+Denne artikkelen inneholder også feilsøkingsforslag for når kredittkortet ditt avvises og informasjon om endring av kredittkortinformasjon, slik at kortet godtas.

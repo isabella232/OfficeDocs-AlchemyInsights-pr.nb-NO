@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574551"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663969"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Å reaktivere og administrere regelmessig betaling
 
@@ -32,7 +32,7 @@ Ser ut som du har et abonnement som er utløpt. Hvis du vil aktivere det, her er
 
 3. Bekrefte dine betalingsdetaljer. Du kan oppdatere eksisterende betalingsinformasjonen her. Når du er ferdig med å angi betalingsmåten, kan du velge å **aktivere på nytt**.
 
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gamle, eller hvis du vil vite mer, kan du se [aktivere abonnementet på nytt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Hvis du vil ha mer informasjon, kan du se [aktivere abonnementet på nytt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Hvis du vil behandle månedlig eller årlig fakturering du kan veksle **Gjentakende fakturering** på eller av.
   
@@ -46,4 +46,4 @@ Hvis du vil behandle månedlig eller årlig fakturering du kan veksle **Gjentake
 
 5. Velg **Send endre**.
 
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gamle, eller for å lære mer, se [Slå gjentakende fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Hvis du vil ha mer informasjon, se [Slå gjentakende fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

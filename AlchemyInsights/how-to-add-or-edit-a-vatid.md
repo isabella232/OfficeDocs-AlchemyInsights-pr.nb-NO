@@ -1,5 +1,5 @@
 ---
-title: Legge til eller redigere en VatID
+title: Slik legger du til eller redigerer en VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,27 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575007"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664329"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Legge til eller redigere en VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Slik legger du til eller redigerer en VatID
 
-1.  Gå til **Fakturering** i administrasjonssenteret for Microsoft 365 \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret for Microsoft 365.
 
-2. Finn abonnementskort for abonnementet du vil oppdatere.
+2. Finn abonnementskortet for abonnementet du vil oppdatere.
 
-3. I delen **Innstillinger for & handlinger** , velger du **Rediger Bruk adressen**.
+3. I delen **Innstillinger _AMP_ Actions** velger du **Rediger tjenesteforbruksadresse**.
 
-4. Angi mva-IDen i **Mva-nummer** -boksen på siden **Rediger Bruk adressen** , og velg deretter **Lagre**.
+4. På siden **Rediger adresse for tjenestebruk** skriver du inn mva- **nummeret i mva-nummer** -boksen, og deretter velger du **Lagre**.
 
-    Når operasjonen er fullført, blir du ikke belastet mva på neste regning.
+    Når du er ferdig, vil ikke moms bli belastet på din neste regning.
 
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gamle, eller hvis du vil vite mer, se [hvilke mva vil jeg bli belastet for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Hvis du vil vite mer, kan du se [hvilken avgift blir jeg belastet for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
-**Flere ressurser**
+**Andre ressurser**
 
-[Legg til mva-IDen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Legg til mva-nummeret](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

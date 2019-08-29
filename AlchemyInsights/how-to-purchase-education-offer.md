@@ -14,12 +14,12 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574807"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663933"
 ---
 # <a name="how-to-purchase-education-offer"></a>Hvordan du kjøper utdanning tilbud
 
@@ -35,4 +35,4 @@ Du har blitt godkjent for Office 365-utdanning. Å kjøpe:
 
 Hvis du vil kjøpe et abonnement enn hva som er i prøveversjonen, gå til **Fakturering** \> [Kjøpe tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) side, og velg fra listen under **Utdanning planer**.
 
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gamle, eller du vil vite mer, kan du se [kjøpe samme plan som prøveversjonen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Hvis du vil ha mer informasjon, kan du se [kjøpe samme plan som prøveversjonen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

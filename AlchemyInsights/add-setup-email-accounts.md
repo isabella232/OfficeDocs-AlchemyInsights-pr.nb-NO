@@ -1,5 +1,5 @@
 ---
-title: 764 Legg til/oppsett av e-postkontoer
+title: 764 Legg til/oppsett e-postkontoer
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494824"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660909"
 ---
-# <a name="setup-email-accounts"></a>Oppsett av e-postkontoer
+# <a name="setup-email-accounts"></a>Konfigurere e-postkontoer
 
-1. I Outlook, velger du **filen** \> **Legge til konto**.
+1. I Outlook velger du **fil** > **informasjon** > **Legg til konto**.
 
-2. Skriv inn e-postadressen din og klikk deretter **koble til**.
+2. Skriv inn e-postadressen din, og velg deretter **Koble til**.
 
-3. Skriv inn passordet, og klikk deretter **OK**.
+3. Skriv inn passordet, og velg deretter **OK**.
 
-4. Du kan gjenta denne fremgangsmåten for å legge til flere kontoer.
+4. Du kan gjenta disse trinnene for å legge til flere kontoer.
 
     > [!NOTE]
-    > Noen e-postkontoer, som Gmail, Yahoo og iCloud, må du sette opp to-faktor-godkjenning for å bruke Outlook til å sende og motta e-post. Hvis du vil ha mer informasjon, kan du se [legge til en e-postkonto i Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).
+    > Noen e-postkontoer, for eksempel Gmail, Yahoo og iCloud, krever at du konfigurerer totrinnsverifisering for å kunne bruke Outlook til å sende og motta e-post. Se [legge til en e-postkonto i Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) hvis du vil ha mer informasjon.
   

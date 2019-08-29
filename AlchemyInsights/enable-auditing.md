@@ -3,7 +3,6 @@ title: Aktiver og søke i overvåkingsloggen
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527732"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665085"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktiver og søke i overvåkingsloggen
+
+**Office 365**
 
 Hvis du vil søke i overvåkingsloggen for Office 365, kan du følge [disse trinnene](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Hvis du vil søke i overvåkingsloggen for Office 365, kan du følge [disse trin
 
 - Exchange administrator aktivitetene som revideres som standard.
 
-- Vi er i ferd med å aktivere overvåking postboks som standard i Office 365. Inntil da, hvis du vil aktivere overvåking for én enkelt postboks eller for alle postbokser i organisasjonen, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postboks overvåking er aktivert som standard i Office 365. Hvis du vil ha mer informasjon, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365-gruppen postbokser og fellesmapper postbokser i Exchange Online støtter ikke logging for sporing av endringer.
 

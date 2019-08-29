@@ -1,5 +1,5 @@
 ---
-title: Hvis du avbryter Office 365-abonnement?
+title: Avbryter du abonnementet på Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575776"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665553"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hvis du avbryter Office 365-abonnement?
+# <a name="canceling-your-office-365-subscription"></a>Avbryter du abonnementet på Office 365?
 
-Vi beklager å se deg gå!
+Vi er lei for å se deg gå!
   
-Basert på organisasjonsdataene, mener vi at alle gjeldende abonnementer har mindre enn 25 seter. Hvis du vil avbryte abonnementet på Internett, kan du gå til **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester. I delen **Innstillinger for & handlinger** , velger du **si opp abonnementet**.
+Basert på organisasjonens data mener vi at alle gjeldende abonnementer har mindre enn 25 plasser. Hvis du vil avslutte abonnementet på Internett, går du til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . I delen **Innstillinger _AMP_ Actions** velger du **Avbryt abonnement**.
   
-Bruker du gamle administrasjonssenteret? Fremgangsmåte for gammel, eller vil vite mer, kan du se [si opp abonnementet ditt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Hvis du vil vite mer, kan du se [avslutte abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

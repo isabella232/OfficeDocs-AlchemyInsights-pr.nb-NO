@@ -2,7 +2,6 @@
 title: Opprette og bruke en delt postboks
 ms.author: dianef
 author: dianef77
-ms.date: 4/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: a90da38059c9ce37f60b1addb622a1b56116d9c9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9d6789b3e6ea438656bb10ff81e19ef9e77aa7d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515636"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665361"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Opprette og bruke en delt postboks
 
-En delt postboks kan mer enn én person sende og motta e-post for aliaset, som sales@contoso.com, uten å tilordne en annen lisens.
+En delt postboks lar mer enn én person sende og motta e-post for et alias, for eksempel sales@contoso.com, uten å tilordne en annen lisens.
   
-- [Gå hit for å komme i gang](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Følg denne fremgangsmåten](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i administrasjonssenteret for Microsoft 365 for å komme i gang. 
 
-Du kan også lese artikkelen [opprette en delt postboks](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) som vil fortelle deg alt du trenger å vite om delte postbokser, inkludert hvordan de brukes.
+Du kan også lese artikkelen [opprette en delt postboks](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , som vil fortelle deg alt du trenger å vite om delte postbokser, inkludert hvordan du bruker dem.
   

@@ -2,7 +2,6 @@
 title: Aktivere en arkiv-postboks
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527804"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665141"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivere en arkiv-postboks
 
-Arkiv-postbokser i Office 365 (også kalt *Elektronisk arkiv* ) gir brukerne flere e-lagring. Brukere kan flytte eller kopiere elementer til sine Arkiver postboks, og administratorer kan opprette en arkiveringspolicy som automatisk flytter elementer til å arkivere postbokser.
+Arkiv-postbokser i Office 365 (også kalt *Elektronisk arkiv*) gir brukerne flere e-lagring. Brukere kan flytte eller kopiere elementer til sine Arkiver postboks, og administratorer kan opprette en arkiveringspolicy som automatisk flytter elementer til å arkivere postbokser.
   
 Her er hvordan du oppretter en arkiv-postboks:
   
@@ -28,13 +27,13 @@ Her er hvordan du oppretter en arkiv-postboks:
 
 2. Logg på Office 365 bruker admin-kontoen.
 
-3. I den venstre ruten i sikkerheten &amp; overholdelsessenteret, klikk **Data styring** \> **Arkiv**.
+3. I den venstre ruten i sikkerheten &amp; overholdelsessenteret, velg **Data styring** \> **Arkiv**.
 
 4. Velg brukeren som har arkiv postboksen du vil aktivere.
 
-5. I Detaljer-ruten til høyre, klikker du **Aktiver** og klikk deretter **Ja** i advarselen om å aktivere arkiv-postboks.
+5. I Detaljer-ruten til høyre, velger du **Aktiver** og velger **Ja** i advarselen om å aktivere arkiv-postboks.
 
-Du kan også bulk-aktivere arkivere postbokser ved å velge flere brukere (ved hjelp av **SKIFT** - eller **Ctrl** -tasten) og deretter klikke **Aktiver** i Detaljer-ruten.
+Du kan også bulk-aktivere arkivere postbokser ved å velge flere brukere (ved hjelp av **SKIFT** - eller **Ctrl** -tasten) og deretter velge **Aktiver** i Detaljer-ruten.
   
 Hvis du vil ha mer informasjon, kan du se:
   

@@ -1,8 +1,7 @@
 ---
-title: Microsoft Team - gjestetilgang
+title: Microsoft Teams-gjestetilgang
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/18/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +11,21 @@ ms.custom:
 - "311"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 5977e5a78537912b4b2b65c578164a943d08eaa7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544733"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666993"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Team - gjestetilgang
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-gjestetilgang
 
-Trenger du Hjelp for å slå på og konfigurere funksjonen gjestetilgang i Microsoft Teams?
+Trenger du hjelp med å aktivere og konfigurere gjeste tilgangs funksjonen i Microsoft Teams?
 
 Her er hva du må gjøre:
 
-1. Godkjenne gjestetilgang.
-1. Legge til gjestebrukere i gruppen.
-1. Definere gjester brukertillatelser.
+1. Godkjenn gjestetilgang.
+1. Legg til gjestebrukere i gruppen.
+1. Definer tillatelser for gjestebrukere.
 
-Hvis du vil ha mer informasjon, inkludert hvordan videoer, kan du se [gjestetilgang i Microsoft Team](https://docs.microsoft.com/microsoftteams/guest-access).
+Hvis du vil ha mer informasjon, inkludert How-to-videoer, kan du se [gjestetilgang i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

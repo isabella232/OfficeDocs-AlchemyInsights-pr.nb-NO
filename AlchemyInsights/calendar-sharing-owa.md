@@ -3,7 +3,6 @@ title: 616 kalenderdeling
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,18 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: b4003679b6bbadc3e87812a77896e5ff6e7e560c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518372"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665625"
 ---
-# <a name="calendar-sharing"></a>Kalenderdeling
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues med kalenderdeling i Outlook
 
 - Hvis du ikke ser ledig/opptatt-kalenderinformasjon i andre kalendere, eller hvis andre ikke kan se ledig/opptatt i din kalender, kan du bruke [Microsoft Office 365-assistent for støtte og gjenoppretting](https://diagnostics.office.com/).
+
+**Ytterligere ressurser:**
 
 - [Dele en Outlook-kalender med andre](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 

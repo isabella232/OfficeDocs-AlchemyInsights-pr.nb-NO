@@ -1,5 +1,5 @@
 ---
-title: Office 365 avanserte Threat Protection
+title: Office 365 avansert trusselbeskyttelse
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c12d3c2a0e7037b609ed4b31ee893108869c9a56
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765267"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664509"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 avanserte Threat Protection
+# <a name="office-365-advanced-threat-protection"></a>Office 365 avansert trusselbeskyttelse
 
-- Sikker vedlegg, sikre koblinger og anti-phishing er en del av Office 365 Avansert Threat Protection (ATP). Enterprise E5, utdanning A5 og Microsoft 365 Business inkluderer ATP. Alle andre planer krever et tillegg ATP-abonnement.
+- Safe vedlegg, safe Links og anti-phishing er en del av Office 365 avansert trusselbeskyttelse (ATP). Enterprise E5, Education a5 og Microsoft 365 Business inkluderer ATP. Alle andre planer krever et tilleggsprogram for ATP-abonnement.
 
-- Du må tilordne riktige lisenser til å beskytte brukere av Office 365 ATP. Se dette [emnet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for å få instruksjoner om hvordan du kan masseredigere Bruk lisenser til brukerne.
+- Du må tilordne de aktuelle lisensene for å beskytte brukerne etter Office 365 ATP. Se [dette emnet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) hvis du vil ha mer informasjon om hvordan du kan bruke lisenser for brukere.
 
-- Global Office 365-administratorer eller sikkerhet administratorer kan få tilgang til Office 365 ATP-funksjoner i Security-& samsvar Center på **Trusselen Managmeent** \> **Policy**.
+- Globale administratorer for Office 365 eller sikkerhets administratorer kan få tilgang til Office 365 ATP-funksjoner i sikkerhets & samsvarssenter i **trussel Managmeent** \> **policy**.
 
-- Sikker vedlegg og sikker kobling policyer kan være begrenset du du hele organisasjonen, bestemte domener eller mindre grupper av brukere.
+- Policyer for sikker tilkobling og sikker kobling kan knyttes til hele organisasjonen, bestemte domener eller mindre brukergrupper.
 
-- Det er ingen standardpolicyen for sikker ATP-vedlegg. Du må [opprette en policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) og bruke den til brukerne.
+- Det finnes ingen standard policy for ATP-sikker tilkobling. Du må [opprette en policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) og bruke den for brukerne.
 
-- Det er en standard ATP sikre koblinger policy som gjelder for alle i organisasjonen. Rediger denne policyen eller opprette egendefinerte policyer, se dette [emnet](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Det finnes en standard policy for ATP-sikre koblinger som gjelder for alle i organisasjonen. Hvis du vil redigere denne policyen eller opprette egendefinerte policyer, kan du se [dette emnet](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
