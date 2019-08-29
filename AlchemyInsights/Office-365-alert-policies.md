@@ -1,9 +1,8 @@
 ---
-title: 1385 office-365-varsel-policyer
+title: 1385-kontor-365-Alert-politikk
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496352"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661305"
 ---
-# <a name="office-365-alert-policies"></a><span data-ttu-id="a2059-102">Policyer for Office 365-varsel</span><span class="sxs-lookup"><span data-stu-id="a2059-102">Office 365 Alert policies</span></span>
+# <a name="office-365-alert-policies"></a><span data-ttu-id="3cd51-102">Office 365 Alert-policyer</span><span class="sxs-lookup"><span data-stu-id="3cd51-102">Office 365 Alert policies</span></span>
 
-<span data-ttu-id="a2059-103">Sikkerhet for Office 365-& samsvar Center tilbyr [alert standardpolicyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et abonnement på Office 365-Enterprise eller Office 365 oss regjeringen E1/G1, E3/G3 eller E5/G5.</span><span class="sxs-lookup"><span data-stu-id="a2059-103">The Office 365 Security & Compliance Center offers [default alert policies](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) that trigger alerts for organizations with an Office 365 Enterprise or Office 365 US Government E1/G1, E3/G3, or E5/G5 subscription.</span></span> <span data-ttu-id="a2059-104">Administratorer kan derfor få et varsel e-postvarsel sendt av Office365Alerts@microsoft.com med en emnelinje som "et varsel for lav alvorlighetsgrad:*navnet på policyen varsle*".</span><span class="sxs-lookup"><span data-stu-id="a2059-104">Therefore, admins may receive an alert email notification sent by Office365Alerts@microsoft.com with a subject line such as "A low-severity alert:*name of alert policy*".</span></span> <span data-ttu-id="a2059-105">Varsle varsler blir sendt når det utløses varsler for vanlige oppgaver, for eksempel når brukere:</span><span class="sxs-lookup"><span data-stu-id="a2059-105">Alert notifications are sent when alerts are triggered for common activities, such as when users:</span></span>
+<span data-ttu-id="3cd51-103">Office 365 sikkerhet & Compliance Center tilbyr [standard varslings policyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3 eller E5/G5-abonnement.</span><span class="sxs-lookup"><span data-stu-id="3cd51-103">The Office 365 Security & Compliance Center offers [default alert policies](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) that trigger alerts for organizations with an Office 365 Enterprise or Office 365 US Government E1/G1, E3/G3, or E5/G5 subscription.</span></span> <span data-ttu-id="3cd51-104">Derfor kan administratorer motta en varsling e-postvarsling sendt av Office365Alerts@microsoft.com med en emnelinje som "et varsel om lav alvorlighetsgrad: *navn på varslings policy*".</span><span class="sxs-lookup"><span data-stu-id="3cd51-104">Therefore, admins may receive an alert email notification sent by Office365Alerts@microsoft.com with a subject line such as "A low-severity alert: *name of alert policy*".</span></span> <span data-ttu-id="3cd51-105">Varsel varsler sendes når varsler utløses for vanlige aktiviteter, for eksempel når brukere:</span><span class="sxs-lookup"><span data-stu-id="3cd51-105">Alert notifications are sent when alerts are triggered for common activities, such as when users:</span></span>
 
-- <span data-ttu-id="a2059-106">Opprette innboksregler som videresender e-post.</span><span class="sxs-lookup"><span data-stu-id="a2059-106">Create inbox rules that forward email.</span></span>
-- <span data-ttu-id="a2059-107">Tilordne tillatelser til postboksen.</span><span class="sxs-lookup"><span data-stu-id="a2059-107">Assign permissions their mailbox.</span></span>
-- <span data-ttu-id="a2059-108">Dele eller slette et stort antall filer i SharePoint-fildeling.</span><span class="sxs-lookup"><span data-stu-id="a2059-108">Sharing or deleting a large number of files in SharePoint file sharing.</span></span>
-- <span data-ttu-id="a2059-109">Opprette eDiscovery Søk og eksporterer søkeresultatene.</span><span class="sxs-lookup"><span data-stu-id="a2059-109">Create eDiscovery searches and export search results.</span></span>
+- <span data-ttu-id="3cd51-106">Opprett Innboks regler som videresender e-post.</span><span class="sxs-lookup"><span data-stu-id="3cd51-106">Create inbox rules that forward email.</span></span>
+- <span data-ttu-id="3cd51-107">Tilordne tillatelser til postboksen.</span><span class="sxs-lookup"><span data-stu-id="3cd51-107">Assign permissions their mailbox.</span></span>
+- <span data-ttu-id="3cd51-108">Dele eller slette et stort antall filer i deling av SharePoint-filer.</span><span class="sxs-lookup"><span data-stu-id="3cd51-108">Share or delete a large number of files in SharePoint file sharing.</span></span>
+- <span data-ttu-id="3cd51-109">Opprett eDiscovery-søk og Eksporter søkeresultater.</span><span class="sxs-lookup"><span data-stu-id="3cd51-109">Create eDiscovery searches and export search results.</span></span>
 
-<span data-ttu-id="a2059-110">Se gjennom og handle på et varsel:</span><span class="sxs-lookup"><span data-stu-id="a2059-110">To review and act on an alert:</span></span>
+<span data-ttu-id="3cd51-110">Slik kan du se gjennom og handle i et varsel:</span><span class="sxs-lookup"><span data-stu-id="3cd51-110">To review and act on an alert:</span></span>
 
-1. <span data-ttu-id="a2059-111">Gå til [Sikkerhet & kompatibilitet Center](https://protection.office.com) , og Logg på.</span><span class="sxs-lookup"><span data-stu-id="a2059-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="a2059-112">Klikk **varsler > vise varsler**.</span><span class="sxs-lookup"><span data-stu-id="a2059-112">Click **Alerts > View alerts**.</span></span>
-3. <span data-ttu-id="a2059-113">Klikk et varsel for å vise en undermeny side med informasjon om varselet.</span><span class="sxs-lookup"><span data-stu-id="a2059-113">Click an alert to display a flyout page with information about the alert.</span></span>
+1. <span data-ttu-id="3cd51-111">Gå til [sikkerhets _AMP_ samsvarssenter](https://protection.office.com) og Logg på.</span><span class="sxs-lookup"><span data-stu-id="3cd51-111">Go to the [Security & Compliance center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="3cd51-112">Klikk **varsler** > **Vis varsler**.</span><span class="sxs-lookup"><span data-stu-id="3cd51-112">Click **Alerts** > **View alerts**.</span></span>
+3. <span data-ttu-id="3cd51-113">Klikk et varsel for å vise en undermeny med informasjon om varselet.</span><span class="sxs-lookup"><span data-stu-id="3cd51-113">Click an alert to display a flyout page with information about the alert.</span></span>
 
-<span data-ttu-id="a2059-114">Du kan utføre handlinger på et varsel, for eksempel [fjerne en mistenkelig Innboksregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="a2059-114">You can take action on an alert, such as [removing a suspicious inbox rule](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span> <span data-ttu-id="a2059-115">Eller du kan ganske enkelt lukke varslet ved å klikke **Løs** på siden alert undermeny.</span><span class="sxs-lookup"><span data-stu-id="a2059-115">Or you can simply close the alert by clicking **Resolve** on the alert flyout page.</span></span>
+<span data-ttu-id="3cd51-114">Du kan utføre en handling på et varsel, for eksempel [fjerne en mistenkelig innboks-regel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="3cd51-114">You can take action on an alert, such as [removing a suspicious inbox rule](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span> <span data-ttu-id="3cd51-115">Eller du kan bare lukke varselet ved å klikke **løs** på undermenyen for varsler.</span><span class="sxs-lookup"><span data-stu-id="3cd51-115">Or you can simply close the alert by clicking **Resolve** on the alert flyout page.</span></span>
 
-<span data-ttu-id="a2059-116">Hvis du vil ha mer informasjon om konfigurasjon og administrasjon av policyer for varsel, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).</span><span class="sxs-lookup"><span data-stu-id="a2059-116">For more information about configuring and managing alert policies, see  [this article](https://docs.microsoft.com/office365/securitycompliance/alert-policies).</span></span>
+<span data-ttu-id="3cd51-116">Hvis du vil ha mer informasjon om hvordan du konfigurerer og administrerer varslings policyer, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).</span><span class="sxs-lookup"><span data-stu-id="3cd51-116">For more information about configuring and managing alert policies, see  [this article](https://docs.microsoft.com/office365/securitycompliance/alert-policies).</span></span>
 
-<span data-ttu-id="a2059-117">**Viktig**: Varsle e-post-varsler fra Microsoft vil aldri be deg å gjøre følgende:</span><span class="sxs-lookup"><span data-stu-id="a2059-117">**Important**: Alert email notifications from Microsoft will never ask you to do the following:</span></span>
+<span data-ttu-id="3cd51-117">**Viktig**: varsel e-postvarsler fra Microsoft vil aldri be deg om å gjøre følgende:</span><span class="sxs-lookup"><span data-stu-id="3cd51-117">**Important**: Alert email notifications from Microsoft will never ask you to do the following:</span></span>
 
-- <span data-ttu-id="a2059-118">Angi et passord.</span><span class="sxs-lookup"><span data-stu-id="a2059-118">Provide a password.</span></span>
-- <span data-ttu-id="a2059-119">Kontroller sikkerhet detaljene for kontoen din.</span><span class="sxs-lookup"><span data-stu-id="a2059-119">Verify the security details of your account.</span></span>
-- <span data-ttu-id="a2059-120">Godkjenne deg selv på nytt.</span><span class="sxs-lookup"><span data-stu-id="a2059-120">Re-authenticate yourself.</span></span>
+- <span data-ttu-id="3cd51-118">Oppgi et passord</span><span class="sxs-lookup"><span data-stu-id="3cd51-118">Provide a password</span></span>
+- <span data-ttu-id="3cd51-119">Bekreft sikkerhetsdetaljene for kontoen din</span><span class="sxs-lookup"><span data-stu-id="3cd51-119">Verify the security details of your account</span></span>
+- <span data-ttu-id="3cd51-120">Godkjenn deg på nytt</span><span class="sxs-lookup"><span data-stu-id="3cd51-120">Re-authenticate yourself</span></span>
 
-<span data-ttu-id="a2059-121">Hvis du mottar en e-postmelding som dette, ble ikke sendt av Microsoft, og bør anses som en phishing-svindel.</span><span class="sxs-lookup"><span data-stu-id="a2059-121">If you receive an email message like this, it was not sent by Microsoft and should be considered a phishing scam.</span></span> <span data-ttu-id="a2059-122">Hvis dette skjer, kan du [rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).</span><span class="sxs-lookup"><span data-stu-id="a2059-122">If that happens, please [report it to Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).</span></span>
+<span data-ttu-id="3cd51-121">Hvis du mottar en e-postmelding som dette, ble det ikke sendt av Microsoft og bør betraktes som en phishing-svindel.</span><span class="sxs-lookup"><span data-stu-id="3cd51-121">If you receive an email message like this, it was not sent by Microsoft and should be considered a phishing scam.</span></span> <span data-ttu-id="3cd51-122">Hvis dette skjer, kan [du rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).</span><span class="sxs-lookup"><span data-stu-id="3cd51-122">If that happens, please [report it to Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).</span></span>

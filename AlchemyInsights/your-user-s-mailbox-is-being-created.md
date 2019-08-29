@@ -2,7 +2,6 @@
 title: Brukerens postboks opprettes
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557773"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665661"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="1148e-102">Postboksen brukere blir opprettet</span><span class="sxs-lookup"><span data-stu-id="1148e-102">Your users mailbox is being created</span></span>
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a><span data-ttu-id="1b46f-102">Opprettelse av brukerpostboks tar lang tid</span><span class="sxs-lookup"><span data-stu-id="1b46f-102">User mailbox creation is taking a long time</span></span>
 
-<span data-ttu-id="1148e-103">Det kan ta opptil 24 timer før en ny postboks er klar til bruk.</span><span class="sxs-lookup"><span data-stu-id="1148e-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="1b46f-103">Det kan ta opptil 24 timer før en ny postkasse er klar til bruk.</span><span class="sxs-lookup"><span data-stu-id="1b46f-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="1148e-104">Hvis brukerens postboks har blitt "forbereder" for mer enn en time, prøve å fjerne Exchange-lisens fra brukeren, og legger den til på nytt tilbake, eller Bruk alternativet "La oss ringe deg" til å snakke med en kundestøttetekniker.</span><span class="sxs-lookup"><span data-stu-id="1148e-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="1b46f-104">Hvis brukerens postboks er "klargjør" i mer enn en time, kan du prøve å fjerne Exchange-lisensen fra brukeren og legge den tilbake på nytt, eller [kontakte kundestøtte](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).</span><span class="sxs-lookup"><span data-stu-id="1b46f-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or [contact support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).</span></span>

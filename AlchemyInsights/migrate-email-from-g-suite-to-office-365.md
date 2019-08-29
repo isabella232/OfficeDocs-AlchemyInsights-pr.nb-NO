@@ -1,5 +1,5 @@
 ---
-title: Overføre e-post fra G programpakke til Office 365
+title: Migrere e-post fra G Suite til Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544594"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666921"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="c6447-102">Overføre e-post fra G programpakke til Office 365</span><span class="sxs-lookup"><span data-stu-id="c6447-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="2493f-102">Migrere e-post fra G Suite til Office 365</span><span class="sxs-lookup"><span data-stu-id="2493f-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="c6447-103">For å overføre e-post fra G-programserien til Office 365, kan du bruke vår overføringsverktøy til å overføre e-post, kalender og kontakter: [Utfør en G programpakke overføring](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="c6447-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="2493f-103">Hvis du vil overføre e-post fra G Suite til Office 365, bruker du migreringsverktøyene våre for å migrere e-post, kalender og kontakter: [utføre en G Suite-migrering](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="2493f-103">To migrate email from G Suite to Office 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   

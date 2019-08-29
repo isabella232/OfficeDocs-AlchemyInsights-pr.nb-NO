@@ -2,7 +2,6 @@
 title: Slik aktiverer du Office
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: d43bd4479e5b94b3c4136cf3d4f026842f2812f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522584"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664365"
 ---
-# <a name="how-to-activate-office"></a><span data-ttu-id="57e26-102">Slik aktiverer du Office</span><span class="sxs-lookup"><span data-stu-id="57e26-102">How to activate Office</span></span>
+# <a name="how-to-activate-office"></a><span data-ttu-id="bf8aa-102">Slik aktiverer du Office</span><span class="sxs-lookup"><span data-stu-id="bf8aa-102">How to activate Office</span></span>
 
-<span data-ttu-id="57e26-103">For å installere og aktivere Office klarer, ha admin tilordnet en [Office-lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) til en brukers arbeid eller skole konto.</span><span class="sxs-lookup"><span data-stu-id="57e26-103">To install and activate Office successfully, the admin must have assigned an [Office license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) to a user's work or school account.</span></span>
+<span data-ttu-id="bf8aa-103">Hvis du vil installere og aktivere Office på riktig måte, må administratoren ha tilordnet en [Office-lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) til en brukers jobb-eller skole konto.</span><span class="sxs-lookup"><span data-stu-id="bf8aa-103">To install and activate Office successfully, the admin must have assigned an [Office license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) to a user's work or school account.</span></span>
   
-<span data-ttu-id="57e26-104">I mange tilfeller Office 365 apps vil aktivere automatisk etter at Office er installert, og hvis en bruker ikke er bedt om å aktivere, de kan begynne å bruke Office umiddelbart.</span><span class="sxs-lookup"><span data-stu-id="57e26-104">After installing Office, in many cases the Office 365 apps will activate automatically and if a user isn't prompted to activate, they can start using Office right away.</span></span>
+<span data-ttu-id="bf8aa-104">Etter installere kontor, inne mange sakene kontoret 365 apps ville aktivere automatisk og hvis en bruker isnt ' spørsmål å aktivere, de kanne starte benytter Kontor rett fjerne.</span><span class="sxs-lookup"><span data-stu-id="bf8aa-104">After installing Office, in many cases the Office 365 apps will activate automatically and if a user isn't prompted to activate, they can start using Office right away.</span></span>
   
-<span data-ttu-id="57e26-105">Hvis en bruker blir bedt om å **logge på å konfigurere Office**, må de imidlertid logge på med sitt arbeid eller skolen-konto som bør allerede ha en [tilordnet Office-lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="57e26-105">However, if a user is asked to **Sign in to set up Office**, they must sign in with their work or school account which should already have an [assigned Office license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+<span data-ttu-id="bf8aa-105">Hvis en bruker imidlertid blir bedt om å **logge på for å konfigurere Office**, må de logge på med jobb-eller skolekontoen, som allerede skal ha en [tilordnet Office-lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="bf8aa-105">However, if a user is asked to **Sign in to set up Office**, they must sign in with their work or school account, which should already have an [assigned Office license](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
   
-<span data-ttu-id="57e26-106">Hvis du vil ha detaljert informasjon, kan du se [Aktivere Office på en PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) eller [Aktivere Office på en Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="57e26-106">For detailed information, see [Activate Office on a PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) or [Activate Office on a Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="bf8aa-106">Hvis du vil ha detaljert informasjon, se [aktivere Office på en PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) eller [aktivere Office på en Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="bf8aa-106">For detailed information, see [Activate Office on a PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) or [Activate Office on a Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
