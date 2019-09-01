@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903082"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660693"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="edac6-102">Legge til en bruker til Office 365</span><span class="sxs-lookup"><span data-stu-id="edac6-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="38dea-102">Legge til en bruker til Office 365</span><span class="sxs-lookup"><span data-stu-id="38dea-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="edac6-103">Bruk denne fremgangsmåten til å legge til en bruker i Office 365:</span><span class="sxs-lookup"><span data-stu-id="edac6-103">Use these steps to add a user to Office 365:</span></span>
-  
-1. <span data-ttu-id="edac6-104">Gå til [Aktive brukere](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (eller velg **Brukere** \> **Aktive brukere** til venstre).</span><span class="sxs-lookup"><span data-stu-id="edac6-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
+1. <span data-ttu-id="38dea-103">I Administrasjons senteret for Microsoft 365, gå til **Brukere** >  [Aktive brukere](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="38dea-103">In the Microsoft 365 admin center, go to **Users** >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
 
-2. <span data-ttu-id="edac6-105">Klikk på **Legg til en bruker**.</span><span class="sxs-lookup"><span data-stu-id="edac6-105">Click **Add a user**.</span></span>
+2. <span data-ttu-id="38dea-104">Klikk på **Legg til en bruker**.</span><span class="sxs-lookup"><span data-stu-id="38dea-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="edac6-p101">Fyll ut informasjon om brukeren. Når du er ferdig, velger du **Legg til**.</span><span class="sxs-lookup"><span data-stu-id="edac6-p101">Fill in the information for the user. Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="38dea-105">Fyll ut informasjon om brukeren.</span><span class="sxs-lookup"><span data-stu-id="38dea-105">Fill in the information for the user.</span></span> <span data-ttu-id="38dea-106">Velg **Fullfør Legg til** når du er ferdig.</span><span class="sxs-lookup"><span data-stu-id="38dea-106">Choose **Add** when you are done.</span></span>
 
-[<span data-ttu-id="edac6-108">Finn ut mer ...</span><span class="sxs-lookup"><span data-stu-id="edac6-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+<span data-ttu-id="38dea-107">Bruker du det gamle administrasjonssenteret?</span><span class="sxs-lookup"><span data-stu-id="38dea-107">Are you using the old admin center?</span></span> <span data-ttu-id="38dea-108">Eldre trinn eller for å lære mer, se [Legge til brukere enkeltvis eller i grupper i Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span><span class="sxs-lookup"><span data-stu-id="38dea-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span></span>
   
