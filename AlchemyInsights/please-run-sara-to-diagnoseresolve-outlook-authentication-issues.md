@@ -1,9 +1,8 @@
 ---
-title: 182 Kjør SaRA å diagnostisere &amp; løse godkjenningsproblemer i Outlook
+title: 182 Vennligst Kjør SaRA for å diagnostisere og løse problemer med Outlook-godkjenning
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371262"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752653"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="e20b1-102">Bruk SaRA til å diagnostisere og løse problemer med Outlook-godkjenning</span><span class="sxs-lookup"><span data-stu-id="e20b1-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="a4f8f-102">Bruk SaRA til å diagnostisere og løse problemer med Outlook-godkjenning</span><span class="sxs-lookup"><span data-stu-id="a4f8f-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="e20b1-103">Vi anbefaler på det sterkeste du bruker i [Outlook blir stadig bedt om for passordet mitt](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic på den berørte datamaskinen du feilsøker problemer hvor Outlook kontinuerlig spør etter passord.</span><span class="sxs-lookup"><span data-stu-id="e20b1-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="e20b1-104">Denne [SaRA](https://diagnostics.office.com/#/) diagnostic har automatisert sjekker og returnerer mulige løsninger som du kan bruke til å løse eventuelle problemer som ble funnet.</span><span class="sxs-lookup"><span data-stu-id="e20b1-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="a4f8f-103">Vi anbefaler at du bruker [Outlook holder spør etter mitt passord](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) Diagnostic på den berørte maskinen til å feilsøke problemer der Outlook kontinuerlig ber om et passord.</span><span class="sxs-lookup"><span data-stu-id="a4f8f-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="a4f8f-104">Dette [SaRA](https://diagnostics.office.com/#/) diagnostiske gjør automatiserte kontroller og returnerer mulige løsninger for deg å bruke for å løse eventuelle oppdagede problemer.</span><span class="sxs-lookup"><span data-stu-id="a4f8f-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>

@@ -1,6 +1,6 @@
 ---
-title: Behandle Søk ordlister i SharePoint Online
-ms.author: kirks
+title: Behandle søkeordlister i SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542118"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754417"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="e67ab-102">Behandle Søk-ordlister</span><span class="sxs-lookup"><span data-stu-id="e67ab-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="34e91-102">Behandle søkeordlister</span><span class="sxs-lookup"><span data-stu-id="34e91-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="e67ab-103">Søk ordlister i SharePoint online styres i SharePoint Online termlageret som ligger i den nye SharePoint-administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="e67ab-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="e67ab-104">Hvis du vil ha mer informasjon om hvordan du legger til eller redigerer ordlister for søk, kan du se [Behandle Søk ordlister](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="e67ab-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="34e91-103">Søkeordlister i SharePoint Online administreres i SharePoint Online term store som er plassert i det nye administrasjonssenteret for SharePoint.</span><span class="sxs-lookup"><span data-stu-id="34e91-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="34e91-104">Hvis du vil ha mer informasjon om hvordan du legger til eller redigerer søkeordlister, kan du se [Behandle søkeordlister](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="34e91-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="e67ab-105">Hvis du ikke ser et søk ordlisten termsett vises i termlageret, vent 24 timer.</span><span class="sxs-lookup"><span data-stu-id="e67ab-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="e67ab-106">Hvis ordlisten fortsatt ikke vises etter 24 timer, logger du deg en support billett.</span><span class="sxs-lookup"><span data-stu-id="e67ab-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="34e91-105">Hvis du ikke ser en søkeordliste term sett vises i termlageret, må du vente 24 timer.</span><span class="sxs-lookup"><span data-stu-id="34e91-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="34e91-106">Hvis ordboken fremdeles ikke vises etter 24 timer, kan du logge en support billett.</span><span class="sxs-lookup"><span data-stu-id="34e91-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   
