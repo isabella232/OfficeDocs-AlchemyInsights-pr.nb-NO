@@ -1,6 +1,6 @@
 ---
-title: Rette opp feil i 0x8004de40 i OneDrive
-ms.author: kirks
+title: Fix 0x8004de40 feil i OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525068"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755857"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Rette opp feil i 0x8004de40 i OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 feil i OneDrive
 
-Hvis du får en 0x8004de40-feil i OneDrive:
+Hvis du får en 0x8004de40-feil med OneDrive:
 
-- Start på nytt den berørte datamaskinen mens du er koblet til aktvi Directory-domene.
+- Gjenstarte det berørt computer stund koplet å din aktvi adresseliste domenen.
 - Hvis en omstart ikke løser problemet, melde deg ut og bli med enheten fra Azure AD. 
 
-**Merk**: du bør være på firmanettverket mens du utfører disse trinnene. Ikke Utfør denne fremgangsmåten når du ikke kan koble til din bedriftens infrastruktur (for eksempel mens du reiser). 
+**Merk**: du bør være på bedriftsnettverket mens du utfører disse trinnene. Ikke Utfør disse trinnene når du ikke kan koble til bedriftsinfrastrukturen (for eksempel mens du er på reise). 
 
-- Åpne en ledetekst. 
-- For å åpne en ledetekst, klikk - **Start**, høyreklikk **ledetekst**, og deretter klikker du **Kjør som administrator**.
-- Skriv *dsregcmd /leave* , og trykk **Enter**.
-- Når operasjonen er fullført, skriver du inn *dsregcmd-/join* , og trykk **Enter**.
-- Når det er fullført, lukker du ledeteksten.
-- Start datamaskinen på nytt og logge på OneDrive.
+- Åpne en hevet ledetekst. 
+- Å åpen en opphøyet kommandere spørsmål, falle i staver- **starte**, rett-falle i staver **kommandere spørsmål**, og så falle **i staver løpe idet administrator**.
+- Skriv inn *dsregcmd/Leave* og trykk **Enter**.
+- Når du er ferdig, skriver du inn *dsregcmd/JOIN* og trykker **Enter**.
+- Når du er ferdig, lukker du ledeteksten.
+- Start datamaskinen på nytt, og Logg på OneDrive.

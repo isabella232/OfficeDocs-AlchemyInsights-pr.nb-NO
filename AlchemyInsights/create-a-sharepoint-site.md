@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515816"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738206"
 ---
 # <a name="create-a-sharepoint-site"></a>Opprette et SharePoint-område
 
-Du kan se følgende informasjon om oppretting av SharePoint-område:
-- [Administrere områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/manage-site-creation): Lær mer om alternativer for oppretting av området, inkludert hvordan du oppretter et klassisk område eller et Team-område som ikke inneholder en Office 365-gruppen.
-- [Opprett et teamområde i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Lær hvordan du oppretter et gruppeområde.
-- [Opprett et område for kommunikasjon i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Lær hvordan du oppretter et område for kommunikasjon.
-- [Administrere områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lær hvordan du oppretter et klassisk område eller et gruppeområde som ikke omfatter en gruppe for Office 365.
+Du kan se følgende for informasjon om opprettelse av SharePoint-område:
+- [Behandle områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Finn ut mer om alternativer for områdeoppretting, blant annet hvordan du oppretter et klassisk område eller et teamområde som ikke inneholder en Office 365-gruppe.
+- [Opprette et gruppeområde i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Lær hvordan du oppretter et gruppeområde.
+- [Opprette et område for kommunikasjon i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Finn ut hvordan du oppretter et kommunikasjons område.
+- [Behandle områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lær hvordan du oppretter et klassisk område eller et gruppeområde som ikke inkluderer en Office 365-gruppe.
 
 
   
-> [! Tips]
-> - Du kan ikke opprette et område med samme URL-adressen for et eksisterende område. Hvis du har slettet et område, og er som ønsker å bruke URL-adressen på nytt, er det mulig det slettede området fremdeles finnes under **områder slettet**. Slette områder, kan du se [slette et område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)til å behandle. For å fullstendig fjerne et område med Powershell, kan du se eksemplet [Fjern-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) -cmdleten.
-> - Noen brukere kan ikke opprette et område. Se [Behandle områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Det er mulig, vises området sitter fast på **opprette** lengre tid enn forventet. Hvis det har gått mer enn 24 timer etter at du først så dette problemet, logger du deg en support billett. I mange tilfeller kan arbeider vi allerede med en løsning. Gi oss minst 24 timer å fullføre en løsning.
-> - Hvis du vil opprette et nytt teamområde som ikke inneholder en Office 365-gruppen 
+> [! Tips
+> - Du kan ikke opprette et område med samme URL-adresse for et eksisterende område. Hvis du slettet et område og ønsker å bruke URL-adressen på nytt, er det mulig at det slettede området fortsatt finnes under **Slettede områder**. Hvis du vil administrere slettede områder, ser du [slette et område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Hvis du vil fjerne et område med PowerShell fullstendig, kan du se eksemplet på [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
+> - Noen brukere vil kanskje ikke kunne opprette et område. Se [administrere områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Dens ' mulig byggetomta fremgår stakk for **skaper** lengere enn ventet. Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en support billett. I mange tilfeller er vi allerede jobber med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
+> - Hvis du må opprette et nytt gruppeområde som ikke inneholder en Office 365-gruppe, 
 
 

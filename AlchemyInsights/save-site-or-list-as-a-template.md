@@ -1,46 +1,46 @@
 ---
-title: Lagre området eller listen som en mal
-ms.author: kirks
+title: Lagre område eller liste som en mal
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551640"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752041"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Lagre området eller listen som en mal
+# <a name="save-site-or-list-as-a-template"></a>Lagre område eller liste som en mal
 
-SharePoint-områdemaler er forhåndsbygde definisjoner utviklet rundt bestemte forretningsbehov. Hvis du vil ha mer informasjon, se [bruke maler for å opprette ulike typer SharePoint-områder](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Maler for SharePoint-områder er forhåndsbygde definisjoner som er utformet rundt et bestemt forretningsbehov. Hvis du vil ha mer informasjon, se [bruke maler til å opprette ulike typer SharePoint-områder](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Her er noen vanlige problemer/løsninger når det gjelder lagring av et område eller en liste som mal i SharePoint Online.
+Her er noen vanlige problemer/løsninger i forbindelse med lagring av et område eller en liste som en mal i SharePoint Online.
 
-**Lagre område-listen mal-knappen er ikke tilgjengelig eller mangler**. 
+**Knappen Lagre område/liste mal er ikke tilgjengelig eller mangler**. 
 
-- Administratorer må tillate egendefinert skript til å aktivere funksjonene for malen. For en detaljert fremgangsmåte, eksempler og vurderinger for å se [Tillat eller forby egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Området lagre som mal-kommandoen støttes ikke og kan forårsake problemer på områder som bruker SharePoint Server-publisering infrastrukturen.
+- Administratorer må tillate egendefinert skript for å aktivere mal funksjonene. Se [tillate eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)for detaljerte trinn, eksempler og vurderinger.
 
 
-**Områdemalen kan ikke opprettes eller fungerer ikke riktig**
-
-- Malen mangler kanskje en [funksjon](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , og vil ikke aktivere. Hvis funksjonen ikke er tilgjengelig for å aktivere i gjeldende områdesamling, kan du ikke bruke malen webområde til å opprette et område.
+- Kommandoen Lagre område som mal støttes ikke, og kan forårsake problemer på områder som bruker infrastruktur for SharePoint Server-publisering.
 
 
-- Kontroller Hvis eventuelle lister eller biblioteker overskrider [Terskelen for listevisning grensen](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) av 5000 varer dette kan hindre opprettelsen av en områdemal.
+**Områdemalen kan ikke opprettes eller fungerer ikke som den skal**
+
+- Malen mangler kanskje en [funksjon](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) og vil ikke aktivere. Hvis funksjonen ikke er tilgjengelig for aktivering i gjeldende områdesamling, kan du ikke bruke områdemalen til å opprette et område.
 
 
-- Området som bruker for mange ressurser, og derfor områdemalen overskrider grensen på 50 megabyte (MB).
+- Kontroller om noen lister eller biblioteker overskrider [terskelen for liste visningsgrense](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) for 5000 elementer, da dette kan blokkere oppretting av en områdemal.
 
 
-- Det er problemer med å vise data fra en liste som bruker en oppslagskolonne. Hvis du vil ha mer informasjon, kan du se [mal-genererte listen ikke viser dataene fra den riktige oppslagslisten i SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Området bruker kanskje for mange ressurser, og derfor overskrider områdemalen grensen på 50 megabyte (MB).
 
 
-Vennligst referanse, [opprette og bruke maler](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)for mer detaljert informasjon om vanlige problemer og løsninger.
+- Det er problemer med å vise data fra en liste som bruker en oppslagskolonne. Hvis du vil ha mer informasjon, kan [du se mal-generert liste viser ikke data fra den riktige oppslagslisten i SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Hvis du vil ha mer detaljert informasjon om vanlige problemer og løsninger, kan du referere til, [opprette og bruke områdemaler](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

@@ -1,6 +1,6 @@
 ---
 title: S/MIME i Outlook på weben
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666849"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752869"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Krypter e-postmeldinger i Outlook
 

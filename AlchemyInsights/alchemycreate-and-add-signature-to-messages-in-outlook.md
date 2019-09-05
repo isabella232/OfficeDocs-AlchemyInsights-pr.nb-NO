@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664653"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737378"
 ---
 # <a name="creating-email-signatures"></a>Opprette e-signaturer
 
@@ -29,7 +29,7 @@ Disse artiklene skal hjelpe deg med å opprette e-signaturer i Outlook.
 
 - Jeg vil gjerne opprette en email navnetrekket benytter Outlook.com: [opprette og sammenlegge en email navnetrekket inne Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Jeg vil opprette en global e-postsignatur for alle e-postmeldinger som sendes fra firmaet mitt: [opprette signaturer for hele organisasjonen og ansvarsfraskrivelser i Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Jeg vil opprette en global e-postsignatur for alle e-postmeldinger som sendes fra firmaet mitt: [opprette signaturer og ansvarsfraskrivelser](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers) for hele organisasjonen
 
  **Tips:** Signaturer i hele organisasjonen kalles "ansvarsfraskrivelser".
   

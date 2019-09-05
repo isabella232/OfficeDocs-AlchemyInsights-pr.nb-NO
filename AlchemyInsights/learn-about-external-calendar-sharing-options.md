@@ -1,5 +1,5 @@
 ---
-title: 898 Lær mer om alternativer for eksterne kalenderdeling
+title: 898 Lær mer om alternativer for deling av eksterne kalendere
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 564d8ab4c98d793db68aca46087e37414fd5ab55
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497812"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735506"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Lær mer om alternativer for eksterne kalenderdeling
+# <a name="learn-about-external-calendar-sharing-options"></a>Lær om alternativer for deling av eksterne kalendere
 
-Hvis du skal planlegge møter med personer utenfor organisasjonen, Office 365, kan du gjøre kalendere som er tilgjengelige for "eksterne brukere" de som trenger å se ledige og opptatte tidspunkt, men har ikke brukerkontoer for Office 365-miljø. Hvis du vil ha mer informasjon, se [dele kalendere med eksterne brukere](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Hvis du må planlegge møter med personer utenfor organisasjonen, kan du bruke Office 365 til å gjøre kalendere tilgjengelige for eksterne brukere, de som trenger å se ledige og opptatte tidspunkt, men som ikke har brukerkontoer for Office 365-miljøet. Hvis du vil ha mer informasjon, kan du se [dele kalendere med eksterne brukere](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

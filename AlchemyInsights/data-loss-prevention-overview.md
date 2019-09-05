@@ -1,30 +1,30 @@
 ---
-title: Oversikt over tap forebygging (DLP) av data
-ms.author: kirks
+title: Oversikt over hindring av tap av data (DLP)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514412"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755137"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Oversikt over tap forebygging (DLP) av data
+# <a name="data-loss-prevention-dlp-overview"></a>Oversikt over hindring av tap av data (DLP)
 
 Med en DLP-policy kan du:
 
-- Identifisere sensitiv informasjon på tvers av mange steder, for eksempel Exchange Online, SharePoint Online og OneDrive for bedrifter.
+- Identifiser sensitiv informasjon på mange steder, for eksempel Exchange Online, SharePoint Online og OneDrive for Business.
 
 
-For eksempel kan du identifisere et dokument som inneholder et kredittkortnummer som er lagret i en hvilken som helst OneDrive for mellomstore bedrifter, eller du kan overvåke bare OneDrive områder av bestemte personer.
+Du kan for eksempel identifisere alle dokumenter som inneholder et kredittkortnummer som er lagret i OneDrive for Business-området, eller du kan overvåke bare OneDrive-områdene for bestemte personer.
 
-- Forhindre utilsiktet deling av sensitive opplysninger.
+- Forhindre utilsiktet deling av sensitiv informasjon.
 
 
-Hvis du vil ha mer informasjon, kan du se følgende [artikkel](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+For mer informasjon kan du lese følgende [artikkel](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

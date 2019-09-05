@@ -1,5 +1,5 @@
 ---
-title: Aktivere en arkiv-postboks
+title: Aktivere en arkivpostboks
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665141"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736298"
 ---
-# <a name="enable-an-archive-mailbox"></a>Aktivere en arkiv-postboks
+# <a name="enable-an-archive-mailbox"></a>Aktivere en arkivpostboks
 
-Arkiv-postbokser i Office 365 (også kalt *Elektronisk arkiv*) gir brukerne flere e-lagring. Brukere kan flytte eller kopiere elementer til sine Arkiver postboks, og administratorer kan opprette en arkiveringspolicy som automatisk flytter elementer til å arkivere postbokser.
+Arkivpostbokser i Office 365 (også kalt *online Archives*) gir brukere ekstra e-post lagring. Brukere kan flytte eller kopiere elementer til arkivpostboksen, og administratorer kan opprette en arkiveringspolicy som automatisk flytter elementer til arkivpostbokser.
   
-Her er hvordan du oppretter en arkiv-postboks:
+Slik oppretter du en arkivpostboks:
   
 1. Gå til [https://protection.office.com](https://protection.office.com).
 
-2. Logg på Office 365 bruker admin-kontoen.
+2. Logg på Office 365 ved hjelp av administratorkontoen.
 
-3. I den venstre ruten i sikkerheten &amp; overholdelsessenteret, velg **Data styring** \> **Arkiv**.
+3. Velg **data Styrings** \> **arkiv**i venstre rute &amp; i sikkerhets samsvarssenteret.
 
-4. Velg brukeren som har arkiv postboksen du vil aktivere.
+4. Velg brukeren som har arkivpostboksen du vil aktivere.
 
-5. I Detaljer-ruten til høyre, velger du **Aktiver** og velger **Ja** i advarselen om å aktivere arkiv-postboks.
+5. Velg **Aktiver** i detaljruten til høyre, og velg deretter **Ja** i advarselsmeldingen for å aktivere arkivpostboksen.
 
-Du kan også bulk-aktivere arkivere postbokser ved å velge flere brukere (ved hjelp av **SKIFT** - eller **Ctrl** -tasten) og deretter velge **Aktiver** i Detaljer-ruten.
+Du kan også bulk-aktivere arkivpostbokser ved å velge flere brukere (ved hjelp av **SKIFT** eller **CTRL** -tastene) og deretter velge **Aktiver** i detaljruten.
   
 Hvis du vil ha mer informasjon, kan du se:
   
-- [Aktiver arkiv postbokser i Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Aktivere arkivpostbokser i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Definere en policy for arkivering og sletting i Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Konfigurere en policy for arkivering og sletting i Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

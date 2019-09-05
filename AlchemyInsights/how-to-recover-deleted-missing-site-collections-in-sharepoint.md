@@ -1,6 +1,6 @@
 ---
 title: Gjenopprette et slettet område
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c6e0bfdbe3684163f1c35a74182e809f4c26cca4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540082"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756145"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Gjenopprette områdesamlinger mangler eller er slettet
+# <a name="recover-missing-or-deleted-site-collections"></a>Gjenopprette manglende eller slettede områdesamlinger
 
-Slik gjenoppretter du områdesamlinger mangler eller er slettet.
+Slik gjenoppretter du manglende eller slettede områdesamlinger.
 
 [Gjenopprette slettede områder](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Gjenopprette ved hjelp av PowerShell SPO-modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Gjenopprett ved hjelp av SPO PowerShell-modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Hvis du ikke finner området kan du vil [søke overvåkingsloggen i Office 365-sikkerhet &amp; overholdelsessenteret](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Hvis du ikke finner området, kan det være lurt å [søke i overvåkingsloggen i Office 365 sikkerhet &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Merk**: "Moderne" gruppeområder vises ikke i den **klassiske** SharePoint-admin UI. Du kan få tilgang til listen over "moderne" områder fra [administrasjonssenteret for ny Sharepoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Merk**: "moderne" gruppeområder er ikke synlige i den **KLASSISKE** SharePoint admin UI. Du kan få tilgang til listen over "moderne" områder fra det [nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

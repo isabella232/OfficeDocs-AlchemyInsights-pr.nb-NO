@@ -1,5 +1,5 @@
 ---
-title: Bli en Admin
+title: Bli administrator
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/6/2018
@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517688"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736910"
 ---
-# <a name="become-an-admin"></a>Bli en Admin
+# <a name="become-an-admin"></a>Bli administrator
 
-For å anta rollen Administrator for denne organisasjonen, må du ta over for leietakeradministrasjon.
+Hvis du vil overta administratorrollen for denne organisasjonen, må du overta leieren.
   
-Følg instruksjonene i denne håndboken: [gjøre en admin overtakelse i Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)
+Følg instruksjonene i denne veiledningen: [gjør en administrator overtakelse i Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

@@ -1,5 +1,5 @@
 ---
-title: Aktivere overvåking av postboks
+title: Aktivere overvåking av postbokser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527622"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736262"
 ---
-# <a name="enable-mailbox-auditing"></a>Aktivere overvåking av postboks
+# <a name="enable-mailbox-auditing"></a>Aktivere overvåking av postbokser
 
-Hvis du vil aktivere overvåking av postboks for en enkelt bruker eller en hel organisasjon må følgende cmdleter kjøres fra eksterne PowerShell:
+Hvis du vil aktivere postboksovervåking for én enkelt bruker eller en hel organisasjon, må følgende cmdleter kjøres fra Remote Power Shell:
   
- **Enkeltbruker**
+ **Enkelt bruker**
   
-Sett postboks - identitet "Janne Dow" - AuditEnabled $true
+Sett-postkasse-identitet "Jane Dow"-AuditEnabled $true
   
  **Organisasjon**
   
-Get-postboks - ResultSize ubegrenset - filtrere {RecipientTypeDetails - eq "UserMailbox"} | Sett postboks - AuditEnabled $true
+Get-postboks-ResultSize Unlimited-filter {RecipientTypeDetails-EQ "UserMailbox"} | Sett postboks-AuditEnabled $true
   
-[få mer informasjon](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[få mer informasjon](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

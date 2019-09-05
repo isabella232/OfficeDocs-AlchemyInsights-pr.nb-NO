@@ -1,5 +1,5 @@
 ---
-title: Installasjonen henger eller blir låst
+title: Installasjonen henger eller blir sittende fast
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498640"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735434"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office-installasjonen henger eller blir låst
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office-installasjonen henger eller blir sittende fast
 
-Du kan se dette på grunn av nettverkstilkobling, antivirusprogrammer eller Windows Update-innstillinger på datamaskinen. Her er noen ting du kan prøve å løse problemet.
+Det kan hende du ser denne virkemåten på grunn av nettverkstilkobling, antivirusprogramvare eller Windows Update-innstillinger på datamaskinen. Her er noen ting du kan prøve for å løse problemet.
   
-- Start datamaskinen på nytt og se om Office er installert
+- Start datamaskinen på nytt og kontroller om Office er installert
 
 - Bruk en kablet tilkobling
 
-- Hvis du er på en treg Internettilkobling, kan du installere Office [ved hjelp av installasjonsprogrammet for Office-frakoblet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Hvis du har en langsom Internett-tilkobling, installerer du Office [ved hjelp av installasjonsprogrammet for Office frakoblet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Slå midlertidig av antivirus-programmer
+- Deaktivere antivirusprogramvare midlertidig
 
-- Kjøre online reparasjon fra Kontrollpanel
+- Kjør elektronisk reparasjon fra kontroll panel
 
 - Fjerne og installere Office på nytt
 
-[Office tar lang tid å installere](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Det tar lang tid å installere Office](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

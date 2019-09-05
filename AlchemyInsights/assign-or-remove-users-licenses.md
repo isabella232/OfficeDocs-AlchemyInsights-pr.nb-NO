@@ -1,5 +1,5 @@
 ---
-title: Tilordne eller fjerne brukernes lisenser
+title: Tilordne eller fjerne brukeres lisenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574443"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736982"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Tilordne eller fjerne brukernes lisenser
+# <a name="assign-or-remove-users-licenses"></a>Tilordne eller fjerne brukeres lisenser
 
-Som administrator, kan du justere brukernes lisenser etter behov. Artiklene nedenfor viser hvordan du kan behandle lisenser for dine brukere, inkludert:
+Som administrator kan du justere brukernes lisenser etter behov. Artiklene nedenfor vil vise deg hvordan du administrerer brukernes lisenser, inkludert:
   
-- [Tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Opphever tilordningen av lisenser fra brukere i Office 365 for bedrifter](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Oppheve tilordning av lisenser fra brukere i Office 365 for bedrifter](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Ikke svar på spørsmålet? ingen fare! Bruk "Trenger hjelp"-knappen for å snakke med en kundestøttetekniker.
+Svarte ikke på spørsmålet ditt? ingen fare! Bruk "trenger hjelp"-knappen for å snakke med en støttetekniker.

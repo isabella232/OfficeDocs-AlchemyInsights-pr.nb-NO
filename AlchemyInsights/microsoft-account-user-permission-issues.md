@@ -1,6 +1,6 @@
 ---
-title: Feilsøke problemet - brukeren ble ikke funnet i katalogen
-ms.author: kirks
+title: Feilsøking av problem-brukeren ikke funnet i katalogen
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544872"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754201"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Feilsøke problemet - brukeren ble ikke funnet i katalogen
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Feilsøking av problem-brukeren ikke funnet i katalogen
 
-Hvis brukere får feil melding "brukeren finnes ikke" i katalogen. Prøv på nytt der problemtypen brukeren ikke er i katalogen.
+Hvis brukere får feilmeldingen "brukeren kan ikke finnes" i katalogen. Behage prøve atter der hvor utsendelsen type er bruker ikke inne adresseliste.
 
-Følgende trinn kan fullføres hvis du vil feilsøke problemet.
+Følgende trinn kan fullføres for å feilsøke problemet.
 
-- Sikre at kontoen som godkjent e-postinvitasjonen er den samme kontoen som brukes til å logge på igjen senere. Kontroller at du bruker samme konto til å godta invitasjonen og logge inn på området. 
+- Kontroller at kontoen som godtok invitasjonen til e-post, er den samme kontoen som brukes til å logge på senere. Kontroller at brukeren bruker samme konto til å godta invitasjonen og logge på området. 
 
-For mer informasjon, se [å administrere aliaser for Microsoft-kontoen</a> til å administrere Office 365-pålogging](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Hvis du vil ha mer informasjon, kan du se Administrere [aliaser for</a> Microsoft-kontoen din for å administrere Office 365-påloggingen](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Bla til hver område(r) der brukeren mottar feilen. 
+- Bla til hvert område (r) der brukeren mottar feilen. 
 
-Legge til "/ _layouts/15/people.aspx/membershipgroupid=0" (i de doble anførselstegnene) på slutten av URL-adressen for området. 
+Legg til "/_layouts/15/People.aspx/membershipgroupid = 0" (i doble anførselstegn) til slutten av webadressen. 
 
-Eksempel: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Eksempel: https://< "contoso">. SharePoint. com/layouts/15/People. aspx/membershipGroupId = 0.
 
 - Velg brukeren fra listen.
 
 - Klikk **Fjern brukertillatelser** fra båndet. 
--  Legge tilbake til brukeren, og Send invitasjonen på nytt til brukeren.
+-  Legg til brukeren og Send invitasjonen til brukeren på nytt.
 
