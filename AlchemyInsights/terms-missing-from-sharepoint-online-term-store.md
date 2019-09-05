@@ -1,6 +1,6 @@
 ---
-title: Vilkårene som mangler i SharePoint Online termlager
-ms.author: kirks
+title: Vilkår mangler fra SharePoint Online term store
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500836"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749161"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="80a05-102">Vilkårene som mangler i SharePoint Online termlager</span><span class="sxs-lookup"><span data-stu-id="80a05-102">Terms missing from SharePoint Online Term Store</span></span>
+# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="f251a-102">Vilkår mangler fra SharePoint Online term store</span><span class="sxs-lookup"><span data-stu-id="f251a-102">Terms missing from SharePoint Online Term Store</span></span>
 
-<span data-ttu-id="80a05-103">Vilkårene i SharePoint Online termlageret du forventer å se, ikke vises eller er midlertidig vises.</span><span class="sxs-lookup"><span data-stu-id="80a05-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
+<span data-ttu-id="f251a-103">Termene i SharePoint Online term lageret du forventer å se, vises ikke eller vises midlertidig.</span><span class="sxs-lookup"><span data-stu-id="f251a-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
   
-<span data-ttu-id="80a05-104">Hvis det har gått mer enn 24 timer etter at du først så dette problemet, logger du deg en sak for støtte.</span><span class="sxs-lookup"><span data-stu-id="80a05-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="80a05-105">Vi forstår at 24 timer kan virke som en lang tid.</span><span class="sxs-lookup"><span data-stu-id="80a05-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="80a05-106">I mange tilfeller kan vi allerede arbeider med en løsning så gi oss minst 24 timer.</span><span class="sxs-lookup"><span data-stu-id="80a05-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="f251a-104">Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en kundestøttesak.</span><span class="sxs-lookup"><span data-stu-id="f251a-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="f251a-105">Vi forstår at 24 timer kan virke som en lang tid.</span><span class="sxs-lookup"><span data-stu-id="f251a-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="f251a-106">I mange tilfeller er vi allerede jobber med en løsning så vennligst gi oss minst 24 timer.</span><span class="sxs-lookup"><span data-stu-id="f251a-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   
