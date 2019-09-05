@@ -1,22 +1,22 @@
 ---
-title: Desktop app for SharePoint
-ms.author: kirks
+title: Skrivebordsprogram for SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504184"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751645"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="fb74a-102">Desktop app for SharePoint</span><span class="sxs-lookup"><span data-stu-id="fb74a-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="ee269-102">Skrivebordsprogram for SharePoint</span><span class="sxs-lookup"><span data-stu-id="ee269-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="fb74a-103">Organisasjonen er angitt i den Private forhåndsvisningsprogrammet for Desktop-App for SharePoint.</span><span class="sxs-lookup"><span data-stu-id="fb74a-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="ee269-103">Organisasjonen er lagt inn i programmet privat forhåndsvisning for desktop app for SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ee269-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
 
-<span data-ttu-id="fb74a-104">Microsoft støtter ikke for øyeblikket Desktop-App for SharePoint (Private forhåndsvisning).</span><span class="sxs-lookup"><span data-stu-id="fb74a-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="fb74a-105">Bruk de innrullerte Microsoft Private forhåndsvisning-partnerne for å få hjelp med PC-App for SharePoint.</span><span class="sxs-lookup"><span data-stu-id="fb74a-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="ee269-104">Microsoft støtter for øyeblikket ikke skrivebordsprogrammet for SharePoint (privat forhåndsvisning).</span><span class="sxs-lookup"><span data-stu-id="ee269-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="ee269-105">Bruk dine innrullert Microsoft private Preview-partnere for å få hjelp med desktop app for SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ee269-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
 

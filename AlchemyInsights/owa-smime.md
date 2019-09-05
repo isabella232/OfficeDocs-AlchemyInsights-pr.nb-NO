@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 46de7befada6c67f9bc91f358201944cb1daaee2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555926"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741302"
 ---
-# <a name="encrypt-messages-using-smime"></a><span data-ttu-id="6f2dd-102">Kryptere meldinger ved hjelp av S/MIME</span><span class="sxs-lookup"><span data-stu-id="6f2dd-102">Encrypt messages using S/MIME</span></span>
+# <a name="encrypt-messages-using-smime"></a><span data-ttu-id="89e0b-102">Krypter meldinger ved hjelp av S/MIME</span><span class="sxs-lookup"><span data-stu-id="89e0b-102">Encrypt messages using S/MIME</span></span>
 
-<span data-ttu-id="6f2dd-103">Bruke S/MIME i Outlook på weben til å øke sikkerheten for meldinger.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-103">Use S/MIME in Outlook on the web to increase the security of your messages.</span></span> <span data-ttu-id="6f2dd-104">Et digitalt kryptert melding kan bare åpnes av mottakere som har den riktige nøkkelen.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-104">A digitally encrypted message can only be opened by recipients who have the correct key.</span></span> <span data-ttu-id="6f2dd-105">En digital signatur bekrefter for mottakeren at meldingen ikke har blitt tuklet med.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-105">A digital signature assures recipients that the message hasn’t been tampered with.</span></span>
+<span data-ttu-id="89e0b-103">Bruk S/MIME i Outlook på weben for å øke sikkerheten for meldingene.</span><span class="sxs-lookup"><span data-stu-id="89e0b-103">Use S/MIME in Outlook on the web to increase the security of your messages.</span></span> <span data-ttu-id="89e0b-104">En digitalt kryptert melding kan bare åpnes av mottakere som har den riktige nøkkelen.</span><span class="sxs-lookup"><span data-stu-id="89e0b-104">A digitally encrypted message can only be opened by recipients who have the correct key.</span></span> <span data-ttu-id="89e0b-105">En digital signatur sikrer mottakerne at meldingen ikke har blitt tuklet med.</span><span class="sxs-lookup"><span data-stu-id="89e0b-105">A digital signature assures recipients that the message hasn’t been tampered with.</span></span>
 
-<span data-ttu-id="6f2dd-106">**Merk:** S/MIME-filtypen, må installeres av systemansvarlig.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-106">**Note:** The S/MIME extension must be installed by your administrator.</span></span>
+<span data-ttu-id="89e0b-106">**Merk:** S/MIME-utvidelsen må installeres av systemansvarlig.</span><span class="sxs-lookup"><span data-stu-id="89e0b-106">**Note:** The S/MIME extension must be installed by your administrator.</span></span>
 
-<span data-ttu-id="6f2dd-107">Slik endrer du S/MIME-innstillinger på Web-området i Outlook:</span><span class="sxs-lookup"><span data-stu-id="6f2dd-107">To change your S/MIME settings in Outlook on the web:</span></span>
+<span data-ttu-id="89e0b-107">Slik endrer du S/MIME-innstillingene i Outlook på weben:</span><span class="sxs-lookup"><span data-stu-id="89e0b-107">To change your S/MIME settings in Outlook on the web:</span></span>
 
-1. <span data-ttu-id="6f2dd-108">gå til</span><span class="sxs-lookup"><span data-stu-id="6f2dd-108">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="6f2dd-109">**Innstillinger for** > **Vis alle innstillinger i Outlook**.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-109">**Settings** > **View all Outlook settings**.</span></span>
-2. <span data-ttu-id="6f2dd-110">Velg **e-post** > **S/MIME**.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-110">Select **Mail** > **S/MIME**.</span></span>
+1. <span data-ttu-id="89e0b-108">gå til</span><span class="sxs-lookup"><span data-stu-id="89e0b-108">Go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="89e0b-109">**Innstillinger** > **Vis alle Outlook-innstillinger**.</span><span class="sxs-lookup"><span data-stu-id="89e0b-109">**Settings** > **View all Outlook settings**.</span></span>
+2. <span data-ttu-id="89e0b-110">Velg **e-post** > **S/MIME**.</span><span class="sxs-lookup"><span data-stu-id="89e0b-110">Select **Mail** > **S/MIME**.</span></span>
 
-<span data-ttu-id="6f2dd-111">Les [kryptere meldinger ved hjelp av S/MIME i Outlook på weben] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? wt.mc_id=Office_Outlook_com_Alchemy) for mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="6f2dd-111">Read [Encrypt messages by using S/MIME in Outlook on the web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ?wt.mc_id=Office_Outlook_com_Alchemy) for more information.</span></span>
+<span data-ttu-id="89e0b-111">Les [kryptere meldinger ved hjelp av S/MIME i Outlook på weben hvis du](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) vil ha mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="89e0b-111">Read [Encrypt messages by using S/MIME in Outlook on the web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) for more information.</span></span>
