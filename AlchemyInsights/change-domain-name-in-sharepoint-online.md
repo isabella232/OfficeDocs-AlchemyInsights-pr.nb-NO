@@ -1,6 +1,6 @@
 ---
-title: Endre domenenavnet i SharePoint Online
-ms.author: kirks
+title: Endre domenenavn i SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519200"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747649"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Endre domenenavnet i SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Endre domenenavn i SharePoint Online
 
-Dessverre er det ikke mulig å endre SharePoint Online domenenavnet for organisasjonen i Office 365. Hvis navnet på organisasjonen endres fra "Contoso" til "Fourth Coffee", kan du endre contoso.sharepoint.com til fourthcoffee.sharepoint.com.
+Det er dessverre ikke mulig å endre domenenavnet for SharePoint Online for organisasjonen i Office 365. Hvis for eksempel navnet på organisasjonen din endres fra "Contoso" til "Fourth Coffee", kan du ikke endre contoso.sharepoint.com til fourthcoffee.sharepoint.com.
   
-Hvis du vil bruke domene navnet fourthcoffee.sharepoint.com, må du kjøpe et nytt Office 365-abonnement og flytter all e-post, filer og andre data du vil beholde, til det nye abonnementet.
+Hvis du vil bruke domenenavnet fourthcoffee.sharepoint.com, må du kjøpe et nytt abonnement på Office 365 og flytte alle e-postmeldinger, filer og andre data du vil beholde, til det nye abonnementet.
   
- **Merk**: For eksempel for å endre navnet på et område fra https://contoso.sharepoint.com/sites/sample1 til https://contoso.sharepoint.com/sites/sample2, oppretter et nytt område og deretter flytte alt innholdet fra det gamle området til den nye.
+ **Merk**: Hvis du for eksempel vil endre navnet på et område fra https://contoso.sharepoint.com/sites/sample1 til https://contoso.sharepoint.com/sites/sample2, oppretter du et nytt område og flytter alt innholdet fra det gamle området til det nye.
   
-For informasjon om hvordan du flytter elementer i dokumentbiblioteker, se [flytte eller kopiere elementer fra et SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).
+Hvis du vil ha informasjon om hvordan du flytter elementer i dokumentbiblioteker, se [flytte eller kopiere elementer fra et SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).
   

@@ -1,5 +1,5 @@
 ---
-title: Øke størrelsen på postboksen for Enterprise-SKUer
+title: Øk størrelsen på postboksen for Enterprise skuer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499432"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739286"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Hva gjør jeg hvis størrelsen på postboksen er allerede 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Hva gjør jeg hvis postboksstørrelsen allerede er 100 GB
 
-Størrelsen på postboksen er allerede 100 GB med en E3 eller E5 plan, og det er ikke mulig å øke den. I stedet slette gamle e-post, eller slå på e-post arkivering Hvis du vil lagre den i skyen. 
+Med en E3-eller E5-plan er størrelsen på postboksen allerede 100 GB, og det er ikke mulig å øke den. Slett i stedet gammel e-post eller slå på arkivering av e-post for å lagre den i skyen. 
   
-Slik aktiverer du e-post arkivering:
+Slik aktiverer du arkivering av e-post:
   
-1. Gå til **Admin centers** i administrasjonssenteret for Microsoft 365 \> **Exchange**. 
+1. I Administrasjonssenter for Microsoft 365, gå til **admin Centers** \> **Exchange**. 
     
 2. Velg **mottakere** \> **postbokser**, og velg en postboks. 
     
-3. Velg **Aktiver**i Detaljer-ruten under **Arkiv på stedet**. 
+3. Velg **Aktiver**i detaljruten under **arkiv på stedet**. 
     
-4. Etter noen minutter, vises en ny mappe i brukerens Outlook på nettet kalt *Arkiv på stedet* , eller i Outlook-app kalt *Elektronisk arkiv - \<navn\> * . Brukeren kan dra og slippe e-post til arkivet. 
+4. Etter noen minutter vil en ny mappe vises i brukerens Outlook på nettet som kalles *i stedet arkiv* , eller i Outlook app kalt * \<online arkiv-navn\> * . Brukeren kan dra og slippe e-post til arkivet. 
     
-Du kan få tilgang til en ubegrenset mengde lagringsplass for arkivering. Hvis du vil ha mer informasjon, kan du se [aktivere ubegrenset arkivering](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Du får tilgang til en ubegrenset mengde lagringsplass for arkivering. Hvis du vil vite mer, kan du se [aktivere ubegrenset arkivering](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

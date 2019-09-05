@@ -1,5 +1,5 @@
 ---
-title: '404-feil: Finner ikke filen'
+title: 'Feil 404: finner ikke filen'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527408"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740222"
 ---
-# <a name="error-404-file-not-found"></a>404-feil: Finner ikke filen
+# <a name="error-404-file-not-found"></a>Feil 404: finner ikke filen
 
-**404-feil: Finner ikke filen** mottas når brukere prøver å få tilgang til et område eller en fil i SharePoint eller OneDrive. Dette skyldes ofte et område eller fil eller gruppe får nytt navn, flyttet eller slettet.
-Brukere opplever feilen når du prøver å få tilgang til roten områdesamlingen, og den er slettet.
+**Feil 404: finner ikke filen** mottas når brukere prøver å få tilgang til et område eller en fil i SharePoint eller OneDrive. Dette skyldes ofte at et område eller en fil eller gruppe får nytt navn, flyttes eller slettes.
+Brukere vil oppleve feilen når du prøver å få tilgang til roten områdesamlingen, og den er slettet.
 
 Følgende kan hjelpe deg med å løse dette problemet:
-- [Vise og gjenopprette slettede områder i den nye SharePoint-administrasjonssenteret](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): For moderne områder (kommunikasjon, gruppe-tilkoblet, eller andre områder) som finnes i den nye admin center forhåndsvisningen.
-- [Gjenopprette elementer i papirkurven til et SharePoint-område](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): løse fil (eller et annet element) som har fått nytt navn, flyttet eller slettet gå til OneDrive eller -området og vise resirkulering Bin fra innholdet på området.
-- [Søker overvåkingsloggen i Office 365-sikkerhet &amp; overholdelsessenteret](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Søk i overvåkingsloggen (Hvis logging er aktivert), hvis du fremdeles ikke finner varen.
+- [Vise og gjenopprette slettede områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): for moderne områder (kommunikasjon, gruppe tilkoblet eller andre områder) som finnes i den nye forhåndsvisningen av administrasjonssenteret.
+- [Gjenopprette elementer i papirkurven for et SharePoint-omr åde](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Hvis du vil løse filer (eller andre elementer) som har fått nytt navn, kan du flytte eller slette dem på SharePoint-eller OneDrive-området og vise papirkurven fra innholdet på området.
+- [Søk i overvåkingsloggen i samsvarssenteret &amp; for sikkerhet](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): Søk i overvåkingsloggen (hvis logging er aktivert) Hvis du fremdeles ikke finner elementet.

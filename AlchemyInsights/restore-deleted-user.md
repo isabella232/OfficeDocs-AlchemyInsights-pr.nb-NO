@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette slettede brukeren
+title: Gjenopprett slettet bruker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551820"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745082"
 ---
 # <a name="restore-a-user-in-office-365"></a>Gjenopprette en bruker i Office 365
 
-Gjenopprette en brukers i Office 365 ved å følge disse trinnene:
+Gjenopprett en bruker i Office 365 ved hjelp av disse trinnene:
   
-1. Gå til [brukere \> slettet brukere](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Gå til [brukere \> Slettede brukere](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Velg brukeren, og velg deretter **Gjenopprett**.
 
 3. Følg ledetekstene for å angi passordet.
 
-4. Klikk **Send e-post og lukke**, og du er ferdig!
+4. Klikk på **Send e-post og Lukk**, og du er ferdig!
 
-Var ikke så enkelt? For mer detaljer og trinn med skjermbilder, kan du sjekke ut denne artikkelen: [gjenopprette en brukers i Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Hvis du oppdager at du i stedet må du gjenopprette brukerens postboks, kan du se: [slette eller gjenopprette postbokser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Var ikke det lett? Hvis du vil ha mer informasjon og trinn med skjermbilder, kan du se denne artikkelen: [gjenopprette en bruker i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Hvis du innser at du i stedet må gjenopprette brukerens postboks, kan du se: [slette eller gjenopprette brukerpostbokser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

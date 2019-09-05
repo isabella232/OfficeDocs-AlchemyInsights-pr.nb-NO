@@ -1,6 +1,6 @@
 ---
 title: Komme i gang med SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ec39c31baedc8e31a9806b5a6b107009de09ce4c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502996"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750133"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Område- og navigering i SharePoint-områder
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Område-og Sidenavigering på SharePoint-områder
 
-Grunnleggende prinsipper og gode fremgangsmåter for område- og navigering gjelder like mye for både klassiske og moderne arkitektur i SharePoint. Imidlertid basert alternativer for implementering av navigasjon varierer på rammeverket for webområder og intranett. For eksempel arvet navigasjon alternativer er tilgjengelige i standard SharePoint-område hierarkier (områder med sekundære webområder) er ikke tilgjengelig i den moderne opplevelsen, men webområdene er en fin måte å oppnå områdedekkende navigasjonsfunksjonene [hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) tidligere var tilgjengelig i administrerte navigasjons- og hierarkier i klassisk SharePoint.
+De grunnleggende prinsippene og god praksis for nettsted-og Sidenavigering er like gjeldende for både klassiske og moderne SharePoint-arkitekturer. Alternativene for implementering av navigasjon er imidlertid forskjellig basert på rammeverket for områdene og intranettet. For eksempel er de arvede navigerings opplevelsene som er tilgjengelige i klassiske SharePoint-område hierarkier (områder med sekundære områder), ikke tilgjengelige i den moderne opplevelsen, men [hub-områder](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) er en fin måte å oppnå navigasjonsfunksjoner på tvers av områder tidligere tilgjengelig i administrerte navigasjons-og område hierarkier i klassisk SharePoint.
 
- Hvis du vil ha mer informasjon om alternativer for navigering, kan du besøke koblingene nedenfor.
+ Hvis du vil ha mer informasjon om Navigasjonsalternativer, kan du gå til koblingene nedenfor.
 
- - [Planlegge navigasjon for den moderne SharePoint-brukeropplevelsen](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Planlegge navigering for den moderne SharePoint-opplevelsen](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Tilpass navigasjonen på SharePoint-området](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Tilpasse navigasjonen på SharePoint-området](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
 - [Alternativer for navigering for SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [Organisere SharePoint-områder med megamenu navigasjon](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Organiser SharePoint-områdene med megamenu navigasjon](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
 - [Administrerte metadata og navigering i SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 

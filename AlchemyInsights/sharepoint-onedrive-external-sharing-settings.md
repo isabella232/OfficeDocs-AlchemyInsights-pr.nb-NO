@@ -1,6 +1,6 @@
 ---
-title: Aktiver ekstern deling på eller av for SharePoint
-ms.author: kirks
+title: Aktivere eller deaktivere ekstern deling for SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507892"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750925"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Advarsel: organisasjonens retningslinjer tillater ikke at du deler med disse brukerne
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Advarsel: organisasjonens policyer tillater ikke at du deler med disse brukerne
 
-Brukerne kan få en advarsel når du prøver å dele med eksterne brukere i organisasjonen. Meldingen er **organisasjonens retningslinjer tillater ikke at du deler med disse brukerne. Gå til ekstern deling i administrasjonssenteret Office 365 til å aktivere det**. Dette skjer ofte første gang prøver å dele med eksterne brukere, eller når du deler med nye eksterne brukere.
+Brukere kan oppleve en advarselsmelding når de prøver å dele med eksterne brukere av organisasjonen. Meldingen er **organisasjonens policyer tillater ikke at du deler med disse brukerne. Gå til ekstern deling i administrasjonssenteret for Office 365 for å aktivere den**. Dette skjer ofte første gang du prøver å dele med eksterne brukere eller når du deler med nye eksterne brukere.
 
-Kontroller **innstillingene for SharePoint og eksterne deling av OneDrive** for organisasjonen.
+Kontroller **innstillingene for ekstern deling i SharePoint og OneDrive** for organisasjonen.
 
-1. Velg din [365 administrasjonssenteret for Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
-3. Velg **Deling** å se eksterne innstillinger for deling.
+1. Velg **SharePoint**i [Administrasjonssenter for Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+3. Velg **deling** for å se innstillingene for ekstern deling.
 
 Kontroller **innstillingene for ekstern deling** for et bestemt område.
 
-1. Velg din [365 administrasjonssenteret for Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint**.
-2. Velg **aktive områder** for å se på områdene som er tilgjengelige.
-3. Velg området du vil kontrollere, og velg deretter **Deling** -knappen som vises i menylinjen til å kontrollere innstillingene for området.
+1. Velg **SharePoint**i [Administrasjonssenter for Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+2. Velg **aktive områder** for å se hvilke områder som er tilgjengelige.
+3. Velg området du vil kontrollere, og velg deretter **deling** -knappen som vises i menylinjen for å bekrefte innstillingene for området.
 
-Hvis du vil ha mer informasjon, kan du se [Oversikt over eksterne deling](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Se [Oversikt over ekstern deling](https://docs.microsoft.com/sharepoint/external-sharing-overview)for mer informasjon.

@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520856"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738602"
 ---
 # <a name="change-a-users-email-address"></a>Endre en brukers e-postadresse
 
-Det er enkelt å endre andres e-postadresse! Bare Følg disse trinnene:
+Endre noens e-postadresse er enkelt! Bare følg disse trinnene:
   
-1. Gå til siden [brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) i administrasjonssenteret for Microsoft 365, eller velg **brukere** \> **Aktive brukere**.
+1. Gå til [brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden i Administrasjonssenter for Microsoft 365, eller velg **brukere** \> **aktive brukere**.
     
 2. Velg brukeren.
     
 3. Velg **Rediger** til høyre i **Brukernavn/e-postaliaser**-raden.
     
-4. I **Alias** -boksen skriver du inn en ny e-post, og velg deretter **Legg til**.
+4. Skriv inn en ny e-postadresse i **alias** -boksen, og velg deretter **Legg til**.
     
     **VIKTIG!**: Hvis du får feilmeldingen « **Et parameter som samsvarer med parameternavn «EmailAddresses», finnes ikke**», betyr det at det tar litt lengre tid for Office 365 å fullføre konfigurasjonen av leieren eller det egendefinerte domenet hvis du nylig har lagt det til. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv deretter på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
     
-    Hvis du får feilmeldingen " **Vi beklager, men brukeren ikke kan redigeres. Se gjennom informasjon om bruker og prøv på nytt**"betyr det at du ikke er en global administrator for Office 365, og du ikke har tillatelse til å endre navnet på brukeren.
+    Hvis du får feilmeldingen « **vi beklager, kan ikke brukeren redigeres. Se gjennom bruker informasjonen, og prøv på nytt**"det betyr at du ikke er en global administrator for Office 365 og du ikke har tillatelse til å endre brukerens navn.
     
-5. Velg **Angi som primær** for e-postadressen du vil angi som primær e-postadresse for denne personen. Hvis du kjøpte abonnementet fra GoDaddy, må du logge på til sine administrasjonskonsollen til å angi den primære e-postadressen. 
+5. Velg **Angi som primær** for e-postadressen du vil angi som primær e-postadresse for denne personen. Hvis du kjøpte abonnementet fra GoDaddy, må du logge på administrasjonskonsollen for å angi den primære e-postadressen. 
     
-6. Velg **Lagre**, **lukke**, og du er ferdig!
+6. Velg **Lagre**, **Lukk**, og du er ferdig!
     
-Var ikke så enkelt? For mer detaljer og trinn med skjermbilder, kan du sjekke ut denne artikkelen: [Endre brukernavn og e-postadresse i Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Var ikke det lett? For mer informasjon og trinn med skjermbilder, sjekk ut denne artikkelen: [endre et brukernavn og e-postadresse i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

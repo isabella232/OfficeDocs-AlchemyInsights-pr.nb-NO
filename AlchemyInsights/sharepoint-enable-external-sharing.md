@@ -1,5 +1,5 @@
 ---
-title: Aktivere deling av eksternt i SharePoint Online
+title: Aktivere ekstern deling i SharePoint Online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503896"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744434"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivere deling av eksternt i SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivere ekstern deling i SharePoint Online
 
-Hvis organisasjonen utfører arbeid som involverer deling av dokumenter eller samarbeide direkte med leverandører, klienter eller kunder, og deretter kan du bruke den [eksterne delte funksjoner for SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) til å dele innhold med personer utenfor ditt organisasjon.
+Hvis organisasjonen utfører arbeid som involverer deling av dokumenter eller samarbeid direkte med leverandører, klienter eller kunder, kan du bruke [funksjonene for ekstern deling i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) til å dele innhold med personer utenfor Organisasjon.
 
-Hvis du vil ha mer informasjon om eksterne deling (gjester), kan du gå koblingene nedenfor.
+For mer informasjon om ekstern deling (gjester) kan du gå til linkene nedenfor.
 
 - [Hva er en ekstern bruker?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Hva skjer når jeg deler et område eller et dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Hva skjer når jeg deler et nettsted eller dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 - [Aktivere eller deaktivere ekstern deling for SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Aktiver ekstern deling på eller av for et område](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Slå ekstern deling på eller av for et nettsted](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
 - [Behandle gjestetilgang i Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Bruke Sharepoint Online som et ekstranett løsning fra bedrift til bedrift (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Bruk SharePoint Online som en Business-to-Business (B2B) ekstranett løsning](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Dele SharePoint-filer eller mappen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Dele SharePoint-filer eller-mapper](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Avslutte deling av OneDrive eller SharePoint-filer eller mapper, eller endre tillatelser](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Slutte å dele OneDrive-eller SharePoint-filer eller-mapper, eller endre tillatelser](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Slette en ekstern bruker](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Vises en feilmelding med en ekstern bruker (gjester)?**
+**Mottar du en feil med en ekstern bruker (gjest)?**
 
-Se koblingene nedenfor. 
+Sjekk linkene nedenfor. 
 
-- [Deling av OSE-feil i Sharepoint eller OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE deling av feil i SharePoint eller OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Feilmelding når en ekstern bruker godtar en invitasjon om SharePoint Online ved å bruke en annen konto](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Feilmelding når en ekstern bruker godtar en SharePoint Online-invitasjon ved hjelp av en annen konto](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Ingen tilgang til en delt mappe](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Ingen tilgang til en delt mappe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

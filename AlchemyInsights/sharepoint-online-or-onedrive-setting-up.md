@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online eller OneDrive 'Definerer'
-ms.author: kirks
+title: SharePoint Online eller OneDrive ' oppsett '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: df0f6903a504d2fe6e988277e254b7e03910eeb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed1a0a6988cf044a4d1426c9a2c230de3d0636c6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559816"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750349"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online eller OneDrive "Sette opp"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online eller OneDrive "Oppsett"
 
-Når en bruker legges til en eksisterende Office 365 leier, kan de se SharePoint Online eller OneDrive for Business-ikoner vises som "Sette opp" før Klargjøringsprosessen er fullført.
+Når en bruker er lagt til en eksisterende leier for Office-365, kan de se SharePoint Online eller OneDrive for Business ikoner vises som "Oppsett" før klargjøring prosessen er fullført.
   
-Hvis det har gått mer enn 24 timer etter at du først så dette problemet, logger du deg en sak for støtte. I mange tilfeller kan arbeider vi allerede med en løsning. Gi oss minst 24 timer å fullføre en løsning.
+Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en kundestøttesak. I mange tilfeller er vi allerede jobber med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
   
 

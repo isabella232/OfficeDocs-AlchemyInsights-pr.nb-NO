@@ -1,6 +1,6 @@
 ---
-title: Støttede versjonen av overføringsverktøyet i SharePoint
-ms.author: kirks
+title: Støttet versjon av migreringsverktøyet for SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/9/2019
 ms.audience: ITPro
@@ -9,19 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: d5d4024fb9fd77f913f92d280620161534a574e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d355a854b24bcd81e5017af0666481c633c6814
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534248"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749341"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Støttede versjonen av overføringsverktøyet i SharePoint
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Støttet versjon av migreringsverktøyet for SharePoint
 
 
 
-Overføringsverktøyet i SharePoint støtter for tiden bare overføring fra SharePoint 2013. Versjoner 2010 og 2016 støttes ikke på dette tidspunktet.
+Migreringsverktøyet for SharePoint støtter for øyeblikket bare migrering fra SharePoint 2013. Versjoner 2010 og 2016 støttes ikke for øyeblikket.
   
-Hvis du vil ha mer informasjon, se [Innføring i overføringsverktøyet i SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+Hvis du vil ha mer informasjon, se [innføring i Migreringsverktøy for SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 

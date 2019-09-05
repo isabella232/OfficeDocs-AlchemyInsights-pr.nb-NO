@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523412"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735775"
 ---
 # <a name="having-email-delivery-issues"></a>Har du problemer med levering av e-post?
 
@@ -21,10 +21,8 @@ Vi har oppdaget at brukerne ikke kan motta e-postmeldinger sendt til følgende d
   
 {HealthCheckString}
   
-NS- eller MX-postene for innstillingene for domenet (DNS) er ikke riktig konfigurert for levering av e-post til Office 365-tjenesten. Du kan se [Oppdatere DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detaljerte instruksjoner. 
+NS- eller MX-postene for innstillingene for domenet (DNS) er ikke riktig konfigurert for levering av e-post til Office 365-tjenesten. Du kan referere til [Opprette DNS-poster hos en DNS-vert for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detaljerte instruksjoner. 
   
-Hvis du vil løse problemet, kan du gå til [Domener](https://admin.microsoft.com/adminportal/home#/Domains)-siden i administrasjonssenteret for Microsoft 365, så hjelper vi deg. 
-  
-[Se vanlige spørsmål om domener](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for andre vanlige løsninger. 
-  
+Hvis du vil løse problemet, kan du gå til [Domener](https://admin.microsoft.com/adminportal/home#/Domains)-siden i Administrasjonssenteret for Microsoft 365, så hjelper vi deg. 
+
 

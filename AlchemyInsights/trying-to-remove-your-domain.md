@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 9dffa6c2284e1960cadd851b197c7afaf66b2704
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533312"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742562"
 ---
 # <a name="trying-to-remove-your-domain"></a>Prøver du å fjerne domenet?
 
-Følg trinnene i denne artikkelen for å fjerne domenet ditt fra Office 365: [fjerne et domene fra Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Hvis du vil fjerne domenet fra Office 365, følger du fremgangsmåten i denne artikkelen: [fjerne et domene fra Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
-Du må oppdatere noen brukere eller grupper som er tilordnet dette domenenavnet før du fjerner domenet.
+Du må oppdatere alle brukere eller grupper som er tilordnet dette domenenavnet, før du fjerner domenet.
   
-[Se vanlige spørsmål om domener](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for andre vanlige løsninger.
+[Sjekk domene artikkelen](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for andre vanlige løsninger.
   

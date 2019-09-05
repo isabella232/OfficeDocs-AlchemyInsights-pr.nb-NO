@@ -1,6 +1,6 @@
 ---
 title: Slette en områdesamling i SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513116"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748189"
 ---
 # <a name="delete-a-site-collection"></a>Slette en områdesamling
 
-Når du, som en global eller SharePoint admin i Office 365, slette et område (tidligere kalt "områdesamlingen"), er flyttet til papirkurven for områdesamlingen, og beholdes for 93 dager. 
+Når du, som en global eller SharePoint-administrator i Office 365, slette et område (tidligere kalt en "områdesamling"), flyttes den til områdesamlingen papirkurven og beholdt for 93 dager. 
 
-Når du sletter et område, slettes alt innenfor det blant annet:
+Når du sletter et nettsted, slettes alt i det, inkludert:
 
-- Dokumentbiblioteker og filer.
+- Dokumentbiblioteker og-filer.
 - Lister og listedata.
-- Innstillinger for område og historikk.
-- Eventuelle sekundære områder og innholdet.
+- Innstillinger og historikk for nettstedet.
+- Eventuelle sub-nettsteder og deres innhold.
 
-Du bør varsle område-Administratorer og eiere av et sekundært område før du sletter et område, slik at de kan flytte dataene til et annet sted, og også fortelle brukere når områdene vil bli slettet. 
+Du bør varsle områdeadministratorene og eventuelle eiere av et sekundært område før du sletter et område, slik at de kan flytte dataene til et annet sted, og også fortelle brukerne når områdene vil bli slettet. 
 
-Hvis du vil ha mer informasjon, kan du se [slette en områdesamling](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Hvis du vil ha mer informasjon, se [slette en områdesamling](https://docs.microsoft.com/sharepoint/delete-site-collection). 

@@ -1,5 +1,5 @@
 ---
-title: Teste Alkymi innebygde videoer
+title: Testing Alchemy inline videoer
 ms.author: pebaum
 author: pebaum
 ms.date: 11/16/2017
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 83fc8cf2f656c27493fa3d4bf007185ddee35ecc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ced92314d700a7f6725e831b0ea5fda0ccc9c2c3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500584"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743210"
 ---
-# <a name="set-up-domain-and-users"></a>Angi domenet og brukere
+# <a name="set-up-domain-and-users"></a>Definere domene og brukere
 
-Når du er klar til å konfigurere domenet og brukere, kan du se denne videoen med rask:
+Når du er klar til å konfigurere domenet og brukerne, kan du se denne raske videoen:
   
-![Leseren støtter ikke video. Installere Microsoft Silverlight, Adobe Flash Player eller Internet Explorer 9.](media/MSN_Video_Widget.gif)
+![Nettleseren din støtter ikke video. Installer Microsoft Silverlight, Adobe Flash Player eller Internet Explorer 9.](media/MSN_Video_Widget.gif)
   
-Hvis du vil ha mer informasjon, se på [domener vanlige.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
+Hvis du vil ha mer informasjon, kan du se [vanlige spørsmål om domener.](https://docs.microsoft.com/office365/admin/setup/domains-faq)
   
 

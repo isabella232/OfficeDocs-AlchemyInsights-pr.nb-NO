@@ -1,6 +1,6 @@
 ---
 title: Anonym deling
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512468"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747838"
 ---
 # <a name="anonymous-sharing"></a>Anonym deling
 
  **Aktivere anonym tilgang**
   
-Klikk **Deling** i den venstre ruten i den nye SharePoint-administrasjonssenteret. 
+I det nye administrasjonssenteret for SharePoint, klikker du **deling** i venstre rute. 
   
-- Velg blant følgende: **Tillat deling av godkjent eksterne brukere og ved hjelp av anonym tilgang.**
+- Velg følgende: **Tillat deling med godkjente eksterne brukere og bruk av anonym tilgang.**
   
-(Hvis du vil, kan du angi koblinger til utløper om et visst antall dager, og Velg hvordan mottakerne kan bruke koblingene.)
+(Du kan også angi at koblinger skal utløpe i et bestemt antall dager, og velge hvordan mottakerne kan bruke koblingene.)
     
  **Dele en fil eller mappe anonymt**
   
-- Velg filen eller mappen du vil dele, og klikk deretter **del**. 
+- Merk filen eller mappen du vil dele, og klikk deretter **del**. 
     
-- Hvem vil du denne koblingen for å arbeide for? Klikk **alle som.**
+- Hvem vil du at denne koblingen skal fungere for? Klikk på **noen.**
   
- **Merk**: **alle som** oppretter en kobling som alle kan bruke til å få tilgang til dokumentet eller mappen, selv om de ikke er logget på Office 365- eller OneDrive. Bruk denne til å dele med alle, innenfor eller utenfor firmaet. Denne koblingen kan også videresendes rundt til alle. 
+ **Merk**: **alle** oppretter en kobling som alle kan bruke til å få tilgang til dokumentet eller mappen, selv om de ikke er logget på Office 365 eller OneDrive. Bruk dette til å dele med hvem som helst, i eller utenfor firmaet. Denne koblingen kan også videresendes rundt til noen. 
     
 

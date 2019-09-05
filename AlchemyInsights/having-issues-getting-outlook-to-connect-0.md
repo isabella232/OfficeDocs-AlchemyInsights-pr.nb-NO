@@ -1,5 +1,5 @@
 ---
-title: Har du problemer med å få Outlook til å koble?
+title: Har du problemer med å få Outlook til å koble til?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 9fc653723e873ca11d83b363af938589b1a5a87b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523268"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739718"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Har du problemer med å få Outlook til å koble?
+# <a name="having-issues-getting-outlook-to-connect"></a>Har du problemer med å få Outlook til å koble til?
 
-Vi har oppdaget at Outlook ikke er konfigurert til å fungere under følgende domene(r):
+Vi har oppdaget at Outlook ikke er konfigurert til å fungere riktig under følgende domene (er):
   
 {HealthCheckString}
   
-NS eller CNAME-postene for (DNS)-Domeneinnstillinger ikke er riktig konfigurert. Du kan se [Oppdatere DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detaljerte instruksjoner. 
+NS-eller CNAME-postene i domeneinnstillingene (DNS) er ikke riktig konfigurert. Du kanne henviser til [opprette DNS arkivene for alle DNS fiendtlig skaffe for kontor 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detaljerte instruksjoner. 
   
 Hvis du vil løse problemet, kan du gå til [Domener](https://admin.microsoft.com/adminportal/home#/Domains)-siden i administrasjonssenteret for Microsoft 365, så hjelper vi deg. 
-  
-[Se vanlige spørsmål om domener](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for andre vanlige løsninger. 
+
   
 

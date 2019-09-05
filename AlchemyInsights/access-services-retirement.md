@@ -1,6 +1,6 @@
 ---
-title: Avgang ved pensjon for Access services
-ms.author: kirks
+title: Avgang av tilgang til tjenester
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495760"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747793"
 ---
-# <a name="access-services-retirement"></a>Avgang ved pensjon for Access services
+# <a name="access-services-retirement"></a>Avgang av tilgang til tjenester
 
-Vi opprinnelig annonsert i MC97576, i mars 2017, og fortsatte å kommunisere over det siste året er tilgang til tjenester som Pensjonert fra Office 365. Den neste fasen i denne prosessen blir fjerning av Access Web-databaser som bruker SharePoint-lister som deres underliggende datalageret.
+Som vi opprinnelig annonsert i MC97576, i mars 2017, og fortsatte å kommunisere det siste året Access Services blir pensjonert fra Office 365. Den neste fasen i denne prosessen vil være fjerning av Access Web databaser som bruker SharePoint-lister som underliggende datalagring.
 
-**Hvordan påvirker det meg?**
+**Hvordan påvirker dette meg?**
 
-Fra juni 2019, vil vi stoppe oppretting av nye Access-databaser i SharePoint Online og avslutte tjenesten og eventuelle gjenværende apps April 2020.
+Starter juni 2019, vil vi stoppe opprettelsen av nye Access-databaser i SharePoint Online og avslutte tjenesten og eventuelle gjenværende programmer innen april 2020.
 
-**Hva må jeg gjøre for å forberede meg for denne endringen?**
+**Hva må jeg gjøre for å forberede meg på denne endringen?**
 
-Vi oppfordrer deg til å lage en overgang plan for organisasjonens Access-databaser for web. Administratorer kan bruke [SharePoint-Access app skanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) til å få en oversikt over Access-programmer som bruker områder.
+Vi oppfordrer deg til å opprette en overgangsplan for organisasjonens Access Web databaser. Administratorer kan bruke [program skanneren for SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) til å få en oversikt over Access-appene som områdene bruker.
 
-Det finnes flere måter å overføre data fra Access web databaser:
+Det er flere måter å overføre Access Web databaser data:
 
-- Importerer til en lokal Access-database (. ACCDB) eller til en Excel-fil.
-- Vi anbefaler også utforske Microsoft PowerApps som en alternativ plattform til å opprette løsninger uten kode business for web og mobile enheter.
+- Importere til en lokal Access-database (. ACCDB) eller til en Excel-fil.
+- Vi anbefaler også at du utforsker Microsoft PowerApps som en alternativ plattform for å opprette forretningsløsninger uten kode for nett-og mobilenheter.

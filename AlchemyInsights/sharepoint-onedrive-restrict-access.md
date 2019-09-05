@@ -1,6 +1,6 @@
 ---
-title: Begrense tilgang i SharePoint eller OneDrive
-ms.author: kirks
+title: Begrens tilgang i SharePoint eller OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559886"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750673"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Begrense tilgang i SharePoint eller OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Begrens tilgang i SharePoint eller OneDrive
 
-Det er mange måter å begrense tilgang til SharePoint Online/OneDrive tjenester. Disse ulike metoder for begrensningen beskrives nedenfor. 
+Det er mange måter å begrense tilgangen til SharePoint Online/OneDrive tjenester. Disse ulike tilgangs Begrensnings metodene er beskrevet nedenfor. 
 
-**Begrensning av tilgang**
+**Tillatelse begrensning**
 
-I SharePoint Online og OneDrive for bedrifter begrense vi tilgang til elementer, for eksempel områder, filer og mapper ved å bare gi tilgang til de grupper/personene som skal ha tilgang.
+I SharePoint Online og OneDrive for Business, begrenser vi tilgang til elementer som områder, filer og mapper ved bare å gi tilgang til disse gruppene/enkeltpersoner som skal ha tilgang.
 
-- [Tilpasse tillatelser for en SharePoint-liste eller et bibliotek](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Tilpasse tillatelser for SharePoint-lister eller-biblioteker](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Tilpasse SharePoint-områdetillatelser](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Tilpasse tillatelser for SharePoint-område](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [Endre tillatelsene for en undermappe](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
 - [Kontrollere tilgang fra ikke-administrerte enheter](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint eller global admin i Office 365, kan du sperre eller begrense tilgang til innhold i SharePoint og OneDrive fra ikke-administrerte enheter (de ikke hybrid Annonse sammenføyde eller kompatibel i Intune).
+Som en SharePoint eller global administrator i Office 365, kan du blokkere eller begrense tilgangen til SharePoint-og OneDrive-innhold fra ikke-administrerte enheter (de som ikke er kombinert AD eller kompatibel i Intune).
 
-**Nettverk plasseringen begrensning**
+**Begrensning av nettverksplassering**
 
-Som en IT-administrator, kan du styre tilgang til SharePoint- og OneDrive ressurser basert på definerte nettverksplasseringer som du stoler på. Dette er også kjent som sted-basert policy. Hvis du vil ha mer informasjon, se [kontrollere tilgang til SharePoint Online og OneDrive data basert på nettverksplasseringen](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Som IT-administrator kan du styre tilgangen til SharePoint-og OneDrive-ressurser basert på definerte nettverksplasseringer du stoler på. Dette er også kjent som stedsbasert policy. Hvis du vil ha mer informasjon, kan du se [kontrollere tilgangen til SharePoint Online og OneDrive-data basert på nettverksplassering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Lås områdebegrensningen** 
+**Begrensning av område lås** 
 
-Du har muligheten til å låse en områdesamling, slik at ingen har tilgang til i SharePoint Online. Dette angis via PowerShell og [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) ved hjelp av [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState-egenskapen.
+I SharePoint Online har du muligheten til å låse en områdesamling, slik at ingen har tilgang til dem. Dette angis via PowerShell og [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) ved hjelp av [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate-egenskapen.
 
 **Hindre brukere i å opprette områder eller sekundære områder**
 
-Du kan la brukerne opprette og administrere sine egne SharePoint-områder, finne ut hvilke områder de kan opprette, som en SharePoint-administrator eller en global administrator for Office 365 og angi plasseringen av områdene. Hvis du vil ha mer informasjon, kan du se [Behandle områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Som en SharePoint-administrator eller en global administrator for Office 365 kan du la brukerne opprette og administrere sine egne SharePoint-områder, bestemme hva slags områder de kan opprette og angi plasseringen av områdene. Hvis du vil ha mer informasjon, kan du se [Behandle områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

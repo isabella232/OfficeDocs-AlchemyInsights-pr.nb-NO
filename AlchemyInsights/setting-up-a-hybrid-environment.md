@@ -1,5 +1,5 @@
 ---
-title: Definere en Hybrid-miljø
+title: Sette opp et hybrid miljø
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509153"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741014"
 ---
-# <a name="setting-up-a-hybrid-environment"></a>Definere en hybrid-miljø
+# <a name="setting-up-a-hybrid-environment"></a>Sette opp et hybrid miljø
 
-Hvis du vil la brukerne fungerer sømløst sammen uansett Hvis dataene er lagret på lokale servere eller i Office 365, må du kanskje definere en hybrid-miljø. Hvis du vil ha en oversikt over alternativene, se [Office 365-integrasjon med lokale miljøer](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).
+Hvis du vil at brukerne skal kunne arbeide sømløst sammen uansett om dataene er lagret på lokale servere eller i Office 365, må du kanskje konfigurere et hybrid miljø. Hvis du vil ha en oversikt over alternativene, kan du sjekke ut [Office 365 integrasjon med lokale miljøer](https://docs.microsoft.com/office365/enterprise/office-365-integration).
   

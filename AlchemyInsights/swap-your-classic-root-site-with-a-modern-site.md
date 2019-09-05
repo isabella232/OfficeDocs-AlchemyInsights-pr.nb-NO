@@ -1,5 +1,5 @@
 ---
-title: Bytt til klassisk rotområdet med et moderne område
+title: Bytt ut ditt klassiske rotområde med et moderne nettsted
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501088"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749269"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Bytt til klassisk rotområdet med et moderne område
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Bytt ut ditt klassiske rotområde med et moderne nettsted
 
-Hvis miljøet er konfigurert før April 2019, kan du endre rotområdet til et moderne område ved hjelp av Microsoft PowerShell:
+Hvis miljøet ble konfigurert før april 2019, kan du endre det primære området til et moderne område ved hjelp av Microsoft PowerShell:
 
-- Hvis du har et annet område som du vil bruke som rotområdet, kan du erstatte (swap) primært området med den. 
-    - Bruk [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til å bytte plasseringen av et område med et annet område under arkivering av det opprinnelige området. Tilgjengelig for både Team (ikke koblet til en gruppe) og kommunikasjon-området. 
+- Hvis du har et annet område som du vil bruke som ditt primære webområde, kan du erstatte [(bytte) det primære området](https://docs.microsoft.com/sharepoint/modern-root-site) med det. 
+    - Bruk [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til å bytte plasseringen av et område med et annet område under arkivering av det opprinnelige området. Tilgjengelig for begge gruppeområder (ikke koblet til en gruppe) og kommunikasjons område. 
 
-- Flere muligheter blir introdusert snart som gjør at du kan fortsatt bruke innholdet på området, men du kan konvertere det eksisterende området til et område for kommunikasjon. 
+- Flere funksjoner vil bli innført snart som gjør at du kan fortsette å bruke innholdet på området, men konvertere det eksisterende området til et område for kommunikasjon. 
 >[!Important]
->Disse funksjonene blir rullet gradvis. Ta en titt på Office 365-Meldingssentral for oppdateringer. 
+>Disse evnene vil bli rullet ut gradvis. Fortsett å sjekke Office 365 Message Center for oppdateringer. 
 
-## <a name="known-issues-with-swapping-sites"></a>Kjente problemer med bytte områder
+## <a name="known-issues-with-swapping-sites"></a>Kjente problemer ved bytte av områder
 
-- Målområdet kan returnere en "not found" (HTTP 404)-feil for en kort tidsperiode.
-- Innhold må være kravlesøkt på nytt for å oppdatere søkeindeksen. Det er ingen manuelle trinn nødvendig - dette vil bli gjort automatisk.
-- Alt avhengig av "statisk" koblinger (for eksempel filsynkronisering og OneNote-filer) må korrigeres manuelt.
-- Hvis kildeområdet var et område for nyheter i organisasjonen, kan du oppdatere URL-adressen.Få en liste over alle organisasjonens nyhetsområder.
-- Project Server-områder må kanskje valideres for å sikre at de er fortsatt tilknyttet på riktig måte.
+- Målområdet kan returnere en feilmelding av typen "ikke funnet" (HTTP 404) for en kort tidsperiode.
+- Innhold må være recrawled for å oppdatere søkeindeksen. Det er ingen manuelle trinn som kreves-dette vil bli gjort automatisk.
+- Alt som er avhengig av "statiske" koblinger (for eksempel File Sync og OneNote-filer) må rettes manuelt.
+- Hvis kildeområdet var et organisatorisk nyhetsområde, oppdaterer du URL-adressen.Få en liste over alle organisatoriske nyhetsnettsteder.
+- Project Server-områder må kanskje valideres for å sikre at de fortsatt er riktig tilknyttet.
 
 
 

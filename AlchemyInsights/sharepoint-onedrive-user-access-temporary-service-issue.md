@@ -1,6 +1,6 @@
 ---
-title: Ytelse problemer-SharePoint eller OneDrive
-ms.author: kirks
+title: Ytelsesproblemer-SharePoint eller OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535184"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750565"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive langsom, utilgjengelig eller ikke tilgjengelig for flere brukere
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive treg, utilgjengelig eller utilgjengelig for flere brukere
 
-Hvis et OneDrive eller SharePoint-område ikke er tilgjengelig for flere brukere som tidligere hadde tilgang, kan det være et problem med tjenesten midlertidig. [Kontroller service helse instrumentbordet](https://portal.office.com/adminportal/home#/servicehealth).
+Hvis et OneDrive eller SharePoint-område ikke er tilgjengelig for flere brukere som tidligere hadde tilgang, kan det være et midlertidig problem med tjenesten. [Kontroller instrumentbordet for tjenestetilstand](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Legg til og lisensier brukeren**
+**Legg til og lisensiere brukeren**
 
-Forsikre deg om at du [tilordne lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Kontroller at du [tilordner lisenser til brukere i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
 **Tilordne tillatelser**
 
-Hvis brukeren har blitt tilordnet en lisens for Sharepoint og fortsatt mottar meldingen Ingen tilgang, pass på at de har [riktig tillatelsesnivå](https://docs.microsoft.com/sharepoint/understanding-permission-levels) som er tilordnet.
+Hvis brukeren er tilordnet en SharePoint-lisens og fortsatt mottar meldingen ingen tilgang, må du kontrollere at de har [riktig tillatelsesnivå](https://docs.microsoft.com/sharepoint/understanding-permission-levels) tilordnet.
 
-**Vurder å bruke funksjonen for forespørsel**
+**Vurder å bruke funksjonen for Tilgangsforespørsel**
 
-[Forespørsel om funksjonen](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) kan personer til å be om tilgang til innhold som de ikke har tillatelse til å se.
+[Funksjonen for tilgangsforespørsler](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) gjør det mulig for personer å be om tilgang til innhold som de ikke har tillatelse til å se.
 
-**Tillat egendefinert skript kan føre til problemer med tilgang**
+**Tillat egendefinert skript kan forårsake tilgang nektes problemer**
 
-Det finnes visse scenarier der funksjonen *Tillat egendefinert skript* kan presentere en tilgang. For en liste over funksjoner som påvirkes, Sikkerhetsvurderinger og muligheten til å deaktivere funksjonen. Besøk [Tillat eller forby egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Det finnes enkelte scenarioer der funksjonen *Tillat egendefinert skript* kanskje presenterer en tilgang. For en liste over funksjoner berørt, sikkerhetshensyn og muligheten til å deaktivere funksjonen. Gå til [Tillat eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
