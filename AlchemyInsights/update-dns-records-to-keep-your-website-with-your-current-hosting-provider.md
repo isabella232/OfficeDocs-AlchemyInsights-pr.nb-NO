@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532916"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742274"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 
-Som en del av prosessen med å flytte Office 365 offentlig på webområdet ditt til en annen vertsleverandøren, sannsynligvis må du foreta endringer i oppføringene for domenet.
+Som en del av prosessen med å flytte det offentlige webområdet for Office 365 til en annen vertsleverandør, må du sannsynligvis gjøre endringer i domenepostene.
   
-1. I administrasjonssenteret, går du til **Setup** \> **domener** , og velg navnet på domenet du vil endre.
+1. Gå til **installasjons** \> **domener** i administrasjonssenteret, og velg domenenavnet du vil endre.
 
-2. Angi informasjon som justerer med din nye vertsleverandøren på webområdet ditt.
+2. Skriv inn informasjonen som justerer til nettstedet ditt med din nye hosting leverandør.
 
-Hvis du vil ha mer informasjon, kan du se [oppdateringen DNS-oppføringer for å beholde webområdet med din gjeldende vertsleverandøren](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).
+Hvis du vil vite mer, kan du se [oppdatere DNS-poster for å beholde webområdet hos gjeldende webvert](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-Hvis du vil vite mer om felles område-discontinuation, kan du se [SharePoint Online offentlige webområder å bli avbrutt](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).
+Hvis du vil vite mer om seponering av det offentlige området, kan [du se offentlige webområder for SharePoint Online som er avviklet](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
