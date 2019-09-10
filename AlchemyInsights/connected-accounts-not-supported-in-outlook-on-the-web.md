@@ -1,5 +1,5 @@
 ---
-title: 1800029 tilkoblede kontoer som ikke støttes på World Wide web i Outlook
+title: 1800029 tilkoblede kontoer som ikke støttes i Outlook på weben
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504782"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821811"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="fa450-102">Tilkoblede kontoer støttes ikke lenger</span><span class="sxs-lookup"><span data-stu-id="fa450-102">Connected accounts are no longer supported</span></span>
+# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="1645e-102">Tilkoblede kontoer støttes ikke lenger</span><span class="sxs-lookup"><span data-stu-id="1645e-102">Connected accounts are no longer supported</span></span>
 
-<span data-ttu-id="fa450-103">Microsoft har fjernet muligheten til å legge til nye kontoer i Outlook på weben ved hjelp av funksjonen for tilkoblede kontoer på 15 September 2018, og vil slutte å synkronisere eksisterende kontoer på 30 oktober 2018 som ble koblet før 15. September 2018.</span><span class="sxs-lookup"><span data-stu-id="fa450-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="fa450-104">På 15. November alternativet tilkoblede kontoer ( **Innstillinger for** \> **e-post** \> **kontoer**) vil bli fjernet fra Outlook på weben.</span><span class="sxs-lookup"><span data-stu-id="fa450-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="fa450-105">For mer informasjon, se [tilkoblede kontoer støttes ikke lenger i Outlook på weben (Office 365 for business-kontoer)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="fa450-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
+<span data-ttu-id="1645e-103">Microsoft har fjernet evnen å sammenlegge ny regnskapet å utsikt på Web benytter det koplet regnskapet ansiktstrekk opp på september 15, 2018 og ville opphøre synkroniseringen eksisterende regnskapet opp på oktober 30, 2018 det var koplet tidligere september 15, 2018.</span><span class="sxs-lookup"><span data-stu-id="1645e-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="1645e-104">15. november vil alternativet tilkoblede kontoer ( **Innstillinger for** \> **e-** \> **postkontoer**) bli fjernet fra Outlook på weben.</span><span class="sxs-lookup"><span data-stu-id="1645e-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="1645e-105">Hvis du vil ha mer informasjon, kan [du se tilkoblede kontoer støttes ikke lenger i Outlook på weben (Office 365 for bedriftskontoer)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="1645e-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
   
-<span data-ttu-id="fa450-106">Fortsette å se e-post fra andre kontoer: fremdeles kan du videresende e-post fra disse kontoene til Outlook på weben.</span><span class="sxs-lookup"><span data-stu-id="fa450-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="fa450-107">Hvis du vil ha mer informasjon, kan du se:</span><span class="sxs-lookup"><span data-stu-id="fa450-107">For more information, see:</span></span>
+<span data-ttu-id="1645e-106">For å fortsette å se e-post fra andre kontoer: du kan fortsatt videresende e-post fra disse kontoene til Outlook på nettet.</span><span class="sxs-lookup"><span data-stu-id="1645e-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="1645e-107">Hvis du vil ha mer informasjon, kan du se:</span><span class="sxs-lookup"><span data-stu-id="1645e-107">For more information, see:</span></span>
   
-[<span data-ttu-id="fa450-108">Aktivere eller deaktivere automatisk videresending i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="fa450-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
+[<span data-ttu-id="1645e-108">Aktivere eller deaktivere automatisk videresending i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1645e-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[<span data-ttu-id="fa450-109">Automatisk Videresend Gmail-meldingene til en annen konto</span><span class="sxs-lookup"><span data-stu-id="fa450-109">Automatically forward Gmail messages to another account</span></span>](https://support.google.com/mail/answer/10957?hl=en)
+[<span data-ttu-id="1645e-109">Videresend automatisk Gmail-meldinger til en annen konto</span><span class="sxs-lookup"><span data-stu-id="1645e-109">Automatically forward Gmail messages to another account</span></span>](https://aka.ms/forward-gmail-messages)
   
-[<span data-ttu-id="fa450-110">Automatisk e-post videresending i Yahoo mail</span><span class="sxs-lookup"><span data-stu-id="fa450-110">Automatic email forwarding in Yahoo mail</span></span>](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[<span data-ttu-id="1645e-110">Automatisk e-post videresending i Yahoo Mail</span><span class="sxs-lookup"><span data-stu-id="1645e-110">Automatic email forwarding in Yahoo mail</span></span>](https://aka.ms/yahoo-email-forwarding)
   
