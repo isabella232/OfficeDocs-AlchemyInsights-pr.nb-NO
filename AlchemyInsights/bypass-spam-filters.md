@@ -1,5 +1,5 @@
 ---
-title: 2637 bypass spam-filtrering for å tillate bestemte meldinger?
+title: 2637 omgå spam-filtrering for å tillate bestemte meldinger?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406552"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122171"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Hoppe over spam-filtrering for å tillate bestemte meldinger?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Vil du omgå søppelpostfiltrering for å tillate bestemte meldinger?
 
-Vi anbefaler [forsiktighet](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) når du oppretter en tillatelsesliste. For eksempel hvis du tillater ditt eget domene, vil skadelig avsendere kunne etterligne og sende som ditt domene.  I stedet anbefaler vi denne [falske positiver feilsøkingsveiledning](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), som hjelper deg med å finne ut hvorfor en lovlig melding ble markert som søppelpost, og hva du kan gjøre for å tillate sikker levering av meldingen.
+Vi anbefaler [forsiktighet](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) når du oppretter en tillatelsesliste. Hvis du for eksempel tillater ditt eget domene, vil ondsinnede avsendere kunne forfalske og sende som domenet ditt.  I stedet anbefaler vi denne [feilsøkingsveiledningen for falske positiver](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), som vil hjelpe deg med å finne ut hvorfor en legitim melding ble merket som søppelpost, og hva du kan gjøre for å tillate levering av meldingen på en sikker måte.
