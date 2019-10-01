@@ -1,5 +1,5 @@
 ---
-title: Team SKIFT
+title: Lagene skifter
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1686
-ms.openlocfilehash: fe1d3d099cdd94923d4010b11c12af878f5b0348
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1686"
+- "9000161"
+ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
+ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771315"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37328679"
 ---
-# <a name="using-teams-shifts"></a>Ved hjelp av Team SKIFT
+# <a name="using-teams-shifts"></a>Bruke Teams-SKIFT
 
-SKIFT-app i grupper gjør det mulig for rask og effektiv tidshåndtering og kommunikasjon for frontline grupper. Den lar ledere og ansatte bruker sine mobile enheter til å administrere planer og holde kontakten.
+Hvis du vil vite mer om Skift for Teams, inkludert hvordan du migrerer fra Microsoft Staffhub, kan du se [SKIFT for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
-Hvis du vil vite mer kan du se [skifter for grupper](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Du får informasjon om hvordan du får SKIFT og hvordan du konfigurerer den.
-
-Hvis du allerede har aktivert SKIFT, lese du [Komme i gang i SKIFT](https://support.office.com/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) Hvis du vil lære hvordan du kan opprette tidsplaner.
+Microsoft Staffhub vil bli [pensjonert](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) på 31 desember 2019. 
 
