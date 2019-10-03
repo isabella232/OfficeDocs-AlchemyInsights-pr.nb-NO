@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350869"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373120"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Teams vanlige problemer og løsninger
+# <a name="teams-common-issues-and-resolutions"></a>Teams vanlige problemer og løsninger
 
 Hvis du vil ha et mer spesifikt svar om et Microsoft Teams-problem, kan du kort formulere spørsmålet og inkludere eventuelle feil du ser eller funksjoner du bruker.
 
@@ -32,7 +32,7 @@ Her er noen flere ressurser:
     - Hvis du vil gjenopprette en slettet kanal, kan du se [arkivere eller gjenopprette et team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Gjenopprett slettede filer:** Se [gjenopprette slettede filer i Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Feilsøk et manglende oppringings tastatur:**  
-    1. Kontroller at brukeren er tilordnet en Teams- [lisens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Kontroller at brukeren [har en tilordnet abonnement.](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)
-    3. Aktiver brukere for [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Kontroller at brukeren er tilordnet en Teams- [lisens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Kontroller at brukeren [har en tilordnet abonnement.](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)
+    - Aktiver brukere for [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Kjente problemer med Teams:** Les [kjente problemer for Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
