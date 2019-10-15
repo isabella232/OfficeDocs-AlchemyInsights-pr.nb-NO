@@ -13,16 +13,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: f900287067e7f570de770f7e2098ba62b8086ef8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
+ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508576"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37488526"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Arbeide med store lister og biblioteker i SharePoint
 
-SharePoint-lister og biblioteker kan inneholde opptil 30 millioner elementer, men når de har mer enn 5 000 elementer, du kan se en terskelverdien for listevisning-feil når du forsøker å arbeide med dem. Denne terskelen er på plass for å opprettholde ytelsen til tjenesten. Den kan ikke endres. For å unngå å treffe denne terskelen, kan du [legge til en indeks](https://go.microsoft.com/fwlink/?linkid=867784), [brukerfiltre til å endre visningen](https://go.microsoft.com/fwlink/?linkid=867786), ordne elementene i mappene, eller arbeide med synkroniserte dokumentbiblioteker lokalt på datamaskinen.
-  
-[Flere tips for å arbeide i terskelen for listevisning](https://go.microsoft.com/fwlink/?linkid=867787)
-  
+SharePoint-lister og-biblioteker kan inneholde opptil 30 000 000 elementer, men når de har mer enn 5 000 elementer, kan det hende du ser en terskelverdi for listevisning når du prøver å arbeide med dem. Denne terskelen er på plass for å opprettholde ytelsen til tjenesten. Den kan ikke endres. For å unngå å treffe denne terskelen:
+
+**Bruk moderne**
+
+Visninger som viser mange elementer fungerer best i den moderne opplevelsen. [Bruk den moderne opplevelsen](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) for å unngå feil du kan se i den klassiske opplevelsen.
+
+**Legge til indekser**
+
+Når du filtrerer eller sorterer etter en kolonne som ikke har en indeks, kan det hende du ser en feilmelding. [Legg til en indeks](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manuelt fra **listeinnstillinger** i innstillingsmenyen, og deretter **indekserte kolonner**.
+
+**Redigere listevisningen**
+
+Hvis det oppstår en feil når du arbeider med en stor liste, [redigerer du listevisningen](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).
+
+Følgende fire endringer vil fjerne terskel feil for listevisning. Gjør alle fire endringer for å fjerne alle feil. Hvis du fremdeles får feilmeldinger, kontrollerer du [behandle store lister og biblioteker](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).
+
+1. Velg **ingen** fra både **første sortering etter kolonnen** , og **Sorter deretter etter kolonnen**.
+2. Velg **ingen** fra både **første gruppe etter kolonnen** og **grupper deretter etter kolonnen**.
+3. Velg **ingen** for alle kolonnene i **Totaler** -delen.
+4. Opphev markeringen av alle unntatt én kolonne for visning fra **kolonner** -delen.
+
