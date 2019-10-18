@@ -17,12 +17,12 @@ ms.contentlocale: nb-NO
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664833"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="75089-102">Får du for mye søppelpost eller phishing i postboksen?</span><span class="sxs-lookup"><span data-stu-id="75089-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="b64c7-102">Får du for mye søppelpost eller phishing i postboksen?</span><span class="sxs-lookup"><span data-stu-id="b64c7-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="75089-103">Se [Slik reduserer du søppelpost i Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for å feilsøke søppelpost.</span><span class="sxs-lookup"><span data-stu-id="75089-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
+<span data-ttu-id="b64c7-103">Se [Slik reduserer du søppelpost i Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for å feilsøke søppelpost.</span><span class="sxs-lookup"><span data-stu-id="b64c7-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
   
-<span data-ttu-id="75089-104">Den beste måten å rapportere denne typen problemer på er å:</span><span class="sxs-lookup"><span data-stu-id="75089-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="b64c7-104">Den beste måten å rapportere denne typen problemer på er å:</span><span class="sxs-lookup"><span data-stu-id="b64c7-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="75089-105">[Aktivere rapporteringstillegget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brukeren.</span><span class="sxs-lookup"><span data-stu-id="75089-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="b64c7-105">[Aktivere rapporteringstillegget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brukeren.</span><span class="sxs-lookup"><span data-stu-id="b64c7-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="75089-106">Få [brukeren til å rapportere meldingen](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) som søppelpost.</span><span class="sxs-lookup"><span data-stu-id="75089-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
+2. <span data-ttu-id="b64c7-106">Få [brukeren til å rapportere meldingen](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) som søppelpost.</span><span class="sxs-lookup"><span data-stu-id="b64c7-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
