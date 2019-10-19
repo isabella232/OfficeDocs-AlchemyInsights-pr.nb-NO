@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512828"
 ---
 # <a name="delete-a-sharepoint-site"></a>Slette et SharePoint-område
 
-1. I den nye SharePoint-administrasjonssenteret, på områder-siden klikker du avmerkingsboksen ved siden av området du ønsker å slette.
+1. Klikk avmerkingsboksen ved siden av området du vil slette, på områder-siden i det nye administrasjonssenteret for SharePoint.
     
-2. Klikk **Slett**på verktøylinjen for båndet.
+2. Klikk **Slett**på bånd verktøylinjen.
     
 

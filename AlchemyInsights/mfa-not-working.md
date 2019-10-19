@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545183"
 ---
 # <a name="issues-with-mfa"></a>Problemer med MFA
-Det er et par ting du kan kontrollere om brukere ikke kan logge på ved hjelp av multifaktorautentisering (MFA)
+Der er et par saker å sjekk hvis brukernes kan ikke logikk benytter mange--faktoren Authentication (MFA)
 
-1. Den aktuelle brukeren kan være blokkert i Azure Active Directory Portal. Hvis det er tilfelle, prøver godkjenning for den bestemte brukeren automatisk nektes. [Følg trinnene i denne artikkelen for å fjerne blokkeringen og dermed.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Den berørte brukeren kan være blokkert i Azure Active Directory-portalen. Hvis det er tilfellet, blir godkjenningsforsøk for den bestemte brukeren automatisk avslått. [Følg trinnene i denne artikkelen for å oppheve blokkeringen av dem.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Hvis ikke bidra til å deaktivere blokkering av brukeren eller brukeren ikke er blokkert, kan du prøve å tilbakestille MFA for brukeren og de vil gå gjennom prosessen med registrering på nytt. [Følg trinnene i denne artikkelen.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Hvis oppheve brukeren ikke hjelpe eller brukeren ikke er blokkert, kan du prøve å tilbakestille MFA for brukeren, og de vil gå gjennom melde prosessen på nytt. [Følg trinnene i denne artikkelen.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Hvis dette er første gangen du aktiverte MFA og brukerne ikke kan logge på ikke-weblesere klienter, for eksempel Outlook, Skype og så videre, er kanskje ADAL (Active Directory-godkjenning Library) ikke aktivert på O365-abonnement. I dette tilfellet må du koble til Exchange Online Powershell og kjøre denne cmdleten:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Hvis dette er første gang du aktiverte MFA og brukerne ikke er i stand til å logge inn til ikke-nettleser-klienter som Outlook, Skype, etc, kanskje ADAL (Active Directory Authentication Library) er ikke aktivert på O365 abonnement. I dette tilfellet må du koble til Exchange Online PowerShell og kjøre denne cmdleten:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

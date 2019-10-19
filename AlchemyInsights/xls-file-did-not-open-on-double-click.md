@@ -1,5 +1,5 @@
 ---
-title: XLS-filen ikke ble åpnet ved dobbeltklikk
+title: XLS-filen ble ikke åpnet ved Dobbeltklikk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530756"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-fil åpnes ikke
+# <a name="excel-file-doesnt-open"></a>Excel-filen åpnes ikke
 
 Prøv ett av disse forslagene:
 
 **Velg Excel som standard**
 
-* Høyreklikk i regnearket, velg **Åpne med**, og velg deretter **Excel**
+* Høyreklikk på regnearket, velg **Åpne med**, og velg deretter **Excel**
 
-**Kjøre en rask reparasjon**
+**Kjøre en hurtigreparasjon**
 
-1. Gå til **Control Panel > > programmer og funksjoner**.
+1. Gå til **kontroll Panel > programmer > programmer og funksjoner**.
 
-2. Velg Office-produktet du vil reparere, og velg deretter **Endre**.
+2. Velg Office-produktet du vil reparere, og velg deretter **endre**.
 
-3. Velger du alternativet for **Hurtigreparasjon** , og deretter velger du **Reparer**.
+3. Velg **hurtigreparasjons** alternativet, og velg deretter **Reparer**.
 
-**Avinstallere versjoner av Office som du ikke bruker**
+**Avinstaller versjoner av Office du ikke bruker**
 
-1. Gå til **Kontrollpanel > Avinstaller et Program**, og deretter velger du versjonen av Office du vil fjerne.
+1. Gå til **kontroll Panel > Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.
 
-2. Velg **Avinstaller**.
+2. Klikk på **Avinstaller**.
 
 3. Start datamaskinen på nytt.
 
-**Kjør denne feilsøkingsprosessen Hvis du vil angi filtyper for Office til å åpne i Office**
+**Kjør dette feilsøkingsprogrammet for å angi Office-filtyper som skal åpnes i Office**
 
-1. Kjør dette feilsøkingsverktøyet: https://aka.ms/diag_officefile.
+1. Kjør denne feilsøkingen https://aka.ms/diag_officefile:.
 
-2. Avhengig av webleseren, **Åpne** eller **Lagre** feilsøking på skrivebordet, og deretter **kjøre** den.
+2. Avhengig av hvilken webleser du har, **åpner** eller **lagrer** du feilsøkingsprogrammet på skrivebordet, og deretter **kjører** du det.

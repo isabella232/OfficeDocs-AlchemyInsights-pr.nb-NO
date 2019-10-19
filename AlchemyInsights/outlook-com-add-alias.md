@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com legge alias
+title: 9000238 Outlook.com legge til alias
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542710"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Legge til et e-postalias i Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Legg til en e-post alias i Outlook.com
 
-Et alias er en ekstra e-postadresse som bruker den samme innboks, kontaktliste og Kontoinnstillinger som primære e-postadressen din. Du kan velge hvilken e-postadresse til å sende e-post fra, og du kan logge på Outlook.com-kontoen din med noen av dine aliaser, de alle bruker det samme passordet.
+Et alias er en ekstra e-postadresse som bruker samme innboks, kontaktliste og kontoinnstillinger som din primære e-postadresse. Du kanne foretrekker hvilke email henvende seg å sende innlevere fra, og du kanne kvittere inne å din Outlook.com regningen med noen av din alias — de alle bruk det likt passord.
 
-Legge til en e-postadresse:
+Slik legger du til en e-postadresse:
 
-1. Gå til [Legg til et alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Logg på Microsoft-konto, hvis du blir bedt om.
+1. Gå til [Legg til et alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Logg på Microsoft-kontoen din hvis du blir bedt om det.
 2. Under **Legg til et alias**, enten:
-    1. Opprette en ny Outlook.com e-postadresse og legge den til som et alias.
-    2. Legge til en eksisterende e-postadresse som alias.
-3. Velg **Legg til aliaset**.
+    1. Opprett en ny Outlook.com e-postadresse og legg den til som et alias.
+    2. Legg til en eksisterende e-postadresse som et alias.
+3. Velg **Legg til alias**.
 
-Les mer om hvordan du [legger til eller fjerner et postalias for e-i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Les mer om hvordan du [legger til eller fjerner en e-post alias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Les [hvordan du kan koble til en annen e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) på Outlook.com-kontoen.
+Les [hvordan du kobler en annen e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) til Outlook.com-kontoen din.

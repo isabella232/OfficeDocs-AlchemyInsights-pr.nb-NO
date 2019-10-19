@@ -1,5 +1,5 @@
 ---
-title: Last opp en mappe eller filer i et dokumentbibliotek
+title: Laste opp en mappe eller filer til et dokumentbibliotek
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532628"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Last opp en mappe eller filer i et SharePoint-dokumentbibliotek
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Laste opp en mappe eller filer til et SharePoint-dokumentbibliotek
 
-Hvis du vil laste opp en mappe, må du bruke Microsoft Edge, Google Chrome eller Mozilla FireFox. Du kan ikke laste opp mapper i den klassiske bibliotek-opplevelsen, eller ved hjelp av Internet Explorer 10 eller 11.
+Hvis du vil laste opp en mappe, må du bruke Microsoft Edge, Google Chrome eller Mozilla FireFox. Du kan ikke laste opp mapper i den klassiske bibliotek opplevelsen eller ved hjelp av Internet Explorer 10 eller 11.
   
 1. Åpne dokumentbiblioteket der du vil laste opp en mappe eller filer.
     
-2. Åpne File Explorer på datamaskinen, og bla deg frem til mappen eller filene du vil laste.
+2. Åpne Filutforsker på datamaskinen, og bla til mappen eller filene du vil laste opp.
     
-3. Dra mappen eller filene i dokumentbiblioteket. Hvis du ikke ser elementene du har lastet opp vises i biblioteket, oppdatere siden. 
+3. Dra mappen eller filene til dokumentbiblioteket. Hvis du ikke ser elementene du lastet opp, vises i biblioteket, kan du oppdatere siden. 
     
-Hvis du vil laste opp ved å dra elementer mellom vinduer, kan du også bruke **Last opp** -knappen i dokumentbiblioteket til å velge mappen eller filene du vil laste. 
+Hvis du ikke vil laste opp ved å dra elementer mellom vinduer, kan du også bruke **Last opp** -knappen i dokumentbiblioteket til å velge mappen eller filene du vil laste opp. 
   
 

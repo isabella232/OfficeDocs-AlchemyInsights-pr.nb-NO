@@ -1,5 +1,5 @@
 ---
-title: Hvordan du avbryter en app
+title: Slik avbryter du en app
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542123"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Hvordan du avbryter software-som-a-service apps 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Slik avbryter du programvare som en tjeneste-apper 
 
-1. I Microsoft 365-administrasjonssenteret til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. I Administrasjonssenter for Microsoft 365 til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) , og velg deretter kategorien **apper** .
 
-2. Finn og Merk programmet du vil administrere.
+2. Finn og velg appen du vil administrere.
 
-3. Under **Innstillinger for & handlinger**, velger du **si opp abonnementet**.
+3. Velg **Avbryt abonnement**Under **Innstillinger & handlinger**.

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-hvordan du får støtte
+title: Outlook.com Hvordan få støtte
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536482"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Hvordan du får støtte i Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Hvordan få støtte i Outlook.com
 
-Beklager, Outlook.com tilbyr ikke kundestøtte over telefon, men vi har dedikert team som kan hjelpe deg.
-Skriv inn spørsmålet ditt eller beskrive problemet ditt i boksen **Hjelp** ovenfor, og velg deretter **få hjelp**.
+Beklager, Outlook.com ikke tilbyr telefonsupport, men vi har dedikerte team som kan hjelpe deg.
+Skriv inn spørsmålet ditt eller beskriv problemet i **Hjelp** -boksen ovenfor, og velg deretter **få hjelp**.
 
 [Få hjelp med Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,5 +1,5 @@
 ---
-title: Endre kontoinformasjon på Web-området i Outlook
+title: Endre kontoinformasjonen i Outlook på weben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510596"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Endre kontoinformasjon på Web-området i Outlook
+# <a name="change-account-information-in-outlook-on-the-web"></a>Endre kontoinformasjon i Outlook på weben
 
-1. Merk navnet eller profil bildet øverst på siden.
-1. Velg **kontoen min**.
+1. Velg navn eller profilbilde øverst på siden.
+1. Velg **min konto**.
 1. Velg **personlig informasjon**.
-1. Endre eller legge til informasjon om deg selv.
+1. Endre eller Legg til informasjon om deg selv.
 
-*Merk:* Noen opplysninger, for eksempel navn og jobbtittel, kan fås fra IT eller personalavdelingen. Hvis du vil oppdatere disse detaljene, kan du kontakte dem eller din administrator.
+*Merk:* Noen detaljer, for eksempel navnet ditt og stillingstittelen din, kan være levert av IT eller personalavdelingen. Hvis du vil oppdatere disse detaljene, kan du kontakte dem eller administratoren din.
 
-Hvis du vil ha mer informasjon, kan du se [endre informasjonen i bildet og kontoen i Outlook på weben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Hvis du vil ha mer informasjon, se [Endre bilde-og kontoinformasjon i Outlook på weben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

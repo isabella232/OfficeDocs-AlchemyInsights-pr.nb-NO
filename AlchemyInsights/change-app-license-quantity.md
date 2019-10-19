@@ -1,5 +1,5 @@
 ---
-title: Endre app lisens antallet
+title: Endre antall lisenser for apper
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519776"
 ---
-# <a name="change-app-license-quantity"></a>Endre app lisens antallet
+# <a name="change-app-license-quantity"></a>Endre antall lisenser for apper
 
-Du kan vise eller endre antallet lisenser som du har, og tilordne dem til brukere i administrasjonssenteret for Microsoft 365. 
+Du kan vise eller endre antallet lisenser du har, og tilordne dem til brukere i administrasjonssenteret for Microsoft 365. 
 
-## <a name="to-change-license-quantity"></a>Endre lisensen antallet
+## <a name="to-change-license-quantity"></a>Slik endrer du lisens antall
 
-1. Gå til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) , og velg deretter kategorien **apper** .
 
-2. Finn og Merk programmet du vil administrere.  
+2. Finn og velg appen du vil administrere.  
 
 3. Velg **Legg til/fjern lisenser**.
 
-4. Angi det nye antallet lisenser som er nødvendig. Hvis du har 5 lisenser og trenger bare 4, angir du 4 i boksen **Totalt antall lisenser** . Hvis du for øyeblikket har 5 lisenser og trenger 10 total lisenser, skriver du inn 10 i boksen **Totalt antall lisenser** .
+4. Angi det nye antallet lisenser som trengs. Hvis du for eksempel har 5 lisenser og bare trenger 4, skriver du inn 4 i boksen **Totalt antall lisenser** . Hvis du for øyeblikket har 5 lisenser og trenger 10 totale lisenser, skriver du inn 10 i boksen **Totalt antall lisenser** .
 
-## <a name="to-assign-app-licenses"></a>Slik tilordner du app lisenser
+## <a name="to-assign-app-licenses"></a>Slik tilordner du programlisenser
 
-1. Gå til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) , og velg deretter kategorien **apper** .
 
-2. Finn og Merk programmet du vil administrere.  
+2. Finn og velg appen du vil administrere.  
 
-3. Under **Innstillinger for & handlinger**, velger du koblingen for å **Behandle i Publishers portal**.
+3. Under **innstillinger & handlinger**velger du koblingen som skal **administreres i utgiverens Portal**.

@@ -1,5 +1,5 @@
 ---
-title: Legge til Gmail-kontoen i Outlook.com
+title: Legg til Gmail-konto i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538137"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Legge til Gmail-kontoen i Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Legg til Gmail-kontoen din i Outlook.com
 
-1. Åpne [synkronisering e-postinnstillingene](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Under **koblet kontoer**, velg **Gmail**.
-3. Angi et visningsnavn (navn vil mottakerne kunne se når de mottar en e-postmelding fra deg).
-4. Velg hvis Outlook.com skal importere din e-post fra Gmail, og der importerte e-post vil bli lagret.
-5. Velg **OK** for å gå til siden for Google.
+1. Åpne [innstillingene for synkronisering via e-post](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Velg **Gmail**under **tilkoblede kontoer**.
+3. Skriv inn et visningsnavn (navne mottakerne vil se når de mottar en e-postmelding fra deg).
+4. Foretrekker hvis Outlook.com burde import din email fra Gmail og der hvor importert email ville være lagret.
+5. Velg **OK** for å gå til siden for Google-pålogging.
 
-Synkroniserer fra en tilkoblet konto på Outlook.com-kontoen er enveis bare. E-post sendt fra Gmail-kontoen ved hjelp av Outlook.com vises ikke i Sendte elementer i Gmail.
+Synkronisering fra en tilkoblet konto til Outlook.com-kontoen din er bare enveis. E-post som sendes fra Gmail-kontoen din ved hjelp av Outlook.com, vises ikke i sendte elementer i Gmail.
 
-Du kan sende e-post i Outlook.com fra tilkoblede Gmail-kontoen. Når du skriver en e-post, velger du **fra** , og velg din Gmail-adresse, eller [Oppdater standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
+Du kanne sende email inne Outlook.com fra din koplet Gmail regningen. Når du komponerer en e-post, velg **fra** og velg Gmail-adressen din, eller [Oppdater standard fra adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Hvis du vil ha mer informasjon, se [legge til de andre e-postkontoer til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se [legge til de andre e-postkontoene i Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

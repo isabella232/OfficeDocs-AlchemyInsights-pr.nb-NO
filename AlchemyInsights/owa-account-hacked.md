@@ -1,5 +1,5 @@
 ---
-title: Outlook på webkonto Hacket
+title: Outlook på Web-kontoen hacket
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511208"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook på webkonto Hacket
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook på Web-kontoen hacket
 
-Hvis kontoen din har blitt Hacket, følger du instruksjonene i [sikre og gjenopprette e-post-funksjonen til et antatt utsatte Office 365-kontoen og postboksen](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
+Hvis kontoen har blitt hacket, følger du instruksjonene i [hvordan du sikrer og gjenoppretter e-post-funksjonen til en mistenkt kompromittert Office 365-konto og postboks](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
 
-Hvis du vil vite mer om du kan gjøre for å hindre at kontoen blir skadet, kan du se [Responding til en kompromittert e-postkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Hvis du vil vite mer om flere trinn du kan gjøre for å hindre at kontoen blir kompromittert, se [svare på en kompromittert e-postkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).

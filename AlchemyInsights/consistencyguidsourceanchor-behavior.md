@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor virkemåte
+title: ConsistencyGuid/sourceAnchor-oppførsel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517000"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor virkemåte
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor-oppførsel
 
-Koble til Azure AD (versjon 1.1.524.0 og etter) nå forenkler bruken av msDS-ConsistencyGuid som sourceAnchor-attributtet. Når du bruker denne funksjonen, konfigurerer automatisk koble til Azure AD synkroniseringsregler til:
+Azure AD Connect (versjon 1.1.524.0 og etter) forenkler nå bruken av muskel-og skjelettlidelser-ConsistencyGuid som sourceAnchor-attributt. Når du bruker denne funksjonen, konfigurerer Azure AD-tilkobling automatisk synkroniserings reglene til:
   
-- Bruk msDS-ConsistencyGuid som sourceAnchor-attributt for brukerobjekter. ObjectGUID brukes for andre objekttyper.
+- Bruk muskel-ConsistencyGuid som sourceAnchor-attributt for User-objekter. ObjectGUID brukes for andre objekttyper.
     
-- For en gitt lokale AD-bruker objektet der msDS-ConsistencyGuid-attributtet ikke er fylt ut på forhånd, Azure AD koble til skriver objectGUID verdien tilbake til msDS-ConsistencyGuid-attributtet i lokale Active Directory. Etter at attributtet msDS-ConsistencyGuid er fylt ut, eksporterer Azure AD-koble deretter objektet til Azure AD.
+- For en gitt lokale AD brukerobjekt som muskel-ConsistencyGuid-attributtet ikke er fylt ut, skriver Azure AD Connect sin objectGUID-verdi tilbake til attributtet muskel-ConsistencyGuid i lokale Active Directory. Når ConsistencyGuid-attributtet er fylt ut, eksporterer Azure AD koble deretter objektet til Azure AD.
     
- **Merk:** En gang en lokale AD-objektet er importert til Azure AD-tilkobling (som er, importeres til AD Connector plass og forventet i Metaverse), kan du ikke endre verdien sourceAnchor lenger. Angi verdien for sourceAnchor for en gitt lokale AD objekt, konfigurere sin msDS-ConsistencyGuid-attributtet før den importeres til Azure AD-tilkobling. 
+ **Merk:** Når en lokale AD-objektet er importert til Azure AD-tilkobling (det vil si importert til AD Connector-plass og projisert i metaverse), kan du ikke endre sin sourceAnchor-verdi lenger. Hvis du vil angi sourceAnchor-verdien for et gitt lokale AD-objekt, kan du konfigurere attributtet for muskel-ConsistencyGuid før det importeres til Azure AD-tilkobling. 
   
-Hvis du vil ha mer informasjon om SourceAnchor og ConsistencyGuid, se følgende: [Azure AD-tilkobling: utforme konsepter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Hvis du vil ha mer informasjon om SourceAnchor og ConsistencyGuid, kan du se følgende: [Azure ad-tilkobling: design konsepter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
