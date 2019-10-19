@@ -1,5 +1,5 @@
 ---
-title: '8000016: hvordan du sletter en mappe'
+title: '8000016 slik: hvordan å slette en mappe'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556538"
 ---
 # <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Slik sletter du en mappe i Outlook på weben
 
-1. I mapper-ruten høyreklikker du mappen eller undermappen du vil slette.
+1. Høyreklikk mappen eller under mappen du vil slette, i mapperuten.
 2. Velg **Slett mappe**.
 3. Velg **OK** for å bekrefte.
 
-Hvis du vil ha mer informasjon, kan du se [arbeide med meldingsmapper i Outlook på weben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Hvis du vil lære mer, kan du se [arbeide med meldingsmapper i Outlook på weben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - feil instrumentbord viser i Dynamics 365 enhetlig grensesnitt
+title: Dynamics 365-feil Dashboard viser i Dynamics 365 enhetlig grensesnitt
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528560"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Viser feil instrumentbord i Dynamics 365 enhetlig grensesnitt
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Feil dashbord vises i Dynamics 365 enhetlig grensesnitt
 
-Det er flere grunner til hvorfor du kanskje se en annen instrumentbord enn den du forventer:
+Det kan være flere grunner til at du ser et annet instrumentbord enn det du forventer:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Brukeren har angitt en bruker standard instrumentbord 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Brukeren har angitt et standard instrumentbord for bruker 
 
-Vanligvis kan du identifisere en bruker standard instrumentbord er angitt Hvis knappen **Angi som standard** ikke vises i kommandolinjen for instrumentbordet. Bruker standard instrumentbord overstyrer alle andre instrumentbord for standard selv om brukerens standard instrumentbord ikke er i gjeldende program.
+Vanligvis kan du identifisere en brukers standard instrumentbord er angitt hvis **angitt som standard** -knappen ikke vises i kommandolinjen for instrumentbordet. Bruker standard instrumentbord overstyrer alle andre standard instrumentbord, selv om brukerens standard instrumentbord ikke er i den gjeldende appen.
 
-Bruk følgende løsning å Fjern deres standard instrumentbord.
+Bruk følgende løsning for å avbryte Standardinstrumentbordet.
 
 1. Opprett et nytt personlig instrumentbord.
 
-2. Angi det nye instrumentbordet som Brukerstandard.
+2. Angi det nye instrumentbordet som bruker standard.
 
 3. Slett dette instrumentbordet.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Instrumentbordet er satt i områdekartet
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dashbordet er satt i Sitemap
 
-Du har angitt en standard instrumentbord for organisasjonen ved å velge et instrumentbord og velge "Angi som standard, under Tilpass i systemet. Men instrumentbord som er definert i sitemap designer skal prioriteres foran dette instrumentbordet Hvis brukeren har tilgang til den.
+Du kan ha angitt et standard instrumentbord for organisasjonen ved å velge et instrumentbord og velge angi som standard under Tilpass systemet. Men dashbordet definert i Sitemap designeren vil forrang over dette dashbordet, hvis brukeren har tilgang til den.
 
-Hvis du vil at brukere kan vise instrumentbordet du har angitt som Organisasjonsstandard, kan du:
+Hvis du vil at brukerne skal se instrumentbordet du har angitt som organisasjonsstandard, kan du gjøre ett av følgende:
 
 * Angi dette instrumentbordet i områdekartet
 
-* Fjern tilgang til instrumentbordet sitemap som er definert for disse brukerne
+* Fjern tilgangen til sitemap-definerte dashbord for disse brukerne

@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666993"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590395"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams-gjestetilgang
 
-Trenger du hjelp med å aktivere og konfigurere gjeste tilgangs funksjonen i Microsoft Teams?
+Trenger du hjelp til å aktivere og konfigurere gjeste tilgangs funksjonen i Microsoft Teams?  
 
-Her er hva du må gjøre:
+Først må du kontrollere at du har fulgt alle trinnene i [sjekklisten for gjestetilgang](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). Når alle disse trinnene er fullført, må du [vente opptil 24 timer](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) for at innstillingene skal tre i kraft.
 
-1. Godkjenn gjestetilgang.
-1. Legg til gjestebrukere i gruppen.
-1. Definer tillatelser for gjestebrukere.
+Hvis du er sikker på at du har fullført alle trinnene i sjekklisten, og det har gått mer enn 24 timer, kan du prøve å [legge til en gjest i gruppen](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Hvis du vil ha mer informasjon, inkludert How-to-videoer, kan du se [gjestetilgang i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

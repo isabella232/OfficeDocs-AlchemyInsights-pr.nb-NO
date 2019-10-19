@@ -1,5 +1,5 @@
 ---
-title: Behandle brukerprofiler i Delve
+title: Behandle brukerprofiler i dybden
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497200"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Behandle brukerprofiler i Delve
+# <a name="manage-user-profiles-in-delve"></a>Behandle brukerprofiler i dybden
 
-Office Delve lar brukere administrere sine Office 365-brukerprofil. Brukere kan:
+Office dybden lar brukere administrere brukerprofilen for Office 365. Brukere kan gjøre følgende:
   
-- Vise og oppdatere deres informasjon
+- Vise og oppdatere informasjonen
     
-- Holde informasjon privat
+- Hold litt informasjon privat
     
-- Endre deres profil eller forsiden bilde
+- Endre profil eller Forsidebilde
     
-- Endre språk- og klokkeslettformatet for Delve
+- Endre språk og klokkeslettformat for dybden
     
 > [!NOTE]
-> Hvis en bruker oppdatert profilbilde og endringen vises ikke i SharePoint eller OneDrive, be dem om å åpne en webleser, [kan du gå til Office.com](https://www.office.com), logge på med sitt arbeid eller skolen kontoen, og klikk deretter OneDrive eller SharePoint-brikke. Dette vil be profilbilde å synkronisere. Brukeren må kanskje prøve å følge denne fremgangsmåten med den Private versjonen av leseren. 
+> Hvis en bruker har oppdatert profilbildet og endringen ikke vises i SharePoint eller OneDrive, kan du be vedkommende om å åpne en webleser, [gå til Office.com](https://www.office.com), logge på med jobb-eller skolekontoen og deretter klikke OneDrive-eller SharePoint-flisen. Dette vil be profilbildet som skal synkroniseres. Brukeren må kanskje prøve å fullføre disse trinnene med den private versjonen av nettleseren. 
   
-[Lær mer om hvordan du oppdaterer profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Finn ut mer om oppdatering av profiler i dybden](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

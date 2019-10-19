@@ -1,5 +1,5 @@
 ---
-title: Aktivere og tilordne lisenser for programvaren som-a-service app
+title: Aktivere og tilordne programvare-som-en-tjeneste app lisenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385729"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne lisenser for programvaren som-a-service app 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne programvare-som-en-tjeneste app lisenser 
 
-## <a name="to-activate-apps"></a>Aktivere apps
+## <a name="to-activate-apps"></a>Slik aktiverer du apper
 
-1. Gå til **Fakturering**i administrasjonssenteret, > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administrasjonssenter, og velg deretter kategorien **apper** .
 
-2. Finn og Merk programmet du vil administrere.
+2. Finn og velg appen du vil administrere.
 
-3. Velg **konfigurere kontoen i feilmeldingen** **lisensene**.  
+3. Under **lisenser**velger **du Konfigurer konto i feilmeldingen**.  
 
-## <a name="to-assign-app-licenses"></a>Slik tilordner du app lisenser
+## <a name="to-assign-app-licenses"></a>Slik tilordner du programlisenser
 
-1. Gå til **Fakturering**i administrasjonssenteret, > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administrasjonssenter, og velg deretter kategorien **apper** .
 
-2. Finn og Merk programmet du vil administrere.  
+2. Finn og velg appen du vil administrere.  
 
-3. Under **Innstillinger for & handlinger**, velger du koblingen for å **Behandle i Publishers portal**.
+3. Under **innstillinger & handlinger**velger du koblingen som skal **administreres i utgiverens Portal**.

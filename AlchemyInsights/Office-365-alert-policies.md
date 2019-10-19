@@ -13,15 +13,15 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661305"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 Alert-policyer
 
-Office 365 sikkerhet & Compliance Center tilbyr [standard varslings policyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3 eller E5/G5-abonnement. Derfor kan administratorer motta en varsling e-postvarsling sendt av Office365Alerts@microsoft.com med en emnelinje som "et varsel om lav alvorlighetsgrad: *navn på varslings policy*". Varsel varsler sendes når varsler utløses for vanlige aktiviteter, for eksempel når brukere:
+Office 365 sikkerhet & Compliance Center tilbyr [standard varslings policyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3, eller E5/G5-abonnement. Derfor kan administratorer motta en varsling e-postvarsling sendt av Office365Alerts@microsoft.com med en emnelinje som "et varsel om lav alvorlighetsgrad: *navn på varslings policy*". Varsel varsler sendes når varsler utløses for vanlige aktiviteter, for eksempel når brukere:
 
 - Opprett Innboks regler som videresender e-post.
 - Tilordne tillatelser til postboksen.
@@ -30,7 +30,7 @@ Office 365 sikkerhet & Compliance Center tilbyr [standard varslings policyer](ht
 
 Slik kan du se gjennom og handle i et varsel:
 
-1. Gå til [sikkerhets _AMP_ samsvarssenter](https://protection.office.com) og Logg på.
+1. Gå til [sikkerhets & samsvarssenter](https://protection.office.com) og Logg på.
 2. Klikk **varsler** > **Vis varsler**.
 3. Klikk et varsel for å vise en undermeny med informasjon om varselet.
 

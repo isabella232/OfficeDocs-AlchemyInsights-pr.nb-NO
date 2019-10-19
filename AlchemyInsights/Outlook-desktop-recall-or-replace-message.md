@@ -1,5 +1,5 @@
 ---
-title: Outlook stasjonære tilbakekalle eller erstatte en e-postmelding
+title: Outlook desktop tilbakekalle eller erstatte en e-postmelding
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496120"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Tilbakekalle eller erstatte en e-postmelding i Outlook
+# <a name="recall-or-replace-an-outlook-email-message"></a>Tilbakekalle eller erstatte en Outlook-e-postmelding
 
-- Som administrator kan du **tilbakekalling av meldinger på vegne av brukere ved hjelp av PowerShell**. Du kan ikke tilbakekalle meldinger fra administrasjonssenteret.
-- Du kan **bare tilbakekalling av meldinger som sendes til personer i organisasjonen**. Hvis meldingen ble sendt til en Gmail-adresse, for eksempel du kan ikke kalle tilbake den.
-- Du kan **bare tilbakekalling av meldinger sendt fra Outlook-2016 på PCen**. Hvis en bruker sender en melding ved hjelp av Outlook for Mac eller Outlook på World Wide web, kan du ikke kan huske den.
+- Som administrator kan du **tilbakekalle meldinger på vegne av brukere som bruker PowerShell**. Du kan ikke tilbakekalle meldinger fra administrasjonssenteret.
+- Du kan **bare tilbakekalle meldinger som er sendt til personer i organisasjonen**. Hvis meldingen for eksempel ble sendt til en Gmail-adresse, kan du ikke huske den.
+- Du kan **bare tilbakekalle meldinger som er sendt fra Outlook 2016 på PC**-en. Hvis en bruker sender en melding ved hjelp av Outlook for Mac eller Outlook på weben, kan du ikke tilbakekalle den.
 
-Tilbakekalle eller erstatte en e-postmelding:
+Slik tilbakekaller eller erstatter du en e-postmelding:
 
-1. Velg mappen Sendte elementer i mapper-ruten til venstre i Outlook-vinduet.
-1. Dobbeltklikk meldingen du vil kalle tilbake for å åpne den.
-1. Velg kategorien **melding** , og velg deretter **Handlinger** > **Kall tilbake denne meldingen**.
-1. Velg **Slette uleste kopier av denne meldingen** , eller **Slette uleste kopier og erstatte dem med en ny melding**, og velg deretter **OK**.
-1. Hvis du sender en ny melding, meldingen, og deretter velger du **Send**.
-1. Vellykket eller mislykket tilbakekalling av en melding, avhengig av mottakerens innstillinger i Outlook. Fremgangsmåte å kontrollere tilbakekalling i [denne artikkelen](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. I mapperuten til venstre i Outlook-vinduet velger du sendte elementer-mappen.
+1. Dobbeltklikk meldingen du vil tilbakekalle, for å åpne den.
+1. Velg kategorien **melding** , og velg deretter **handlinger** > **tilbakekall denne meldingen**.
+1. Velg **Slett uleste kopier av denne meldingen** eller **Slett uleste kopier og Erstatt med en ny melding**, og velg deretter **OK**.
+1. Hvis du skal sende en ny melding, skriver du meldingen og velger **Send**.
+1. Mottakerens innstillinger i Outlook er vellykket eller mislykket av en tilbakekalling av melding. Hvis du vil ha trinn for hvordan du ser tilbakekallingen, kan du se [denne artikkelen](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
 Søke etter og slette e-postmeldinger i organisasjonen
 
-- Hvis du ikke er en global admin, må kontoen legges til eDiscovery lederrolle eller overholdelse Søk management rollen til å søke etter meldinger. Hvis du vil slette meldinger, må du koble til rollegruppen organisasjon Management eller rollen Søk og Tøm management. Tillatelser for disse rollene tilordnes i [midten av sikkerhet og overholdelse](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Opprett en innhold Søk](https://docs.microsoft.com/office365/securitycompliance/content-search) til å finne meldingen for å slette.
-- [Koble til sikkerhet og overholdelse Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Hvis du ikke er en global administrator, må kontoen din legges til rollen eDiscovery Manager eller kontroll av Samsvars søk for å søke etter meldinger. Hvis du vil slette meldinger, må du bli med i rollegruppen for organisasjonsadministrasjon eller administrasjons rollen for søk og fjerning. Tillatelser for disse rollene er tilordnet i [sikkerhets-og samsvarssenteret](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Opprett et innholdssøk](https://docs.microsoft.com/office365/securitycompliance/content-search) for å finne meldingen som skal slettes.
+- [Koble til PowerShell for sikkerhets-og samsvarssenter](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Hvis du bruker multifaktorautentisering, kan du se [koble til Office 365-sikkerhet og overholdelse Center PowerShell ved hjelp av multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Hvis du bruker multifaktorautentisering, kan du se [Koble til Office 365 sikkerhet og kompatibilitet Center PowerShell ved hjelp av multi-faktor-godkjenning](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

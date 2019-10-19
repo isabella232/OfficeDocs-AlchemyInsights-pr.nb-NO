@@ -1,5 +1,5 @@
 ---
-title: Endre profilbildet på Web-området i Outlook
+title: Endre profilbildet ditt i Outlook på weben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557222"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Endre profilbildet på Web-området i Outlook
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Endre profilbildet ditt i Outlook på weben
 
-1. Merk navnet eller profil bildet øverst på siden.
-1. I **Min konto** -ruten velger du profilbildet.
-1. I dialogboksen **Endre bildet** , velger du **Last opp et nytt bilde**.
-1. Velg et bilde for å laste opp, og velg **Bruk**.
+1. Velg navn eller profilbilde øverst på siden.
+1. Velg profilbildet ditt i **min konto** -ruten.
+1. Velg **Last opp et nytt bilde**i dialogboksen **Endre bilde** .
+1. Velg et bilde du vil laste opp, og velg **Bruk**.
 
-*Merk:* Det nye bildet vil vises neste gang du logger deg på Office 365.
+*Merk:* Det nye bildet vises neste gang du logger på Office 365.
 
-Hvis du vil ha mer informasjon, kan du se [endre informasjonen i bildet og kontoen i Outlook på weben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Hvis du vil ha mer informasjon, se [Endre bilde-og kontoinformasjon i Outlook på weben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
