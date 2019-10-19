@@ -1,5 +1,5 @@
 ---
-title: XLS-filen ikke ble åpnet ved dobbeltklikk
+title: XLS-filen ble ikke åpnet ved Dobbeltklikk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530756"
 ---
-# <a name="excel-file-doesnt-open"></a><span data-ttu-id="2f756-102">Excel-fil åpnes ikke</span><span class="sxs-lookup"><span data-stu-id="2f756-102">Excel file doesn't open</span></span>
+# <a name="excel-file-doesnt-open"></a><span data-ttu-id="cd12a-102">Excel-filen åpnes ikke</span><span class="sxs-lookup"><span data-stu-id="cd12a-102">Excel file doesn't open</span></span>
 
-<span data-ttu-id="2f756-103">Prøv ett av disse forslagene:</span><span class="sxs-lookup"><span data-stu-id="2f756-103">Try one of these suggestions:</span></span>
+<span data-ttu-id="cd12a-103">Prøv ett av disse forslagene:</span><span class="sxs-lookup"><span data-stu-id="cd12a-103">Try one of these suggestions:</span></span>
 
-<span data-ttu-id="2f756-104">**Velg Excel som standard**</span><span class="sxs-lookup"><span data-stu-id="2f756-104">**Choose Excel as the default**</span></span>
+<span data-ttu-id="cd12a-104">**Velg Excel som standard**</span><span class="sxs-lookup"><span data-stu-id="cd12a-104">**Choose Excel as the default**</span></span>
 
-* <span data-ttu-id="2f756-105">Høyreklikk i regnearket, velg **Åpne med**, og velg deretter **Excel**</span><span class="sxs-lookup"><span data-stu-id="2f756-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
+* <span data-ttu-id="cd12a-105">Høyreklikk på regnearket, velg **Åpne med**, og velg deretter **Excel**</span><span class="sxs-lookup"><span data-stu-id="cd12a-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
 
-<span data-ttu-id="2f756-106">**Kjøre en rask reparasjon**</span><span class="sxs-lookup"><span data-stu-id="2f756-106">**Run a Quick Repair**</span></span>
+<span data-ttu-id="cd12a-106">**Kjøre en hurtigreparasjon**</span><span class="sxs-lookup"><span data-stu-id="cd12a-106">**Run a Quick Repair**</span></span>
 
-1. <span data-ttu-id="2f756-107">Gå til **Control Panel > > programmer og funksjoner**.</span><span class="sxs-lookup"><span data-stu-id="2f756-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
+1. <span data-ttu-id="cd12a-107">Gå til **kontroll Panel > programmer > programmer og funksjoner**.</span><span class="sxs-lookup"><span data-stu-id="cd12a-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
 
-2. <span data-ttu-id="2f756-108">Velg Office-produktet du vil reparere, og velg deretter **Endre**.</span><span class="sxs-lookup"><span data-stu-id="2f756-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
+2. <span data-ttu-id="cd12a-108">Velg Office-produktet du vil reparere, og velg deretter **endre**.</span><span class="sxs-lookup"><span data-stu-id="cd12a-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
 
-3. <span data-ttu-id="2f756-109">Velger du alternativet for **Hurtigreparasjon** , og deretter velger du **Reparer**.</span><span class="sxs-lookup"><span data-stu-id="2f756-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
+3. <span data-ttu-id="cd12a-109">Velg **hurtigreparasjons** alternativet, og velg deretter **Reparer**.</span><span class="sxs-lookup"><span data-stu-id="cd12a-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
 
-<span data-ttu-id="2f756-110">**Avinstallere versjoner av Office som du ikke bruker**</span><span class="sxs-lookup"><span data-stu-id="2f756-110">**Uninstall versions of Office you don't use**</span></span>
+<span data-ttu-id="cd12a-110">**Avinstaller versjoner av Office du ikke bruker**</span><span class="sxs-lookup"><span data-stu-id="cd12a-110">**Uninstall versions of Office you don't use**</span></span>
 
-1. <span data-ttu-id="2f756-111">Gå til **Kontrollpanel > Avinstaller et Program**, og deretter velger du versjonen av Office du vil fjerne.</span><span class="sxs-lookup"><span data-stu-id="2f756-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
+1. <span data-ttu-id="cd12a-111">Gå til **kontroll Panel > Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.</span><span class="sxs-lookup"><span data-stu-id="cd12a-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
 
-2. <span data-ttu-id="2f756-112">Velg **Avinstaller**.</span><span class="sxs-lookup"><span data-stu-id="2f756-112">Click **Uninstall**.</span></span>
+2. <span data-ttu-id="cd12a-112">Klikk på **Avinstaller**.</span><span class="sxs-lookup"><span data-stu-id="cd12a-112">Click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="2f756-113">Start datamaskinen på nytt.</span><span class="sxs-lookup"><span data-stu-id="2f756-113">Restart your computer.</span></span>
+3. <span data-ttu-id="cd12a-113">Start datamaskinen på nytt.</span><span class="sxs-lookup"><span data-stu-id="cd12a-113">Restart your computer.</span></span>
 
-<span data-ttu-id="2f756-114">**Kjør denne feilsøkingsprosessen Hvis du vil angi filtyper for Office til å åpne i Office**</span><span class="sxs-lookup"><span data-stu-id="2f756-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
+<span data-ttu-id="cd12a-114">**Kjør dette feilsøkingsprogrammet for å angi Office-filtyper som skal åpnes i Office**</span><span class="sxs-lookup"><span data-stu-id="cd12a-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
 
-1. <span data-ttu-id="2f756-115">Kjør dette feilsøkingsverktøyet: https://aka.ms/diag_officefile.</span><span class="sxs-lookup"><span data-stu-id="2f756-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
+1. <span data-ttu-id="cd12a-115">Kjør denne feilsøkingen https://aka.ms/diag_officefile:.</span><span class="sxs-lookup"><span data-stu-id="cd12a-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
 
-2. <span data-ttu-id="2f756-116">Avhengig av webleseren, **Åpne** eller **Lagre** feilsøking på skrivebordet, og deretter **kjøre** den.</span><span class="sxs-lookup"><span data-stu-id="2f756-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
+2. <span data-ttu-id="cd12a-116">Avhengig av hvilken webleser du har, **åpner** eller **lagrer** du feilsøkingsprogrammet på skrivebordet, og deretter **kjører** du det.</span><span class="sxs-lookup"><span data-stu-id="cd12a-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>

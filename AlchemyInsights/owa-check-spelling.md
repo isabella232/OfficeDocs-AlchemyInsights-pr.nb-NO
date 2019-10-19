@@ -1,5 +1,5 @@
 ---
-title: Stavekontroll i Outlook på weben
+title: Stavekontrollere i Outlook på weben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510560"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="125ba-102">Bruk webleseren til å stavekontrollere</span><span class="sxs-lookup"><span data-stu-id="125ba-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="f6151-102">Bruke webleseren til å stavekontrollere</span><span class="sxs-lookup"><span data-stu-id="f6151-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="125ba-103">Det finnes ingen alternativer for stavekontroll av på Web-området i Outlook.</span><span class="sxs-lookup"><span data-stu-id="125ba-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="125ba-104">Hvis du vil stavekontrollere, må du bruke web-leseren.</span><span class="sxs-lookup"><span data-stu-id="125ba-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="125ba-105">Stavekontroll er tilgjengelig i Microsoft Edge, Internet Explorer 10 og senere versjoner og gjeldende versjoner av Firefox, krom og Safari.</span><span class="sxs-lookup"><span data-stu-id="125ba-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="125ba-106">Kontroller alternativene for webleseren å lære mer om hvordan du kjører stavekontroll.</span><span class="sxs-lookup"><span data-stu-id="125ba-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="f6151-103">Det finnes ikke noe alternativ for stavekontroll i Outlook på weben.</span><span class="sxs-lookup"><span data-stu-id="f6151-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="f6151-104">Hvis du vil kontrollere stavemåten, må du bruke webleseren.</span><span class="sxs-lookup"><span data-stu-id="f6151-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="f6151-105">Stavekontroll er tilgjengelig i Microsoft Edge, Internet Explorer 10 og senere versjoner og gjeldende versjoner av Firefox, Chrome og Safari.</span><span class="sxs-lookup"><span data-stu-id="f6151-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="f6151-106">Kontroller alternativene for webleseren for å lære mer om hvordan du stavekontrollerer.</span><span class="sxs-lookup"><span data-stu-id="f6151-106">Check the options for your web browser to learn more about how to check spelling.</span></span>

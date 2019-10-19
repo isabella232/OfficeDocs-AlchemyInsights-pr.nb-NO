@@ -1,5 +1,5 @@
 ---
-title: Virker Visio på en Mac
+title: Fungerer Visio på en Mac
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529676"
 ---
-# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="c829f-102">Virker Visio på en Mac?</span><span class="sxs-lookup"><span data-stu-id="c829f-102">Does Visio work on a Mac?</span></span>
+# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="75cfb-102">Fungerer Visio på en Mac?</span><span class="sxs-lookup"><span data-stu-id="75cfb-102">Does Visio work on a Mac?</span></span>
 
-<span data-ttu-id="c829f-103">Det er ingen Visio-skrivebordsprogrammet for Mac.</span><span class="sxs-lookup"><span data-stu-id="c829f-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="c829f-104">Så lenge brukeren som trenger programmet har [Visio elektronisk lisens som er tildelt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kan de imidlertid [vise, opprette, og redigere diagrammer i Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) i en webleser.</span><span class="sxs-lookup"><span data-stu-id="c829f-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
+<span data-ttu-id="75cfb-103">Det finnes ingen Visio-skrivebord-applikasjon for Mac.</span><span class="sxs-lookup"><span data-stu-id="75cfb-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="75cfb-104">Så lenge brukeren som trenger appen, har en [Visio online-lisens tilordnet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kan de [vise, opprette og redigere diagrammer i Visio online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) i en webleser.</span><span class="sxs-lookup"><span data-stu-id="75cfb-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
   
   
