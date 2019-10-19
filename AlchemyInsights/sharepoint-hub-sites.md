@@ -1,5 +1,5 @@
 ---
-title: Områdeoversikt for SharePoint-hub
+title: Oversikt over SharePoint hub-områder
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503572"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818903"
 ---
-# <a name="sharepoint-hub-sites-overview"></a><span data-ttu-id="106a4-102">Områdeoversikt for SharePoint-hub</span><span class="sxs-lookup"><span data-stu-id="106a4-102">SharePoint hub sites overview</span></span>
+# <a name="sharepoint-hub-sites-overview"></a><span data-ttu-id="3b1d7-102">Oversikt over SharePoint hub-områder</span><span class="sxs-lookup"><span data-stu-id="3b1d7-102">SharePoint hub sites overview</span></span>
 
-<span data-ttu-id="106a4-103">SharePoint-hub områder hjelp du oppfyller behovene i organisasjonen ved å koble til og ordne områder basert på prosjekt, avdeling, divisjon, region, osv., noe som gjør det enklere å:</span><span class="sxs-lookup"><span data-stu-id="106a4-103">SharePoint hub sites help you meet the needs of your organization by connecting and organizing sites based on project, department, division, region, etc. making it easier to:</span></span>
+<span data-ttu-id="3b1d7-103">SharePoint hub-områder hjelper deg med å dekke organisasjonens behov ved å koble til og organisere områder basert på prosjekt, avdeling, divisjon, region osv., noe som gjør det enklere å:</span><span class="sxs-lookup"><span data-stu-id="3b1d7-103">SharePoint hub sites help you meet the needs of your organization by connecting and organizing sites based on project, department, division, region, etc. making it easier to:</span></span>
 
-- <span data-ttu-id="106a4-104">Oppdag relatert innhold, for eksempel nyheter og andre aktiviteter i området.</span><span class="sxs-lookup"><span data-stu-id="106a4-104">Discover related content such as news and other site activities.</span></span>
+- <span data-ttu-id="3b1d7-104">Oppdag beslektet innhold, for eksempel nyheter og andre område aktiviteter.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-104">Discover related content such as news and other site activities.</span></span>
 
-- <span data-ttu-id="106a4-105">Bruke vanlige navigering og merking på tvers av tilknyttede områder.</span><span class="sxs-lookup"><span data-stu-id="106a4-105">Apply common navigation and branding across associated sites.</span></span> 
+- <span data-ttu-id="3b1d7-105">Bruk vanlig navigering og merking på tvers av tilknyttede områder.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-105">Apply common navigation and branding across associated sites.</span></span> 
 
-- <span data-ttu-id="106a4-106">Søk på tvers av alle tilknyttede områder.</span><span class="sxs-lookup"><span data-stu-id="106a4-106">Search across all associated sites.</span></span>
+- <span data-ttu-id="3b1d7-106">Søk på tvers av alle tilknyttede områder.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-106">Search across all associated sites.</span></span>
 
-<span data-ttu-id="106a4-107">Se følgende for mer informasjon om hub områder:</span><span class="sxs-lookup"><span data-stu-id="106a4-107">See the following for more information about hub sites:</span></span>
-- <span data-ttu-id="106a4-108">[Opprett en hubområde i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Lær hvordan du oppretter et hubområde fra nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="106a4-108">[Create a hub site in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Learn how to create a hub site from the new Admin Center or PowerShell.</span></span>
+<span data-ttu-id="3b1d7-107">Se følgende hvis du vil ha mer informasjon om hub-områder:</span><span class="sxs-lookup"><span data-stu-id="3b1d7-107">See the following for more information about hub sites:</span></span>
+- <span data-ttu-id="3b1d7-108">[Opprette et hub-område i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Lær hvordan du oppretter et hub-område fra det nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-108">[Create a hub site in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Learn how to create a hub site from the new Admin Center or PowerShell.</span></span>
 
-- <span data-ttu-id="106a4-109">[Knytte et SharePoint-område med et hubområde](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Lær mer om å knytte eksisterende områder til en hubområde fra den nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="106a4-109">[Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Learn about associating existing sites to a hub site from the new Admin Center or PowerShell.</span></span>
+- <span data-ttu-id="3b1d7-109">[Knytt et SharePoint-område til et hub-område](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Lær om hvordan du knytter eksisterende områder til et hub-område fra det nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-109">[Associate a SharePoint site with a hub site](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Learn about associating existing sites to a hub site from the new Admin Center or PowerShell.</span></span>
 
-- <span data-ttu-id="106a4-110">[Fjerne et hubområde](https://docs.microsoft.com/sharepoint/remove-hub-site): Lær hvordan du kan fjerne et eksisterende hubområde i den nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="106a4-110">[Remove a hub site](https://docs.microsoft.com/sharepoint/remove-hub-site): Learn how to remove an existing hub site in the new Admin Center or PowerShell.</span></span>
+- <span data-ttu-id="3b1d7-110">[Fjern et hub-område](https://docs.microsoft.com/sharepoint/remove-hub-site): Finn ut hvordan du fjerner et eksisterende hub-område i det nye administrasjonssenteret eller PowerShell.</span><span class="sxs-lookup"><span data-stu-id="3b1d7-110">[Remove a hub site](https://docs.microsoft.com/sharepoint/remove-hub-site): Learn how to remove an existing hub site in the new Admin Center or PowerShell.</span></span>
 

@@ -1,5 +1,5 @@
 ---
-title: Administrere synkroniserte kontoer
+title: Administrere synkroniserte brukerkontoer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
 ms.openlocfilehash: 822c50fda3c9af83232d57f08e039681718f178f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497164"
 ---
-# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="a5105-102">Administrere synkroniserte kontoer</span><span class="sxs-lookup"><span data-stu-id="a5105-102">Manage synchronized user accounts</span></span>
+# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="a986d-102">Administrere synkroniserte brukerkontoer</span><span class="sxs-lookup"><span data-stu-id="a986d-102">Manage synchronized user accounts</span></span>
 
-<span data-ttu-id="a5105-103">Vanligvis bruker du Microsoft 365 administrasjonssenteret til å legge til og endre brukerkontoer.</span><span class="sxs-lookup"><span data-stu-id="a5105-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="a5105-104">Du kan imidlertid bruke den hvis katalogen sychronization eller SSO er aktivert.</span><span class="sxs-lookup"><span data-stu-id="a5105-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="a5105-105">Administrere brukere som har Windows PowerShell i stedet, som beskrevet i [konfigurere egenskapene for brukerkontoen med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="a5105-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
+<span data-ttu-id="a986d-103">Du bruker vanligvis administrasjonssenteret for Microsoft 365 til å legge til og endre brukerkontoer.</span><span class="sxs-lookup"><span data-stu-id="a986d-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="a986d-104">Du kan imidlertid ikke bruke den hvis katalog sychronization eller SSO er aktivert.</span><span class="sxs-lookup"><span data-stu-id="a986d-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="a986d-105">I stedet administrere brukere med Windows PowerShell som beskrevet i [konfigurere egenskaper for brukerkontoen med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="a986d-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
   
 
