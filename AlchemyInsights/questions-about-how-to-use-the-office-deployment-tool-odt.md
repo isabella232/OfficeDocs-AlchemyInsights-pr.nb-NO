@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553549"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Spørsmål om hvordan du bruker Office Deployment Tool (ODT)
 
-Last ned verktøyet for distribusjon av Office fra [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Last ned Office Deployment Tool fra [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Etter at du har lastet ned filen, kan du kjøre den selvutpakkende kjørbare filen som inneholder Office distribusjon av verktøyet for kjørbare (setup.exe) og en eksempel-konfigurasjonsfil (configuration.xml).
+Når du har lastet ned filen, kjører du den kjørbare selvutpakkende filen som inneholder Office Deployment Tool kjørbar fil (Setup. exe) og et eksempel på en konfigurasjonsfil (Configuration. XML).
   
- **Å utelukke eller fjerne Office 365 ProPlus produkter fra klientdatamaskiner:**
+ **Slik ekskluderer eller fjerner du Office 365 ProPlus-produkter fra klientdatamaskiner:**
   
-Når du installerer Office 365 ProPlus, kan du utelate bestemte produkter. Hvis du vil gjøre dette, følger du trinnene for å installere Office med Office-Søkeverktøyet, men inkluderer ExcludeApp-element i konfigurasjonsfilen. Denne konfigurasjonsfilen installerer for eksempel alle Office 365 ProPlus produktene bortsett fra Publisher:
+Når du installerer Office 365 ProPlus, kan du ekskludere bestemte produkter. Hvis du vil gjøre dette, følger du fremgangsmåten for å installere Office med ODT, men inkluderer ExcludeApp-elementet i konfigurasjonsfilen. Denne konfigurasjonsfilen installerer for eksempel alle Office 365 ProPlus-produkter unntatt Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Når du installerer Office 365 ProPlus, kan du utelate bestemte produkter. Hvis 
 </Add>
 ```
 
-[Oversikt over verktøyet for distribusjon av Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Oversikt over distribusjonsverktøyet for Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

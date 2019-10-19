@@ -1,5 +1,5 @@
 ---
-title: samme som filnavnet er best
+title: samme som filnavn er best
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800054"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nødvendig Alkymi hodet H1, H2's virker ikke.
-Gode fremgangsmåter og retningslinjer for redigering av Alkymi:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Krevde alkymi overskriften H1, H2's dont ' arbeide.
+Best Practices og retningslinjer for Alchemy authoring:
 
-1. **Ikke nest Alkymi innsikt i mapper**- dette vil bryte URL-strukturen. Vi er ute til å fikse dette.
-1. Filene i mappen **AlchemyInsights** skal ha små bokstaver filnavn med bindestreker for mellomrom ex. ***how-skal aktivere-rettstvist-Vent***.
-    1. Ta med regel-ID eller bucket ID fra [Alkymi partnerportal](https://alchemyportal.azurewebsites.net) i feltet ms.custom. EX. ***MS.Custom: 100021***
-1. Bruk resten av metadataene på toppen av denne filen som malen.
-1. Naviger ned til delen i [Alkymi partnerportal](https://alchemyportal.azurewebsites.net) **kunden innsikt tittel:** og bruk som starter en peker for H1 tittelen for innsikt. 
+1. **Ikke hekker Alchemy Insights i mapper**-dette vil bryte URL strukturen. Vi ser på å fikse dette.
+1. Filer i mappen **AlchemyInsights** bør ha små filnavn med bindestreker for mellomrom. ***hvordan-å-aktivere-søksmål-Hold***.
+    1. Inkluder regel-ID eller Bucket ID fra [Alchemy partner-portalen](https://alchemyportal.azurewebsites.net) i det egendefinerte feltet MS. Ex. ***MS Custom: 100021***
+1. Bruk resten av metadataene øverst i denne filen som mal.
+1. I [Alchemy partner Portal](https://alchemyportal.azurewebsites.net), Naviger ned til seksjonen **Customer Insight tittel:** og bruke det som et utgangspunkt for H1 tittel for innsikt. 
     > [!NOTE]
-    > Alkymi Insights må bare en enkelt H1 øverst eller de brytes i produksjon. H2s gjengis ikke så Bruk **fet** eller andre konvensjoner på separate deler.
-1. Deretter fyller du ut brødtekst med kladd-materiale i kunden Insights-delen av siden Alkymi regel
-    1. Punktmerkede lister er greit
-    1. Nummererte lister for
-    1. **Fet** og *kursiv* er a-ok
-    1. Koblinger må alltid være enten **"koblinger til Web-område" / ekstern** eller **dyp-koblinger til grensesnittelementene**, ikke interne koblinger.
-    1. Bilder offisielt støtter ikke denne gangen, men det er på veikartet for tiltaket.
+    > Alchemy Insights må ha bare en enkelt H1 på toppen eller de vil bryte i produksjon. H2s ikke gjengi enten så bruk **fet** eller andre konvensjoner for å betegne separate seksjoner.
+1. Deretter fyller du ut brødteksten ved hjelp av kladde materialet i delen Kundeinnsikt på siden alkymi-regel
+    1. Punktmerkede lister er fine
+    1. Nummererte lister også
+    1. **Fet** og *kursiv* er en-OK
+    1. Linker bør alltid være enten **"lenker til Web"/External** eller **Deep-linker til UI elementer**, ikke interne koblinger.
+    1. Bilder er ikke offisielt støttet på dette tidspunktet, men det er på veikart.
 
-Og dette er virkelig allerede litt for langt. Beste praksis er omtrent 400 tegn---
+Og dette er egentlig allerede litt for lang. Beste praksis er om 400 tegn---------------------------------
 
-Når innholdet er klar, drar du den til live grenen. Deretter kan du gå til [partnerportalen på Alkymi](https://alchemyportal.azurewebsites.net) og skriver inn filnavnet i feltet URL-adresse. 
+Når innholdet er klart, drar du det til den aktive grenen. Deretter går du til [alkymi partner portalen](https://alchemyportal.azurewebsites.net) og skriv inn filnavnet i URL-feltet. 
