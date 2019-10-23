@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376753"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637786"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrollér innstillingene for lobbyen og nivå for deltakelse
 
-Disse innstillingene kontrollerer hvilke møtedeltakere som venter i vestibylen før de blir tatt opp på møtet og nivået på deltakelsen de er tillatt i et møte. Du kan bruke PowerShell til å oppdatere innstillinger for møte policy som ennå ikke er implementert (merket "kommer snart") i Teams Administrasjonssenter.  Se nedenfor for et eksempel PowerShell cmdlet som gjør at alle brukere til å omgå lobbyen.  
+Hvis du ønsker å tillate alle, inkludert dial-in, eksterne og anonyme brukere å omgå lobbyen, kan du bruke PowerShell til å gjøre det. Her er et eksempel på hvordan du endrer den globale møte policyen for organisasjonen:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Denne cmdleten krever for øyeblikket bruk av Skype for Business PowerShell-modulen. For å få oppsett til å bruke denne cmdleten, kan du sjekke ut administrerende policyer via PowerShell.
+
+Du kan sette opp en ny policy, som du deretter må bruke den til brukerne. Hvis du endrer den globale policyen, vil den automatisk gjelde for brukerne. For alle politikk endre du nød å vent det vil si 4 timene og til 24 timene for det politiet å tre i kraft.
+
+Husk å se gjennom dokumentasjonen nedenfor før du gjør disse endringene for å forstå nøyaktig hva dette tillater.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Forstå Teams-policy kontroller for gruppemøte
 
 - [Automatisk innrømme at personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) er en policy for hver arrangør som kontrollerer om personer blir med i et møte direkte eller venter i vestibylen til de blir tatt opp av en godkjent bruker.
 
@@ -30,15 +40,4 @@ Disse innstillingene kontrollerer hvilke møtedeltakere som venter i vestibylen 
 
 - [La arrangørene overstyre lobby innstillingene](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kommer snart**) er en policy for hver arrangør som kontrollerer om møtearrangøren kan overstyre lobby innstillingene som en administrator har angitt i automatisk å **innrømme personer** og **tillate ekstern pålogging brukere å omgå lobbyen** når de planlegger et nytt møte.
 
-**Merk:** Les [Behandle møte policyer i Teams for å](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) se en fullstendig oversikt over retningslinjene for Microsoft Teams-møte. 
-
-
-**PowerShell-eksempel**
-
-Hvis du ønsker å tillate alle, inkludert eksterne eller anonyme brukere, å omgå lobbyen, kan du også bruke PowerShell til å utføre denne oppgaven.  Her er et eksempel på hvordan du endrer den globale møte policyen for organisasjonen.   
-
-(Husk å se gjennom dokumentasjonen ovenfor før du gjør disse endringene for å forstå nøyaktig hva dette tillater.)
-
-Set-CsTeamsMeetingPolicy-identitet global-AutoAdmittedUsers "alle"-AllowPSTNUsersToBypassLobby $True
-
-Hvis du vil ha mer informasjon, se [Set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Merk:** Les [Behandle møte policyer i Teams for å](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) se en fullstendig oversikt over retningslinjene for Microsoft Teams-møte.
