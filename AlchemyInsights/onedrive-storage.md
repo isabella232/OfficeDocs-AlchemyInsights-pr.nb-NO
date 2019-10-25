@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661053"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658302"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="f94a3-102">Administrere OneDrive-lagringen</span><span class="sxs-lookup"><span data-stu-id="f94a3-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="bebb4-102">Administrere OneDrive-lagringen</span><span class="sxs-lookup"><span data-stu-id="bebb4-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="f94a3-103">Slik endrer du standard lagringsplass for nye og eksisterende OneDrive-brukere:</span><span class="sxs-lookup"><span data-stu-id="f94a3-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="f94a3-104">Gå til [siden for lagring av administrasjonssenteret for OneDrive](https://admin.onedrive.com/?v=StorageSettings), og skriv deretter inn et nytt beløp i GB.</span><span class="sxs-lookup"><span data-stu-id="f94a3-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="bebb4-103">OneDrive lagringsplass teller ikke mot generelle leier kvote.</span><span class="sxs-lookup"><span data-stu-id="bebb4-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="f94a3-105">Denne innstillingen for lagringsplass gjelder for alle brukere du ikke har angitt bestemte lagringsgrenser for.</span><span class="sxs-lookup"><span data-stu-id="f94a3-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="f94a3-106">Hvis du vil endre lagringsplass for bestemte brukere, må du bruke Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="f94a3-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="f94a3-107">Hvis du vil ha informasjon om hvordan du gjør dette, kan du se [endre brukernes OneDrive-lagringsplass ved hjelp av PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="f94a3-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="f94a3-108">Hvis du vil kontrollere hvor mye lagringsplass du bruker i din egen OneDrive, kan du se [administrere OneDrive for Business Storage](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="f94a3-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="f94a3-109">Hvis du vil ha informasjon om lagringen som følger med hver plan, kan du se [OneDrive for Business service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="f94a3-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="bebb4-104">Lær [hvordan OneDrive lagringsplass tildeles per bruker/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="bebb4-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="bebb4-105">Finn ut [hvor mye lagringsplass du bruker i OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="bebb4-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="bebb4-106">Lær [hvordan du får OneDrive Storage kvote ved hjelp av PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="bebb4-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="bebb4-107">Microsoft vil i utgangspunktet gi 1 TB per bruker, som administratorer kan øke til opptil 5 TB per bruker.</span><span class="sxs-lookup"><span data-stu-id="bebb4-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="bebb4-108">Finn ut hvordan du [angir standard lagringsplass for OneDrive-brukere](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="bebb4-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="bebb4-109">Finn ut [hvordan du endrer en bestemt brukers lagringsplass for OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="bebb4-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="bebb4-110">Lær [hvordan globale administratorer kan angi OneDrive lagringskvote for alle brukere som bruker PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="bebb4-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
