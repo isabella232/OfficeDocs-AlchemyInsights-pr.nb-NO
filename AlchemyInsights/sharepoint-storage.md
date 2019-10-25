@@ -1,9 +1,8 @@
 ---
-title: SharePoint-lager
+title: SharePoint-lagring
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502730"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658266"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Behandle SharePoint Online-lagring
+# <a name="manage-your-sharepoint-online-storage"></a>Administrere SharePoint Online-lagringen
 
-De fleste bedrifter administreres SharePoint-lager automatisk slik at du ikke trenger å angi grenser per områdesamlingen. Slik kontrollerer du hvor mye du har SharePoint-lager:
-  
-- Se etter tilgjengelige og total lagringen i nye SharePoint administrasjonssenteret, øverst til høyre på områder-siden.
+Lær hvordan [leier lagring beregnes](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) basert på planen.
 
-For informasjon om hvordan grensen beregnes, kan du se [SharePoint Online grenser](https://go.microsoft.com/fwlink/p/?LinkID=856113). Hvis du vil kjøpe ekstra lagringsplass, kan du se [Endre lagringsplass for abonnementet](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-For informasjon om hvordan du overvåker lagring av individuelle områder ved hjelp av PowerShell og administrere samling lagringsplassen på området manuelt, kan du se [Behandle områdesamling lagringsgrenser](https://go.microsoft.com/fwlink/?linkid=867833)
+SharePoint-lagring administreres automatisk for de fleste organisasjoner, slik at du ikke trenger å angi grenser per områdesamling.
+
+Lær hvordan du [viser total og tilgjengelig lagringsplass for organisasjonen](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Finn ut hvordan du [administrerer individuelle lagringsgrenser for områdesamlinger](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Hvis området ikke har mer plass, eller hvis du vil vite hvilket bibliotek eller hvilken liste som bruker plassen, kan du gå til**lagrings beregningene** **for områdeinnstillinger** > (administratortillatelser for områdesamling kreves).
+
+Lær hvordan du [overvåker område lagringsgrenser ved hjelp av PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Lær hvordan du kan [kjøpe ekstra lagringsplass](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
