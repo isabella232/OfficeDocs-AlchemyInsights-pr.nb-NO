@@ -9,28 +9,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754489"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="61cf8-102">Intern serverfeil når du navigerer til SharePoint-eller OneDrive-områder</span><span class="sxs-lookup"><span data-stu-id="61cf8-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="d81c6-102">Intern serverfeil når du navigerer til SharePoint-eller OneDrive-områder</span><span class="sxs-lookup"><span data-stu-id="d81c6-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
 
-<span data-ttu-id="61cf8-103">Brukere kan få en 500 intern serverfeil når du prøver å navigere til SharePoint-eller OneDrive-områder.</span><span class="sxs-lookup"><span data-stu-id="61cf8-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
+<span data-ttu-id="d81c6-103">Brukere kan få en 500 intern serverfeil når du prøver å navigere til SharePoint-eller OneDrive-områder.</span><span class="sxs-lookup"><span data-stu-id="d81c6-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
 
-<span data-ttu-id="61cf8-104">Prøv å tømme nettleserens hurtigbuffer før du navigerer til området.</span><span class="sxs-lookup"><span data-stu-id="61cf8-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="d81c6-104">Prøv å tømme nettleserens hurtigbuffer før du navigerer til området.</span><span class="sxs-lookup"><span data-stu-id="d81c6-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
 
 
-1. <span data-ttu-id="61cf8-105">I Microsoft Edge-nettleseren går du til mer... > innstillinger</span><span class="sxs-lookup"><span data-stu-id="61cf8-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
+1. <span data-ttu-id="d81c6-105">I Microsoft Edge-nettleseren går du til mer... > innstillinger</span><span class="sxs-lookup"><span data-stu-id="d81c6-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
 
-2. <span data-ttu-id="61cf8-106">Under Slett nettlesingsdata velger **du Velg hva du vil fjerne**</span><span class="sxs-lookup"><span data-stu-id="61cf8-106">Under Clear browsing data, select **Choose what to clear**</span></span>
+2. <span data-ttu-id="d81c6-106">Under Slett nettlesingsdata velger **du Velg hva du vil fjerne**</span><span class="sxs-lookup"><span data-stu-id="d81c6-106">Under Clear browsing data, select **Choose what to clear**</span></span>
 
-3. <span data-ttu-id="61cf8-107">Merk av for informasjonskapsler og lagrede nettstedsdata, og velg **Fjern**.</span><span class="sxs-lookup"><span data-stu-id="61cf8-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
+3. <span data-ttu-id="d81c6-107">Merk av for informasjonskapsler og lagrede nettstedsdata, og velg **Fjern**.</span><span class="sxs-lookup"><span data-stu-id="d81c6-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
 
-<span data-ttu-id="61cf8-108">Merk: disse trinnene kan variere når du bruker andre nettlesere, for eksempel Firefox eller Chrome.</span><span class="sxs-lookup"><span data-stu-id="61cf8-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
+<span data-ttu-id="d81c6-108">Merk: disse trinnene kan variere når du bruker andre nettlesere, for eksempel Firefox eller Chrome.</span><span class="sxs-lookup"><span data-stu-id="d81c6-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
 
-<span data-ttu-id="61cf8-109">Hvis dette ikke løser problemet, kan du kontrollere om det er aktivt vedlikehold som oppstår på leieren ved å navigere til [meldingssenteret](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="61cf8-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
+<span data-ttu-id="d81c6-109">Hvis dette ikke løser problemet, kan du kontrollere om det er aktivt vedlikehold som oppstår på leieren ved å navigere til [meldingssenteret](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="d81c6-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
 
-<span data-ttu-id="61cf8-110">Til slutt, sørg for at du besøker [tjenesten helse](https://portal.office.com/adminportal/home#/servicehealth) siden for å se etter eventuelle veiledninger/hendelser som kan inntreffe.</span><span class="sxs-lookup"><span data-stu-id="61cf8-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
+<span data-ttu-id="d81c6-110">Til slutt, sørg for at du besøker [tjenesten helse](https://portal.office.com/adminportal/home#/servicehealth) siden for å se etter eventuelle veiledninger/hendelser som kan inntreffe.</span><span class="sxs-lookup"><span data-stu-id="d81c6-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
 

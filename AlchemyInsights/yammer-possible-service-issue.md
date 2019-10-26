@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36557834"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="7d2a2-102">Yammer-mulig tjeneste problem</span><span class="sxs-lookup"><span data-stu-id="7d2a2-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="49989-102">Yammer-mulig tjeneste problem</span><span class="sxs-lookup"><span data-stu-id="49989-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="7d2a2-103">Det kan være et midlertidig problem der brukere kan oppleve feil ved tilgang til Yammer.</span><span class="sxs-lookup"><span data-stu-id="7d2a2-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="7d2a2-104">Kontroller [helse instrumentbordet for tjenesten](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om dette påvirker nettverket.</span><span class="sxs-lookup"><span data-stu-id="7d2a2-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="49989-103">Det kan være et midlertidig problem der brukere kan oppleve feil ved tilgang til Yammer.</span><span class="sxs-lookup"><span data-stu-id="49989-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="49989-104">Kontroller [helse instrumentbordet for tjenesten](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om dette påvirker nettverket.</span><span class="sxs-lookup"><span data-stu-id="49989-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>

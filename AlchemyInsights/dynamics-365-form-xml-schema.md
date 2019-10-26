@@ -10,12 +10,12 @@ ms.custom:
 - "1471"
 - "6200019"
 ms.openlocfilehash: 7c0b8e77da3f6f58571c2fbc35a3fed16c00fd0a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528884"
 ---
-# <a name="dynamics-365-form-xml-schema"></a><span data-ttu-id="1647c-102">XML-skjema for Dynamics 365-skjema</span><span class="sxs-lookup"><span data-stu-id="1647c-102">Dynamics 365 form XML Schema</span></span>
+# <a name="dynamics-365-form-xml-schema"></a><span data-ttu-id="7cd8e-102">XML-skjema for Dynamics 365-skjema</span><span class="sxs-lookup"><span data-stu-id="7cd8e-102">Dynamics 365 form XML Schema</span></span>
 
-[<span data-ttu-id="1647c-103">Skjema-XML-skjemadefinisjon for skjema tilpasninger for Dynamics 365 kunde engasjementer</span><span class="sxs-lookup"><span data-stu-id="1647c-103">Form XML Schema definition for form customizations for Dynamics 365 Customer Engagements</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[<span data-ttu-id="7cd8e-103">Skjema-XML-skjemadefinisjon for skjema tilpasninger for Dynamics 365 kunde engasjementer</span><span class="sxs-lookup"><span data-stu-id="7cd8e-103">Form XML Schema definition for form customizations for Dynamics 365 Customer Engagements</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
