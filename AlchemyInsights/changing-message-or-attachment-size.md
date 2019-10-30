@@ -1,8 +1,7 @@
 ---
-title: Endre størrelsen på meldingen, eller vedlegg
+title: Endre meldings-eller vedleggsstørrelse
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520676"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769672"
 ---
-# <a name="changing-message-or-attachment-size"></a>Endre størrelsen på meldingen, eller vedlegg
+# <a name="changing-message-or-attachment-size"></a>Endre meldings-eller vedleggsstørrelse
 
-Som en Office 365-administrator kan du endre den største / minste størrelsen på meldinger (som inkluderer vedlegg) som brukerne sende. Du kan gjøre dette for enkelte eller alle brukere (Organisasjonsstandard). Når du endrer denne innstillingen, tar omtrent 30 minutter skal tre i kraft.
+Som administrator for Office 365 kan du endre maksimums-/minimumsstørrelsen på meldinger (som inkluderer vedlegg) som brukerne sender. Du kan gjøre dette for individuelle brukere eller alle brukere (standard organisasjon). Når du har endret denne innstillingen, tar det omtrent 30 minutter å gå i kraft.
   
-- Hvis du vil endre meldingsstørrelsen på for en bestemt bruker, kan du gå til **Admin centers** \> **Exchange** \> **mottakere** \> **postbokser**. Velg en brukers postboks. Klikker Rediger-ikonet, deretter under **Størrelsesbegrensninger for meldinger**, velg **visningsdetaljer** og angi nye maksimal meldingsstørrelse.
+- Hvis du vil endre størrelsen på meldingen for en bestemt bruker, kan du gå til **administrasjonssentre** \> **Exchange** \> **mottakere** \> **postbokser**. Velg en brukers postboks. Velg redigeringsikonet, velg **postboks funksjoner**og deretter under **begrensninger for meldingsstørrelse**, velg **Vis detaljer** og angi ny maksimal meldingsstørrelse.
 
-- Hvis du vil lære hvordan du kan endre dette for alle postbokser, kan du se [denne artikkelen](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Hvis du vil vite hvordan du endrer dette for alle postbokser, kan du se [denne artikkelen](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Hvis du vil lese mer om maksimumsgrensene ved hjelp av Outlook eller Outlook på World Wide web, kan du se [denne artikkelen](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile har en maksimal grense på 25MB. For å få Outlook iOS og Android kundestøtte, [klikker du her](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Hvis du vil lese om maksimumsgrenser ved hjelp av Outlook eller Outlook på weben, kan du se [denne artikkelen](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile har en maksimumsgrense på 25 MB. [Klikk her](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)for å få Outlook IOS og Android-støtte.

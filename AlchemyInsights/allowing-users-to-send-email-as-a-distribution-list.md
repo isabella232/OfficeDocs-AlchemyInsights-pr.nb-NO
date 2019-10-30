@@ -1,9 +1,8 @@
 ---
-title: 717 Allowing brukere å sende e-post som en distribusjonsliste
+title: 717 tillate brukere å sende e-post som en distribusjonsliste
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506176"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768269"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Tillat brukere å sende e-post som en distribusjonsgruppe
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Tillat at brukere sender e-post som en distribusjonsgruppe
 
-Hvis du vil at brukerne skal sende meldinger som kommer fra en eksisterende distribusjonsgruppe, følger du denne fremgangsmåten:
+Hvis du vil tillate brukere å sende meldinger som ser ut til å komme fra en eksisterende distribusjonsgruppe, gjør du følgende:
 
-1. Gå til **mottakere** i [Exchange administrasjonssenteret](https://outlook.office365.com/ecp/), \> **grupper**.
+1. Gå til **mottaker** \> **grupper**i [administrasjonssenteret for Exchange](https://outlook.office365.com/ecp/).
 
-2. Velg leveringsgruppen du vil endre, og klikk deretter **Rediger**.
+2. Velg distribusjonsgruppen du vil endre, og klikk deretter **Rediger**.
 
-3. I egenskapene for gruppen, kan du gå til **gruppen** delegeringskategorien til å angi hvilke brukere som kan sende som eller sende på vegne av distribusjonsgruppen.
+3. I egenskapene for gruppen går du til kategorien **gruppe delegering** for å angi hvilke brukere som kan sende som eller sende på vegne av distribusjonsgruppen.
 
-Hvis du vil ha mer informasjon, kan du se [Alternativer for e-post](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Hvis du vil ha mer informasjon, se [e-postalternativer](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

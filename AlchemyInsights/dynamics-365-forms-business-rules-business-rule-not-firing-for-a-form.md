@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528940"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769384"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Forretningsregel som ikke utløses for et skjema
 
-* [Er din forretningsregel ikke avfyring for et skjema?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+En forretningsregel kan ikke utføres fordi feltet som det refereres til i forretningsregelen, ikke er inkludert i skjemaet. Hvis du vil ha mer informasjon, kan [du se er forretningsregelen ikke skyte for et skjema?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750853"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766792"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemer med å åpne Office-filer fra SharePoint
 
@@ -29,5 +29,5 @@ Hvis du har problemer med å åpne Office-filer og dokumenter fra SharePoint i d
 
 Hvis du vil ha mer informasjon eller detaljer, kan du referere til artikkelen, [løse problemer med å åpne dokumenter i SharePoint-biblioteker](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Merk**: Hvis du har problemer med dokumenter som åpnes i nettleseren eller klienten som standard, må du kanskje endre bibliotek innstillingen. For å gjøre dette, Naviger til biblioteket har problemer > Gear Icon i øvre høyre hjørne > bibliotekinnstillinger > avanserte innstillinger > åpne dokumenter i nettleseren.
+**Merk:** Hvis du har problemer med dokumenter som åpnes i leseren eller klienten som standard, må du kanskje endre innstillingen for biblioteket. For å gjøre dette, Naviger til biblioteket har problemer > gear-ikonet i øvre høyre hjørne > **bibliotekinnstillinger** >  **Avanserte innstillinger** > **åpne dokumenter i nettleseren**.
 

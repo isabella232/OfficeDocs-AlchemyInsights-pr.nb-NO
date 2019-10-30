@@ -2,7 +2,6 @@
 title: Ekstern bruker kan ikke godta en delingsinvitasjon
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735902"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769132"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Ekstern bruker kan ikke godta en delingsinvitasjon
 
-Hvis en ekstern bruker ikke kan godta en delingsinvitasjon, kan du prøve å gå til linkene nedenfor: 
+Hvis en ekstern bruker ikke kan godta en invitasjon for SharePoint eller OneDrive-deling, kan du prøve å gå til koblingene nedenfor: 
 
 - ["Ingen tilgang", "du trenger tillatelse til å få tilgang til dette området", eller "brukeren ikke finnes i katalogen" feil i SharePoint Online og OneDrive for bedrifter](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Organisasjonens policyer ikke tillater deg å dele med disse brukerne" feil når du deler et element eller et område i SharePoint Online eller OneDrive for bedrifter](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

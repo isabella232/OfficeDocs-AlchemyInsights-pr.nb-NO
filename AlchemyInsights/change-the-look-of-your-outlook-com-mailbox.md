@@ -1,9 +1,8 @@
 ---
-title: Endre utseendet på Outlook.com-postboks
+title: Endre utseendet på Outlook.com-postboksen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +13,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 612f3ef22dbad3ea4b77b26bb1d2e5d38f70e33f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520892"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769708"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Endre utseendet på postboksen
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Endre utseendet på Outlook-postboksen
 
-Du kan endre utseendet på listen og lese meldingsruten i [Innstillinger for oppsett](https://outlook.live.com/mail/options/mail/layout). Velg om din e-post skal vises som individuelle meldinger eller samtaler, hvis nye meldinger skal vises øverst eller nederst i meldingslisten, og mye mer.
+Du kan endre utseendet på meldingslisten og leseruten i [oppsettinnstillingene](https://outlook.live.com/mail/options/mail/layout). Velg om e-posten skal vises som individuelle meldinger eller samtaler, om nye meldinger skal vises øverst eller nederst i meldingslisten, og mer.
   
-Hvis du vil ha mer informasjon, se [Endre utseendet på Outlook.com-postboks](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil vite mer, kan du se [endre utseendet på Outlook.com-postboksen](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

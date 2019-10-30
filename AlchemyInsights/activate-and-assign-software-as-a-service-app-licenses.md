@@ -3,7 +3,6 @@ title: Aktivere og tilordne programvare-som-en-tjeneste app lisenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36385729"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766324"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne programvare-som-en-tjeneste app lisenser 
 
@@ -27,7 +26,7 @@ ms.locfileid: "36385729"
 
 2. Finn og velg appen du vil administrere.
 
-3. Under **lisenser**velger **du Konfigurer konto i feilmeldingen**.  
+3. Velg **Konfigurer konto**under **lisenser**.  
 
 ## <a name="to-assign-app-licenses"></a>Slik tilordner du programlisenser
 
