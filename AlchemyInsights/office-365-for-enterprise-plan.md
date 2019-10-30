@@ -1,9 +1,8 @@
 ---
-title: Office 365 for Enterprise-planen
+title: Kontor 365 for Factory plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 818cb48fd53be840fed4aaa5141f6e77fc12ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25e349bd3353340b91b9d4401ad3e61f456b6263
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543605"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768773"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="f78b6-102">Office 365 for Enterprise-planen</span><span class="sxs-lookup"><span data-stu-id="f78b6-102">Office 365 for Enterprise plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="3bdb5-102">Office 365 for Enterprise-abonnement</span><span class="sxs-lookup"><span data-stu-id="3bdb5-102">Office 365 for Enterprise plan</span></span>
 
-<span data-ttu-id="f78b6-103">Det finnes fem ulike planer med Office 365 for bedriften.</span><span class="sxs-lookup"><span data-stu-id="f78b6-103">There are five different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="f78b6-104">[Sammenligne Office 365 for Enterprise planer og priser](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="f78b6-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
+<span data-ttu-id="3bdb5-103">Det finnes flere forskjellige planer som er tilgjengelige med Office 365 for Enterprise.</span><span class="sxs-lookup"><span data-stu-id="3bdb5-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="3bdb5-104">[Sammenlign Office 365-abonnementer og-priser for bedrifter](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="3bdb5-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  

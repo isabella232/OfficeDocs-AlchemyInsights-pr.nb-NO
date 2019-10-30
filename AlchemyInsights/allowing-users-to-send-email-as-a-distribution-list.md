@@ -1,9 +1,8 @@
 ---
-title: 717 Allowing brukere å sende e-post som en distribusjonsliste
+title: 717 tillate brukere å sende e-post som en distribusjonsliste
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506176"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768269"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="9e42d-102">Tillat brukere å sende e-post som en distribusjonsgruppe</span><span class="sxs-lookup"><span data-stu-id="9e42d-102">Allow users to send email as a distribution group</span></span>
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="30089-102">Tillat at brukere sender e-post som en distribusjonsgruppe</span><span class="sxs-lookup"><span data-stu-id="30089-102">Allow users to send email as a distribution group</span></span>
 
-<span data-ttu-id="9e42d-103">Hvis du vil at brukerne skal sende meldinger som kommer fra en eksisterende distribusjonsgruppe, følger du denne fremgangsmåten:</span><span class="sxs-lookup"><span data-stu-id="9e42d-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="30089-103">Hvis du vil tillate brukere å sende meldinger som ser ut til å komme fra en eksisterende distribusjonsgruppe, gjør du følgende:</span><span class="sxs-lookup"><span data-stu-id="30089-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
 
-1. <span data-ttu-id="9e42d-104">Gå til **mottakere** i [Exchange administrasjonssenteret](https://outlook.office365.com/ecp/), \> **grupper**.</span><span class="sxs-lookup"><span data-stu-id="9e42d-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="30089-104">Gå til **mottaker** \> **grupper**i [administrasjonssenteret for Exchange](https://outlook.office365.com/ecp/).</span><span class="sxs-lookup"><span data-stu-id="30089-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
 
-2. <span data-ttu-id="9e42d-105">Velg leveringsgruppen du vil endre, og klikk deretter **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="9e42d-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="30089-105">Velg distribusjonsgruppen du vil endre, og klikk deretter **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="30089-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
 
-3. <span data-ttu-id="9e42d-106">I egenskapene for gruppen, kan du gå til **gruppen** delegeringskategorien til å angi hvilke brukere som kan sende som eller sende på vegne av distribusjonsgruppen.</span><span class="sxs-lookup"><span data-stu-id="9e42d-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
+3. <span data-ttu-id="30089-106">I egenskapene for gruppen går du til kategorien **gruppe delegering** for å angi hvilke brukere som kan sende som eller sende på vegne av distribusjonsgruppen.</span><span class="sxs-lookup"><span data-stu-id="30089-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
 
-<span data-ttu-id="9e42d-107">Hvis du vil ha mer informasjon, kan du se [Alternativer for e-post](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span><span class="sxs-lookup"><span data-stu-id="9e42d-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>
+<span data-ttu-id="30089-107">Hvis du vil ha mer informasjon, se [e-postalternativer](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span><span class="sxs-lookup"><span data-stu-id="30089-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>
