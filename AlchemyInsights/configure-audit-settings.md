@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
 ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36504976"
 ---
-# <a name="configure-sharepoint-audit-settings"></a><span data-ttu-id="69d7a-102">Konfigurere overvåkingsinnstillinger for SharePoint</span><span class="sxs-lookup"><span data-stu-id="69d7a-102">Configure SharePoint audit settings</span></span>
+# <a name="configure-sharepoint-audit-settings"></a><span data-ttu-id="b8eea-102">Konfigurere overvåkingsinnstillinger for SharePoint</span><span class="sxs-lookup"><span data-stu-id="b8eea-102">Configure SharePoint audit settings</span></span>
 
-<span data-ttu-id="69d7a-103">Administratorer for SharePoint-områdesamlinger kan spore brukerhandlinger for innhold ved å konfigurere overvåkingsinnstillinger.</span><span class="sxs-lookup"><span data-stu-id="69d7a-103">SharePoint site collection admins can track user actions on content by configuring audit settings.</span></span>
+<span data-ttu-id="b8eea-103">Administratorer for SharePoint-områdesamlinger kan spore brukerhandlinger for innhold ved å konfigurere overvåkingsinnstillinger.</span><span class="sxs-lookup"><span data-stu-id="b8eea-103">SharePoint site collection admins can track user actions on content by configuring audit settings.</span></span>
   
-1. <span data-ttu-id="69d7a-104">Åpne SharePoint-området.</span><span class="sxs-lookup"><span data-stu-id="69d7a-104">Open the SharePoint site.</span></span>
+1. <span data-ttu-id="b8eea-104">Åpne SharePoint-området.</span><span class="sxs-lookup"><span data-stu-id="b8eea-104">Open the SharePoint site.</span></span>
     
-2. <span data-ttu-id="69d7a-105">Klikk Innstillinger-ikonet, og klikk deretter **Innstillinger for webområde**.</span><span class="sxs-lookup"><span data-stu-id="69d7a-105">Click the Settings icon, and then click **Site settings**.</span></span> <span data-ttu-id="69d7a-106">Hvis innstillinger for webområde ikke vises, klikker du **områdeinformasjon**, og deretter klikker du **Vis alle områdeinnstillinger**.</span><span class="sxs-lookup"><span data-stu-id="69d7a-106">If you don't see "Site settings," click **Site information**, and then click **View all site settings**.</span></span>
+2. <span data-ttu-id="b8eea-105">Klikk Innstillinger-ikonet, og klikk deretter **Innstillinger for webområde**.</span><span class="sxs-lookup"><span data-stu-id="b8eea-105">Click the Settings icon, and then click **Site settings**.</span></span> <span data-ttu-id="b8eea-106">Hvis innstillinger for webområde ikke vises, klikker du **områdeinformasjon**, og deretter klikker du **Vis alle områdeinnstillinger**.</span><span class="sxs-lookup"><span data-stu-id="b8eea-106">If you don't see "Site settings," click **Site information**, and then click **View all site settings**.</span></span>
     
-3. <span data-ttu-id="69d7a-107">Velg **overvåkingsinnstillinger for områdesamling**under **administrasjon av områdesamling**.</span><span class="sxs-lookup"><span data-stu-id="69d7a-107">Under **Site Collection Administration**, select **Site collection audit settings**.</span></span> <span data-ttu-id="69d7a-108">(Hvis du ikke ser den, klikker du **gå til innstillinger for område på øverste nivå** først.)</span><span class="sxs-lookup"><span data-stu-id="69d7a-108">(If you don't see it, click **Go to top level site settings** first.)</span></span> 
+3. <span data-ttu-id="b8eea-107">Velg **overvåkingsinnstillinger for områdesamling**under **administrasjon av områdesamling**.</span><span class="sxs-lookup"><span data-stu-id="b8eea-107">Under **Site Collection Administration**, select **Site collection audit settings**.</span></span> <span data-ttu-id="b8eea-108">(Hvis du ikke ser den, klikker du **gå til innstillinger for område på øverste nivå** først.)</span><span class="sxs-lookup"><span data-stu-id="b8eea-108">(If you don't see it, click **Go to top level site settings** first.)</span></span> 
     
-<span data-ttu-id="69d7a-109">Hvis du vil ha informasjon om hva som er inkludert i overvåkingslogg rapporter for SharePoint og hvordan du viser dem, kan du se [konfigurere overvåkingsinnstillinger for en områdesamling](https://go.microsoft.com/fwlink/?linkid=404050).</span><span class="sxs-lookup"><span data-stu-id="69d7a-109">For info about what's included in SharePoint audit log reports and how to view them, see [Configure audit settings for a site collection](https://go.microsoft.com/fwlink/?linkid=404050).</span></span>
+<span data-ttu-id="b8eea-109">Hvis du vil ha informasjon om hva som er inkludert i overvåkingslogg rapporter for SharePoint og hvordan du viser dem, kan du se [konfigurere overvåkingsinnstillinger for en områdesamling](https://go.microsoft.com/fwlink/?linkid=404050).</span><span class="sxs-lookup"><span data-stu-id="b8eea-109">For info about what's included in SharePoint audit log reports and how to view them, see [Configure audit settings for a site collection](https://go.microsoft.com/fwlink/?linkid=404050).</span></span>
   
 

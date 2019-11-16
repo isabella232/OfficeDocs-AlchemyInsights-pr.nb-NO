@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36661017"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="f455d-102">Legge til seter i et forhåndsbetalt abonnement</span><span class="sxs-lookup"><span data-stu-id="f455d-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="84403-102">Legge til seter i et forhåndsbetalt abonnement</span><span class="sxs-lookup"><span data-stu-id="84403-102">Add seats to a prepaid subscription</span></span>
 
-<span data-ttu-id="f455d-103">Forhåndsbetalte Office 365-lisenser utstedes til deg som en alfanumerisk kode på 25 tegn.</span><span class="sxs-lookup"><span data-stu-id="f455d-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="f455d-104">Når du har kjøpt lisensene du trenger, kan du legge dem til i abonnementet.</span><span class="sxs-lookup"><span data-stu-id="f455d-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
+<span data-ttu-id="84403-103">Forhåndsbetalte Office 365-lisenser utstedes til deg som en alfanumerisk kode på 25 tegn.</span><span class="sxs-lookup"><span data-stu-id="84403-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="84403-104">Når du har kjøpt lisensene du trenger, kan du legge dem til i abonnementet.</span><span class="sxs-lookup"><span data-stu-id="84403-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-1. <span data-ttu-id="f455d-105">Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="f455d-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="84403-105">Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="84403-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="f455d-106">Finn abonnementet du vil legge til lisenser for.</span><span class="sxs-lookup"><span data-stu-id="f455d-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="f455d-107">I delen **lisenser** velger **du Legg til flere lisenser**.</span><span class="sxs-lookup"><span data-stu-id="f455d-107">In the **Licenses** section, select **Add more licenses**.</span></span>
+2. <span data-ttu-id="84403-106">Finn abonnementet du vil legge til lisenser for.</span><span class="sxs-lookup"><span data-stu-id="84403-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="84403-107">I delen **lisenser** velger **du Legg til flere lisenser**.</span><span class="sxs-lookup"><span data-stu-id="84403-107">In the **Licenses** section, select **Add more licenses**.</span></span>
 
-3. <span data-ttu-id="f455d-108">Velg **Bruk en ny og ubrukt produktnøkkel**i ruten **Legg til flere lisenser** , og velg deretter **neste**.</span><span class="sxs-lookup"><span data-stu-id="f455d-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="84403-108">Velg **Bruk en ny og ubrukt produktnøkkel**i ruten **Legg til flere lisenser** , og velg deretter **neste**.</span><span class="sxs-lookup"><span data-stu-id="84403-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="f455d-109">Angi produktnøkkelen, og velg deretter **neste**.</span><span class="sxs-lookup"><span data-stu-id="f455d-109">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="84403-109">Angi produktnøkkelen, og velg deretter **neste**.</span><span class="sxs-lookup"><span data-stu-id="84403-109">Enter the product key, then select **Next**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="f455d-110">Hvis du har mer enn én produktnøkkel, kan du velge **Legg til en ny produktnøkkel** for å angi dem.</span><span class="sxs-lookup"><span data-stu-id="f455d-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+    > <span data-ttu-id="84403-110">Hvis du har mer enn én produktnøkkel, kan du velge **Legg til en ny produktnøkkel** for å angi dem.</span><span class="sxs-lookup"><span data-stu-id="84403-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="f455d-111">Se gjennom ordredetaljene, og velg deretter **Løs inn**.</span><span class="sxs-lookup"><span data-stu-id="f455d-111">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="84403-111">Se gjennom ordredetaljene, og velg deretter **Løs inn**.</span><span class="sxs-lookup"><span data-stu-id="84403-111">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="f455d-112">Hvis du vil vite mer, kan du se [legge til lisenser eller forlenge et abonnement som er betalt for å bruke en produktnøkkel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="f455d-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="84403-112">Hvis du vil vite mer, kan du se [legge til lisenser eller forlenge et abonnement som er betalt for å bruke en produktnøkkel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="84403-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

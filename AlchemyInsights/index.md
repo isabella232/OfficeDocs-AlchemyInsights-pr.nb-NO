@@ -1,5 +1,5 @@
 ---
-title: Alkymi Insights hjemme
+title: Alkymi Insights hjem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.openlocfilehash: 3f89d9ef2d6961db7bd2bc9bf68f6a59eb6da5f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "32412544"
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="2124a-102">Alkymi Insights</span><span class="sxs-lookup"><span data-stu-id="2124a-102">Alchemy Insights</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="8e252-102">Alkymi innsikt</span><span class="sxs-lookup"><span data-stu-id="8e252-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="2124a-103">Dette biblioteket er reservert for innhold i Hjelp-app.</span><span class="sxs-lookup"><span data-stu-id="2124a-103">This library is reserved for in-app help content.</span></span>
+<span data-ttu-id="8e252-103">Dette biblioteket er reservert for hjelpeinnhold i appen.</span><span class="sxs-lookup"><span data-stu-id="8e252-103">This library is reserved for in-app help content.</span></span>
