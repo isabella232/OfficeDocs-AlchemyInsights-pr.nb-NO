@@ -14,23 +14,23 @@ ms.custom:
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
 ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738746"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="d42e2-102">Endre den alternative e-postadressen for fakturerings varsling</span><span class="sxs-lookup"><span data-stu-id="d42e2-102">Change the alternate email address for billing notification</span></span>
+# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="67bf9-102">Endre den alternative e-postadressen for fakturerings varsling</span><span class="sxs-lookup"><span data-stu-id="67bf9-102">Change the alternate email address for billing notification</span></span>
 
-<span data-ttu-id="d42e2-103">Det er enkelt å endre den alternative e-postadressen for fakturerings varsling.</span><span class="sxs-lookup"><span data-stu-id="d42e2-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="d42e2-104">Bare følg disse trinnene:</span><span class="sxs-lookup"><span data-stu-id="d42e2-104">Just follow these steps:</span></span>
+<span data-ttu-id="67bf9-103">Det er enkelt å endre den alternative e-postadressen for fakturerings varsling.</span><span class="sxs-lookup"><span data-stu-id="67bf9-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="67bf9-104">Bare følg disse trinnene:</span><span class="sxs-lookup"><span data-stu-id="67bf9-104">Just follow these steps:</span></span>
   
-1. <span data-ttu-id="d42e2-105">I administrasjonssenteret for Microsoft 365 går du til siden **fakturerings** \> [faktureringsvarsler](https://go.microsoft.com/fwlink/p/?linkid=853212) .  </span><span class="sxs-lookup"><span data-stu-id="d42e2-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
+1. <span data-ttu-id="67bf9-105">I administrasjonssenteret for Microsoft 365 går du til siden **fakturerings** \> [faktureringsvarsler](https://go.microsoft.com/fwlink/p/?linkid=853212) .  </span><span class="sxs-lookup"><span data-stu-id="67bf9-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-2. <span data-ttu-id="d42e2-106">Velg et navn fra listen.</span><span class="sxs-lookup"><span data-stu-id="d42e2-106">Select a name from the list.</span></span>
+2. <span data-ttu-id="67bf9-106">Velg et navn fra listen.</span><span class="sxs-lookup"><span data-stu-id="67bf9-106">Select a name from the list.</span></span>
 
-3. <span data-ttu-id="d42e2-107">Skriv inn den alternative e-postadressen i boksen **alternativ e-postadresse** .</span><span class="sxs-lookup"><span data-stu-id="d42e2-107">In the **Alternative email address** box, type the alternate email address.</span></span>
+3. <span data-ttu-id="67bf9-107">Skriv inn den alternative e-postadressen i boksen **alternativ e-postadresse** .</span><span class="sxs-lookup"><span data-stu-id="67bf9-107">In the **Alternative email address** box, type the alternate email address.</span></span>
 
-4. <span data-ttu-id="d42e2-108">Velg **Lagre** og du er ferdig!</span><span class="sxs-lookup"><span data-stu-id="d42e2-108">Select **Save** and you're done!</span></span>
+4. <span data-ttu-id="67bf9-108">Velg **Lagre** og du er ferdig!</span><span class="sxs-lookup"><span data-stu-id="67bf9-108">Select **Save** and you're done!</span></span>
 
-<span data-ttu-id="d42e2-109">Hvis du vil ha mer informasjon og trinn med skjermbilder, kan [du se Endre fakturerings adressene for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="d42e2-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
+<span data-ttu-id="67bf9-109">Hvis du vil ha mer informasjon og trinn med skjermbilder, kan [du se Endre fakturerings adressene for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="67bf9-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
   
