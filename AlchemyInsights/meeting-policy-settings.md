@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376748"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627583"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Administrere møte policyer i Microsoft Teams
 
@@ -24,7 +24,7 @@ Møte policyer brukes til å kontrollere funksjonene som er tilgjengelige for m�
 
 Hvis du vil ha mer informasjon om møte policyer, kan du se følgende ressurser:
 
-- Hvis du vil lære om hvordan du oppretter policyer, gjør endringer og tilordner brukere til policyen, kan du se [administrere møte policyer i Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Hvis du vil lære om hvordan du oppretter policyer, gjør endringer og tilordner brukere til policyen, kan du se [administrere møte policyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Hvis du vil gjøre policyendringer ved hjelp av PowerShell-cmdleter, kan du se [Teams PowerShell oversikt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Du må bruke [Skype for Business PowerShell-modul](https://www.microsoft.com/download/details.aspx?id=39366) for Teams møte policyer. 

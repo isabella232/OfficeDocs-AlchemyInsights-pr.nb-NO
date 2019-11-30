@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37373120"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626393"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams vanlige problemer og løsninger
 
@@ -34,5 +34,5 @@ Her er noen flere ressurser:
 - **Feilsøk et manglende oppringings tastatur:**  
     - Kontroller at brukeren er tilordnet en Teams- [lisens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
     - Kontroller at brukeren [har en tilordnet abonnement.](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)
-    - Aktiver brukere for [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Aktiver brukere for [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Kjente problemer med Teams:** Les [kjente problemer for Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).

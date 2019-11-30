@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027075"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628179"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word krasjer eller svarer ikke
 
@@ -31,7 +31,7 @@ Hvis Word ikke starter, kan du prøve følgende:
 1.   Lukk Outlook på et Windows-skrivebord, og trykk CTRL + ALT + DEL for å åpne Oppgavebehandling. 
 2. Hvis Word-prosesser kjører i kategorien **prosesser** , merker du dem og velger **Avslutt oppgave**. Det er en likeledes tilrå det du gjenstarte å helt alt fra hukommelse.
 
-    Hvis Word fortsetter å krasje eller henge under oppstart, kan du se [åpne Office-programmer i sikkermodus på en Windows-PC](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) for å starte den i sikkermodus.
+    Hvis Word fortsetter å krasje eller henge under oppstart, kan du se [åpne Office-programmer i sikkermodus på en Windows-PC](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) for å starte den i sikkermodus.
 
 Hvis du fortsatt har problemer, kan du se følgende artikler: 
 - [Jeg får en "sluttet å jobbe" feil når jeg starter Office-programmer på PCen](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

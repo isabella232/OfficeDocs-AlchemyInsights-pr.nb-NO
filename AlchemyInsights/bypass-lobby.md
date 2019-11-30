@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768449"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626357"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrollér innstillingene for lobbyen og nivå for deltakelse
 
@@ -24,7 +24,7 @@ Hvis du ønsker å tillate alle, inkludert eksterne, eksterne og anonyme brukere
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denne cmdleten krever for øyeblikket bruk av Skype for Business PowerShell-modulen. For å få oppsett til å bruke denne cmdleten, kan du sjekke ut [administrerende policyer via PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Denne cmdleten krever for øyeblikket bruk av Skype for Business PowerShell-modulen. For å få oppsett til å bruke denne cmdleten, kan du sjekke ut [administrerende policyer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Du kan sette opp en ny policy, som du deretter må bruke den til brukerne. Hvis du endrer den globale policyen, vil den automatisk gjelde for brukerne. For alle politikk endre du nød å vent det vil si 4 timene og til 24 timene for det politiet å tre i kraft.
 
@@ -36,8 +36,8 @@ Husk å se gjennom dokumentasjonen nedenfor før du gjør disse endringene for �
 
 - [Tillate at anonyme personer starter et møte](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) , er en policy for hver arrangør som kontrollerer om anonyme personer, inkludert B2B-og Federated brukere, kan delta i brukerens møte uten en godkjent bruker fra organisasjonen som er tilstede.
 
-- [Tillat eksterne brukere å omgå lobbyen](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kommer snart**) er en per-arrangør politikk som styrer om folk som ringer inn via telefon delta i møtet direkte eller vente i lobbyen uavhengig av **automatisk innrømme folk** innstillingen.
+- [Tillat eksterne brukere å omgå lobbyen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kommer snart**) er en per-arrangør politikk som styrer om folk som ringer inn via telefon delta i møtet direkte eller vente i lobbyen uavhengig av **automatisk innrømme folk** innstillingen.
 
 - [La arrangørene overstyre lobby innstillingene](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kommer snart**) er en policy for hver arrangør som kontrollerer om møtearrangøren kan overstyre lobby innstillingene som en administrator har angitt i automatisk å **innrømme personer** og **tillate at eksterne brukere omgår lobbyen** når de planlegger et nytt møte.
 
-**Merk:** Les [Behandle møte policyer i Teams for å](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) se en fullstendig oversikt over retningslinjene for Microsoft Teams-møte.
+**Merk:** Les [Behandle møte policyer i Teams for å](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) se en fullstendig oversikt over retningslinjene for Microsoft Teams-møte.
