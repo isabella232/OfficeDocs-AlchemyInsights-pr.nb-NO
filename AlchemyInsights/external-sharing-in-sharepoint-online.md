@@ -1,7 +1,7 @@
 ---
 title: Ekstern deling i SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735974"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049778"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Ekstern deling i SharePoint Online
 
-Hvis organisasjonen utfører arbeid som involverer deling av dokumenter eller samarbeid direkte med leverandører, klienter eller kunder, kan du bruke [funksjonene for ekstern deling i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) til å dele innhold med personer utenfor Organisasjon.
+Hvis organisasjonen utfører arbeid som involverer deling av dokumenter eller samarbeid direkte med leverandører, klienter eller kunder, kan du bruke [funksjonene for ekstern deling i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) til å dele innhold med personer utenfor organisasjonen.
 
 For mer informasjon om ekstern deling, kan du gå til linkene nedenfor:
 

@@ -1,7 +1,7 @@
 ---
 title: Outlook.com-innstillinger
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386374"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053270"
 ---
 # <a name="settings-in-outlookcom"></a>Innstillinger i Outlook.com
 
-Hvis mottakeren er intern eller ekstern for organisasjonen, og hvis de bruker en Office 365 eller Outlook.com e-postkonto, bør følgende klienter ikke trenger å gjøre noe spesielt for å åpne meldingen: **outlook 2016, Outlook på weben/Outlook Web App, Outlook-mobilappen**
+Hvis mottakeren er intern eller ekstern for organisasjonen, og hvis de bruker en Office 365 eller Outlook.com e-postkonto, bør følgende klienter ikke trenger å gjøre noe spesielt for å åpne meldingen: **outlook 2016, Outlook på weben/Outlook Web App, Outlook Mobile App**
 
 **Representanter** for brukere som beskyttet e-post ble sendt til, kan ikke åpne beskyttede meldinger. Bare de opprinnelige mottakerne (personen som beskyttet e-post ble sendt til) kan vise informasjonen i e-postmeldingen.
 

@@ -1,7 +1,7 @@
 ---
 title: Komme i gang med SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750133"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044212"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Område-og Sidenavigering på SharePoint-områder
 
-De grunnleggende prinsippene og god praksis for nettsted-og Sidenavigering er like gjeldende for både klassiske og moderne SharePoint-arkitekturer. Alternativene for implementering av navigasjon er imidlertid forskjellig basert på rammeverket for områdene og intranettet. For eksempel er de arvede navigerings opplevelsene som er tilgjengelige i klassiske SharePoint-område hierarkier (områder med sekundære områder), ikke tilgjengelige i den moderne opplevelsen, men [hub-områder](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) er en fin måte å oppnå navigasjonsfunksjoner på tvers av områder tidligere tilgjengelig i administrerte navigasjons-og område hierarkier i klassisk SharePoint.
+De grunnleggende prinsippene og god praksis for nettsted-og Sidenavigering er like gjeldende for både klassiske og moderne SharePoint-arkitekturer. Alternativene for implementering av navigasjon er imidlertid forskjellig basert på rammeverket for områdene og intranettet. De arvede navigasjons opplevelsene som er tilgjengelige i klassiske SharePoint-område hierarkier (områder med sekundære områder), er for eksempel ikke tilgjengelige i den moderne opplevelsen, men [hub-områder](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) er en fin måte å oppnå navigasjonsfunksjonene på tvers av områder som tidligere var tilgjengelige i administrerte navigasjons-og område hierarkier i klassisk SharePoint.
 
  Hvis du vil ha mer informasjon om Navigasjonsalternativer, kan du gå til koblingene nedenfor.
 

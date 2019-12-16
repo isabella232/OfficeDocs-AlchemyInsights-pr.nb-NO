@@ -1,7 +1,7 @@
 ---
-title: Bruk for følsomhetsetiketter automatisk
-ms.author: stephow
-author: stephow-MSFT
+title: Auto-bruk følsomhet etiketter
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517400"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050318"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Bruk for følsomhetsetiketter automatisk
+# <a name="auto-apply-sensitivity-labels"></a>Auto-bruk følsomhet etiketter
 
-Følsomhetsetiketter kan være manuelt brukes på innhold av brukere, eller du kan konfigurere dem automatisk skal brukes til innhold.
+Følsomme etiketter kan brukes manuelt på innhold av brukere, eller du kan konfigurere dem slik at de brukes automatisk på innhold.
 
-Bruk automatisk følsomhetsetiketter fjerner behovet for å lære opp brukere om hvordan å klassifisere innholdet og behovet for å varsle dem om konfigurasjoner.
+Automatisk bruk av følsomhet etiketter fjerner behovet for å lære opp brukere å klassifisere innhold og behovet for å varsle dem om policy konfigurasjoner.
 
 Hvis du vil bruke etiketter automatisk, kreves følgende:
 
-- Azure informasjon beskyttelse P2-abonnement
-- [Last ned og installer Azure informasjonsbeskyttelse enhetlig adresserte klienten](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Abonnement på Azure Information Protection P2
+- [Laste ned og installere Azure Information Protection-klienten for enhetlig merking](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi arbeider med innebygd støtte som ikke krever Azure informasjonsbeskyttelse enhetlig adresserte klienten i fremtiden.
+Vi arbeider med innebygd støtte som ikke krever Azure Information Protection-klienten for enhetlig merking i fremtiden.
 
-For tiden støtter bare Windows unified adresserte klienten.  Funksjonen støttes ikke enda for Mac, iOS og Android.
+For øyeblikket støtter bare Windows enhetlig merking-klienten.  Funksjonen støttes ennå ikke på Mac, iOS og Android.
 
-Hvis du vil ha mer informasjon om for følsomhetsetiketter og bruke dem automatisk til innholdet, kan du se:
+Hvis du vil ha mer informasjon om følsomhet etiketter og bruke dem automatisk til innhold, kan du se:
 
-- [Oversikt over følsomhetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Bruke en etikett for følsomhet til innhold automatisk](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Oversikt over følsomhet etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Bruke en følsomhet etikett for innhold automatisk](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
