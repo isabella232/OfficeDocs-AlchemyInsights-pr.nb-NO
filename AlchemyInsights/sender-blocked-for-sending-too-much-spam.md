@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741041"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886410"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Kontoen er blokkert fordi det sendes for mye søppelpost fra den
 
-Hvis en Office 365-konto er blokkert fordi det sendes for mye søppelpost, kan avsenderkontoen bli kompromittert. Du må gjøre dette:
-  
-1. [Finne ut om kontoen er kompromittert](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Hvis den er kompromittert, følger du fremgangsmåten for [Svare på en kompromittert e-postkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Hvis en av brukerne er begrenset til å sende en e-postmelding, kan du som administrator [oppheve blokkeringen av kontoen selv,](https://protection.office.com/?hash=/restrictedusers) **uten å åpne en sak hos kundestøtte**. Brukeren vil kunne sende e-post innen en time etter at begrensningen er fjernet.
 
-2. Gå til begrensede brukere for å **[oppheve blokkeringen av kontoen](https://protection.office.com/?hash=/restrictedusers)** i sikkerhets-&amp; og samsvarssenteret. Når du er ferdig, kan du fortsette å sende meldinger  *i løpet av én time*.
-
-3. For å bidra til å forhindre fremtidige kompromitteringer av kontoen bør du følge anbefalingene i [Office 365 Veikart for sikkerhet](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+Tjenesten hindrer en bruker i å sende e-post etter å ha oppdaget bevis på en kompromittert konto og/eller utgående søppelpost. Følg fremgangsmåten for [Svare på en kompromittert e-postkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)for brukeren, som en forholdsregel.
