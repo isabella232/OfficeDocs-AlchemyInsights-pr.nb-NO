@@ -1,8 +1,8 @@
 ---
 title: Opprette et SharePoint-område
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049886"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770864"
 ---
 # <a name="create-a-sharepoint-site"></a>Opprette et SharePoint-område
 
-Du kan se følgende for informasjon om opprettelse av SharePoint-område:
-- [Behandle områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Finn ut mer om alternativer for områdeoppretting, blant annet hvordan du oppretter et klassisk område eller et teamområde som ikke inneholder en Office 365-gruppe.
-- [Opprette et gruppeområde i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Lær hvordan du oppretter et gruppeområde.
-- [Opprette et område for kommunikasjon i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Finn ut hvordan du oppretter et kommunikasjons område.
-- [Behandle områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lær hvordan du oppretter et klassisk område eller et gruppeområde som ikke inkluderer en Office 365-gruppe.
+Opprett eller administrer områder fra [aktive områder](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) i administrasjonssenteret for SharePoint. Hvis du vil ha mer informasjon, kan du se [Administrere områder i det nye administrasjonssenteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
+## <a name="tips"></a>Tips:
 
-  
-**Tips:**
-- Du kan ikke opprette et område med samme URL-adresse for et eksisterende område. Hvis du slettet et område og ønsker å bruke URL-adressen på nytt, er det mulig at det slettede området fortsatt finnes under **Slettede områder**. Hvis du vil administrere slettede områder, ser du [slette et område](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Hvis du vil fjerne et område med PowerShell fullstendig, kan du se eksemplet på [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
-- Noen brukere vil kanskje ikke kunne opprette et område. Se [administrere områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Dens ' mulig byggetomta fremgår stakk for **skaper** lengere enn ventet. Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en support billett. I mange tilfeller er vi allerede jobber med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
-- Hvis du må opprette et nytt gruppeområde som ikke inneholder en Office 365-gruppe, 
-
-
+- Du **kan ikke** opprette et område med samme URL-adresse for et eksisterende område. Hvis du har slettet et nettsted og ønsker å bruke URL-adressen på nytt, er det mulig at det slettede området fortsatt finnes under [Slettede områder](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Nettstedet må slettes permanent for å bruke URL-adressen på nytt. Hvis du vil fjerne et område med Powershell fullstendig, kan du se cmdleten [Fjern SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Noen brukere kan kanskje ikke opprette et område. [Se Administrere områdeoppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Det er mulig at nettstedet vises fast på **Å opprette** lenger enn forventet. Hvis mer enn 24 timer har gått siden du først så dette problemet, kan du logge en støttebillett. I mange tilfeller jobber vi allerede med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.

@@ -1,5 +1,5 @@
 ---
-title: Filene er låst for redigering
+title: Filer er låst for redigering
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,24 +13,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049418"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771152"
 ---
 # <a name="why-cant-i-edit-files"></a>Hvorfor kan jeg ikke redigere filer?
 
-Hvis et dokument, et regneark eller en presentasjon er låst for redigering og ikke kan åpnes i skrivebordsprogrammene i Windows, kan det hende at filen allerede er redigert av noen andre, eller at filen er sjekket ut. La oss ta en rask titt på noen av grunnene til at [du kanskje ikke kunne redigere filen](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Ta en rask titt på noen av grunnene til at [du kanskje ikke kan redigere filen](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Hvis du har biblioteker med **utsjekking, obligatoriske** eller **validerings** Kol onner eller metadata, eller når **kladd Elementsikkerhet** er satt til enten **bare brukere som kan redigere** eller **bare brukere som kan godkjenne elementer** i versjons innstillinger for biblioteket:
+Hvis du har biblioteker med **betalings-, obligatoriske** kolonner eller **metadata for validering,** eller når Sikkerhet for **kladdeelement** er satt til **brukere som bare kan redigere** eller bare brukere som kan godkjenne **elementer** i versjonsinnstillinger for biblioteket:
 
-- For dokumentbiblioteker i SharePoint vil disse elementene synkroniseres som skrivebeskyttet.
+- For SharePoint-dokumentbiblioteker synkroniseres disse elementene som skrivebeskyttet.
 
-- OneDrive-biblioteker vil vise et låse ikon (OneDrive fil låst ikon) ved siden av synkroniseringsstatus og brukeren vil ikke kunne synkronisere biblioteket før de nevnte innstillingene er fjernet. 
+- For OneDrive-biblioteker viser OneDrive et låseikon ( OneDrive-fil låst ikon ) ved siden av synkroniseringsstatusen, og brukeren kan ikke synkronisere biblioteket før de nevnte innstillingene er fjernet. 
 
-For mer informasjon om låste filer for Word eller Excel, Vennligst referer artiklene nedenfor.
+Hvis du vil ha mer informasjon om låste filer for Word eller Excel, kan du referere til artiklene nedenfor.
 
 - [Excel-filen er låst for redigering av en annen bruker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
