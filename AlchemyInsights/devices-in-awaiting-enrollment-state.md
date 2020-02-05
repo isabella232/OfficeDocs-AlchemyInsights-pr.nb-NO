@@ -1,5 +1,5 @@
 ---
-title: Enheter som er i tilstanden venter på registrering
+title: Enheter er i vente på registreringstilstand
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800493"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770324"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="1e192-102">Enheter som er i tilstanden "Venter på registrering"</span><span class="sxs-lookup"><span data-stu-id="1e192-102">Devices are in "Awaiting Enrollment" state</span></span>
+# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="b6369-102">Enheter er i "Venter på registrering" tilstand</span><span class="sxs-lookup"><span data-stu-id="b6369-102">Devices are in "Awaiting Enrollment" state</span></span>
 
-<span data-ttu-id="1e192-103">Stasjonær Analytics har ikke diagnosedata for denne enheten.</span><span class="sxs-lookup"><span data-stu-id="1e192-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
+<span data-ttu-id="b6369-103">Desktop Analytics har ikke diagnosedata for denne enheten.</span><span class="sxs-lookup"><span data-stu-id="b6369-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
 
-<span data-ttu-id="1e192-104">Dette problemet kan oppstå fordi du nylig har lagt enheten til mål-samlingen og den ennå ikke har sendt data.</span><span class="sxs-lookup"><span data-stu-id="1e192-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="1e192-105">Det kan også bety enheten er ikke riktig kommunikasjon med tjenesten, og den nyeste diagnosedata er mer enn 28 dager gamle.</span><span class="sxs-lookup"><span data-stu-id="1e192-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
+<span data-ttu-id="b6369-104">Dette problemet kan oppstå fordi du nylig har lagt til enheten i målsamlingen, og den ennå ikke har sendt data.</span><span class="sxs-lookup"><span data-stu-id="b6369-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="b6369-105">Det kan også bety at enheten ikke kommuniserer riktig med tjenesten, og de nyeste diagnosedataene er mer enn 28 dager gamle.</span><span class="sxs-lookup"><span data-stu-id="b6369-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
 
-<span data-ttu-id="1e192-106">Kontroller at enheten kan kommunisere med tjenesten.</span><span class="sxs-lookup"><span data-stu-id="1e192-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="1e192-107">Hvis du vil ha mer informasjon, kan du se [endepunktene](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="1e192-107">For more information, see [Endpoints](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).</span></span>
+<span data-ttu-id="b6369-106">Kontroller at enheten kan kommunisere med tjenesten.</span><span class="sxs-lookup"><span data-stu-id="b6369-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="b6369-107">Hvis du vil ha mer informasjon, kan du se [Endepunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="b6369-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
 
-<span data-ttu-id="1e192-108">Hvis du vil ha mer informasjon om registreringsstatus for awainting, kan du se [Skjermen tilkobling helse](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="1e192-108">For more information about the awainting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
+<span data-ttu-id="b6369-108">Hvis du vil ha mer informasjon om statusen for venter på registrering, kan du se [Overvåke tilkoblingstilstand](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="b6369-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>

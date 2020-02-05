@@ -1,5 +1,5 @@
 ---
-title: Hvordan du lukker skrivebordet Analytics-kontoen
+title: Slik avslutter du Skrivebordsanalyse-kontoen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800492"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771116"
 ---
-# <a name="working-with-desktop-analytics"></a><span data-ttu-id="10066-102">Arbeide med stasjonære Analytics</span><span class="sxs-lookup"><span data-stu-id="10066-102">Working with Desktop Analytics</span></span>
+# <a name="working-with-desktop-analytics"></a><span data-ttu-id="b37f0-102">Arbeide med Skrivebordsanalyse</span><span class="sxs-lookup"><span data-stu-id="b37f0-102">Working with Desktop Analytics</span></span>
 
-<span data-ttu-id="10066-103">Det ser ut som du ber om skrivebordet Analytics.</span><span class="sxs-lookup"><span data-stu-id="10066-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="10066-104">Vi kan kanskje hjelpe deg med et mer nøyaktig svar hvis du Omformuler spørsmålet.</span><span class="sxs-lookup"><span data-stu-id="10066-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
+<span data-ttu-id="b37f0-103">Det ser ut som du spør om Desktop Analytics.</span><span class="sxs-lookup"><span data-stu-id="b37f0-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="b37f0-104">Vi kan kanskje hjelpe til med et mer presist svar hvis du omformulerer spørsmålet ditt.</span><span class="sxs-lookup"><span data-stu-id="b37f0-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
 
-- [<span data-ttu-id="10066-105">Hva er skrivebordet Analytics?</span><span class="sxs-lookup"><span data-stu-id="10066-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [<span data-ttu-id="10066-106">Hvordan du setter opp skrivebordet Analytics</span><span class="sxs-lookup"><span data-stu-id="10066-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [<span data-ttu-id="10066-107">Vanlige spørsmål</span><span class="sxs-lookup"><span data-stu-id="10066-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [<span data-ttu-id="10066-108">Feilsøking i forbindelse med stasjonære Analytics</span><span class="sxs-lookup"><span data-stu-id="10066-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [<span data-ttu-id="b37f0-105">Hva er Desktop Analytics?</span><span class="sxs-lookup"><span data-stu-id="b37f0-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [<span data-ttu-id="b37f0-106">Slik konfigurerer du Skrivebordsanalyse</span><span class="sxs-lookup"><span data-stu-id="b37f0-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [<span data-ttu-id="b37f0-107">Vanlige spørsmål</span><span class="sxs-lookup"><span data-stu-id="b37f0-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [<span data-ttu-id="b37f0-108">Feilsøk skrivebordsanalyse</span><span class="sxs-lookup"><span data-stu-id="b37f0-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
