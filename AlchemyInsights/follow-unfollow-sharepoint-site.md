@@ -1,5 +1,5 @@
 ---
-title: Følge eller un-følge et SharePoint-område
+title: Følge eller slutte å følge et SharePoint-område
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611706"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855560"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="984ff-102">Følge eller un-følge et SharePoint-område</span><span class="sxs-lookup"><span data-stu-id="984ff-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="2b07d-102">Følge eller slutte å følge et SharePoint-område</span><span class="sxs-lookup"><span data-stu-id="2b07d-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="984ff-103">Det er flere måter å finne og følge områder, nyheter og innhold som interesserer deg i SharePoint.</span><span class="sxs-lookup"><span data-stu-id="984ff-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="984ff-104">Dette gjør at du kan finne informasjonen enkelt i listen, og la deg se aktivitet fra SharePoint.</span><span class="sxs-lookup"><span data-stu-id="984ff-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="2b07d-103">Hvis brukere har problemer med å følge eller følge sharepoint-ressurser, fullfører du disse trinnene:</span><span class="sxs-lookup"><span data-stu-id="2b07d-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="984ff-105">Se videoen for å [finne og følge nettsteder og nyheter](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="984ff-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="984ff-106">Hvis du ikke kan følge eller un-følge et nettsted, nyheter eller innhold og føle resultatene er ikke hva som er forventet, se om problemet er knyttet til en enkelt bruker eller alle brukere i organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="984ff-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="984ff-107">Hvis problemet oppdages av alle brukere, kan det være et midlertidig problem med tjenesten.</span><span class="sxs-lookup"><span data-stu-id="984ff-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="984ff-108">Kontroller [helse instrumentbordet for tjenesten](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen er berørt.</span><span class="sxs-lookup"><span data-stu-id="984ff-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="2b07d-104">Be brukeren logge av og logge på SharePoint igjen, og prøv de samme trinnene for å følge/slutte å følge SharePoint-ressursen.</span><span class="sxs-lookup"><span data-stu-id="2b07d-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="2b07d-105">Finn ut om problemet er med et bestemt område eller alle områder.</span><span class="sxs-lookup"><span data-stu-id="2b07d-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="2b07d-106">Hvis problemet oppstår med bestemte områder, må du kontrollere at funksjonen "Følge innhold" er aktiv for området ved å gå til Innstillinger for **område > Behandle områdefunksjoner > følgende innhold**.</span><span class="sxs-lookup"><span data-stu-id="2b07d-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="2b07d-107">Hvis funksjonen er satt til Aktiv, kan du prøve å deaktivere og aktivere funksjonen på nytt for området.</span><span class="sxs-lookup"><span data-stu-id="2b07d-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="2b07d-108">Be brukeren om å prøve en annen nettleser for å se om problemet er spesifikt for brukerens nettleser.</span><span class="sxs-lookup"><span data-stu-id="2b07d-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="2b07d-109">Hvis alle brukere og alle nettsteder har det samme problemet, kan du se [instrumentbordet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen påvirkes.</span><span class="sxs-lookup"><span data-stu-id="2b07d-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
