@@ -1,5 +1,5 @@
 ---
-title: Følge eller un-følge et SharePoint-område
+title: Følge eller slutte å følge et SharePoint-område
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611706"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855560"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Følge eller un-følge et SharePoint-område
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Følge eller slutte å følge et SharePoint-område
 
-Det er flere måter å finne og følge områder, nyheter og innhold som interesserer deg i SharePoint. Dette gjør at du kan finne informasjonen enkelt i listen, og la deg se aktivitet fra SharePoint.
+Hvis brukere har problemer med å følge eller følge sharepoint-ressurser, fullfører du disse trinnene:
 
-Se videoen for å [finne og følge nettsteder og nyheter](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Hvis du ikke kan følge eller un-følge et nettsted, nyheter eller innhold og føle resultatene er ikke hva som er forventet, se om problemet er knyttet til en enkelt bruker eller alle brukere i organisasjonen. Hvis problemet oppdages av alle brukere, kan det være et midlertidig problem med tjenesten.
-
-Kontroller [helse instrumentbordet for tjenesten](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen er berørt.
+* Be brukeren logge av og logge på SharePoint igjen, og prøv de samme trinnene for å følge/slutte å følge SharePoint-ressursen.
+* Finn ut om problemet er med et bestemt område eller alle områder. Hvis problemet oppstår med bestemte områder, må du kontrollere at funksjonen "Følge innhold" er aktiv for området ved å gå til Innstillinger for **område > Behandle områdefunksjoner > følgende innhold**. Hvis funksjonen er satt til Aktiv, kan du prøve å deaktivere og aktivere funksjonen på nytt for området.
+* Be brukeren om å prøve en annen nettleser for å se om problemet er spesifikt for brukerens nettleser.
+* Hvis alle brukere og alle nettsteder har det samme problemet, kan du se [instrumentbordet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen påvirkes.
