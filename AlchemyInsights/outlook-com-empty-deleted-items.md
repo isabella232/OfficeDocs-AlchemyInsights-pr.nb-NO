@@ -3,6 +3,7 @@ title: Tøm mappen Slettede elementer i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768701"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277940"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Tøm mappen Slettede elementer
+# <a name="empty-the-deleted-items-folder"></a>Tømme mappen Slettede elementer
 
-For å rense alle dine slettede Outlook-meldinger, gå [til Slettede elementer mappe](https://outlook.live.com/mail/deleteditems) og velg **tom mappe**, velg deretter **Gjenopprett elementer slettet fra denne mappen** over meldingslisten og velg **tom mappe** igjen.
+1. Åpne slettede elementer-mappen, og velg **Tøm mappe**.
+2. Velg **Gjenopprettelige elementer** øverst på siden, og velg **Tøm mappe** på nytt.
 
-Hvis du har slettet mange meldinger, kan det ta litt tid for disse elementene å flytte til eller fjernes fra Slettede elementer-mappen. Vennligst la nettleservinduet være åpent til elementene er slettet.
+**Kan ikke tømme mappen Slettede elementer**
 
-Hvis meldinger ikke slettes riktig, kan du prøve å slette et mindre antall meldinger.
+- Hvis du har slettet mye e-post, kan det ta litt tid før disse elementene flyttes til eller slettes fra slettede elementer-mappen. La nettleservinduet være åpent mens slettingen finner sted.
+- Hvis e-posten fortsatt ikke slettes riktig, velger du en mindre batch du vil slette.
+- Hvis slettet e-post kommer tilbake, kan det skyldes at du har slettet mye e-post nylig. Vennligst forsøk på nytt senere.
