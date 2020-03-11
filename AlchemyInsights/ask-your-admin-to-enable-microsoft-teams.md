@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962306"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573141"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du går glipp av det! Be administratoren om å aktivere Microsoft Teams
 
-Er fakultet og ansatte i stand til å få tilgang til Team, men studentene kan ikke, eller er dine F1 lisensierte brukere ikke får tilgang til Teams?
+Hvis du har en EDU-leier, må du aktivere Microsoft Teams manuelt. Hvis du vil gjøre dette, kan du gå til administrasjonssenteret for Microsoft 365 > **Tjenester og tillegg > Microsoft Teams**. Hvis du bruker det nye administrasjonssenteret for Teams, må du slå av **Prøv det nye administrasjonssenteret** for å finne **tjenester og tillegg**. 
 
-Team må være eksplisitt aktivert for studenter og F1-lisenser. Du finner mer detaljerte instruksjoner om hvordan du aktiverer Teams for skolen din i [Konfigurer teams for education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**VIKTIG:** Du må kanskje vente opptil 24 timer før endringene trer i kraft.

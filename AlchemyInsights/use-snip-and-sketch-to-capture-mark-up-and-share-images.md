@@ -1,5 +1,5 @@
 ---
-title: Bruk Klipp & Sketch til å ta bilder, markere og dele bilder
+title: Bruk Klipp & Sketch til å ta opp, markere og dele bilder
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,28 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365146"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584486"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Bruk Klipp & Sketch til å ta bilder, markere og dele bilder
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Bruk Klipp & Sketch til å ta opp, markere og dele bilder
 
-Skjermskisse kalles nå **Snip & Sketch**. **Slik tar du raskt et klipp:**
+Skjermskisse kalles nå **Klipp & Sketch**. **Slik tar du raskt et klipp**:
 
-1. Trykk **Windows-logotasten + Shift + S**. Du ser skjermen mørkne og markøren vises som et kors. 
+1. Trykk **Windows-logotasten + Skift + S**. Du ser skjermen mørkere og markøren vises som et kors. 
 
-2. Velg et punkt på kanten av området du vil kopiere, og venstreklikk på markøren. 
+2. Velg et punkt på kanten av området du vil kopiere, og klikk markøren til venstre. 
 
 3. Flytt markøren for å utheve området du vil ta opp. Området du tar opp, vises på skjermen.
-:::image type="content" source="media/snipone.png" alt-text="bilde av uthevet utvalg":::
 
-Bildet du klippet, lagres på utklippstavlen, klar for innliming i en e-post eller et dokument. 
+   ![bilde av uthevet valg](media/snipone.png)
 
-**Hvis du vil redigere eller vise bildet:** 
+Bildet du klippet, lagres på utklippstavlen, klar til å lime inn i en e-post eller et dokument. 
+
+**Hvis du vil redigere eller vise bildet**: 
 
 - Klikk på varslingsikonet helt til høyre på oppgavelinjen. klikk deretter på bildet du nettopp har tatt. Klippet åpnes i Klipp & Sketch-appen.
 
-:::image type="content" source="media/sniptwo.png" alt-text="bildebilde som vises i utklippsappen":::
+   ![bilde av bilde som vises i utklippsappen](media/sniptwo.png)

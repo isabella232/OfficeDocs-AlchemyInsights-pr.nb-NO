@@ -1,5 +1,5 @@
 ---
-title: Endre skrivebordsbakgrunn og farger
+title: Endre skrivebordsbakgrunn og -farger
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063708"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581430"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Endre skrivebordsbakgrunn og farger
+# <a name="change-your-desktop-background-and-colors"></a>Endre skrivebordsbakgrunn og -farger
 
-Hvis du vil endre innstillingen for farger, velger du **Start** > **innstillinger** > **tilpassingsfarger** > ****, og deretter velger du din egen farge eller lar Windows trekke en uthevingsfarge fra bakgrunnen.
+Hvis du vil endre innstillingen for farger, går du til **Start** > innstillinger**personaliseringsfarger** > ******** > , og deretter velger du din egen farge eller lar Windows trekke en uthevingsfarge fra bakgrunnen.
 
-Hvis du vil endre skrivebordsbakgrunnen, velger du **Start** > **innstillinger** > **Personalisering** > **Bakgrunn**, og deretter velger du et bilde, ensfarget farge eller oppretter en lysbildefremvisning av bilder. Vil du ha flere skrivebordsbakgrunner og farger? Gå til [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) for å velge mellom dusinvis av gratis temaer.
+![Tilpass fargene i Windows.](media/windows-personalization-colors.png)
+
+Hvis du vil endre skrivebordsbakgrunnen, går du til **Start** > Innstillinger**Personaliseringbakgrunn** > ******** > , og deretter velger du et bilde, en heldekkende farge eller oppretter en lysbildefremvisning av bilder. 
+
+![Endre skrivebordsbakgrunnen i Windows.](media/windows-desktop-background.png)
+
+Vil du ha flere skrivebordsbakgrunner og farger? Gå til [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) for å velge mellom dusinvis av gratis temaer.
