@@ -1,30 +1,30 @@
 ---
-title: Bruke rights management beskyttelse med Microsoft 365
+title: Bruk Rights Management Protection med Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632676"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707381"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Bruke rights management beskyttelse med Microsoft 365
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Bruk Rights Management Protection med Microsoft 365
 
-Du må aktivere [Rights Management-tjenesten (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) før du kan bruke funksjonene for Information Rights Management (IRM) i Office 365-programmer og -tjenester.
+Du må aktivere [Rights Management-tjenesten](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) før du kan bruke Information Rights Management (IRM)-funksjonene til Office 365-programmer og -tjenester.
 
-1. Hvis du vil ha lisenskrav og aktivering fra **administrasjonssenteret for Microsoft 365**, kan du se Aktivere Rights Management Protection fra Administrasjonssenter for [Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Merk:** Krever global administrasjonskonto.
+1. For lisenskrav og aktivering fra **Administrasjonssenter for Microsoft 365** ser du [Slik aktiverer du Rights Management Protection fra administrasjonssenteret for Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Obs**! Krever en konto for global administrasjon.
 
-2. Hvis du vil ha lisenskrav og aktivering fra **Azure Portal**, kan du se [Slik aktiverer du rights management-beskyttelsestjenesten fra Azure-portalen](https://docs.microsoft.com/azure/information-protection/activate-azure). **Merk:** Krever ikke global administratorkonto.
- 
+2. For lisenskrav og aktivering fra **Azure Portal** ser du [Slik aktiverer du tjenesten for Rights Management-beskyttelse fra Azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Obs**! Krever ikke en konto for global administrasjon.
 
-Hvis du vil ha mer informasjon, kan du se [Pekere til informasjon om Rettighetsbehandling i administrasjonssenteret](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Hvis du vil ha mer informasjon, kan du se [Tips for informasjon om Rights Management i administrasjonssenteret](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
