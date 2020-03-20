@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745013"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856476"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Kjente problemer og løsninger for Teams
 
@@ -36,11 +36,11 @@ For alle Teams-kunder:
 
     Slik kontrollerer du at brukeren er lisensiert for telefonkonferanse og har et standard nummer:
     1.    Gå til Aktive brukere, og velg den aktuelle brukeren.
-    2.    Velg enten Lisenser og apper, eller klikk på Rediger på Produktlisenser, avhengig av versjonen av administrasjonssenteret.
+    2.    Velg enten **Lisenser og apper** eller klikk på **Rediger** på **Produktlisenser** avhengig av versjonen av administrasjonssenteret.
     3.    Kontroller at brukeren har valgt lisenser for Telefonkonferanse, Microsoft Teams og Skype for Business Online (plan 2).
-    4.    Klikk på Vis alle og deretter Teams i Administrasjonssentre for bruker.
-    5.    Klikk på Eldre portal i Administrasjonssenter for Microsoft Teams.
-    6.    Klikk på Telefonkonferanse og deretter brukere i Administrasjonssenter for Skype for Business.
+    4.    Klikk på **Vis alle** og deretter **Teams** i Administrasjonssentre for bruker.
+    5.    Klikk på **Eldre portal** i Administrasjonssenter for Microsoft Teams.
+    6.    Klikk på **Telefonkonferanse** og deretter **Brukere** i Administrasjonssenter for Skype for Business.
     7.    Velg den aktuelle brukeren, og kontroller at brukeren har et standard nummer.
     
     Hvis du vil ha mer informasjon, kan du se [Abonnementer i Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe fakturaavdelingen for Microsoft Commerce for hjelp med lisensieringsrelaterte spørsmål.
