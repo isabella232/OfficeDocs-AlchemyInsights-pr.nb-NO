@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959503"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891758"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke koble til fellesmapper
 
-Hvis fellesmappe tilgang ikke fungerer for noen brukere, kan du prøve følgende:
+Hvis fellesmappetilgang ikke fungerer for noen brukere, kan du prøve følgende:
 
-Koble til EXO PowerShell, og Konfigurer DefaultPublicFolderMailbox på problem brukerkontoen slik at den samsvarer med en på en brukerkonto som fungerer.
+Koble til EXO PowerShell og konfigurer parameteren DefaultPublicFolderMailbox på problembrukerkontoen slik at den samsvarer med parameteren på en fungerende brukerkonto.
 
 Eksempel:
 
-Get-postboks WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Postboks WorkingUser | ft DefaultPublicFolderMailbox, EffektivFellesMappeKasse
 
-Sett postboks ProblemUser-DefaultPublicFolderMailbox \<verdi fra forrige kommando>
+Set-postboks ProblemUser -DefaultPublicFolderMailbox-verdien \<fra forrige kommando>
 
-Vent minst en time for at endringen skal tre i kraft.
+Vent minst en time på at endringen trer i kraft.
+
+Hvis problemet forblir, følger du [denne fremgangsmåten](https://aka.ms/pfcte) for å feilsøke tilgangsproblemer for fellesmapper ved hjelp av Outlook.
