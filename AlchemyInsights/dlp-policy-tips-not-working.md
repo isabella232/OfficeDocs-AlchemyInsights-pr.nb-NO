@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530323"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932595"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP Policy tips problemer
+# <a name="dlp-policy-tip-issues"></a>Problemer med dlp policy tips
 
-Når du bruker **DLP-policyer**, kan brukere varsles om policybrudd på med **policyen tips**. Administratorer kan konfigurere policyen tips til å vise under testing DLP policyen eller når policyen ikke er i modus for full håndhevelse.
+**Viktig:** Mange SharePoint Online- og OneDrive-kunder kjører forretningskritiske programmer mot tjenesten som kjører i bakgrunnen. Disse inkluderer innholdsoverføring, Hindring av tap av data (DLP) og sikkerhetskopieringsløsninger. I løpet av disse enestående tider tar vi skritt for å sikre at SharePoint Online- og OneDrive-tjenester forblir svært tilgjengelige og pålitelige for brukerne som er avhengige av tjenesten mer enn noensinne i scenarier for eksternt arbeid.
+
+Til støtte for dette målet har vi implementert strammere reguleringsgrenser for bakgrunnsapper (overførings-, DLP- og sikkerhetskopieringsløsninger) i løpet av ukedagsdagstimene. Du bør forvente at disse appene vil oppnå svært begrenset gjennomstrømning i disse tider. I løpet av kvelds- og helgetiden for regionen vil tjenesten imidlertid være klar til å behandle et betydelig høyere antall forespørsler fra bakgrunnsapper.
+
+**Tips om DLP-retningslinjer**
+
+Når du bruker **DLP-policyer,** kan brukere bli varslet om et brudd på retningslinjene med **policytips**. Administratorer kan konfigurere policytips som skal vises mens de tester DLP-policyen eller når policyen er i full håndhevelsesmodus.
   
-Hvis du vil konfigurere policy for tips om DLP-policyen sikkerhet og overholdelse midt i full gjennomføring modus, gjør du følgende:
+Hvis du vil konfigurere policytips for DLP-policyen i sikkerhets- og samsvarssenteret i full håndhevelsesmodus, gjør du følgende:
   
-- Sikre policy tips er **aktivert** på DLP regelen ved hjelp av fremgangsmåten [her](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Kontroller at policytips er **aktivert** i DLP-regelen ved hjelp av trinnene [her](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-- Sikre din **innhold samsvarer med** hva som er **nødvendig** å utløse regelen som er beskrevet i denne artikkelen [her](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Sørg for at **innholdet samsvarer med** det som **kreves** for å utløse regelen som er beskrevet i denne artikkelen [her](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- Policyen tipsene vises i både OWA og Outlook. Når du bruker **Outlook 2013 eller senere**, vises imidlertid bare policy tips under visse betingelser. Disse betingelsene er oppført her: [støttes betingelser for Outlook 2013 eller senere for å vise Tips for Policy](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Policytips vises i både OWA og Outlook. Når du bruker **Outlook 2013 eller senere**, vises imidlertid policytips bare under visse forhold. Disse betingelsene er oppført her: [Støttede betingelser for Outlook 2013 eller nyere for visning av policytips](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-Hvis du vil ha mer informasjon om DLP policy tips, se: [Vis policy tips for DLP-policyer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Hvis du vil ha mer informasjon om tips om DLP-policy, kan du se: [Vise policytips for DLP-policyer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   

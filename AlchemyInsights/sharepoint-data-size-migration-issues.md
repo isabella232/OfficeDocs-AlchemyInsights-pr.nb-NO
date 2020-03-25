@@ -1,5 +1,5 @@
 ---
-title: Problemer under migrering av data til SharePoint Online
+title: Problemer under overføring av data til SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051758"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931703"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer under migrering av data til SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer under overføring av data til SharePoint Online
 
-Det ser ut til at du overfører over 100TB med data til SharePoint Online. Følg trinnene nedenfor slik at vi kan hjelpe deg så snart som mulig. 
+**Viktig:** Mange SharePoint Online- og OneDrive-kunder kjører forretningskritiske programmer mot tjenesten som kjører i bakgrunnen. Disse inkluderer innholdsoverføring, Hindring av tap av data (DLP) og sikkerhetskopieringsløsninger. I løpet av disse enestående tider tar vi skritt for å sikre at SharePoint Online- og OneDrive-tjenester forblir svært tilgjengelige og pålitelige for brukerne som er avhengige av tjenesten mer enn noensinne i scenarier for eksternt arbeid.
 
-1. Velg **ny serviceforespørsel**og deretter **ny serviceforespørsel**. 
-2. Behold tittelen og beskrivelsen som **SharePoint-migrering over 100TB**.
-3. Når billetten er sendt inn, kan du oppdatere den med følgende informasjon: 
+Til støtte for dette målet har vi implementert strammere reguleringsgrenser for bakgrunnsapper (overførings-, DLP- og sikkerhetskopieringsløsninger) i løpet av ukedagsdagstimene. Du bør forvente at disse appene vil oppnå svært begrenset gjennomstrømning i disse tider. I løpet av kvelds- og helgetiden for regionen vil tjenesten imidlertid være klar til å behandle et betydelig høyere antall forespørsler fra bakgrunnsapper.
 
-    - Anslått størrelse på overføringen.
-    - En beregning av når du vil starte og fullføre overføringen.
-    - Beskriv hvor du overfører innholdet fra, for eksempel SharePoint Server, Box, GDrive, fildelinger osv.
+**Overføre over 100 TB med data**
+
+Det ser ut til at du overfører over 100 TB med data til SharePoint Online. Vennligst følg trinnene nedenfor slik at vi kan hjelpe deg så snart som mulig. 
+
+1. Velg **Ny serviceforespørsel**, og deretter **Ny serviceforespørsel**. 
+2. La tittelen og beskrivelsen være **SharePoint-overføring over 100 TB**.
+3. Når billetten er sendt inn, må du oppdatere den med følgende informasjon: 
+
+    - Estimert størrelse på overføringen.
+    - Et estimat på når du ønsker å starte og fullføre overføringen.
+    - Beskriv hvor du overfører innholdet fra, for eksempel SharePoint Server, Box, GDrive, Fildelinger osv..
 
 
   
