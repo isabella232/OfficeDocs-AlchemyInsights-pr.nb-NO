@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: e7719d1fc6dda0d5bd340775219401dade2933fe
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 9a0aa659db24f3929b0cca54b9c697867a04e42e
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931559"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958511"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SharePoint-overføring med SPMT
 
-**Viktig:** Mange SharePoint Online- og OneDrive-kunder kjører forretningskritiske programmer mot tjenesten som kjører i bakgrunnen. Disse inkluderer innholdsoverføring, Hindring av tap av data (DLP) og sikkerhetskopieringsløsninger. I løpet av disse enestående tider tar vi skritt for å sikre at SharePoint Online- og OneDrive-tjenester forblir svært tilgjengelige og pålitelige for brukerne som er avhengige av tjenesten mer enn noensinne i scenarier for eksternt arbeid.
-
-Til støtte for dette målet har vi implementert strammere reguleringsgrenser for bakgrunnsapper (overførings-, DLP- og sikkerhetskopieringsløsninger) i løpet av ukedagsdagstimene. Du bør forvente at disse appene vil oppnå svært begrenset gjennomstrømning i disse tider. I løpet av kvelds- og helgetiden for regionen vil tjenesten imidlertid være klar til å behandle et betydelig høyere antall forespørsler fra bakgrunnsapper.
+**Viktig:** I løpet av disse enestående tider, vi tar skritt for å sikre at SharePoint Online og OneDrive-tjenester forblir svært tilgjengelige - Vennligst besøk [SharePoint Online midlertidige funksjonsjusteringer](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
 **Overføringsverktøyet for SharePoint**
 
 SharePoint Migration Tool er utformet for å brukes til overføringer som spenner fra det minste settet med filer til en storskala enterprise-overføring, og vil tillate deg å overføre informasjonen til skyen og dra nytte av det nyeste samarbeidet, intelligensen og sikkerhetsløsninger med Office 365.
 
-- [Laste ned og installere SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Last ned og installer overføringverktøyet i SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Feilsøke vanlige SPMT-problemer og feil](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 - [Feilsøke problemer med SPMT-installasjonen](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
