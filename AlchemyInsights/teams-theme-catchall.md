@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856476"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030409"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Kjente problemer og løsninger for Teams
+
+**Viktig**: på grunn av en nylig økning i bruk av Teams kan det ta omtrent 24 timer før alt er ordentlig satt opp etter at du har gitt en lisens til en bruker. Frem til det kan du ikke tilordne Teams-policyer til dem, og det kan hende de ikke har tilgang til enkelte Teams-funksjoner som anrop og lydkonferanser.
+
+**Vanlige problemer og løsninger**
 
 Hvis du vil ha et mer nøyaktig svar, kan du prøve å omformulere spørsmålet til å inkludere feil som du ser, eller Teams-funksjoner du bruker.
 
