@@ -1,5 +1,5 @@
 ---
-title: Slik tilpasser du tillatelser for SharePoint-lister eller-biblioteker
+title: Slik tilpasser du tillatelser for en SharePoint-liste eller et SharePoint-bibliotek
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922367"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100336"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Slå ekstern deling på eller av for et nettsted
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Aktivere eller deaktivere ekstern deling for et nettsted
 
-Du må være en global eller SharePoint-administrator i Office 365 til å endre innstillingen for ekstern deling for et område (tidligere kalt en "områdesamling"). Områdeeiere har ikke tillatelse til å endre denne innstillingen. 
+Du må være en global eller SharePoint-administrator i Office 365 for å endre innstillingen for ekstern deling for et område (tidligere kalt en "områdesamling"). Områdeeiere har ikke lov til å endre denne innstillingen. 
 
-Hvis du vil ha mer informasjon, se [slå ekstern deling på eller av for et område](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+Hvis du vil ha mer informasjon, kan du se [Aktivere eller deaktivere ekstern deling for et område](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
