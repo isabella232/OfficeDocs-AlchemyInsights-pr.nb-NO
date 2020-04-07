@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034281"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143003"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Komme i gang med Teams og live-hendelser
 
@@ -24,7 +24,7 @@ Microsoft Teams Live-hendelser er en utvidelse av Teams-møter, som gjør det mu
 
 For å opprette en live-hendelse trenger du følgende:
 
-- En [Office 365 Enterprise E1-, E3-eller E5-lisens eller en Office-365 A3-eller A5-lisens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- En [Office 365 Enterprise E1-, E3-eller E5-lisens eller en Office-365 A3-eller A5-lisens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Merk**: på grunn av en nylig økning i bruken av Teams kan det ta omtrent 24 timer før alt er ordentlig satt opp etter at du har gitt en lisens til en bruker. Frem til det kan du ikke tilordne Teams-policyer til dem, og det kan hende de ikke har tilgang til enkelte Teams-funksjoner som anrop og lydkonferanser.
 
 - Tillatelse til å [opprette live-hendelser i administrasjonssenteret for Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
