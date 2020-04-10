@@ -1,5 +1,5 @@
 ---
-title: Utvid prøveversjonen for Office 365 for bedrifter
+title: Utvide prøveversjonen for Office 365 for bedrifter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665013"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207346"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Forlenge prøveperioden for Office 365 for Business
 
-Hvis prøveabonnementet er innen 15 dager etter at du har utløpt, og prøveversjonen ikke har blitt utvidet før, kan du forlenge prøveperioden for en annen 30-dagers periode. Du kan bare gjøre dette én gang.
+Du kan forlenge prøveversjonen i en periode på 30 dager til. Du kan bare gjøre dette én gang.
   
-1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.
+1. Gå til **Faktureringsprodukter** \> [& tjenester](https://portal.office.com/adminportal/home#/subscriptions)i administrasjonssenteret.
 
 2. Velg prøveabonnementet du vil utvide.
 
-3. Velg **Utvid prøveversjonen** og Fullfør resten av trinnene under **& handlinger** i delen inndelinger.
+3. Klikk **Utvid prøveversjonen,** og fullfør trinnene i veiviseren.
 
-4. Du må oppgi kredittkortinformasjon for å forlenge prøveperioden. Vi vil ikke belaste kredittkortet ditt for prøve utvidelsen.
+4. Du må oppgi kredittkortinformasjon for å forlenge prøveversjonen. Vi vil ikke belaste kredittkortet ditt for prøveutvidelsen.
 
-Hvis du vil vite mer, kan du se [utvide prøveversjonen for Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Hvis du vil vite mer om hvordan du utvider prøveversjonen eller trinnvise instruksjoner, kan du se [Utvide prøveversjonen for Office 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
