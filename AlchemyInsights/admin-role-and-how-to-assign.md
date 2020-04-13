@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737091"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183406"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Hva er administratorroller, og hvordan tilordner du dem?
+# <a name="admin-roles"></a>Administratorroller
 
-Ser ut som du har noen spørsmål om admin roller. Disse artiklene bør svare på alle dine spørsmål.
-  
-- [Om administratorroller](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- Velg [Roller](https://admin.microsoft.com/Adminportal/Home#/roles) i administrasjonssenteret for å tilordne eller finne ut mer om administratorroller.
 
-- [Tilordne administratorroller](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-Svarte ikke på spørsmålet ditt? ingen fare! Bruk alternativet "La oss ringe deg" for å snakke med en kundestøttetekniker.
-  
+- Velg deretter rollenavn(ene) og klikk på **tilordne rolle**, eller klikk på **sammeling roller** for å finne ut mer.
