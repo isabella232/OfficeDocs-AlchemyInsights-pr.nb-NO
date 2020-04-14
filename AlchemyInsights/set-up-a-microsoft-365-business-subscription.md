@@ -22,7 +22,7 @@ ms.locfileid: "43207522"
 
 Hvis du vil ha en veiledet gjennomgang, kan du se [Distribuere Office 365 for organisasjonen](https://docs.microsoft.com/office365/enterprise/setup-overview-for-enterprises) for å få hjelp til å konfigurere Enterprise-abonnementet.
 
-**Flere flotte ressurser**
+**Flere gode ressurser**
 
 - [FastTrack for Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365) er den beste metoden for å distribuere Office 365. FastTrack veileder deg gjennom de vanligste distribusjonskonfigurasjonene og kan svare på spørsmål underveis. 
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365-grupper som viser følsomhetsetikett
+title: Office 365-grupper med følsomhetsetikett
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,12 +18,12 @@ ms.contentlocale: nb-NO
 ms.lasthandoff: 04/10/2020
 ms.locfileid: "43218198"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>Office 365-grupper som viser følsomhetsetikett
+# <a name="office-365-groups-showing-sensitivity-label"></a>Office 365-grupper med følsomhetsetikett
 
-Det kan hende du ser følgende problem med Office 365-gruppe:
+Det kan hende du ser følgende problem med Office 365-grupper:
 
 - Kan ikke opprette en Office 365-gruppe fra OWA med feilen «Klassifiseringsfeltet kan ikke være tomt».
 
-- Se følsomhetetiketten for Office 365-grupper selv om du ikke har aktivert funksjonen.
+- Følsomhetetiketter for Office 365-grupper vises selv om du ikke har aktivert funksjonen.
 
-Dette problemet er oppdaget og løst. Løsningsutrullingen pågår, og skal være ferdig om noen timer. I mellomtiden kan du bruke administrasjonsportalen for Office eller Azure for å opprette Office 365-grupper.  
+Dette problemet er oppdaget og løst. Utrullingen avrettelsen pågår og skal være ferdig om noen timer. I mellomtiden kan du bruke administrasjonsportalen for Office eller Azure til å opprette Office 365-grupper.  

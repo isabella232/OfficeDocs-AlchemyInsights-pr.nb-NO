@@ -20,7 +20,7 @@ ms.locfileid: "43211416"
 ---
 # <a name="windows-enrolment-error-codes"></a>Feilkoder for Windows-registrering
 
-Det ser ut som du spør om å registrere Windows-enheter i Intune og oppga en feilkode eller feilmelding. Det finnes en rekke ressurser som kan hjelpe deg med å forstå hvorfor feilen ble generert.
+Det ser ut som du spør om å registrere Windows-enheter i Intune og oppgav en feilkode eller feilmelding. Det finnes en rekke ressurser som kan hjelpe deg med å forstå hvorfor feilen ble generert.
  
 Se gjennom følgende artikler:
 
@@ -30,6 +30,6 @@ Se gjennom følgende artikler:
 
 - [Feilsøke Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting)
 
-- [Feilsøke sammenkoblingsfeil for Hybrid AAD](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current)
+- [Feilsøke tilkoblingsfeil for Hybrid AAD](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current)
 
 - [Feilkodereferanse for MDM-registrering](https://docs.microsoft.com/windows/win32/mdmreg/mdm-registration-constants)
