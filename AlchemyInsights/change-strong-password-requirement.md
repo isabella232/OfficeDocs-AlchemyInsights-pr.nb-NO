@@ -1,5 +1,5 @@
 ---
-title: Endre kravet om sterke passord
+title: Endre sterkt passordkrav
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518768"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286287"
 ---
-# <a name="change-strong-password-requirement"></a>Endre kravet om sterke passord
+# <a name="change-strong-password-requirement"></a>Endre sterkt passordkrav
 
 Microsoft krever sterke passord som standard. 
 
-Ved hjelp av PowerShell, kan du deaktivere sterke passord for bestemte brukere med denne kommandoen:<br>
-*Sett MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
+Ved hjelp av PowerShell kan du deaktivere sterke passord for bestemte brukere med denne kommandoen:<br>
+*Set-MsolUser – UserPrincipalName <UserPrincipalName> –StrongPasswordRequired $false*
 
-- [Hvis du vil ha mer informasjon om passordpolicyen for](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Hvordan du kobler til Office 365 med PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Hvis du vil ha mer informasjon om PowerShell MsolUser-kommandoer](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Mer informasjon om passordpolicy](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Slik kobler du til Office 365 med PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Mer informasjon om PowerShell MsolUser-kommandoer](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Angi at en brukers passord aldri utløper](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
