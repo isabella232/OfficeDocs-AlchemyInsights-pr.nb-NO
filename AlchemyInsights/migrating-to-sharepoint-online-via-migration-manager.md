@@ -11,23 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959015"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552783"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="3af3f-102">Overføre til SharePoint Online via Overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="3af3f-102">Migrating to SharePoint Online via Migration Manager</span></span>
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="aa451-102">Overføre til SharePoint Online via Overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="aa451-102">Migrating to SharePoint Online via Migration Manager</span></span>
 
-<span data-ttu-id="3af3f-103">**Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="3af3f-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="aa451-103">**Overføringsveiviseren**</span><span class="sxs-lookup"><span data-stu-id="aa451-103">**Migration Manager**</span></span>
 
-<span data-ttu-id="3af3f-104">**Overføringsveiviseren**</span><span class="sxs-lookup"><span data-stu-id="3af3f-104">**Migration Manager**</span></span>
+<span data-ttu-id="aa451-104">Overføringsveiviseren finner du i det moderne SharePoint-administrasjonssenteret, som veileder deg gjennom konfigurasjonen av klientene og opprettelsen av oppgavene dine.</span><span class="sxs-lookup"><span data-stu-id="aa451-104">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="aa451-105">Du kan angi globale innstillinger eller innstillinger for aktivitetsnivå, se hele oppgavens fremdrift og laste ned aggregerte sammendrags- og oppgavenivårapporter.</span><span class="sxs-lookup"><span data-stu-id="aa451-105">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
 
-<span data-ttu-id="3af3f-105">Overføringsveiviseren finner du i det moderne SharePoint-administrasjonssenteret, som veileder deg gjennom konfigurasjonen av klientene og opprettelsen av oppgavene dine.</span><span class="sxs-lookup"><span data-stu-id="3af3f-105">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="3af3f-106">Du kan angi globale innstillinger eller innstillinger for aktivitetsnivå, se hele oppgavens fremdrift og laste ned aggregerte sammendrags- og oppgavenivårapporter.</span><span class="sxs-lookup"><span data-stu-id="3af3f-106">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
+- [<span data-ttu-id="aa451-106">Kom i gang med overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="aa451-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [<span data-ttu-id="3af3f-107">Kom i gang med overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="3af3f-107">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [<span data-ttu-id="aa451-107">Konfigurer overføringsveiviserens klienter</span><span class="sxs-lookup"><span data-stu-id="aa451-107">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 
-- [<span data-ttu-id="3af3f-108">Konfigurer overføringsveiviserens klienter</span><span class="sxs-lookup"><span data-stu-id="3af3f-108">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [<span data-ttu-id="3af3f-109">Innstillinger for overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="3af3f-109">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
+- [<span data-ttu-id="aa451-108">Innstillinger for overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="aa451-108">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
