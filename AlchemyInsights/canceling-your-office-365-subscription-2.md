@@ -1,5 +1,5 @@
 ---
-title: Hvis du avbryter Office 365-abonnement?
+title: Avslutte Office 365-abonnementet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665481"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552606"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hvis du avbryter Office 365-abonnement?
+# <a name="canceling-your-office-365-subscription"></a>Avslutte Office 365-abonnementet?
 
 Vi beklager å se deg gå!
   
-Basert på organisasjonsdataene, mener vi at alle gjeldende abonnementer har mer enn 25 tilordnede lisenser. Du kan fjerne brukere før du har færre enn 25, og gå deretter til **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester. I delen **Innstillinger for & handlinger** , velger du **si opp abonnementet**.
+Basert på organisasjonsdataene dine mener vi at alle gjeldende abonnementer har mer enn 25 tilordnede lisenser. Du kan fjerne brukere til du har færre enn 25, og deretter gå til siden **Faktureringsprodukter** \> [& tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) I delen **Innstillinger & Handlinger** velger du **Avbryt abonnement**.
   
-Du kan også velge **trenger hjelp** til å snakke med en kundestøttetekniker.
+Alternativt kan du velge **Trenger hjelp** til å snakke med en støttetekniker.
   
-Hvis du vil ha mer informasjon, kan du se [si opp abonnementet ditt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refusjon: Eventuell proporsjonal kreditt vil bli returnert til deg innen neste faktureringssyklus.** 
+
+**Merk:** Hvis du ikke ser alternativet du vil avbryte, klikker du på abonnementet for å vise detaljene, og du skal se alternativet **Avbryt abonnement** i **Innstillinger & Handlinger**. 
+
+Hvis du vil ha mer informasjon, kan du se [Avslutte abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

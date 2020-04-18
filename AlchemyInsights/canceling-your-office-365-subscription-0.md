@@ -1,5 +1,5 @@
 ---
-title: Avbryter du abonnementet på Office 365?
+title: Avslutte Office 365-abonnementet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665553"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552678"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Avbryter du abonnementet på Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Avslutte Office 365-abonnementet?
 
-Vi er lei for å se deg gå!
+Vi beklager å se deg gå!
   
-Basert på organisasjonens data mener vi at alle gjeldende abonnementer har mindre enn 25 plasser. Hvis du vil avslutte abonnementet på Internett, går du til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . I delen **Innstillinger _AMP_ Actions** velger du **Avbryt abonnement**.
+Basert på organisasjonsdataene dine mener vi at alle de nåværende abonnementene dine har mindre enn 25 seter. Hvis du vil avslutte abonnementet på nettet, går du til siden \> **Faktureringsprodukter** [& tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) I delen **Innstillinger & Handlinger** velger du **Avbryt abonnement**.
   
-Hvis du vil vite mer, kan du se [avslutte abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refusjon: Eventuell proporsjonal kreditt vil bli returnert til deg innen neste faktureringssyklus.** 
+
+**Merk:** Hvis du ikke ser alternativet du vil avbryte, klikker du på abonnementet for å vise detaljene, og du skal se alternativet **Avbryt abonnement** i **Innstillinger & Handlinger**. 
+
+Hvis du vil ha mer informasjon, kan du se [Avslutte abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
