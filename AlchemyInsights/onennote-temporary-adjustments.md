@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: 30c3b458610e5cc9f24b8d4e760b61256427da5b
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: e83ff4a0b3db9aabb3b258c17a848ed2b041bb87
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030658"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556995"
 ---
 # <a name="onenote-temporary-adjustments"></a>Midlertidige OneNote-justeringer
 
 **Viktig**: I disse enestående tidene utfører vi trinn for å sikre at OneNote-tjenester forblir svært tilgjengelige.
 
-- Du kan se meldingen «Vi opplever begrensninger med OneNote i Microsoft Teams.» OneNote i Teams er skrivebeskyttet for kommersielle og Education-leiere. Hvis du vil redigere, kan du bruke OneNote for nettet eller OneNote-skrivebord-appen.
+- OneNote i Teams er skrivebeskyttet for kommersielle og Education-leiere. Hvis du vil redigere, kan du bruke OneNote for nettet eller OneNote-skrivebord-appen.
 
 - Nedlastingsstørrelse og synkroniseringsfrekvensen for fil-vedlegg har blitt endret.
 
