@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958547"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537750"
 ---
 # <a name="general-migration-performance-guidance"></a>Generell veiledning for ytelsesoverføring
 
+
 **Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
-**Veiledning for overføringsytelse**
+**Overføringsalternativer**
 
-Overføringsytelsen kan påvirkes av nettverkets infrastruktur, filstørrelse, overføringstid og begrensning. Hvis du har en forståelse av disse, vil det hjelpe deg med å planlegge og maksimere effektiviteten av overføringen din.
+Det finnes flere alternativer for å overføre innhold til SharePoint Online på, avhengig av størrelsen på filene og hvor mange filer du ønsker å flytte. En liste med de ulike alternativene [finner du her](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Generell veiledning for ytelsesoverføring](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Hvis du vil ha mer informasjon om innholdsoverføring, kan du ta en titt på koblingene nedenfor.
+
+- [Overføringsverktøyet for SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Kom i gang med overføringsveiviseren](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
