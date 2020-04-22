@@ -1,9 +1,9 @@
 ---
-title: Oppgrader til Visio-2019
+title: Oppgradere til Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903715"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720038"
 ---
-# <a name="upgrade-to-visio-2019"></a>Oppgrader til Visio-2019
+# <a name="upgrade-to-visio-2019"></a>Oppgradere til Visio 2019
 
-Brukere som installerte Visio stasjonær programmet som en del av en Visio-Online-abonnement allerede har den nyeste versjonen. 
+Brukere som har installert Visio-skrivebordsappen som en del av et Visio Online-abonnement, har allerede den nyeste versjonen. 
 
-Hvis du vil oppgradere en abonnementsfri versjon som Visio-2016, må du kjøpe en Visio-Online-abonnementet eller en engangs kjøp av Visio Standard eller syn Professional 2019. Se [sammenligne Visio-alternativer](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Hvis du vil oppgradere en ikke-abonnementsversjon, for eksempel Visio-2016, må du kjøpe et Visio Online-abonnement eller et engangskjøp av Visio Standard eller Vision Professional 2019. Se [Sammenligne Visio-alternativer](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Hvis du allerede har kjøpt en nyere versjon, og du er klar til å installere den, se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) og følge fremgangsmåten for din versjon. 
+Hvis du allerede har kjøpt en nyere versjon og er klar til å installere den, kan du se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) og følge trinnene for versjonen. 
 
-Hvis du vil installere Visio side-ved-side med Office, kan du se [støttes scenarier for installasjon av forskjellige versjoner av Office, prosjekt, og Visio på samme datamaskin](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Hvis du vil installere Visio side ved side med Office, kan du se [Scenarier som støttes for å installere forskjellige versjoner av Office, Project og Visio på samme datamaskin](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
 Hvis du vil ha mer informasjon, kan du se:<br>
-[Installasjonsveiledning for Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Det overordnede versjonsnummeret til Visio-2019 forblir på 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Betegnelsen år i 2016 for Office og Office 365-klientprogrammer vil bli fjernet fra Start-menyoppføringer](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Office 2019 kommersielle for Windows og Mac spørsmål vanlige](https://support.microsoft.com/help/4133312) 
+[Distribusjonsveiledning for Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Hovedversjonsnummeret for Visio 2019 bor på 16.0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Årsbetegnelsen i Office 2016 og klientapper fjernes fra startmenyoppføringer](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Vanlige spørsmål om Office 2019 Commercial for Windows og Mac](https://support.microsoft.com/help/4133312) 

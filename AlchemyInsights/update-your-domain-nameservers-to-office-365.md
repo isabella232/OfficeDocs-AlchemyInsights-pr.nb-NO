@@ -1,8 +1,8 @@
 ---
-title: Oppdatere navneserveren for domenet til Office 365
+title: Oppdatere domenenavnserverne slik at de peker til Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742191"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720002"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserveren for domenet til Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Oppdatere domenenavnserverne slik at de peker til Microsoft
 
 Obs! Noen ganger kan det ta opptil 48 timer før endringer i navneserverne overføres.
   
-Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet i Office 365. Opprette eller redigere navneserverpostene hos domeneregistratoren.
+Hvis du vil konfigurere domenet med Microsoft, må navneserverne hos registraren oppdateres. Opprette eller redigere navneserverpostene hos domeneregistratoren.
   
 1. Gå til domeneregistratorens nettsted og finn området der du kan redigere navneserverne.
 
@@ -34,5 +34,5 @@ Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet 
 
 3. Lagre endringer.
 
-Du kan også finne detaljerte instruksjoner i denne artikkelen: [Endre navneservere for å konfigurere Office 365 med alle domeneregistratorer](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Du finner også detaljerte instruksjoner i denne artikkelen: [Endre navneservere for å konfigurere Microsoft 365 med en hvilken som helst domeneregistrator](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

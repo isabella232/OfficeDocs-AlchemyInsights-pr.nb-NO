@@ -1,8 +1,8 @@
 ---
-title: Tjenesten hendelsen pågår
+title: Tjenestehendelse pågår
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719740"
 ---
-# <a name="service-incident-in-progress"></a>Tjenesten hendelsen pågår
+# <a name="service-incident-in-progress"></a>Tjenestehendelse pågår
 
-Du kan bli påvirket av en service-hendelse eller sikkerhetsveiledning som for øyeblikket undersøkes. Du kan kontrollere den nyeste statusen ved å gå til siden [Tjenesten helse](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Du kan bli påvirket av en tjenestehendelse eller en veiledning som for øyeblikket undersøkes. Du kan sjekke den nyeste statusen ved å gå til [Siden Tjenestetilstand.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Av praktiske hensyn finner du et sammendrag av denne hendelsen nedenfor:
+For enkelhets skyld kan du finne et sammendrag av denne hendelsen nedenfor:
   
-> **Hendelsen nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Hendelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Påvirke beskrivelse: {ImpactDescription}
+> Beskrivelse av innvirkning: {ImpactDescription}

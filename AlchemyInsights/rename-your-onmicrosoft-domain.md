@@ -1,5 +1,5 @@
 ---
-title: Endre navn på onmicrosoft domene
+title: Gi nytt navn til onmicrosoft-domenet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720182"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Endre navn på onmicrosoft.com domene
+# <a name="rename-your-onmicrosoftcom-domain"></a>Gi nytt navn til onmicrosoft.com domenet
 
- **Du kan ikke gi nytt navn til det onmicrosoft domenet etter registrering.** For eksempel, hvis det opprinnelige domenet du valgte var *fourthcoffee.onmicrosoft.com*, kan du ikke endre det til å være *fabrikam.onmicrosoft.com*. Hvis du vil bruke et annet onmicrosoft.com domene, må du starte et nytt abonnement med Office 365.
+ **Du kan ikke gi nytt navn til onmicrosoft-domenet etter registrering.** Hvis det første domenet du valgte, for eksempel var *fourthcoffee.onmicrosoft.com*, kan du ikke endre det til å være *fabrikam.onmicrosoft.com*. Hvis du vil bruke et annet onmicrosoft.com domene, må du starte et nytt abonnement med Microsoft 365.
   
-Hvis du vil bruke et tilpasset domene som *contoso.com* , kan du [legge til en du eier](https://docs.microsoft.com/office365/admin/setup/add-domain) eller [kjøpe en fra Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Hvis du vil bruke et egendefinert domene som *contoso.com* , kan du [legge til et du eier](https://docs.microsoft.com/office365/admin/setup/add-domain) eller kjøpe et fra [Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   
