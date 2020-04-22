@@ -3,7 +3,7 @@ title: Outlook.com BitLocker-gjenoppretting
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542753"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681905"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="d7082-102">BitLocker-gjenoppretting</span><span class="sxs-lookup"><span data-stu-id="d7082-102">BitLocker recovery</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="39a18-102">BitLocker-gjenoppretting</span><span class="sxs-lookup"><span data-stu-id="39a18-102">BitLocker recovery</span></span>
 
-<span data-ttu-id="d7082-103">Gå til [enheter](https://account.microsoft.com/devices/recoverykey) til å vise du BitLocker-nøklene for gjenoppretting.</span><span class="sxs-lookup"><span data-stu-id="d7082-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="39a18-103">Gå til [Enheter](https://account.microsoft.com/devices/recoverykey) for å vise BitLocker-gjenopprettingsnøklene.</span><span class="sxs-lookup"><span data-stu-id="39a18-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="d7082-104">Se [finne BitLocker-gjenopprettingsnøkkelen](https://support.microsoft.com/help/4026181) for mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="d7082-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="39a18-104">Se [Finne bitlocker-gjenopprettingsnøkkelen](https://support.microsoft.com/help/4026181) hvis du vil ha mer informasjon.</span><span class="sxs-lookup"><span data-stu-id="39a18-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
