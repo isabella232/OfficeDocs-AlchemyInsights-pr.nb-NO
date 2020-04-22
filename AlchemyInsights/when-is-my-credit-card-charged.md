@@ -1,9 +1,9 @@
 ---
-title: Når er kredittkortet mitt belastet?
+title: Når belastes kredittkortet mitt?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765278"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="56ca0-102">Når er kredittkortet mitt belastet?</span><span class="sxs-lookup"><span data-stu-id="56ca0-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="90199-102">Når belastes kredittkortet mitt?</span><span class="sxs-lookup"><span data-stu-id="90199-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="56ca0-103">Det kan ta opptil to dager for tillegget skal skje med en opprinnelig bestilling.</span><span class="sxs-lookup"><span data-stu-id="56ca0-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="90199-103">Med et første kjøp kan det ta opptil to dager før belastningen inntreffer.</span><span class="sxs-lookup"><span data-stu-id="90199-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="56ca0-104">Regelmessige avgifter skjer innen én dag på fakturaen som blir opprettet.</span><span class="sxs-lookup"><span data-stu-id="56ca0-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="90199-104">Gjentakende tillegg skjer innen én dag etter at fakturaen opprettes.</span><span class="sxs-lookup"><span data-stu-id="90199-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="56ca0-105">Hvis tillegget er vellykket, fortsetter systemet å forsøke å utligne saldoen over de neste par ukene.</span><span class="sxs-lookup"><span data-stu-id="56ca0-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="56ca0-106">Du kan gjøre oppdateringer i betalingsinformasjonen, når som helst for å sikre neste belastning forsøket er vellykket.</span><span class="sxs-lookup"><span data-stu-id="56ca0-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="56ca0-107">Hvis du vil ha mer informasjon, se [legge til, oppdatere eller fjerne et kredittkort eller bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="56ca0-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="90199-105">Hvis belastningen mislykkes, vil systemet fortsette å forsøke å løse balansen i løpet av de neste ukene.</span><span class="sxs-lookup"><span data-stu-id="90199-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="90199-106">Du kan når som helst gjøre oppdateringer av betalingsinformasjonen din for å sikre at neste belastningsforsøk er vellykket.</span><span class="sxs-lookup"><span data-stu-id="90199-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="90199-107">Hvis du vil ha mer informasjon, kan du se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Microsoft 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="90199-107">For more information, see [Add, update or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
