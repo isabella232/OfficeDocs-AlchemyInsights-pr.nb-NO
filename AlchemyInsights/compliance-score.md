@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600372"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706102"
 ---
 # <a name="compliance-score"></a>Samsvarspoengsum
 
@@ -33,7 +33,7 @@ Den globale administratoren må konfigurere de riktige [tillatelsene](https://do
 
 **For mer informasjon om**:
 
-- Hvis du konfigurerer tilgangstillatelser for samsvarspoengsum, kan du se [Gi brukere tilgang til Office 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Hvis du konfigurerer tilgangstillatelser for samsvarspoengsum, kan du se [Gi brukere tilgang til Microsoft 365 Security & compliance Centers](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Arbeide med forbedringshandlinger i samsvarspoengsum, kan du se [Arbeide med samsvarspoengsum](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Hvordan samsvarspoeng beregnes, kan du se [Metodikk for samsvarspoeng](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Samsvarspoengsum kontra Samsvarsbehandling, se [Relasjon til samsvarsbehandling](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

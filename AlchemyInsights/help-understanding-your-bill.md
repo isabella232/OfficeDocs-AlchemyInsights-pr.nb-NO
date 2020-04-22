@@ -1,9 +1,9 @@
 ---
-title: Bidra til å forstå din faktura
+title: Hjelp til å forstå regningen din
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710092"
 ---
-# <a name="help-understanding-your-bill"></a>Bidra til å forstå din faktura
+# <a name="help-understanding-your-bill"></a>Hjelp til å forstå regningen din
 
-Beløpet som er fakturert for din Office 365 for business abonnement gjenspeiler lisens prisen multiplisert med antall kjøpte lisenser og eventuelle obligatoriske avgifter/gebyrer.
+Beløpet som faktureres for abonnementet, gjenspeiler lisensprisen multiplisert med antall kjøpte lisenser og eventuelle nødvendige avgifter/avgifter.
   
-Hvis fakturert beløp er forskjellig deretter forventet, er det flere grunner til dette kan skje:
+Hvis beløpet fakturert er forskjellig så forventet, er det noen grunner til at dette kan skje:
   
-- Lisensene ble lagt til eller fjernet fra abonnementet. Når en lisens er endret mellomstor term, gjenspeiles dette på følgende fakturaen. Du kan se en kreditt og bill på nytt for den forrige perioden for tjenesten til konto for denne endringen.
+- Lisenser ble lagt til eller fjernet fra abonnementet. Når lisenser endres midt i perioden, gjenspeiles dette på følgende faktura. På grunn av denne endringen kan du se en kreditering og en ny fakturering for den forrige perioden.
 
-- Abonnementet ble avbrutt. Du vil motta en faktura etter avlysning med alle utestående beløpet minus eventuelle kreditt.
+- Abonnementet ble avbrutt. Du mottar en faktura etter kansellering på den utestående saldoen, minus alle krediteringer.
 
-- Lisens-prisen som er endret, og abonnementet fornyes for en ny term.
+- Abonnementet har blitt fornyet for en ny periode, og lisensprisen har blitt endret.
 
-Hvis du vil ha mer informasjon om fakturaen, se: [Forstå på fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Hvis du vil ha mer informasjon om fakturaen, kan du se: [Forstå fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

@@ -3,7 +3,7 @@ title: Problemer med skriftformatering i Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051974"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708648"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Problemer med skriftformatering i Excel
 
-I Excel 2016 kan det hende at skriftformatering ikke vises riktig i en celle. Dette kan skje hvis en celle inneholder mer enn én type skriftformatering. For eksempel hvis noen tegn er uthevet, og andre ikke er uthevet, kan det hende du ikke ser fet format vises. Eller hvis du har forskjellige fargede tegn i samme celle, ser du kanskje ikke at fargene vises riktig. Vårt tekniske team er klar over dette problemet og jobber for tiden med en løsning. I mellomtiden kan du prøve å bruke en annen skrift. Du kan også prøve å unngå å bruke flere typer formatering i samme celle før dette problemet er løst.
+I Excel-2016 kan det hende at skriftformatering ikke vises riktig i en celle. Dette kan skje hvis en celle inneholder mer enn én type skriftformatering. Hvis noen tegn for eksempel er fet, og andre ikke er fet, kan det hende du ikke ser det fete formatet vises. Eller hvis du har forskjellige fargede tegn i samme celle, kan det hende at du ikke ser fargene vises riktig. Vårt ingeniørteam er klar over dette problemet og jobber for tiden med en løsning. I mellomtiden kan du prøve å bruke en annen skrift. Eller prøv å unngå å bruke flere typer formatering i samme celle til dette problemet er løst.
   

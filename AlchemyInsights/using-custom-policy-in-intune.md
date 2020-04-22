@@ -3,7 +3,7 @@ title: Bruke egendefinerte profiler i Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531764"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710488"
 ---
-# <a name="using-custom-policy-in-intune"></a>Ved hjelp av egendefinert policy i Intune
+# <a name="using-custom-policy-in-intune"></a>Bruke egendefinert policy i Intune
 
-Intune har mange innebygde for innstillinger for Android, iOS, macOS og Windows-enheter. Du kan også opprette en egendefinert profil, og deretter distribuere disse egendefinerte innstillingene til enheter ved hjelp av Intune. Egendefinerte profiler er utformet for å legge til enhetsinnstillinger og funksjoner som ikke er bygget inn i Intune.
+Intune har mange innebygde innstillinger for Android-, iOS-, macOS- og Windows-enheter. Du kan også opprette en egendefinert profil og deretter distribuere disse egendefinerte innstillingene til enhetene dine ved hjelp av Intune. Egendefinerte profiler er utformet for å legge til enhetsinnstillinger og funksjoner som ikke er innebygd i Intune.
 
 [Egendefinerte innstillinger for Android-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
@@ -29,8 +29,8 @@ Intune har mange innebygde for innstillinger for Android, iOS, macOS og Windows-
 
 [Egendefinerte innstillinger for iOS-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Egendefinerte innstillinger for macOS enheter i Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Egendefinerte innstillinger for macOS-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Egendefinerte innstillinger for Windows 10 enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Egendefinerte innstillinger for Windows 10-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Egendefinerte innstillinger for Windows holografiske for Business enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Egendefinerte innstillinger for Windows Holographic for Business-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

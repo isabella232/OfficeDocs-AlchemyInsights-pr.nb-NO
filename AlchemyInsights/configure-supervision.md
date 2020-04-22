@@ -1,33 +1,33 @@
 ---
-title: Konfigurer overvåking
+title: Konfigurere tilsyn
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813853"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705922"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurere policyer for overvåking
+# <a name="configure-supervision-policies"></a>Konfigurere retningslinjer for tilsyn
 
-Overvåking policyer i Microsoft 365 og Office 365 kan du overvåke Exchange e-post, Skype for Business Online, Microsoft Teams og 3. part kommunikasjon som sendes innenfor og utenfor organisasjonen. Valgte korrekturlesere kan undersøke overvåkede meldinger for å sikre at de overholder organisasjonens policyer, risikostyring og standarder for overholdelse av forskrifter og løse dem med en klassifisering.
+Med retningslinjer for tilsyn i Microsoft 365 kan du overvåke Exchange-e-post, Skype for Business Online, Microsoft Teams og tredjepartskommunikasjon som sendes i og utenfor organisasjonen. Utpekte korrekturlesere kan undersøke overvåkede meldinger for å sikre at de overholder organisasjonens policyer, risikostyring og standarder for overholdelse av forskrifter og løse dem med en klassifiseringstype.
 
-Hvis du vil bruke overvåking policyer i organisasjonen, må du:
+Hvis du vil bruke overvåkingspolicyer i organisasjonen, må du:
 
-- Bestemme kommunikasjonen til å overvåke.
-- Bestemme hvem som skal utføre kommunikasjon gjennomgang.
-- Definer policyer for overvåking
+- Bestem kommunikasjonen som skal overvåkes.
+- Bestem hvem som skal utføre kommunikasjonsgjennomgang.
+- Retningslinjer for oppsettsovervåkning
 
 få mer informasjon:
 
-- [Oversikt over policyer for overvåking](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Konfigurere policyer for overvåking](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Oversikt over retningslinjer for tilsyn](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [Konfigurere retningslinjer for tilsyn](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

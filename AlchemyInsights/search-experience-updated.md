@@ -1,8 +1,8 @@
 ---
-title: 414 søkeopplevelsen oppdatert
+title: 414 Søkeopplevelse oppdatert
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551496"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709308"
 ---
-# <a name="search-experience-updated"></a>Søkeopplevelsen oppdatert
+# <a name="search-experience-updated"></a>Forbedret søkeopplevelse
 
-Søk er nå plassert nederst i programmet. Tappe på den gir deg direkte tilgang til øverste kontakter, kommende reiseruter, pakke leveringer og nye vedlegg. Du kan søke etter e-postmeldinger, filer og kontakter i alle kontoene fra én enkelt søk-boksen, eller Bruk vår nye filtre til å begrense søket.
+Søket er nå plassert nederst i appen. Hvis du trykker på den, får du direkte tilgang til de beste kontaktene dine, kommende reiseruter, pakkeleveranser og nylige vedlegg. Du kan søke etter e-postmeldinger, filer og kontakter i en av kontoene dine fra én enkelt søkeboks eller bruke de nye filtrene våre til å begrense søket ditt.

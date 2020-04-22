@@ -1,9 +1,9 @@
 ---
-title: 500 app-passord
+title: 500 App-passord
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517796"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707848"
 ---
 # <a name="app-passwords"></a>App-passord
 
-Et passord for app er en kode som gir et program eller enhet tillatelse til å få tilgang til Office 365-arbeid eller skolen konto. Hvis kontoen din krever multifaktorautentisering (MFA), og programmet kobler til kontoen din, må du generere et passord for app slik at programmet kan koble til Office 365. For eksempel 2016 for Outlook og Outlook av kreve et passord for app tidligere versjoner.
+Et app-passord er en kode som gir en app eller enhet tillatelse til å få tilgang til Microsofts jobb- eller skolekonto. Hvis kontoen din krever multifaktorautentisering (MFA), og appen kobles til kontoen din, må du generere et app-passord slik at appen kan koble til Microsoft. Outlook 2016 og tidligere versjoner Outlook for eksempel krever et app-passord.
 
- **Merknad**: før du prøver fremgangsmåten, kontroller med Office 365-admin at MFA kreves for kontoen din. Hvis ikke, kan alternativene som er beskrevet i trinnene ikke tilgjengelige for deg.
+ **Merk:** Før du prøver følgende trinn, må du kontrollere med Microsoft 365-administratoren at MFA kreves for kontoen din. Hvis det ikke er det, vil ikke alternativene som er beskrevet i trinnene, være tilgjengelige for deg.
 
-1. Logge på Office 365 med ditt arbeid eller skole konto og passord.
+1. Logg på med jobb- eller skolekontoen din og passordet ditt.
 
-2. Velg **konfigurere den nå**.
+2. Velg **Konfigurer den nå**.
 
-3. Velg metode for nettverksgodkjenning og følg instruksjonene.
+3. Velg godkjenningsmetoden, og følg instruksjonene.
 
-4. Når du har bekreftet den alternative kontaktmåte, velger du **Neste**.
+4. Når du har bekreftet den alternative kontaktmetoden, velger du **Neste**.
 
-5. Du får en app passord som du kan bruke med Outlook, Apple Mail og andre programmer som trenger den. Velg **Kopier** til å kopiere passordet slik at du kan lime den inn et annet sted (du ikke trenger å huske det).
+5. Du får et apppassord som du kan bruke med Outlook, Apple Mail og andre apper som krever det. Velg **Kopier** for å kopiere passordet slik at du kan lime det inn et annet sted (du trenger ikke å huske det).

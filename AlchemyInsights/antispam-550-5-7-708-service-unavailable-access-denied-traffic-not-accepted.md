@@ -1,9 +1,9 @@
 ---
-title: 1047 antiSpam 550 5.7.708 tjenesten er ikke tilgjengelig. Ingen tilgang, ikke godtas fra dette IP-trafikk
+title: 1047 AntiSpam 550 5.7.708 Tjenesten er ikke tilgjengelig. Ingen tilgang, trafikk som ikke aksepteres fra denne IP-adressen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707884"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 tilgang, trafikk, ikke godtas fra dette IP-
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Ingen tilgang, trafikk ikke akseptert fra denne IP
 
-Denne feilen oppstår når du sender e-post fra kjente, lav rykte IP-adresser som brukes vanligvis av nye kunder.
+Denne feilen oppstår når du sender e-post fra kjente IP-adresser med lavt omdømme som vanligvis brukes av nye kunder.
 
-Hvis du må sende e-post fra disse IP-adressene før du kan kjøpe lisenser, kontakter du kundestøtte for å be om et unntak til du er kunne kjøpe lisenser.
+Hvis du må sende e-post fra disse IP-adressene før du kan kjøpe lisenser, kan du kontakte kundestøtte for å be om et unntak til du kan kjøpe lisenser.

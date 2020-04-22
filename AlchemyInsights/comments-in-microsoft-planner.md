@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541767"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706246"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentarer i Microsoft Planner
 
@@ -32,4 +32,4 @@ Her er noen svar på vanlige problemer knyttet til kommentarer:
 
 - **Fjernede brukere mottar e-poster** – Hvis en bruker kommenterer på en oppgave før vedkommende blir fjernet fra planen, vil e-posttråden inkludere brukeren for hver kommentar som publiseres på oppgaven.
 
-Hvis du vil ha mer detaljert informasjon om kommentarer med Microsoft Planner, kan du ta en titt på [slik fungerer Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) og [Kommentere på oppgaver i Microsoft Planner](https://support.microsoft.com/nb-NO/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Hvis du vil ha mer detaljert informasjon om kommentarer med Microsoft Planner, kan du ta en titt på [slik fungerer Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) og [Kommentere på oppgaver i Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).

@@ -1,9 +1,9 @@
 ---
-title: 127 får feilmeldingen TenantAccessBlockedException når du får tilgang til e-post?
+title: 127 Få en TenantAccessBlockedException-feil når du får tilgang til e-post?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523988"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708912"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Få en TenantAccessBlockedException-feil ved tilgang til e-post?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Får du en TenantAccessBlockedException-feil når du får tilgang til e-post?
 
-Det finnes flere forskjellige grunner til hvorfor du kan få denne feilmeldingen. Eksempel:
+Det er noen forskjellige grunner til at du kan få denne feilen. Eksempel:
 
-- Kontroller at abonnementet er gyldig på **Fakturering** \> [produkter & tjenester](https://portal.office.com/adminportal/home#/subscriptions) -siden i Microsoft 365 administrasjonssenteret.
+- Kontroller at abonnementet er gyldig på siden \> [Faktureringsprodukter & tjenester](https://portal.office.com/adminportal/home#/subscriptions) i administrasjonssenteret for Microsoft 365. **Billing**
 
-- Se etter noen forfalt varsler i **Fakturering** \> [regninger & betalinger](https://portal.office.com/adminportal/home#/billoverview) siden i administrasjonssenteret for Microsoft 365.
+- Se etter eventuelle tidligere varsler på **faktureringsfakturaer** \> [& betalinger-siden](https://portal.office.com/adminportal/home#/billoverview) i administrasjonssenteret for Microsoft 365.
 
-- Hvis betalings- og abonnementer for kontoen din har blitt oppdatert nylig, kan det ta tid å overføre endringene. Prøv på nytt om noen minutter, og hvis problemet vedvarer, kontakter du oss.
+- Hvis faktureringen og abonnementene for kontoen din nylig er oppdatert, kan det ta tid før endringene overføres. Prøv igjen om noen få minutter, og hvis problemet vedvarer, kontakt oss.

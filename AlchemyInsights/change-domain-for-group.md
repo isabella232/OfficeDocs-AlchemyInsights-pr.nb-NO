@@ -3,7 +3,7 @@ title: Endre domene for Office 365-gruppen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3454afe1e39ba7a0aad19a1d6494e56a40ff2e65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736838"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706944"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Endre domenet for Office 365-gruppe
+# <a name="change-the-domain-for-office-365-group"></a>Endre domenet for Office 365-gruppen
 
-Hvis du vil endre domenet for en Office 365-gruppe under opprettingen, følger du trinnene i [velge domenet som skal brukes når du oppretter Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Hvis du vil endre domenet for en Office 365-gruppe under oppretting, følger du fremgangsmåten i [Velg domenet som skal brukes når du oppretter Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Når Office 365-gruppen allerede er opprettet, er det for øyeblikket ikke mulig å endre domenet. Den eneste måten er å opprette en ny Office 365-gruppe og slette den gamle om nødvendig (flere e-postadresser kan legges til via [Exchange administrasjonssenteret](https://outlook.office365.com/ecp.aspx)).
+Når Office 365-gruppen allerede er opprettet, er det for øyeblikket ingen måte å endre domenet på. Den eneste måten er å opprette en ny Office 365-gruppe og slette den gamle om nødvendig (flere e-postadresser kan legges til via [Administrasjonssenter for Exchange](https://outlook.office365.com/ecp.aspx)).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547971"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708696"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Fikse Office-appene "Kontoen din er i dårlig tilstand" feil
 
@@ -27,5 +27,5 @@ Hvis du vil løse denne feilen, kan du prøve følgende alternativer på den ber
   **Merk:** Registerbanene for Office-2016 er endret til 16.0. \Software\Microsoft\Office\16.0\Common\Identity\
 - Hvis feilen oppstår under tilkobling til Office 365 ved hjelp av Office-2013, [aktiverer du moderne godkjenning](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) for Office-klienten.
 
-Hvis du vil ha mer informasjon, kan du se [Feilsøke apper som ikke er nettleserapper som ikke kan logge på Office 365, Azure eller Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Hvis du vil ha mer informasjon, kan du se [Feilsøke apper som ikke er nettleserapper som ikke kan logge på Microsoft 365, Azure eller Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 
