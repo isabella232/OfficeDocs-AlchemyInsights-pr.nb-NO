@@ -1,9 +1,9 @@
 ---
-title: Feilsøking i forbindelse med Intune policy og profiler
+title: Feilsøke Intune-policy og -profiler
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533636"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766682"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Feilsøking i forbindelse med Intune policy og profiler
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Feilsøking av Intune-retningslinjer og -profiler
 
-Hvis du vil se eksisterende policyer, feilsøking i forbindelse med konflikter, se gjennom loggdata og se vanlige spørsmål og problemer, kan det hjelpe veiledningene nedenfor.
+Hvis du vil se eksisterende policyer, feilsøke konflikter, se gjennom loggdata og se vanlige spørsmål og problemer, kan følgende veiledninger hjelpe.
 
-- [Feilsøking i forbindelse med policyer og profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Feilsøke retningslinjer og profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Vanlige spørsmål, problemer og løsninger med retningslinjer for enheten og profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Vanlige spørsmål, problemer og løsninger med enhetspolicyer og profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Overvåke enhetsprofiler konfigurasjon og Vis konflikter i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Overvåk enhetskonfigurasjonsprofiler og vis konflikter i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Feilsøking i forbindelse med enhet-kompatibilitet og betinget tilgang i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Feilsøke enhetssamsvar og betinget tilgang i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Overvåke samsvar policyer og Vis konflikter i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Overvåke samsvarspolicyer og vise konflikter i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Sende Intune loggdataene til Azure lagring, hendelse huber, eller logge analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Sende Intune-loggdata til Azure-lagring, hendelseshuber eller logganalyse](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Se oversikten for å [konfigurere enheter](https://docs.microsoft.com/intune/device-profiles) eller [bruke samsvar policyer](https://docs.microsoft.com/intune/device-compliance-get-started).
+Se oversikten for å [konfigurere enheter](https://docs.microsoft.com/intune/device-profiles) eller [bruke samsvarspolicyer](https://docs.microsoft.com/intune/device-compliance-get-started).

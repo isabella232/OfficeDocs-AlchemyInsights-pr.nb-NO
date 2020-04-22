@@ -1,9 +1,9 @@
 ---
-title: Slik reaktiverer og administrerer du fornyelse
+title: Slik aktiverer og administrerer du fornyelse på nytt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739322"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763449"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Aktivere og administrere gjentakende fakturering
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Slik aktiverer og administrerer du regelmessig fakturering på nytt
 
-Ser ut som du har et abonnement som er utløpt. Hvis du ønsker å reaktivere den, her er hvordan.
+Ser ut som du har et abonnement som er utløpt. Hvis du ønsker å aktivere den på nytt, her er hvordan.
   
-1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.
+1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
 
-2. Finn abonnementet du vil reaktivere. I **fakturering** -delen velger du **Aktiver**på.
+2. Velg abonnementet du vil aktivere på nytt. Velg Aktiver på **nytt**i **Fakturering-delen.**
 
-    Hvis du ikke ser **Aktiver** som et alternativ, bruker du "trenger hjelp"-knappen for å snakke med en kundestøttetekniker for å reaktivere abonnementet.
+    Hvis du ikke **ser Aktiver på nytt** som et alternativ, bruker du «Trenger hjelp»-knappen til å snakke med en støttetekniker for å aktivere abonnementet på nytt.
 
-3. Bekreft betalingsinformasjonen din. Du kan oppdatere din eksisterende betalingsinformasjon her. Når du er ferdig med å angi betalingsmåten, velger du **Aktiver**på.
+3. Bekreft betalingsinformasjon. Du kan oppdatere eksisterende betalingsinformasjon her. Når du er ferdig med å angi betalingsmåten, velger du **Aktiver på nytt**.
 
-Hvis du vil vite mer, kan du se [reaktivere abonnementet](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **gjentakende fakturering** på eller av.
+Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Regelmessig fakturering** av eller på.
   
-1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.
+1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
 
-2. Velg abonnementet du vil administrere gjentakende fakturering for.
+2. Velg abonnementet du vil administrere fornyelse for.
 
-3. Velg **Rediger**under **fakturering**, ved siden av **fornyer** eller **utløper**.
+3. Velg **Rediger**ved siden **av Fornyer på** eller Utløp **er under** **Fakturering**.
 
-4. I ruten for **Innstillinger for gjentakende fakturering** velger du **slå av** for å slå den av. Hvis gjentakende fakturering allerede er slått av, velger du **månedlig** eller **én gang** for å aktivere den.
+4. Velg **Slå av** i ruten **Gjentakende faktureringsinnstillinger** for å slå den av. Hvis regelmessig fakturering allerede er slått av, velger du **Månedlig** eller **Én gang** for å slå den på.
 
 5. Velg **Send endring**.
 
-Hvis du vil vite mer, kan du se [slå gjentakende fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

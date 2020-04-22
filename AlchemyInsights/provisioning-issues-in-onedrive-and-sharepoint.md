@@ -1,21 +1,21 @@
 ---
-title: Klargjør problemer i OneDrive og SharePoint
+title: Klargjøre problemer i OneDrive og SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3eda12d4fff625325cc55251444b489459f09fa
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767942"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Klargjør problemer i OneDrive og SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Klargjøre problemer i OneDrive og SharePoint
 
-Når en bruker er lagt til en eksisterende leier for Office-365, kan de se SharePoint Online eller OneDrive for Business ikoner oppført som "Oppsett" til klargjøringsprosessen er fullført. For nyopprettede kontoer må brukere logge på administrasjonssenteret for Microsoft 365 med sin egen konto, og klikk deretter OneDrive for å starte leveringen av OneDrive-området manuelt.
+Når en bruker legges til i en eksisterende leier, kan de se SharePoint Online- eller OneDrive for Business-ikonene som er oppført som "Konfigurere" til klargjøringsprosessen er fullført. For nyopprettede kontoer må brukere logge på administrasjonssenteret for Microsoft 365 med sin egen konto, og deretter klikke OneDrive for å starte leveringen av OneDrive-området manuelt.
   
-Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en kundestøttesak. I mange tilfeller er vi allerede jobber med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
+Hvis mer enn 24 timer har gått siden du først så dette problemet, vennligst logg en støttesak. I mange tilfeller jobber vi allerede med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
   

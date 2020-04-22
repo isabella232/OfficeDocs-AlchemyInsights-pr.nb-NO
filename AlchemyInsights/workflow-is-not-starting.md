@@ -3,7 +3,7 @@ title: Arbeidsflyten starter ikke
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766106"
 ---
 # <a name="workflow-is-not-starting"></a>Arbeidsflyten starter ikke
 
-- SharePoint 2010-og SharePoint 2013-arbeidsflyter starter ikke.
+- SharePoint 2010- og SharePoint 2013-arbeidsflyter starter ikke.
 
-    - Hvis arbeidsflyten ikke starter, kan det være et midlertidig problem med tjenesten der brukere kan oppleve uregelmessige forsinkelser med fremdrift for arbeidsflyten. Kontroller [helse instrumentbordet for tjenesten](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen er berørt.
+    - Hvis arbeidsflyten ikke starter, kan det være et midlertidig tjenesteproblem der brukere kan oppleve periodiske forsinkelser med arbeidsflytfremdriften. Kontroller [instrumentbordet for servicetilstand](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for å se om organisasjonen påvirkes.
 
-    - Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en support billett. I mange tilfeller er vi allerede jobber med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
+    - Hvis det har gått mer enn 24 timer siden du først så dette problemet, kan du logge en støttebillett. I mange tilfeller jobber vi allerede med en løsning. Vennligst gi oss minst 24 timer for å fullføre en løsning.
 
-- Arbeidsflyter for SharePoint 2010 forsinket ved oppstart.
+- SharePoint 2010 arbeidsflyter forsinket ved start.
 
-    - Dette skjer hvis arbeidsflyten utløses i store partier. (for eksempel når flere elementer er lagt til samtidig).
+    - Dette skjer hvis arbeidsflyten utløses i store partier. (for eksempel når flere elementer legges til samtidig).
 
-    - Arbeidsflyter er ikke laget for å kjøre i sanntid, slik at en forsinkelse er etter utformings virkemåte.
+    - Arbeidsflyter er ikke utformet for å kjøre sanntid, så en forsinkelse er etter utformingsvirkemåte.
 
-   -  Hvis arbeidsflyten er kompleks Extensible Object Markup Language (XMOL), kan kompilering være treg. Sjekk [denne](https://support.microsoft.com//kb/3043697) artikkelen.
+   -  Hvis arbeidsflyten er kompleks xmol (Extensible Object Markup Language), kan kompilering være treg. Sjekk [denne](https://support.microsoft.com//kb/3043697) artikkelen.
 
-    - Du bør forenkle arbeidsflyten eller utforme den på ny ved hjelp av typen Microsoft SharePoint 2013 arbeidsflyt plattform.
+    - Du bør forenkle arbeidsflyten eller utforme den på nytt ved hjelp av microsoft SharePoint 2013 arbeidsflytplattformtypen.
 
-    - Hvis arbeidsflytloggen er blitt stor, kan det hende du vil tømme elementene eller opprette en ny loggliste.
+    - Hvis arbeidsflytloggen har blitt stor, kan det være lurt å tømme elementene eller opprette en ny loggliste.
 
-        Mer informasjon: [tømme Arbeidsflytlogg](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Mer informasjon : [Tøm arbeidsflytloggen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Beslektede emner

@@ -1,28 +1,28 @@
 ---
-title: Håndtering av søppelpost og søppelpost i Outlook på weben
+title: Håndtere spam og søppelpost i Outlook på nettet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555602"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768266"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Merk e-postmeldinger som søppelpost i Outlook på weben
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Merke e-postmeldinger som søppelpost i Outlook på nettet
 
-Hvis du vil markere en melding som søppelpost eller spam, merker du meldingen i meldingslisten, og velg **useriøs** > **useriøs**.
+Hvis du vil merke en melding som søppelpost eller søppelpost, velger du meldingen i meldingslisten og velger > **Søppelpost**. **Junk**
 
-Merk meldingen eller meldingene i meldingslisten for å blokkere alle meldinger fra en bestemt e-postadresse, og velg deretter **useriøs** > **blokk**.
+Hvis du vil blokkere alle meldinger fra en bestemt e-postadresse, velger du meldingen eller meldingene i meldingslisten, og deretter velger du **Useriøs** > **blokkering**.
 
-Hvis du merker en melding som søppelpost ved en feiltakelse, merker du meldingen i mappen Useriøs e-post og Merk som **ikke useriøs** > **ikke søppelpost**. (*Notat:* elementer i mappen Useriøs e-post skal slettes etter 30 dager.)
+Hvis du ved et uhell merker en melding som søppelpost, velger du meldingen i søppelpostmappen og velger **Ikke søppelpost** > **.** *(Merk:* Elementer i søppelpostmappen slettes etter 30 dager.)
 
-Lær mer om hvordan du [å holde søppelpost og useriøs e-post fra Outlook på web-innboksen.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Finn ut mer om hvordan du bidrar til å [holde søppelpost og søppelpost ut av Outlook på nettinnboksen.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

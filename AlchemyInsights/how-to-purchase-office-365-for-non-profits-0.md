@@ -1,9 +1,9 @@
 ---
-title: Hvordan kjøpe Office 365 for ikke-fortjeneste
+title: Slik kjøper du Office 365 for ideelle organisasjoner
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763622"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>Hvordan kjøpe Office 365 for frivillige
+# <a name="how-to-purchase-office-365-for-nonprofits"></a>Slik kjøper du Office 365 for ideelle organisasjoner
 
-Vi har gått gjennom forespørselen og avgjort denne organisasjonen ikke er kvalifisert som en kvalifisert ideell organisasjon for Microsoft.
+Vi har gjennomgått forespørselen din og fastslått at denne organisasjonen ikke er kvalifisert som en Microsoft-kvalifisert ideell organisasjon.
   
 Hvis du vil kjøpe Office 365 kommersielt, kan du se [tilgjengelige tilbud](https://portal.office.com/AdminPortal/Home).

@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954001"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764701"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft-kvalifisert utdanningsinstitusjon og for ekstern undervisning og læring
 
@@ -31,4 +31,4 @@ Når du er godkjent, kan du gå til [Kjøp tjenester](https://admin.microsoft.co
 
 Se gjennom [Ekstern undervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for å se den mest oppdaterte veiledningen om hvordan du konfigurerer læreplanen for skolen din, virtuelle møter og deler innhold med elever.
 
-Det finnes mer IT-veiledning i [Komme i gang med Microsoft Teams for ekstern læring](https://docs.microsoft.com/nb-NO/MicrosoftTeams/remote-learning-edu) og [Ta overgangen til ekstern læring](https://www.microsoft.com/education/remote-learning).
+Det finnes mer IT-veiledning i [Komme i gang med Microsoft Teams for ekstern læring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Ta overgangen til ekstern læring](https://www.microsoft.com/education/remote-learning).

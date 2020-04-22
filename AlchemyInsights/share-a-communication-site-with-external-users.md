@@ -1,32 +1,32 @@
 ---
-title: Dele et kommunikasjons område med eksterne brukere
+title: Dele et kommunikasjonsnettsted med eksterne brukere
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054170"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767510"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Dele et kommunikasjons område med eksterne brukere
+# <a name="share-a-communication-site-with-external-users"></a>Dele et kommunikasjonsnettsted med eksterne brukere
 
-Følg denne fremgangsmåten for å aktivere ekstern bruker deling for kommunikasjons områder: 
+Hvis du vil aktivere ekstern brukerdeling for kommunikasjonsområder, gjør du følgende: 
   
-1. Åpne **moderne Administrasjonssenter** -hvis du er i den klassiske administrasjonssenteret vil du se en **prøve det nå** eller * * prøv Forhåndsvisning * *-knappen fra øverst til høyre. Dette vil ta deg til Modern administrasjonssenteret. 
+1. Åpne **det moderne administrasjonssenteret** - Hvis du er i det klassiske administrasjonssenteret, ser du en **Prøv det nå** eller ** Prøv forhåndsvisningen ** knappen øverst til høyre. Dette tar deg til det moderne administrasjonssenteret. 
   
-2. Velg **aktive områder.**
+2. Velg **Aktive områder.**
   
-3. Velg et område som har en område **mal for kommunikasjon**. 
+3. Velg et område som har en **mal for kommunikasjonsområde**. 
   
-4. Velg **deling** -knappen fra toppmenyen. 
+4. Velg **Deling-knappen** fra den øverste menyen. 
   
- **Merk:** Hvis du har valgt mer enn ett område, vil **deling** -knappen være deaktivert. Velg bare ett område. 
+ **Merk:** Hvis du har valgt mer enn ett område, vises **Deling-knappen** deaktivert. Velg bare ett nettsted. 
   
 

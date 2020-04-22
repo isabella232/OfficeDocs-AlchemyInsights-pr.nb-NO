@@ -2,35 +2,35 @@
 title: Ytelsesproblemer-SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 0b55008cc83b4302801150239926439d8d198ae2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049598"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763154"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Intern serverfeil når du navigerer til SharePoint-eller OneDrive-områder
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Intern serverfeil når du navigerer til Sharepoint- eller OneDrive-områder
 
-Brukere kan få en 500 intern serverfeil når du prøver å navigere til SharePoint-eller OneDrive-områder. 
+Brukere kan få en 500 intern serverfeil når de prøver å navigere til SharePoint- eller OneDrive-områder. 
 
-Prøv å tømme nettleserens hurtigbuffer før du navigerer til området.
+Forsøk å tømme nettleserens hurtigbuffer før du navigerer til nettstedet.
 
 
-1. I Microsoft Edge-nettleseren går du til mer... > innstillinger
+1. Gå til Mer... > Innstillinger i Microsoft Edge-nettleseren
 
-2. Under Slett nettlesingsdata velger **du Velg hva du vil fjerne**
+2. Under Slett nettlesingsdata velger du **Velg hva du vil fjerne**
 
-3. Merk av for informasjonskapsler og lagrede nettstedsdata, og velg **Fjern**.
+3. Merk av for Informasjonskapsler og lagrede nettstedsdata, og merk **av for Fjern**.
 
-Merk: disse trinnene kan variere når du bruker andre nettlesere, for eksempel Firefox eller Chrome.
+Merk: Disse trinnene kan variere når du bruker andre nettlesere som Firefox eller Chrome.
 
-Hvis dette ikke løser problemet, kan du kontrollere om det er aktivt vedlikehold som oppstår på leieren ved å navigere til [meldingssenteret](https://portal.office.com/adminportal/home#/MessageCenter).
+Hvis dette ikke løser problemet, kan du kontrollere om det oppstår aktivt vedlikehold på leieren ved å navigere til [meldingssenteret](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Til slutt, sørg for at du besøker [tjenesten helse](https://portal.office.com/adminportal/home#/servicehealth) siden for å se etter eventuelle veiledninger/hendelser som kan inntreffe.
+Til slutt må du sørge for at du besøker [Siden Servicehelse](https://portal.office.com/adminportal/home#/servicehealth) for å se etter eventuelle råd/hendelser som kan forekomme.
 

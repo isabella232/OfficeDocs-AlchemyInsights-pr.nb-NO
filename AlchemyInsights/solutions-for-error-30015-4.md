@@ -3,7 +3,7 @@ title: Løsninger for feil 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 8a45e9c7f75db4f821eda92bc7f8ed290f363708
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501903"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757066"
 ---
 # <a name="solutions-for-error-30015-4"></a>Løsninger for feil 30015-4
 
-- Start datamaskinen på nytt, og prøv å [installere Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Start datamaskinen på nytt, og prøv [å installere Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Last ned og Installer [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Last ned og installer [Assistent for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Når du åpner, Velg versjonen du vil avinstallere, og velg **Neste** **avinstallere Office-produkter** .
+1. Når den åpnes, velger du versjonen du vil avinstallere, fra **Avinstaller Office-produkter,** og velg **Neste**.
 
-2. Fortsette å gå gjennom skjermbilder og starte på nytt når du blir spurt.
+2. Fortsett å gå gjennom skjermer, og start datamaskinen på nytt når du blir bedt om det.
 
-    Etter omstart åpner støtte og gjenoppretting hjelperen automatisk på nytt for å fullføre avinstallasjonsprosessen.
+    Etter omstart åpnes støtte- og gjenopprettingsassistenten automatisk på nytt for å fullføre avinstalleringsprosessen.
 
-3. Følg resten spørsmål og [installere Office på nytt](https://portal.office.com/OLS/MySoftware.aspx) eller Lukk hjelperen.
+3. Følg gjenværende ledetekster, og [installer Office på nytt](https://portal.office.com/OLS/MySoftware.aspx) eller lukk assistenten.
 
-[Reparer feil i Office-installasjonen](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Løs Office-installasjonsfeil](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
