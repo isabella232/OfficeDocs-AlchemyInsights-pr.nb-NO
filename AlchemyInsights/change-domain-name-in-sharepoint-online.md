@@ -10,20 +10,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050246"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706908"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="8aa74-102">Endre domenenavn i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8aa74-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="ae08f-102">Endre domenenavn i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ae08f-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="8aa74-103">Det er dessverre ikke mulig å endre domenenavnet for SharePoint Online for organisasjonen i Office 365.</span><span class="sxs-lookup"><span data-stu-id="8aa74-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="8aa74-104">Hvis for eksempel navnet på organisasjonen din endres fra "Contoso" til "Fourth Coffee", kan du ikke endre contoso.sharepoint.com til fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="8aa74-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="ae08f-103">Det er dessverre ikke mulig å endre SharePoint Online-domenenavnet for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="ae08f-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization.</span></span> <span data-ttu-id="ae08f-104">Hvis navnet på organisasjonen for eksempel endres fra "Contoso" til "Fourth Coffee", kan du ikke endre contoso.sharepoint.com til fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="ae08f-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="8aa74-105">Hvis du vil bruke domenenavnet fourthcoffee.sharepoint.com, må du kjøpe et nytt abonnement på Office 365 og flytte alle e-postmeldinger, filer og andre data du vil beholde, til det nye abonnementet.</span><span class="sxs-lookup"><span data-stu-id="8aa74-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="ae08f-105">Hvis du vil bruke domenenavnet fourthcoffee.sharepoint.com, må du kjøpe et nytt abonnement og flytte all e-post, filer og eventuelle andre data du vil beholde til det nye abonnementet.</span><span class="sxs-lookup"><span data-stu-id="ae08f-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="8aa74-106">**Merk**: Hvis du for eksempel vil endre navnet på et område fra https://contoso.sharepoint.com/sites/sample1 til https://contoso.sharepoint.com/sites/sample2, følger du instruksjonene i [denne artikkelen](https://docs.microsoft.com/sharepoint/change-site-address).</span><span class="sxs-lookup"><span data-stu-id="8aa74-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, follow the instructions in [this article](https://docs.microsoft.com/sharepoint/change-site-address).</span></span> 
+ <span data-ttu-id="ae08f-106">**Merk:** Hvis du for eksempel vil https://contoso.sharepoint.com/sites/sample1 endre https://contoso.sharepoint.com/sites/sample2navnet på et område fra til , følger du instruksjonene i [denne artikkelen](https://docs.microsoft.com/sharepoint/change-site-address).</span><span class="sxs-lookup"><span data-stu-id="ae08f-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, follow the instructions in [this article](https://docs.microsoft.com/sharepoint/change-site-address).</span></span> 
   
-<span data-ttu-id="8aa74-107">Hvis du vil ha informasjon om hvordan du flytter elementer i dokumentbiblioteker, se [flytte eller kopiere elementer fra et SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="8aa74-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="ae08f-107">Hvis du vil ha informasjon om hvordan du flytter elementer i dokumentbiblioteker, kan du se [Flytte eller kopiere elementer fra et SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="ae08f-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   
