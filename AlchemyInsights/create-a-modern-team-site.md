@@ -1,31 +1,31 @@
 ---
-title: Opprette et moderne gruppeområde
+title: Opprett et moderne teamnettsted
 ms.author: clake
-author: spowriter
-ms.date: 11/9/2018
+author: pebaum
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715533"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Opprette et Office 365 gruppe-tilkoblet gruppeområde
+# <a name="create-an-office-365-group-connected-team-site"></a>Opprette et gruppetilkoblet gruppeområde for Office 365
 
-1. Klikk Start programmet for apper øverst i venstre hjørne, og velg **SharePoint**. Hvis du ikke ser SharePoint-flisen, klikker du **alle apper**.
+1. Klikk startprogrammet for apper øverst til venstre, og velg **SharePoint**. Hvis du ikke ser SharePoint-flisen, klikker du **Alle apper**.
     
-2. Øverst på startsiden for SharePoint klikker du **Opprett område** og velger alternativet **gruppeområde** . 
+2. Klikk **Opprett område** øverst på hjemmesiden for SharePoint, og velg alternativet **Gruppeområde.** 
     
     > [!NOTE]
-    > Hvis du ikke ser kommandoen Opprett område, kan det hende at områdeoppretting ikke er aktivert i organisasjonen. Hvis du vil aktivere den, kan du se [Behandle områdeoppretting](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Hvis du ikke ser kommandoen Opprett område, kan det hende at oppretting av område ikke er aktivert i organisasjonen. Hvis du vil aktivere den, kan du se [Administrere oppretting av område](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Følg trinnene på skjermen for å navngi området og opprette en e-postadresse for Office 365-gruppen, og klikk deretter **neste**. Du kan også legge til andre gruppe eiere og medlemmer. Klikk **Fullfør**.
+3. Følg trinnene på skjermen for å gi området et navn og opprette en e-postadresse for Office 365-gruppen, og klikk deretter **Neste**. Du kan også legge til andre gruppeeiere og medlemmer. Klikk **Fullfør**.
   
- **Merk:** Hvis du vil opprette et gruppeområde uten tilkoblet gruppe, følger du fremgangsmåten ovenfor, men i stedet for å velge gruppeområde i trinn 2. Velg andre alternativer. Dette fører deg gjennom opprettingen av et gruppeområde uten en gruppe. 
+ **Merk:** Hvis du vil opprette et gruppeområde uten en gruppe tilkoblet, følger du fremgangsmåten ovenfor, men i stedet for å velge Gruppeområde i trinn 2. velg Andre alternativer. Dette vil veilede deg gjennom å opprette et gruppenettsted uten en gruppe. 
     
 

@@ -1,9 +1,9 @@
 ---
-title: Identifisere ekstern e-post videresending på postbokser i overvåkingslogger
+title: Identifisere ekstern videresending av e-post på postbokser i overvåkingslogger
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716469"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifisere når ekstern e-post videresending er konfigurert på postbokser
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifisere når ekstern videresending av e-post er konfigurert på postbokser
 
-Når en bruker for Office 365 konfigurerer videresending av ekstern e-post på en postboks, er aktiviteten overvåket som en del av cmdleten **Set-postboks** . Du kan vise aktiviteten ved hjelp av sporing Logg Søk i Security-& overholdelsessenteret.
+Når en Microsoft 365-bruker konfigurerer ekstern videresending av e-post på en postboks, overvåkes aktiviteten som en del av cmdleten **Set-postboks.** Du kan se aktiviteten ved hjelp av overvåkingsloggsøk i Sikkerhets& compliance Center.
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).
+1. Logg på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Gå til **Søk** > **Overvåk Logg Søk** -siden.
+2. Gå til**søkesiden for søkeloggen for søke etter** søk i **søkesiden for søkeetter søk.** > 
 
-3. Velg datointervallet i feltene **Startdato** og **Sluttdato** . Du trenger ikke å angi et brukernavn. Kontroller **aktiviteter** -feltet er satt til å **vise resultater for alle aktiviteter**.
+3. Velg datoperioden i feltene **Startdato** og **Sluttdato.** Du trenger ikke å angi et brukernavn. Kontroller **at Aktiviteter-feltet** er satt til **Vis resultater for alle aktiviteter**.
 
 4. Klikk **Søk**.
 
-I resultatene klikker du **Filtreringsresultatene** og Skriv inn **Sett postboks** filterlisten for aktiviteten. Velg et kontrollregister i resultatene. I **Detaljer** -undermeny, klikker du **vil ha mer informasjon**. Du må se på detaljene for hver kontrollregister å finne ut om aktiviteten er knyttet til e-post videresending.
+Klikk **Filtrer resultater** i resultatene, og skriv inn **Set-postboks** i aktivitetsfilterboksen. Velg en overvåkingspost i resultatene. Klikk **Mer informasjon**i undermenyen **Detaljer.** Du må se på detaljene for hver revisjonsoppføring for å finne ut om aktiviteten er relatert til videresending av e-post.
 
-- **ObjectId**: alias verdien av postboksen som ble endret.
+- **ObjectId**: Aliasverdien for postboksen som ble endret.
 
-- **Parametere**: _ForwardingSmtpAddress_ angir måladressen for e-post.
+- **Parametere**: _ForwardingSmtpAddress_ angir mål-e-postadressen.
 
-- **Bruker-ID**: brukeren som konfigurert videresending av e-post på postboksen i **objekt-ID** -feltet.
+- **UserId**: Brukeren som konfigurerte videresending av e-post på postboksen i **ObjectId-feltet.**
 
-Hvis du vil ha mer informasjon, kan du se [Determining som konfigurere e-post videresending for en bestemt postboks](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Hvis du vil ha mer informasjon, kan du se [Finne ut hvem som konfigurerer videresending av e-post for en postboks](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

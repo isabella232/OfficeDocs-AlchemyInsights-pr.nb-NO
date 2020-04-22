@@ -1,8 +1,8 @@
 ---
-title: Regel-IDen for innholdsdistribusjon for Intune-App 991
+title: Intune App distribusjon regel ID 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498280"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714015"
 ---
-# <a name="intune-app-deployment"></a>Intune App distribusjon
+# <a name="intune-app-deployment"></a>Intune App Distribusjon
 
-Distribusjon av programmer med Intune er en prosess i tre trinn:
+Distribusjon av programmer med Intune er en tretrinnsprosess:
   
-1. **Legger til et program** - du kan legge til en App Store-app eller laste opp en linje av Business-app.
+1. **Legge til en app** – Du kan legge til en App Store-app eller laste opp en Bransje-app.
 
-2. **Tilordne en app** - bestemme omfanget av distribusjonen av programmet.
+2. **Tilordne en app** – Bestem omfanget av distribusjonen av programmet.
 
-3. **Overvåke apps** - Vis status for installasjon av apps, liste over oppdagede apps og administrere programmer som er kjøpt fra app butikker.
+3. **Overvåke apper** – Vis installasjonsstatusen for apper, liste oppdagede apper og administrer apper som er kjøpt fra appbutikker.
 
-Les [Hva er Intune App Management](https://docs.microsoft.com/intune/app-management) for gjennomgang og informasjon om hvordan du konfigurerer og beskyttelse av programmer.
+Les [Hva er Intune App Management](https://docs.microsoft.com/intune/app-management) for gjennomganger og informasjon om hvordan du konfigurerer og beskytter programmer.
   

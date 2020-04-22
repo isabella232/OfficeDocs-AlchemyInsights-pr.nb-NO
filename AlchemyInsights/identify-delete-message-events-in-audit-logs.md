@@ -1,9 +1,9 @@
 ---
-title: Identifisere Slett melding hendelser i overvåkingslogger
+title: Identifisere slette meldingshendelser i overvåkingslogger
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716505"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Overvåkingsloggen for slettede e-postmeldinger
+# <a name="audit-logs-for-deleted-email-messages"></a>Overvåkingslogger for slettede e-postmeldinger
 
-Starter i januar 2019, slås Microsoft på postboks-sporing logger som standard. Ellers, hvis du vil se gjennom Slett melding hendelser for en bestemt bruker, må du aktivere manuelt slette-aksjoner for overvåking. Hvis postboksen overvåkes logging allerede er aktivert for organisasjonen, eller for en bestemt bruker, følger du fremgangsmåten nedenfor.
+Fra og med januar 2019 aktiverer Microsoft overvåkingslogging for postboks som standard. Hvis du vil se gjennom slettemeldingshendelser for en bestemt bruker, må du aktivere slettehandlingene for sporing av endringer manuelt. Hvis overvåkingslogging for postboksallerede er aktivert for organisasjonen eller for den bestemte brukeren, følger du fremgangsmåten nedenfor.
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/)
+1. Logge på [Microsoft 365 Security & Compliance Center](https://protection.office.com/)
 
-2. Klikk **Søk og undersøkelser** , og velg **Overvåk Logg Søk**.
+2. Klikk **Søk og undersøkelse,** og velg **Søk etter overvåkingslogg**.
 
-3. Velg datointervallet i feltene **Startdato** og **Sluttdato** . Angi brukernavnet for brukeren som du vil undersøke (brukeren som slettet elementene). Velg **Slettede meldinger fra Slettede elementer-mappen** og **Moved meldinger til Slettede elementer-mappen**i **aktiviteter** -feltet.
+3. Velg datoperioden i feltene **Startdato** og **Sluttdato.** Angi brukernavn for brukeren du vil undersøke (brukeren som slettet elementene). Velg **Slettede meldinger fra Slettede elementer-mappen** i **Aktiviteter-feltet,** og **Flytt meldinger til Slettede elementer-mappen**.
 
 4. Klikk **Søk**.
 
-I resultatene, velger du et kontrollregister. Klikk **Mer informasjon**i detaljer-undermeny. Hvis du vil ha mer informasjon om slettet element (for eksempel Emne-linjen, og plasseringen av elementet når det ble slettet) vises i feltet **AffectedItems** . Egenskapen **ClientInfoString** viser Hvis slettingen oppstod i Outlook, Outlook på weben (tidligere kjent som Outlook Web App) eller andre enheter.
+Velg en overvåkingspost i resultatene. Klikk **Mer informasjon**i undermenyen for detaljer. Tilleggsinformasjon om det slettede elementet (for eksempel emnelinjen og plasseringen av elementet da det ble slettet) vises i **berørtelementer-feltet.** Egenskapen **ClientInfoString** viser om slettingen oppstod i Outlook, Outlook på nettet (tidligere kjent som Outlook Web App) eller en annen enhet.
 
-Hvis du vil ha mer informasjon, kan du se [Determining som konfigurere e-post videresending for en bestemt postboks](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Hvis du vil ha mer informasjon, kan du se [Finne ut hvem som konfigurerer videresending av e-post for en postboks](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Merk**: du kan ikke gjenopprette slettede elementer ved hjelp av funksjonen for overvåkingspolicy logg. Hvis du vil hente slettede meldinger i Outlook på World Wide web, kan du se [Gjenopprett slettede elementer i Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Merk:** Du kan ikke hente slettede elementer ved hjelp av funksjonen for overvåkingslogg. Hvis du vil hente slettede meldinger i Outlook på nettet, kan du se [Gjenopprette slettede elementer i Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

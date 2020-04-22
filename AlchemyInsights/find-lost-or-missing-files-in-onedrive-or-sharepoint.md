@@ -3,7 +3,7 @@ title: Finne tapte eller manglende filer i OneDrive eller SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716109"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Finne tapte eller manglende filer i OneDrive eller SharePoint
 
-- Kontroller papirkurven ved å bla til OneDrive eller SharePoint-området på weben og klikke Papirkurv i venstre rute. (Hvis papirkurven ikke vises i ruten til venstre, klikker du på innstillinger-ikonet og velger deretter **områdeinnhold**. **Papirkurven** er helt til høyre på kommandolinjen øverst.) 
+- Kontroller papirkurven ved å bla til OneDrive eller SharePoint-området på nettet, og klikk papirkurven i ruten til venstre. (Hvis du ikke ser Papirkurv i ruten til venstre, klikker du Innstillinger-ikonet, og deretter velger du **Områdeinnhold**. **Papirkurven** er helt til høyre på kommandolinjen øverst.) 
     
-- Hvis du synkroniserer filene på datamaskinen, må du kontrollere papirkurven på datamaskinen. 
+- Hvis du synkroniserer filene på datamaskinen, merker du av for Papirkurv på datamaskinen. 
     
-- Hvis du ikke ser elementet du leter etter, og det nylig ble slettet, kan det hende at en administrator for områdesamlingen gjenoppretter det fra papirkurven for områdesamlingen. Hvis du er administrator for områdesamlingen, kan du se [gjenopprette slettede elementer fra områdesamlingen papir](https://go.microsoft.com/fwlink/?linkid=866439)kurven.
+- Hvis du ikke ser elementet du leter etter, og det nylig ble slettet, kan det hende at en administrator for områdesamling kan gjenopprette det fra papirkurven for områdesamlingen. Hvis du er administrator for områdesamlingen, kan du se [Gjenopprette slettede elementer fra papirkurven for områdesamlingen](https://go.microsoft.com/fwlink/?linkid=866439).
     
 [Mer hjelp til å gjenopprette slettede filer og mapper i OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   

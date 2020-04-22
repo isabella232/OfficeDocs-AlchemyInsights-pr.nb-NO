@@ -1,9 +1,9 @@
 ---
-title: 2681 angrep Simulator i Office 365
+title: 2681 Attack Simulator i Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713475"
 ---
-# <a name="attack-simulator-in-office-365"></a>Attack Simulator i Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator i Microsoft 365
 
-- Er du mangler Attack Simulator? Attack Simulator krever **office 365 avansert trusselbeskyttelse plan 2 (ATP-plan 2)** eller **Office 365 Enterprise E5**. Attack Simulator er **ikke** inkludert i Office 365 avansert trussel beskyttelses plan 1 (ATP-plan 1), Office 365 Enterprise E3 eller noen Office 365 Business-abonnementer.
+- Mangler du Attack Simulator? Attack Simulator krever **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** eller **Office 365 Enterprise E5**. Attack Simulator er **ikke** inkludert i Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 eller noen Microsoft 365 Apps for business-abonnementer.
 
-- Kontoen du bruker til å starte simulerte angrep, krever global administrator-eller sikkerhetsadministrator tillatelser og multifaktorautentisering (MFA). Hvis du vil ha mer informasjon om Attack Simulator-krav, kan du se [dette emnet](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Kontoen du bruker til å starte simulerte angrep, krever globale administrator- eller sikkerhetsadministratortillatelser og multifaktorautentisering (MFA). Hvis du vil ha mer informasjon om kravene til Attack Simulator, kan du se [dette emnet](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
-- Viktige ting å vite om **Brute Force passord** angrep simuleringer:
+- Viktige ting å vite om **Brute Force Passord** angrep simuleringer:
 
-  - Hvis målkontoen har MFA aktivert og passordet ble gjettet riktig, vil kontoen ikke vises som kompromittert (den andre godkjennings faktoren vil være ufullstendig).
+  - Hvis målkontoen har MFA aktivert og passordet ble gjettet riktig, vises ikke kontoen som kompromittert (den andre godkjenningsfaktoren vil være ufullstendig).
 
-  - Passord filen kan ikke være større enn 10 MB. Bruk ett passord per linje, og ta med en tom linje (vognretur) etter det siste passordet i listen.
+  - Passordfilen kan ikke være større enn 10 MB. Bruk ett passord per linje, og inkluder en tom linje (vognretur) etter det siste passordet i listen.
 
-- Viktige ting å vite om **spyd phishing** feste simuleringer:
+- Viktige ting å vite om **Spear Phishing** feste simuleringer:
 
-  - Som standard kan du ikke angi en egendefinert verdi for **URL-adressen for phishing-pålogging**.
+  - Etter utforming kan du ikke oppgi en egendefinert verdi for **URL-adressen til phishing-påloggingsserveren**.
 
-  - Hvis en mottaker bruker [Aktiver rapportmelding-tillegget](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) for å rapportere meldingen som phishing, kan det hende du ikke mottar varsler for meldingen (fordi dette er et simulert angrep).
+  - Hvis en mottaker bruker [tillegget Aktiver rapportmelding](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) til å rapportere meldingen som phishing, kan det hende du ikke mottar varsler for meldingen (fordi dette er et simulert angrep).
 
-- Rapporter: etter at det simulerte angrepet er fullført, kan du klikke på **angreps detaljer** for å se rapporten.
+- Rapporter: Når det simulerte angrepet er fullført, kan du klikke **på Angrepsdetaljer** for å se rapporten.
 
-- Hvis du vil ha detaljerte instruksjoner og nye funksjoner i Attack Simulator, kan du se [Attack Simulator i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Hvis du vil ha detaljerte instruksjoner og nye funksjoner i Attack Simulator, kan du se [Attack Simulator i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

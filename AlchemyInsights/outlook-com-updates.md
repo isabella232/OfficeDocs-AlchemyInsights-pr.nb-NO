@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-oppdateringer
+title: Outlook.com oppdateringer
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719349"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com-oppdateringer
+# <a name="outlookcom-updates"></a>Outlook.com oppdateringer
 
 **Siste oppdateringer**
 
-- Få mer ut av din e-post med den nye Outlook.com. Vi har strømlinjeformet søk for å gjøre det enklere enn noen gang du vil finne det du leter etter. Nye funksjoner som bilder og forhåndsvisning av vedlegg kan du se bildene og filene dine uten å forlate innboksen. Og nå kan du legge til emojis- og GIF-filer i meldinger.  [Lær mer om den nye Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Få mer ut av e-posten din med den nye Outlook.com. Vi har strømlinjeformet søk for å gjøre det enklere enn noensinne å finne det du leter etter. Med nye funksjoner som forhåndsvisninger av bilder og vedlegg kan du se bildene og filene dine uten å forlate innboksen. Og nå kan du legge til emojis og GIF-er i meldingene dine.  [Finn ut mer om den nye Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **E-postoppdateringer**
 
-- Hvis postboksen Outlook.com ikke er oppdaterer, kan du se [løse Outlook.com synkroniseringsfeil for e-post](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Hvis Outlook.com postboksen ikke oppdateres, kan du se [Løse problemer med Outlook.com synkronisering av e-post](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

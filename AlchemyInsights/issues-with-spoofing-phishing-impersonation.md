@@ -1,5 +1,5 @@
 ---
-title: Problemer med etterligningsangrep, phishing eller representasjon?
+title: Problemer med forfalskning, phishing eller etterligning?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713979"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemer med etterligningsangrep, phishing eller representasjon?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemer med forfalskning, phishing eller etterligning?
 
-Lær hvordan Office 365 beskytter deg mot:
+Finn ut hvordan Microsoft beskytter deg mot:
 
 - [Etterligning](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [Phishing og representasjon](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [Phishing og etterligning](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
 Ytterligere anbefalinger:
 
-- For falske avsendere som ser ut til å komme fra ditt eget domene, kan [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) og [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) hjelpe.
+- For forfalskede avsendere som ser ut til å komme fra ditt eget domene, kan [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) og [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) hjelpe.
 
-- Kontroller avsendere i ditt eget domene ikke er konfigurert til å omgå anti-spam-filtrering ved hjelp av e-postflyt regler (også kjent som transportregler) eller tillate listeoppføringer. Hvis du vil ha mer informasjon, kan du se [advarsler mot omgåelsen Office 365 spam-filtre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Kontroller at avsendere i ditt eget domene ikke er konfigurert til å omgå anti-spamfiltrering ved hjelp av regler for e-postflyt (også kjent som transportregler) eller tillate listeoppføringer. Hvis du vil ha mer informasjon, kan du se [Forsiktighetsregler mot å omgå Microsofts søppelpostfiltre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Kontroller at brukerne ikke har konfigurert oppføringer i [listen over sikre avsendere](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) som kan tillate phishing-angrep.
+- Kontroller at brukere ikke har konfigurert [listeoppføringer for klarerte avsendere](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) som kan tillate phishing-angrep.
 
-- Vurder å levere spam-og phishing-meldinger med høy sikkerhet i karantene i stedet for søppelpost-mappen. Hvis du vil ha mer informasjon, se [karantene e-postmeldinger i Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Vurder å levere søppelpost og phishing-meldinger med høy tillit i karantene i stedet for søppelpostmappen. Hvis du vil ha mer informasjon, kan du se [Karantene e-postmeldinger](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Rapportering av meldinger til Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) er den beste måten å la oss få vite hvordan filtrene utfører.**
+**[Rapportering av meldinger til Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) er den beste måten å fortelle oss hvordan filtrene fungerer.**

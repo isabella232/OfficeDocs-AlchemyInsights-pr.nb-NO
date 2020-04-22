@@ -1,9 +1,9 @@
 ---
-title: Identifisere IP-adressen og klient i overvåkingslogger
+title: Identifisere IP-adresse og klient i overvåkingslogger
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539038"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716397"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifisere IP-adressen og klient i overvåkingslogger
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifisere IP-adresse og klient i overvåkingslogger
 
-IP-adresse som svarer til en aktivitet med en Office 365-bruker eller administrator vises i overvåkingsloggen. Informasjon om klient logges også. Her er fremgangsmåten for å identifisere slike opplysninger
+IP-adressen som tilsvarer en aktivitet av en Microsoft 365-bruker eller administrator, vises i overvåkingsloggene. Klientinformasjonen logges også. Her er fremgangsmåten for å identifisere slik informasjon
 
-1. Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).
+1. Logg på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Gå til **Søk** > **Overvåk Logg Søk** -siden.
+2. Gå til**søkesiden for søkeloggen for søke etter** søk i **søkesiden for søkeetter søk.** > 
 
-   Hvis du er interessert i en bestemt aktivitet, kan du velge den fra **aktiviteter** -listen. Hvis ikke, returneres alle aktiviteter for den valgte brukeren (standardinnstilling).
+   Hvis du er interessert i en bestemt aktivitet, velger du den fra **Aktivitetsliste.** Hvis ikke, returneres alle aktiviteter for den valgte brukeren (standardinnstilling).
 
-   **Merk**: enkelte aktiviteter er kanskje ikke tilgjengelig i **aktiviteter** -menyen. imidlertid de overvåke varer returneres hvis **Vise resultater for alle aktiviteter som** er valgt (standardinnstillingen).
+   **Merk:** Enkelte aktiviteter er kanskje ikke tilgjengelige i **Aktiviteter-menyen.** Disse overvåkingselementene returneres imidlertid hvis **Vis resultater for alle aktiviteter** er valgt (standardinnstilling).
 
-3. Angi brukernavnet i **brukere** -feltet, velg riktig datointervallet for aktiviteten og deretter **Søk**.
+3. Angi brukernavnet i **Brukere-feltet,** velg riktig datoperiode for aktiviteten, og klikk deretter **Søk**.
 
-I resultatene, kan du se IP-adressen for denne aktiviteten i resultater-ruten. Velg kontrollregister å se detaljert informasjon i **Detaljer** -undermeny (for eksempel klient, brukeren som utførte handlingen, osv.).
+I resultatene kan du se IP-adressen for denne aktiviteten i resultatruten. Velg overvåkingsoppføringen for å se detaljert informasjon i **undermenyen Detaljer** (for eksempel Klient, Bruker som utførte handlingen osv.).
 
-Hvis du vil ha mer informasjon, kan du se [finne IP-adressen til datamaskinen for å få tilgang til et utsatt konto](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Hvis du vil ha mer informasjon, kan du se [Finne IP-adressen til datamaskinen som brukes til å få tilgang til en kompromittert konto](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

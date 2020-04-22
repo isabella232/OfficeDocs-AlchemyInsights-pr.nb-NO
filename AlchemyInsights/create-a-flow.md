@@ -3,7 +3,7 @@ title: Opprette en flyt
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 280169200893921fa550264cceca5f5980937536
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715569"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
-Microsoft Flow hjelper deg med å automatisere vanlige oppgaver. Bruk den til å konfigurere arbeidsflyter for lister og biblioteker. Hvis du vil lære hvordan du legger til en flyt i en liste eller et bibliotek i SharePoint Online eller OneDrive, kan du se [opprette en flyt](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow hjelper deg med å automatisere vanlige oppgaver. Bruk den til å konfigurere arbeidsflyter for lister og biblioteker. Hvis du vil lære hvordan du legger til en flyt i en liste eller et bibliotek i SharePoint Online eller OneDrive, kan du se [Opprette en flyt](https://go.microsoft.com/fwlink/?linkid=869408).
   
 [Videoer om Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   

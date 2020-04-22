@@ -1,9 +1,9 @@
 ---
-title: Office 365 for regjeringen planer og priser
+title: Office 365 for offentlige planer og priser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522128"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713367"
 ---
-# <a name="office-365-government-plans"></a>Office 365 regjeringen planer
+# <a name="office-365-government-plans"></a>Planer for Office 365-regjeringen
 
-Office 365 amerikanske regjeringen planer er utformet for de unike behovene til amerikanske offentlige organisasjoner. De gir alle funksjonene og mulighetene til Office 365-tjenester i en segmentert offentlige sky fellesskap som gjør det muliggjør for organisasjoner å oppfylle amerikanske samsvar og sikkerhetsstandarder.
+Office 365 amerikanske myndigheter planer er utformet for de unike behovene til amerikanske regjeringsorganisasjoner. De tilbyr alle funksjonene og funksjonene til Office 365-tjenester i et segmentert offentlig skyfellesskap som gjør det mulig for organisasjoner å oppfylle amerikanske samsvars- og sikkerhetsstandarder.
   
-- [Se gjennom offentlig-planer](https://products.office.com/government/compare-office-365-government-plans)
+- [Gjennomgå regjeringens planer](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Sammenlign alle Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Sammenligne alle Microsoft 365-abonnementer](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713259"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Melding i Office-apper – Vi har støtt på et problem med abonnementet ditt
 
@@ -26,7 +26,7 @@ ms.locfileid: "43183095"
 
 - Fjern og tilordne [Office-lisensen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) på nytt for den berørte brukeren. 
 
-- Åpne en Office-app, gå til **Fil > Konto** og logg ut av alle kontoene dine. Logg på igjen ved å bruke en brukerkonto med en gyldig lisens. Hvis du vil ha mer informasjon, se [Kontoer i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Åpne en Office-app, gå til **Fil > Konto** og logg ut av alle kontoene dine. Logg på igjen ved å bruke en brukerkonto med en gyldig lisens. Hvis du vil ha mer informasjon, se [Kontoer i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Kjør [feilsøkingsverktøyet for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) og start datamaskinen på nytt.
 
