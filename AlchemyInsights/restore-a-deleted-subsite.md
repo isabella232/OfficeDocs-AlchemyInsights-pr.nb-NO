@@ -3,7 +3,7 @@ title: Gjenopprette et slettet sekundært område
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552296"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758691"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Gjenopprette en slettet SharePoint sekundært område
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Gjenopprette et slettet SharePoint-sekundært område
 
-Slettede sekundære områder, sendes til områdesamlingen papirkurven, hvor de er plassert i 93 dager. Gjenopprette et slettet sekundært område:
+Slettede sekundære områder sendes til papirkurven for områdesamlingen, der de beholdes i 93 dager. Slik gjenoppretter du et slettet sekundært område:
   
-1. I den nye SharePoint-administrasjonssenteret finne området som det sekundære området ble slettet og kontroller at du er et områdesamling admin. 
+1. Finn området der det sekundære området ble slettet, i det nye administrasjonssenteret for SharePoint, og kontroller at du er administrator for en områdesamling. 
     
-2. Gå til området. Klikk **Papirkurv** i den venstre ruten. (Hvis du ikke ser papirkurven, klikker du ikonet, og klikk deretter **innholdet på området**. Papirkurven er helt til høyre på Kommando-linjen øverst.)
+2. Gå til nettstedet. Klikk **Papirkurv** i ruten til venstre. (Hvis du ikke ser papirkurven, klikker du Innstillinger-ikonet, og deretter klikker du **Områdeinnhold**. Papirkurven er helt til høyre på kommandolinjen øverst.)
     
-3. Nederst på siden, klikker du på **Papirkurv for andre fase**.
+3. Klikk **Andretrinns papirkurv**nederst på siden.
     
 4. Klikk til venstre for det sekundære området, og klikk deretter **Gjenopprett**.
     

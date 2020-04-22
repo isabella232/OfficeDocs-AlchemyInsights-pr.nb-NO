@@ -1,9 +1,9 @@
 ---
-title: Slutte å logge deg på Outlook.com automatisk
+title: Slutte å logge på automatisk for å Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 6ea25d3340c00cf05d166418470a0ca5f5490f34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e3ff70bb9f059790b127fa9da3265fa593f1d53
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722349"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>Slik hindrer du logge deg på automatisk
+# <a name="how-to-stop-signing-in-automatically"></a>Slik slutter du å logge på automatisk
 
-Hvis du ikke logger på Outlook.com automatisk, Fjern merket for **Hold meg pålogget** på siden der du skriver inn passordet ditt.
+Hvis du vil slutte å logge på Outlook.com automatisk, fjerner du merket i boksen for **Hold meg pålogget** på siden der du skriver inn passordet ditt.
   
-Hvis du vil ha mer informasjon, kan du se [hvordan du logger på eller utenfor Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil vite mer, kan du se [Logge på eller av Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

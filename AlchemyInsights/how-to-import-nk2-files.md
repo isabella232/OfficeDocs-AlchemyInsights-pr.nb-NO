@@ -1,9 +1,9 @@
 ---
-title: How-skal-import-nk2-filer
+title: hvordan-å-importere-nk2-filer
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759341"
 ---
-# <a name="how-to-import-nk2-files"></a>Hvordan du importerer .nk2-filer 
+# <a name="how-to-import-nk2-files"></a>Slik importerer du NK2-filer 
 
-Når du starter Microsoft Outlook 2013, Outlook-2016, 2019 i Outlook eller Outlook for Office 365 for første gang, importeres i hurtigbufferen for kallenavn (lagret i *Profilnavn*nk2-filen) til en skjult melding i standard meldingslager.
+Når du starter Microsoft Outlook 2013, Outlook-2016, Outlook 2019 eller Outlook for Microsoft 365 for første gang, importeres hurtigbufferen for kallenavn (lagret i *profilnavnet*NK2-filen) til en skjult melding i standard meldingslageret.
 
-Hvis du vil importere .nk2-filer til Outlook 2013, Outlook-2016, 2019 i Outlook eller Outlook til Office 365, må du kontrollere at nk2-filen er i følgende mappe: %appdata%\Microsoft\Outlook
+Hvis du vil importere NK2-filer til Outlook-2013, Outlook-2016, Outlook-2019 eller Outlook for Microsoft 365, må du kontrollere at NK2-filen er i følgende mappe: %appdata%\Microsoft\Outlook
 
-**Merknad**: nk2-filen må ha samme navn som gjeldende profil for Outlook 2013 eller Outlook-2016. Profilnavnet er som standard "Outlook". Hvis du vil kontrollere profilnavnet, gjør du følgende: 
+**Merk:** NK2-filen må ha samme navn som gjeldende Outlook 2013- eller Outlook 2016-profil. Som standard er profilnavnet "Outlook". Hvis du vil kontrollere profilnavnet, gjør du følgende: 
 1. Klikk **Start**, og klikk deretter **Kontrollpanel**.
-2. Dobbeltklikk **e-post**.
-3. Velg **Vis profiler**i dialogboksen e-postoppsett.
-4. Velg **Start** > **kjører**.
-5. I **Åpne** -boksen skriver du inn *outlook.exe /importnk2*, og velg deretter **OK**. 
+2. Dobbeltklikk **E-post**.
+3. Velg **Vis profiler**i dialogboksen Oppsett av e-post .
+4. Velg **Start** > **kjør**.
+5. Skriv inn *outlook.exe /importnk2*i **Åpne** -boksen, og velg deretter **OK**. 
 
-Når du importerer .nk2-fil, flettes innholdet i filen til den eksisterende hurtigbufferen for kallenavn er lagret i postboksen.
+Når du importerer NK2-filen, flettes innholdet i filen til den eksisterende hurtigbufferen for kallenavn som er lagret i postboksen.
 
-**Merknad**: nk2-filen har fått nytt navn med filtypen OLD neste gang du starter Outlook 2013, Outlook-2016, 2019 i Outlook eller Outlook for Office 365. Hvis du Importer nk2-filen på nytt, må du fjerne filtypen OLD først.
+**Merk:**.nk2 filen er omdøpt med en .old filtype neste gang du starter Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook for Microsoft 365. Hvis du vil importere NK2-filen på nytt, fjerner du den gamle filtypen først.
 
-Hvis du vil ha mer informasjon, kan du se [importere eller kopiere Autofullfør-listen til en annen datamaskin](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Hvis du vil ha mer informasjon, kan du se [Importere eller kopiere autofullføringslisten til en annen datamaskin](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

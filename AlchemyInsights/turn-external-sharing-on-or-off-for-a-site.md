@@ -1,9 +1,9 @@
 ---
-title: Aktiver ekstern deling på eller av for et område
+title: Aktivere eller deaktivere ekstern deling for et nettsted
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559166"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732005"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Aktiver ekstern deling på eller av for et SharePoint-område
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Aktivere eller deaktivere ekstern deling for et SharePoint-område
 
-For et område:
+For et nettsted:
   
-1. Klikk **områder**i nye SharePoint administrasjonssenteret, i ruten til venstre.
+1. Klikk **områder**i ruten til venstre i det nye administrasjonssenteret for SharePoint.
     
-2. Velg område eller områder, og klikk **Deling**på båndet.
+2. Velg området eller områdene, og klikk **Deling**på båndet.
     
-Som standard har nye områder som brukerne oppretter både (gruppeområder som hører til Office 365-grupper) og områder for kommunikasjon den samme delte innstillingen som innstilling for bedriften, med mindre organisasjonsomfattende innstillingen tillater deling av filer ved hjelp av koblinger som ikke Krev pålogging. I dette tilfellet Tillat områdene deling med nye og eksisterende eksterne brukere som logger på. Hvis du vil endre innstillingen for bestemte områder, kan du bruke den nye SharePoint-administrasjonssenteret.
+Som standard har nye områder som brukere oppretter (både gruppeområder som tilhører Office 365-grupper og kommunikasjonsområder) samme delingsinnstilling som innstillingen for hele organisasjonen, med mindre innstillingen for hele organisasjonen tillater deling av filer ved hjelp av koblinger som ikke krever pålogging. I dette tilfellet tillater nettstedene deling med nye og eksisterende eksterne brukere som logger på. Hvis du vil endre innstillingen for bestemte områder, bruker du det nye administrasjonssenteret for SharePoint.
   
 > [!NOTE]
-> Eksterne delte innstillingen for et område kan være mer restriktive enn innstillingene for hele organisasjonen, men ikke mer tillatte DACLer enn innstillingen for hele organisasjonen. 
+> Innstillingen for ekstern deling for alle nettsteder kan være mer restriktive enn innstillingen for hele organisasjonen, men ikke mer tillatt enn innstillingen for hele organisasjonen. 
   
 

@@ -3,26 +3,26 @@ title: Outlook.com endre utseendet på postboksen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721975"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Endre utseendet på Outlook.com-postboks
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Endre utseendet på Outlook.com postboksen
 
-Du kan endre utseendet på listen og lese meldingsruten i Outlook.com.
+Du kan endre utseendet på meldingslisten og leseruten i Outlook.com.
 
-- Hvis du vil endre oppsettet for meldingsvinduet, åpne Alternativer for [leseruten](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Hvis du vil endre hvordan din e-post blir sortert på toppen av meldingslisten merker du **filteret** > **Sorter etter** , og Velg hvordan du vil sortere i e-posten.
-- Hvis du vil gruppere meldinger etter diskusjon, kan du åpne [meldingen organisasjon](https://outlook.live.com/mail/options/mail/layout/conversations) -alternativer.
-- Åpne alternativer for [Oppsett](https://outlook.live.com/mail/options/mail/layout/focused) for å aktivere eller deaktivere fokusert innboks.
+- Hvis du vil endre oppsettet for meldingsvinduet, åpner du alternativene [i leseruten.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Hvis du vil endre hvordan e-posten sorteres, velger du **Filtrer** > **sorter etter** øverst i meldingslisten og velger hvordan du vil sortere e-posten.
+- Hvis du vil gruppere meldingene etter samtale, åpner du alternativene [for Meldingsorganisasjon.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Hvis du vil aktivere eller deaktivere fokusert innboks, åpner du [oppsettalternativene.](https://outlook.live.com/mail/options/mail/layout/focused)

@@ -1,9 +1,9 @@
 ---
-title: Nødvendige lisenser for Microsoft-ToDo
+title: Nødvendige lisenser for Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722665"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Nødvendige lisenser for Microsoft-ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Nødvendige lisenser for Microsoft ToDo
 
-[Nødvendige lisenser for Microsoft-ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Nødvendige lisenser for Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-En bruker må ha én av følgende lisenser til å bruke Microsoft ToDo:
+En bruker må ha én av følgende lisenser for å kunne bruke Microsoft ToDo:
   
 - Business Essentials
 
 - Business Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 Første linje F1
 
-- Et hvilket som helst Office 365 Enterprise-plan
+- Alle Office 365 Enterprise-planer
 
-- Sikker produktiv Business
+- Sikre produktiv virksomhet
 
-- Sikre produktiv Enterprise E3
+- Sikre produktiv virksomhet E3
 
-- Sikre produktiv Enterprise E5
+- Sikre produktiv virksomhet E5
 
-- En plan for Office 365-utdanning
+- Alle Office 365 Education-planer
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-I tillegg til en gyldig produktlisens er én av følgende versjoner av Exchange Online nødvendig for ToDo skal kunne synkronisere brukerdata:
+I tillegg til en gyldig produktlisens er en av følgende versjoner av Exchange Online nødvendig for at ToDo skal kunne synkronisere brukerdata:
   
-- Exchange Online-Plan 1
+- Exchange Online Plan 1
 
-- Exchange Online-Plan 2
+- Exchange Online Plan 2
 
-- Grunnleggende om Exchange
+- Grunnleggende om exchange
 
 - Exchange Online Kiosk
 
-- Exchange Online-POP
+- Exchange Online POP
 
 [Tilordne lisenser til brukerkontoer med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
