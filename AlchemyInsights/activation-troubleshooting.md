@@ -1,8 +1,8 @@
 ---
-title: Feilsøking i forbindelse med aktivering
+title: Feilsøking for aktivering
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495580"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676434"
 ---
-# <a name="activation-troubleshooting"></a>Feilsøking i forbindelse med aktivering
+# <a name="activation-troubleshooting"></a>Feilsøking for aktivering
 
-I **Kontrollpanel** \> **programmer og funksjoner**, Søk etter Office. Du bør se Microsoft Office 365 ProPlus eller Microsoft Office 365-Business. Hvis du ser mer enn én versjon av Office som er oppført, kan du avinstallere versjonen du ikke bruker.
+Søk etter Office i **Kontrollpanelprogrammer** \> **og -funksjoner.** Du skal se Microsoft 365 Apps for enterprise eller Microsoft 365 Apps for bedrifter. Hvis du ser mer enn én versjon av Office oppført, avinstaller versjonen du ikke bruker.
   
-Hvis du ikke kan avinstallere fullført ved hjelp av Kontrollpanel, bruke [støtte og gjenoppretting hjelperen](https://aka.ms/SARA-OfficeUninstall-Alchemy) til å avinstallere versjonen du ikke bruker.
+Hvis du ikke kan avinstallere ved hjelp av Kontrollpanelet, kan du bruke [støtte- og gjenopprettingsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) til å avinstallere versjonen du ikke bruker.
   
-Hvis Office er fortsatt ulisensiert, gå tilbake til **Kontrollpanel** \> **programmer og funksjoner**. Høyreklikk gjenværende Office-installasjonen, velger du **Endre** (eller endre), og velg deretter **Online reparasjon**. Online reparasjonen kan ta en stund. Deretter starter Office på nytt og logge på ved hjelp av arbeidet eller skolen-konto hvis du blir bedt om.
+Hvis Office fortsatt ikke er lisensiert, går du tilbake til **Kontrollpanelprogrammer** \> **og -funksjoner**. Høyreklikk gjenværende Office-installasjon, velg **Endre** (eller Endre), og velg deretter **Tilkoblet reparasjon**. Den tilkoblede reparasjonen kan ta en stund. Start deretter Office på nytt, og logg på med jobb- eller skolekontoen din hvis du blir bedt om det.
   
-Hvis Office er fortsatt ulisensiert, laste ned og deretter kjøre [feilsøking for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) på den berørte maskinen til å løse aktiveringsproblemer med.
+Hvis Office fortsatt ikke er lisensiert, laster du ned og kjører [aktiveringsfeilsøkingen](https://aka.ms/SARA-OfficeActivation-Alchemy) på den berørte maskinen for å løse aktiveringsproblemene.
   
-Hvis du vil ha mer informasjon, se: [ikke lisensiert produkt og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Hvis du vil ha mer informasjon, kan du se: [Ulisensiertprodukt og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

@@ -1,8 +1,8 @@
 ---
-title: Aktiver multifaktorautentisering
+title: Aktivere godkjenning av flere faktorer
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703471"
 ---
-# <a name="enable-multi-factor-authentication"></a>Aktiver multifaktorautentisering
+# <a name="enable-multi-factor-authentication"></a>Aktivere godkjenning med flere faktorer
 
-Slik aktiverer du multifaktorautentisering i administrasjonssenteret for Microsoft 365:
+Slik aktiverer du godkjenning med flere faktorer i administrasjonssenteret for Microsoft 365:
 
-1. Gå til **brukere** \> **aktive brukere** -siden.
+1. Gå til **Users** \> brukere **aktive brukere-siden.**
     
-2. Velg **multifaktorautentisering**øverst på siden. 
+2. Velg **Multifaktorautentisering**øverst på siden. 
     
-3. Søke etter brukeren eller brukerne du vil aktivere for multifaktorautentisering. Hvis du vil se alle brukerne, må du kanskje endre statusfilteret **Multi-faktor-godkjenning** på toppen.
+3. Finn brukeren eller brukerne du vil aktivere for godkjenning med flere faktorer. Hvis du vil se alle brukerne, må du kanskje endre **statusfilteret Multifaktorauth** øverst.
     
 4. Merk av for brukerne du vil aktivere.
     
-5.  Velg **Aktiver**i høyre bruker i informasjonsruten **hurtigtrinn**. 
+5.  Velg **Aktiver**under **hurtigtrinn**i ruten til høyre brukerinformasjon. 
     
-6. I dialogboksen som åpnes, velger du **Aktiver Multi-faktor-godkjenning**. 
+6. I dialogboksen som åpnes, velger du **aktiver multifaktorauth**. 
     
 

@@ -3,7 +3,7 @@ title: Ansatte forlater
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527840"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703724"
 ---
-# <a name="block-access-to-a-former-employee"></a>Blokkere tilgangen til en tidligere ansatt
+# <a name="block-access-to-a-former-employee"></a>Blokkere tilgang til en tidligere ansatt
 
-Har en ansatt forlater og trenger å blokkere tilgang til Office 365-data og e-post? Gjør følgende:
+Har en ansatt forlatt og trenger å blokkere tilgang til data og e-post? Gjør følgende.
   
-1. Gå til **brukere** i administrasjonssenteret, \> [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden.
+1. Gå til siden **Brukere** \> [aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) i administrasjonssenteret.
 
 2. Velg navnet på brukeren du vil blokkere.
 
 3. Velg **Blokker denne brukeren**under brukerens navn.
 
-4. Velg **blokkere at brukeren logger på** \> **Lagre endringer**.
+4. Velg **Blokker brukeren fra å logge på** \> **Lagre endringer**.
 
-**Merk**: Logg av i noen programmer kan være umiddelbar. Følge opp med flere handlinger i denne artikkelen: [fjerne en tidligere ansatt fra Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Merk:** Det er kanskje ikke umiddelbart å logge av enkelte apper. Oppfølging med flere handlinger i denne artikkelen: [Fjerne en tidligere ansatt](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

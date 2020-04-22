@@ -1,8 +1,8 @@
 ---
-title: Feilkode 550 5.7.705 tilgang, leier har overskredet terskelen
+title: Feilkode 550 5.7.705 Ingen tilgang, leier har overskredet terskelen
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702999"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 tilgang, leier har overskredet terskelen
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Ingen tilgang, leietaker har overskredet terskelen
 
-Denne meldingen vises når for mye spam eller bulk e-post som er sendt av din organisasjon og vi plassere en blokk på utgående e-post.
-Vanlige årsaker kan være utsatt lokale servere eller utsatt admin kontoer som har blitt brukt til å opprette koblinger. En av betingelsene kan tillate at spam kan passere gjennom organisasjonen din.
+Denne meldingen oppstår når for mye søppelpost eller masseutsendelse av e-post er sendt av organisasjonen, og vi plasserer en blokk på utgående e-post.
+Vanlige årsaker er kompromittert lokale servere eller kompromitterte administratorkontoer som har blitt brukt til å opprette koblinger. Enten kan tilstanden tillate spam å passere gjennom organisasjonen.
 
-Hvis du vil fjerne denne blokken, må du forstå og forklare årsaken til en agent for støtte, i tillegg til å løse det underliggende problemet.
-Klikk **Kontakt oss** nedenfor når du er klar.
+Hvis du vil fjerne denne blokken, må du forstå og forklare årsaken til en støtteagent, samt løse det underliggende problemet.
+Klikk **på Kontakt oss** nedenfor når du er klar.

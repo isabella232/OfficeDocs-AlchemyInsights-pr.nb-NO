@@ -1,9 +1,9 @@
 ---
-title: Gjenopprette slettede e-post i Outlook.com
+title: Gjenopprett slettet e-post i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545395"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666966"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Gjenopprette slettede e-post Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Gjenopprett slettet e-post Outlook.com
 
-1. I den venstre ruten velger du **Slettede elementer**.
+1. Velg **Slettede elementer**i ruten til venstre.
 2. Velg elementet du vil gjenopprette, og velg **Gjenopprett**.
-3. Hvis meldingen ikke er i Slettede elementer, kan du velge å **gjenopprette elementer som er slettet fra denne mappen** på toppen av vinduet.
+3. Hvis meldingen ikke er i Slettede elementer, velger du **Gjenopprett elementer som er slettet fra denne mappen** øverst i vinduet.
 
  **Viktig informasjon om slettede elementer:**
   
-- Elementer som er fjernet fra mappen Slettede elementer kan gjenopprettes i 30 dager.
-- Hvis du ikke har logget inn på din konto for 365 dager, i e-posten vil bli slettet og kan ikke gjenopprettes.
-- Det er ikke mulig å gjenopprette e-post slettet fra underordnede forretningsforbindelser.
+- Elementer som er fjernet fra slettede elementer-mappen, kan gjenopprettes i 30 dager.
+- Hvis du ikke har logget på kontoen din på 365 dager, slettes e-posten din og kan ikke gjenopprettes.
+- Det er ikke mulig å gjenopprette e-post slettet fra barnekontoer.
 
-Hvis du vil ha mer informasjon, se [gjenopprette slettede e-postmeldinger i Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se [Gjenopprette slettede e-postmeldinger i Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: 1385-kontor-365-Alert-politikk
+title: 1385-Office-365-alert-policyer
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661305"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687627"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 Alert-policyer
+# <a name="alert-policies"></a>Retningslinjer for varsel
 
-Office 365 sikkerhet & Compliance Center tilbyr [standard varslings policyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3, eller E5/G5-abonnement. Derfor kan administratorer motta en varsling e-postvarsling sendt av Office365Alerts@microsoft.com med en emnelinje som "et varsel om lav alvorlighetsgrad: *navn på varslings policy*". Varsel varsler sendes når varsler utløses for vanlige aktiviteter, for eksempel når brukere:
+Microsoft 365-sikkerhet & Compliance Center tilbyr [standard varslingspolicyer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utløser varsler for organisasjoner med et Office 365 Enterprise- eller Office 365 US Government E1/G1,E3/G3- eller E5/G5-abonnement. Administratorer kan derfor motta et varsel om e-postvarsling sendt av Office365Alerts@microsoft.com med en emnelinje, for eksempel "Et varsel med lav alvorlighetsgrad: *navnet på varslingspolicyen*". Varslingsvarsler sendes når varsler utløses for vanlige aktiviteter, for eksempel når brukere:
 
-- Opprett Innboks regler som videresender e-post.
-- Tilordne tillatelser til postboksen.
-- Dele eller slette et stort antall filer i deling av SharePoint-filer.
-- Opprett eDiscovery-søk og Eksporter søkeresultater.
+- Opprett innboksregler som videresender e-post.
+- Tilordne tillatelser postboksen.
+- Del eller slett et stort antall filer i Deling av SharePoint-filer.
+- Opprett eDiscovery-søk og eksporter søkeresultater.
 
-Slik kan du se gjennom og handle i et varsel:
+Slik går du gjennom og handler på et varsel:
 
-1. Gå til [sikkerhets & samsvarssenter](https://protection.office.com) og Logg på.
-2. Klikk **varsler** > **Vis varsler**.
-3. Klikk et varsel for å vise en undermeny med informasjon om varselet.
+1. Gå til [sikkerhetssenteret for & samsvar,](https://protection.office.com) og logg på.
+2. Klikk **Varsler** > **Vis varsler**.
+3. Klikk på et varsel for å vise en undermenyside med informasjon om varselet.
 
-Du kan utføre en handling på et varsel, for eksempel [fjerne en mistenkelig innboks-regel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan bare lukke varselet ved å klikke **løs** på undermenyen for varsler.
+Du kan utføre handlinger i et varsel, for eksempel [fjerne en mistenkelig innboksregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan bare lukke varselet ved å klikke **På Løs** på varselundermenyen.
 
-Hvis du vil ha mer informasjon om hvordan du konfigurerer og administrerer varslings policyer, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Hvis du vil ha mer informasjon om hvordan du konfigurerer og administrerer varslingspolicyer, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Viktig**: varsel e-postvarsler fra Microsoft vil aldri be deg om å gjøre følgende:
+**Viktig:** Varsle e-postvarsler fra Microsoft vil aldri be deg om å gjøre følgende:
 
 - Oppgi et passord
-- Bekreft sikkerhetsdetaljene for kontoen din
-- Godkjenn deg på nytt
+- Bekreft sikkerhetsinformasjonen for kontoen din
+- Godkjenne deg selv på nytt
 
-Hvis du mottar en e-postmelding som dette, ble det ikke sendt av Microsoft og bør betraktes som en phishing-svindel. Hvis dette skjer, kan [du rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Hvis du mottar en e-postmelding som dette, ble den ikke sendt av Microsoft og bør betraktes som en phishing-svindel. Hvis det skjer, kan du [rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

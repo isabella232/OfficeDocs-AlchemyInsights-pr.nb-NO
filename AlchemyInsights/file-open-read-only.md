@@ -3,7 +3,7 @@ title: Fil åpen skrivebeskyttet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,38 +12,38 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702783"
 ---
 # <a name="file-open-read-only"></a>Fil åpen skrivebeskyttet
 
-Du finner kanskje ut at når du åpner filer, åpnes de som skrivebeskyttet. I noen tilfeller er dette for ekstra sikkerhet, for eksempel når du åpner filer fra Internett, og andre ganger, kan det skyldes en innstilling som kan endres. Her er noen scenarioer der en fil åpnes med skrivebeskyttelse, og noen trinn du kan utføre for å endre den.
+Det kan hende at når du åpner filer, åpnes de som skrivebeskyttet. I noen tilfeller er dette for ekstra sikkerhet, for eksempel når du åpner filer fra Internett, og andre ganger, kan det skyldes en innstilling som kan endres. Her er noen scenarier der en fil åpnes skrivebeskyttet, og noen trinn du kan ta for å endre dette.
   
- **Min antivirus forårsaker dem til å åpne skrivebeskyttet**
+ **Antiviruset mitt får dem til å åpne skrivebeskyttet**
   
-Noen antivirusprogrammer kan beskytte deg mot potensielt usikre filer ved å åpne dem som skrivebeskyttet. Du må kanskje sjekke med leverandøren av antivirusprogrammet for å finne ut hvordan du justerer disse innstillingene. BitDefender, for eksempel, har innhold på å legge søknad ekskluderinger her: [Hvordan legge til program eller prosess ekskluderinger i BitDefender Control Center](https://aka.ms/AA6098i).
+Noen antivirusprogrammer kan beskytte deg mot potensielt usikre filer ved å åpne dem skrivebeskyttet. Du må kanskje sjekke med antivirusleverandøren for å finne ut hvordan du justerer disse innstillingene. BitDefender, for eksempel, har innhold om å legge til programekskluderinger her: [Slik legger du til program- eller prosessekskluderinger i Bitdefender Control Center](https://aka.ms/AA6098i).
   
  **Er filegenskapene satt til skrivebeskyttet?**
   
-Du kan kontrollere filegenskapene ved å høyreklikke på filen og velge Egenskaper. Hvis det skrivebeskyttede attributtet er merket av, kan du fjerne merkingen og klikke OK.
+Du kan kontrollere filegenskapene ved å høyreklikke på filen og velge Egenskaper. Hvis det er merket av for Skrivebeskyttet, kan du fjerne merket for det og klikke OK.
   
  **Innholdet er i beskyttet visning**
   
-Filer fra Internet t og andre potensielt usikre steder kan inneholde virus, ormer eller andre typer skadelig programvare som kan skade datamaskinen din. Dette er også ofte tilfellet med e-postvedlegg eller filer du har lastet ned. Filer fra disse potensielt usikre plasseringene åpnes i beskyttet visning for å bidra til å beskytte datamaskinen. Ved å bruke beskyttet visning kan du lese en fil og se innholdet samtidig som du reduserer risikoene. Hvis du vil ha mer informasjon om beskyttet visning og hvordan du endrer innstillinger, kan du se denne artikkelen: [Hva er beskyttet visning?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Filer fra Internett og fra andre potensielt usikre steder kan inneholde virus, ormer eller andre typer skadelig programvare som kan skade datamaskinen. Dette er også ofte tilfelle med e-postvedlegg eller filer du har lastet ned. For å beskytte datamaskinen åpnes filer fra disse potensielt usikre plasseringene i beskyttet visning. Ved hjelp av beskyttet visning kan du lese en fil og se innholdet samtidig som risikoen reduseres. Hvis du vil ha mer informasjon om beskyttet visning og hvordan du endrer innstillinger, kan du se denne artikkelen: [Hva er beskyttet visning?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Er OneDrive fullt?**
+ **Er OneDrive full?**
   
-Hvis filen er lagret på OneDrive og lagringsplassen på OneDrive er full, vil du ikke kunne lagre dokumentet før du er under den tildelte plassen. Du kan sjekke ledig plass på OneDrive ved å klikke på OneDrive-ikonet i varslingssenteret og velge Administrer lagring, eller du kan gå til [http://onedrive.live.com](http://onedrive.live.com), logge på og notere deg hvor mye brukt plass som er i nedre venstre hjørne av skjermen.
+Hvis filen er lagret på OneDrive og OneDrive-lagringsplassen er full, kan du ikke lagre dokumentet før du er under den tildelte plassen. Du kan sjekke ledig plass på OneDrive ved å klikke OneDrive-ikonet i varslingssenteret [https://onedrive.live.com](https://onedrive.live.com)og velge Administrer lagringsplass, eller du kan gå til , logge på og notere hvor mye brukt plass nederst til venstre på skjermen.
   
- **Er Office aktivert?**
+ **Aktiveres Office?**
   
-Hvis Office ikke er aktivert, eller hvis abonnementet er utløpt, kan du være i skrivebeskyttet modus for redusert funksjonalitet. Hvis du vil ha informasjon om hvordan du aktiverer Office, kan du se: [ulisensiert produkt-og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Hvis Office ikke er aktivert, eller hvis abonnementet er utløpt, kan du være i skrivebeskyttet modus for redusert funksjonalitet. Hvis du vil ha informasjon om hvordan du aktiverer Office, kan du se: [Ulisensiertprodukt og aktiveringsfeil i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Hvis alt annet svikter...**
+ **Hvis alt annet mislykkes...**
   
 - Prøv å starte datamaskinen på nytt
     

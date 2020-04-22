@@ -3,7 +3,7 @@ title: DLP trenger kanskje en egendefinert type
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 87fcb5c3cc9ccd525265097b66d9d9b3a85c5feb
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704498"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP trenger kanskje en egendefinert type
 
-**Viktig:** I løpet av disse enestående tider, vi tar skritt for å sikre at SharePoint Online og OneDrive-tjenester forblir svært tilgjengelige - Vennligst besøk [SharePoint Online midlertidige funksjonsjusteringer](https://aka.ms/ODSPAdjustments) for mer informasjon.
+**Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
 **DLP kan kreve en egendefinert informasjonstype**
 

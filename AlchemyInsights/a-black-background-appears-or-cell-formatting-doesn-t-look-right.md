@@ -1,9 +1,9 @@
 ---
-title: En svart bakgrunn vises, eller celleformateringen ser ikke riktig ut
+title: En svart bakgrunn vises, eller celleformatering ser ikke riktig ut
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: f48094aae7e2d9e4c738da05412f812c15771cf9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: aeb2ab904e80861b436bc2d739a0e16d89c2a906
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687447"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>En svart bakgrunn vises, eller celleformateringen ser ikke riktig ut
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>En svart bakgrunn vises, eller celleformatering ser ikke riktig ut
 
-I Excel 2016 kan du se en uventet svart bakgrunn, eller du kan se celleformatering som ikke vises riktig. Dette kan skje etter at du har lagt til en topp-eller bunntekst i sideoppsettvisning og brukt et mønsterfyll i en celle. Dette problemet ble løst i versjon 1708 (Build 8431,2094). Hvis du vil løse dette problemet, oppdaterer du til den nyeste versjonen av Office. Velg **** \> **** \> Oppdater alternativer \> for fil konto **oppdatering** **nå**.
+I Excel-2016 kan du se en uventet svart bakgrunn, eller du kan se celleformatering som ikke vises riktig. Dette kan skje etter at du har lagt til en topptekst eller bunntekst i sideoppsettvisning, og bruker et mønsterfyll på en celle. Dette problemet ble løst i versjon 1708 (Build 8431.2094). Hvis du vil løse dette problemet, kan du oppdatere til den nyeste versjonen av Office. Velg **Update Now** \> **Oppdateringsalternativer for** \> \> **filkonto** nå . **File**
   
 

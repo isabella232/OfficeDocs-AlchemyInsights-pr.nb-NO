@@ -1,9 +1,9 @@
 ---
-title: 1245-import-PST-tjenester
+title: 1245-Import-PST-tjenester
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496365"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687771"
 ---
-# <a name="office-365-import-service"></a>Office 365-tjenesten for Import
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Import-tjenesten
 
-Importere for Office 365-tjenesten kan du flere PST-filer til Exchange Online-postbokser for masseimport.
+Med Microsoft 365 Import-tjenesten kan du masseimportere flere PST-filer til Exchange Online-postbokser.
 
-Få tilgang til tjenesten Import og starte importprosessen:
+Slik får du tilgang til importtjenesten og starter importprosessen:
 
-1. Gå til [Sikkerhet & kompatibilitet Center](https://protection.office.com) , og Logg på med legitimasjonen for en administratorkonto i Office 365-organisasjon.
+1. Gå til [sikkerhets& samsvarssenter,](https://protection.office.com) og logg på med legitimasjonen for en administratorkonto i organisasjonen.
 
-2. Klikk **Data styring > Import**i den venstre ruten i **Sikkerhet & overholdelsessenteret**.
+2. Klikk **Datastyring**> Importer i ruten til venstre i **Samsvarssenter for sikkerhet &**.
 
-3. Klikk **Ny importjobb**på siden **Importer** .
+3. Klikk **Ny importjobb**på **Importer-siden.**
 
-4. Følg disse [trinnvise instruksjoner](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)for å fullføre trinnene i veiviseren.
+4. Hvis du vil fullføre trinnene i veiviseren, følger du disse [trinnvise instruksjonene](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Viktig**: Hvis du vil ha tilgang til siden **Import** i Security-& overholdelsessenteret, må du tilordne [de nødvendige tillatelsene](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Viktig:** Hvis du vil ha tilgang til **Importer-siden** i samsvarssenter for sikkerhet &, har du tilordnet [de riktige tillatelsene](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Hvis du vil importere en PST-fil til postboksen din, kan du se [denne artikkelen](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Hvis du bare vil importere en PST til postboksen, kan du se [denne artikkelen](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

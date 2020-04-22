@@ -1,5 +1,5 @@
 ---
-title: Endre tillatelser for en postboks
+title: Endre tillatelser på en postboks
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692522"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Endre tillatelser for en postboks
+# <a name="changing-permissions-on-a-mailbox"></a>Endre tillatelser på en postboks
 
-Hvis brukere trenger tilgang til andre postbokser i Office 365 enn sine egne, må de gis tillatelse til å arbeide med disse postboksene. Hvordan du tilordner disse tillatelsene, avhenger av postbokstypen. Hvis brukere trenger tilgang til:
+Hvis brukere trenger tilgang til andre postbokser enn sine egne, må de få tillatelse til å arbeide med disse postboksene. Hvordan du tilordner disse tillatelsene, avhenger av postbokstypen. Hvis brukerne trenger tilgang til:
   
-- Andre brukeres postbokser-se [gi postbokstillatelser til en annen bruker i Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Andre brukers postbokser - se [Gi postbokstillatelser til en annen bruker](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- En delt postboks-se [legge til eller fjerne medlemmer fra en delt postboks](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- En delt postboks - se [Legge til eller fjerne medlemmer fra en delt postboks](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Hvis tillatelser ikke fungerer på riktig måte etter at du gjør trinnene ovenfor, kan du gå til administrasjonssenteret Exchange og prøve å angi tillatelser derfra (se [Behandle tillatelser for mottakere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Hvis tillatelsene ikke fungerer som de skal etter at du har gjort trinnene ovenfor, går du til administrasjonssenteret for Exchange og prøver å angi tillatelsene derfra (se [Behandle tillatelser for mottakere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

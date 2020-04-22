@@ -1,22 +1,22 @@
 ---
-title: Du ser e-post forsinkelser eller lagt i kø for e-post?
+title: Ser du forsinkelser i e-post eller e-post i kø?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765265"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703796"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Du ser e-post forsinkelser eller lagt i kø for e-post?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ser du forsinkelser i e-post eller e-post i kø?
 
-Vi nylig begynt å avskrive eldre Office 365 SMTP-endepunkter. Disse verdiene for Office 365-målet var tilgjengelig for bruk i MX-poster og smart verter før 2012. Hvis du fortsatt bruker en av disse eldre verdiene, må du oppdatere Office 365-endepunktet til en verdi som støttes. Hvis du vil ha mer informasjon, kan du se denne [støtter KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Vi har nylig begynt å avprecating eldre SMTP endepunkter. Disse destinasjonsverdiene var tilgjengelige for bruk i MX-poster og smarte verter før 2012. Hvis du fortsatt bruker en av disse eldre verdiene, må du oppdatere endepunktet til en støttet verdi. Hvis du vil ha mer informasjon, kan du se denne [støtten KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600387"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650577"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pensjonering av eldre eDiscovery-verktøy
 
@@ -37,7 +37,7 @@ Som et resultat av den nye og forbedrede eDiscovery-funksjonaliteten i Microsoft
     - [SetHoldOnMailboxes (SettHoldOnMailboxes)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes (andre betydninger)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Avansert eDiscovery for Office 365](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Avansert eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Tidslinje for pensjonering**:
 - 1. april 2020: Du kan ikke opprette nye søk og sperrer, men du kan fortsatt kjøre, redigere og slette eksisterende søk på egen risiko. Microsoft Support støtter ikke lenger eDiscovery-& holder i EAC.

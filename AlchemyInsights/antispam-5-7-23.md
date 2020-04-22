@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 9c9bc2d04fb8efaa5e75194b4ca09316d24e018e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682226"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676506"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med e-postlevering for feilkode 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering av e-post for feilkode 5.7.23
 
-Kontroller SPF DNS-posten for domenet på en offentlig tilgjengelig SPF-eller DNS-post-kontroll på weben.
+Kontroller SPF DNS-posten for domenet ditt på en offentlig tilgjengelig SPF- eller DNS-postkontrollpå nettet.
 
-Kontroller at den utgående meldingen ikke ble identifisert som søppelpost av Office 365 og rutet gjennom [høy risiko leverings utvalget](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meldinger i utvalget for høy risiko levering vil ikke bestå SPF-kontroller, og vil derfor ikke bli godtatt av e-postadressen for målorganisasjonen.
+Kontroller at den utgående meldingen ikke ble identifisert som søppelpost av Microsoft, og rutet gjennom [leveringsutvalget med høy risiko](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meldinger i utvalget for levering med høy risiko passerer ikke SPF-kontroller, og vil derfor ikke bli akseptert av destinasjons-e-postorganisasjonen.
 
-Hvis problemet vedvarer, må du kanskje kontakte administratoren for e-verten du prøver å sende e-post til. Noter den detaljerte eksterne feilen som er tilgjengelig i returmeldingen.  Støtte for Office 365 vil kanskje ikke kunne hjelpe videre.
+Hvis problemet vedvarer, må du kanskje kontakte administratoren for e-postverten du prøver å sende e-post til. Noter deg den detaljerte eksterne feilen som er tilgjengelig i fluktmeldingen. Microsoft-støtte kan kanskje ikke hjelpe ytterligere.

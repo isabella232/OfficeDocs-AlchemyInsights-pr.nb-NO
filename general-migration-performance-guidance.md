@@ -1,9 +1,9 @@
 ---
-title: Ytelses veiledning for generell migrering
+title: Generell veiledning for ytelsesoverføring
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.assetid: ''
-ms.openlocfilehash: 2a9d796966daa64e6db8ca0f5c951e65d2ff29c4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692666"
 ---
-# <a name="general-migration-performance-guidance"></a>Ytelses veiledning for generell migrering
+# <a name="general-migration-performance-guidance"></a>Generell veiledning for ytelsesoverføring
 
-Migrerings ytelsen kan påvirkes av nettverksinfrastruktur, filstørrelse, overføringstid og regulering. Forstå disse vil hjelpe deg å planlegge og maksimere effektiviteten av migrasjon.
+Overføringsytelsen kan påvirkes av nettverkets infrastruktur, filstørrelse, overføringstid og begrensning. Hvis du har en forståelse av disse, vil det hjelpe deg med å planlegge og maksimere effektiviteten av overføringen din.
 
-[Ytelses veiledning for generell migrering](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[Generell veiledning for ytelsesoverføring](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

@@ -1,9 +1,9 @@
 ---
-title: Rediger fakturerings profil for programmer
+title: Redigere faktureringsprofil for apper
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606839"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703904"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Rediger fakturerings profil for programmer
+# <a name="edit-billing-profile-for-apps"></a>Redigere faktureringsprofil for apper
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Endre betaling profilen på apps
+## <a name="to-change-the-billing-profile-on-apps"></a>Slik endrer du faktureringsprofilen på apper
 
-1. Gå til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side, og deretter velge kategorien **programmer** .
+1. Gå til siden > [Faktureringsprodukter & tjenester,](https://go.microsoft.com/fwlink/p/?linkid=842054) og velg deretter **Billing** **Apper-fanen.**
 
-2. Finn og Merk programmet du vil administrere.  
+2. Finn og velg appen du vil administrere.  
 
-3. Ved siden av **Fakturering profil**, velger du **Rediger** og velge faktureringsadresse profilen du vil knytte til programmet.
+3. Velg **Rediger** ved siden **av Faktureringsprofil,** og velg faktureringsprofilen du vil knytte til appen.
 
-## <a name="edit-billing-profiles"></a>Rediger fakturerings-profiler
+## <a name="edit-billing-profiles"></a>Redigere faktureringsprofiler
 
-1. Gå til **Fakturering** > [regninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) siden, og deretter velge **Fakturering profiler**.
+1. Gå til siden > [Faktureringsregninger & betalinger,](https://go.microsoft.com/fwlink/p/?linkid=848039) og velg deretter **Faktureringsprofiler**. **Billing**
 
-2. Velg fakturainformasjon profilen fra listen for å redigere.
+2. Velg faktureringsprofilen fra listen du vil redigere.

@@ -1,9 +1,9 @@
 ---
-title: CTRL + H viser Finn, ikke Erstatt i Excel 2016
+title: CTRL+H viser Søk, ikke Erstatt i Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 32ff3ad922af38adab8e6b60dfa139b3794668df
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fad25a53324297b55c57fba5beae69cbaca3fdc0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053162"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705274"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H viser Finn, ikke Erstatt i Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H viser Søk, ikke Erstatt i Excel
 
-I Excel 2016, trykker du på CTRL + H åpner Finn og erstatt dialog og viser Finn kategorien, i stedet for Erstatt fanen. Når du klikker Erstatt i kategorien Hjem, blir det samme. Dette problemet ble løst i versjon 1708 (8431,2094). Hvis du vil løse dette problemet, oppdaterer du til den nyeste versjonen av Office. Velg **** \> **** \> Oppdater alternativer \> for fil konto **oppdatering** **nå**.
+I Excel-2016 åpner du dialogboksen Søk og erstatt i Excel 2016 og viser kategorien Søk, i stedet for erstatt-fanen. Dette problemet ble løst i versjon 1708 (8431.2094). Hvis du vil løse dette problemet, kan du oppdatere til den nyeste versjonen av Office. Velg **Update Now** \> **Oppdateringsalternativer for** \> \> **filkonto** nå . **File**
   

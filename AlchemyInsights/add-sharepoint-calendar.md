@@ -3,7 +3,7 @@ title: Legge til en SharePoint-kalender
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122552"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671358"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Legge til en SharePoint-kalender
 
-SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Office 365 gruppekalendere.
+SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Office 365-gruppekalendere.
  
-Følg denne fremgangsmåten for å opprette en SharePoint-kalender:
+Hvis du vil opprette en SharePoint-kalender, gjør du følgende:
  
-1.  Velg utstyrsikonet **for innstillinger** , og velg deretter **Legg til en app**.
-2.  I **Finn en app** søk-boksen skriver du inn **Kalender** og trykk ENTER.
-3.  Velg appen med tittelen **Kalender**, og skriv deretter inn et navn for kalenderen.
+1.  Velg **Innstillinger-tannhjulikonet,** og velg deretter **Legg til en app**.
+2.  Skriv inn **Kalender** i søkeboksen Søk i **en app,** og trykk enter.
+3.  Velg appen kalender med tittelen **Kalender**, og skriv deretter inn et navn for kalenderen.
 
-Hvis du vil ha mer informasjon om Office 365-grupper, kan du se [lære om office 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Hvis du vil ha mer informasjon om Office 365-grupper, kan du se [Lære om Office 365-grupper](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
