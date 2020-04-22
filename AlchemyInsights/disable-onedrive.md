@@ -2,7 +2,7 @@
 title: Deaktivere OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 650ed5cabd2d692ff07a88e81f8c2d01498f8eb5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715169"
 ---
-# <a name="disable-onedrive"></a><span data-ttu-id="64d3c-102">Deaktivere OneDrive</span><span class="sxs-lookup"><span data-stu-id="64d3c-102">Disable OneDrive</span></span>
+# <a name="disable-onedrive"></a><span data-ttu-id="9dd9d-102">Deaktivere OneDrive</span><span class="sxs-lookup"><span data-stu-id="9dd9d-102">Disable OneDrive</span></span>
 
-<span data-ttu-id="64d3c-103">Det er flere måter du kan deaktivere tilgang til OneDrive og tjenestene på, avhengig av bedriftens behov:</span><span class="sxs-lookup"><span data-stu-id="64d3c-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
+<span data-ttu-id="9dd9d-103">Du kan deaktivere tilgang til OneDrive og tjenestene på flere måter, avhengig av forretningsbehovene dine:</span><span class="sxs-lookup"><span data-stu-id="9dd9d-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
 
-[<span data-ttu-id="64d3c-104">Fjern tilknytningen til, Skjul eller Avinstaller OneDrive-programmet</span><span class="sxs-lookup"><span data-stu-id="64d3c-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[<span data-ttu-id="9dd9d-104">Koble fra, skjule eller avinstallere OneDrive-programmet</span><span class="sxs-lookup"><span data-stu-id="9dd9d-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[<span data-ttu-id="64d3c-105">Tillat bare synkronisering for bestemte organisasjoner</span><span class="sxs-lookup"><span data-stu-id="64d3c-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[<span data-ttu-id="9dd9d-105">Tillat bare synkronisering for bestemte organisasjoner</span><span class="sxs-lookup"><span data-stu-id="9dd9d-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[<span data-ttu-id="64d3c-106">Deaktivere opprettelse av OneDrive-område for enkelte brukere</span><span class="sxs-lookup"><span data-stu-id="64d3c-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[<span data-ttu-id="9dd9d-106">Deaktivere oppretting av OneDrive-område for enkelte brukere</span><span class="sxs-lookup"><span data-stu-id="9dd9d-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[<span data-ttu-id="64d3c-107">Kontrollere tilgang til SharePoint Online- og OneDrive-data basert på nettverksplassering</span><span class="sxs-lookup"><span data-stu-id="64d3c-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[<span data-ttu-id="9dd9d-107">Kontrollere tilgang til SharePoint Online- og OneDrive-data basert på nettverksplassering</span><span class="sxs-lookup"><span data-stu-id="9dd9d-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[<span data-ttu-id="64d3c-108">Deaktivere personlig OneDrive-synkronisering</span><span class="sxs-lookup"><span data-stu-id="64d3c-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[<span data-ttu-id="9dd9d-108">Deaktivere personlig OneDrive-synkronisering</span><span class="sxs-lookup"><span data-stu-id="9dd9d-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[<span data-ttu-id="64d3c-109">Administrere tilkoblinger fra Windows-enheter til OneDrive og andre tjenester</span><span class="sxs-lookup"><span data-stu-id="64d3c-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[<span data-ttu-id="9dd9d-109">Administrere tilkoblinger fra Windows-enheter til OneDrive og andre tjenester</span><span class="sxs-lookup"><span data-stu-id="9dd9d-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

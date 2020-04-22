@@ -1,9 +1,9 @@
 ---
-title: Identifisere IP-adressen og klient i overvåkingslogger
+title: Identifisere IP-adresse og klient i overvåkingslogger
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539038"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716397"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a><span data-ttu-id="0cf66-102">Identifisere IP-adressen og klient i overvåkingslogger</span><span class="sxs-lookup"><span data-stu-id="0cf66-102">Identify IP address and client in audit logs</span></span>
+# <a name="identify-ip-address-and-client-in-audit-logs"></a><span data-ttu-id="579bc-102">Identifisere IP-adresse og klient i overvåkingslogger</span><span class="sxs-lookup"><span data-stu-id="579bc-102">Identify IP address and client in audit logs</span></span>
 
-<span data-ttu-id="0cf66-103">IP-adresse som svarer til en aktivitet med en Office 365-bruker eller administrator vises i overvåkingsloggen.</span><span class="sxs-lookup"><span data-stu-id="0cf66-103">The IP address that corresponds to an activity by an Office 365 user or administrator is shown in the Audit Logs.</span></span> <span data-ttu-id="0cf66-104">Informasjon om klient logges også.</span><span class="sxs-lookup"><span data-stu-id="0cf66-104">The client information is also logged.</span></span> <span data-ttu-id="0cf66-105">Her er fremgangsmåten for å identifisere slike opplysninger</span><span class="sxs-lookup"><span data-stu-id="0cf66-105">Here are the steps to identifying such information</span></span>
+<span data-ttu-id="579bc-103">IP-adressen som tilsvarer en aktivitet av en Microsoft 365-bruker eller administrator, vises i overvåkingsloggene.</span><span class="sxs-lookup"><span data-stu-id="579bc-103">The IP address that corresponds to an activity by a Microsoft 365 user or administrator is shown in the Audit Logs.</span></span> <span data-ttu-id="579bc-104">Klientinformasjonen logges også.</span><span class="sxs-lookup"><span data-stu-id="579bc-104">The client information is also logged.</span></span> <span data-ttu-id="579bc-105">Her er fremgangsmåten for å identifisere slik informasjon</span><span class="sxs-lookup"><span data-stu-id="579bc-105">Here are the steps to identifying such information</span></span>
 
-1. <span data-ttu-id="0cf66-106">Logg på [Office 365 & kompatibilitet Sikkerhetssenter](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="0cf66-106">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/).</span></span>
+1. <span data-ttu-id="579bc-106">Logg på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="579bc-106">Log in to the [Microsoft 365 Security & Compliance Center](https://protection.office.com/).</span></span>
 
-2. <span data-ttu-id="0cf66-107">Gå til **Søk** > **Overvåk Logg Søk** -siden.</span><span class="sxs-lookup"><span data-stu-id="0cf66-107">Go to the **Search** > **Audit log search** page.</span></span>
+2. <span data-ttu-id="579bc-107">Gå til**søkesiden for søkeloggen for søke etter** søk i **søkesiden for søkeetter søk.** > </span><span class="sxs-lookup"><span data-stu-id="579bc-107">Go to the **Search** > **Audit log search** page.</span></span>
 
-   <span data-ttu-id="0cf66-108">Hvis du er interessert i en bestemt aktivitet, kan du velge den fra **aktiviteter** -listen.</span><span class="sxs-lookup"><span data-stu-id="0cf66-108">If you're interested in a specific activity, select it from **Activities** list.</span></span> <span data-ttu-id="0cf66-109">Hvis ikke, returneres alle aktiviteter for den valgte brukeren (standardinnstilling).</span><span class="sxs-lookup"><span data-stu-id="0cf66-109">If not, all activities will be returned for the selected user (default setting).</span></span>
+   <span data-ttu-id="579bc-108">Hvis du er interessert i en bestemt aktivitet, velger du den fra **Aktivitetsliste.**</span><span class="sxs-lookup"><span data-stu-id="579bc-108">If you're interested in a specific activity, select it from **Activities** list.</span></span> <span data-ttu-id="579bc-109">Hvis ikke, returneres alle aktiviteter for den valgte brukeren (standardinnstilling).</span><span class="sxs-lookup"><span data-stu-id="579bc-109">If not, all activities will be returned for the selected user (default setting).</span></span>
 
-   <span data-ttu-id="0cf66-110">**Merk**: enkelte aktiviteter er kanskje ikke tilgjengelig i **aktiviteter** -menyen. imidlertid de overvåke varer returneres hvis **Vise resultater for alle aktiviteter som** er valgt (standardinnstillingen).</span><span class="sxs-lookup"><span data-stu-id="0cf66-110">**Note**: Certain activities may not be available in the **Activities** menu; however, those audit items will be returned if **Show Results for all activities** is selected (default setting).</span></span>
+   <span data-ttu-id="579bc-110">**Merk:** Enkelte aktiviteter er kanskje ikke tilgjengelige i **Aktiviteter-menyen.** Disse overvåkingselementene returneres imidlertid hvis **Vis resultater for alle aktiviteter** er valgt (standardinnstilling).</span><span class="sxs-lookup"><span data-stu-id="579bc-110">**Note**: Certain activities may not be available in the **Activities** menu; however, those audit items will be returned if **Show Results for all activities** is selected (default setting).</span></span>
 
-3. <span data-ttu-id="0cf66-111">Angi brukernavnet i **brukere** -feltet, velg riktig datointervallet for aktiviteten og deretter **Søk**.</span><span class="sxs-lookup"><span data-stu-id="0cf66-111">Specify the username in the **Users** field, select the appropriate date range for the activity, and then click **Search**.</span></span>
+3. <span data-ttu-id="579bc-111">Angi brukernavnet i **Brukere-feltet,** velg riktig datoperiode for aktiviteten, og klikk deretter **Søk**.</span><span class="sxs-lookup"><span data-stu-id="579bc-111">Specify the username in the **Users** field, select the appropriate date range for the activity, and then click **Search**.</span></span>
 
-<span data-ttu-id="0cf66-112">I resultatene, kan du se IP-adressen for denne aktiviteten i resultater-ruten.</span><span class="sxs-lookup"><span data-stu-id="0cf66-112">In the results, you can see the IP address for that activity in the results pane.</span></span> <span data-ttu-id="0cf66-113">Velg kontrollregister å se detaljert informasjon i **Detaljer** -undermeny (for eksempel klient, brukeren som utførte handlingen, osv.).</span><span class="sxs-lookup"><span data-stu-id="0cf66-113">Select the audit record to see detailed information in the **Details** flyout (for example, Client, User that performed action, etc.).</span></span>
+<span data-ttu-id="579bc-112">I resultatene kan du se IP-adressen for denne aktiviteten i resultatruten.</span><span class="sxs-lookup"><span data-stu-id="579bc-112">In the results, you can see the IP address for that activity in the results pane.</span></span> <span data-ttu-id="579bc-113">Velg overvåkingsoppføringen for å se detaljert informasjon i **undermenyen Detaljer** (for eksempel Klient, Bruker som utførte handlingen osv.).</span><span class="sxs-lookup"><span data-stu-id="579bc-113">Select the audit record to see detailed information in the **Details** flyout (for example, Client, User that performed action, etc.).</span></span>
 
-<span data-ttu-id="0cf66-114">Hvis du vil ha mer informasjon, kan du se [finne IP-adressen til datamaskinen for å få tilgang til et utsatt konto](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span><span class="sxs-lookup"><span data-stu-id="0cf66-114">For more information, see [Finding the IP address of the computer used to access a compromised account](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span></span>
+<span data-ttu-id="579bc-114">Hvis du vil ha mer informasjon, kan du se [Finne IP-adressen til datamaskinen som brukes til å få tilgang til en kompromittert konto](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span><span class="sxs-lookup"><span data-stu-id="579bc-114">For more information, see [Finding the IP address of the computer used to access a compromised account](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span></span>

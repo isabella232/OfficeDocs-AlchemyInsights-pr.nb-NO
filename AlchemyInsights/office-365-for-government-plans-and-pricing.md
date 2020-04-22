@@ -1,9 +1,9 @@
 ---
-title: Office 365 for regjeringen planer og priser
+title: Office 365 for offentlige planer og priser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522128"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713367"
 ---
-# <a name="office-365-government-plans"></a><span data-ttu-id="01ee3-102">Office 365 regjeringen planer</span><span class="sxs-lookup"><span data-stu-id="01ee3-102">Office 365 Government plans</span></span>
+# <a name="office-365-government-plans"></a><span data-ttu-id="22418-102">Planer for Office 365-regjeringen</span><span class="sxs-lookup"><span data-stu-id="22418-102">Office 365 Government plans</span></span>
 
-<span data-ttu-id="01ee3-103">Office 365 amerikanske regjeringen planer er utformet for de unike behovene til amerikanske offentlige organisasjoner.</span><span class="sxs-lookup"><span data-stu-id="01ee3-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="01ee3-104">De gir alle funksjonene og mulighetene til Office 365-tjenester i en segmentert offentlige sky fellesskap som gjør det muliggjør for organisasjoner å oppfylle amerikanske samsvar og sikkerhetsstandarder.</span><span class="sxs-lookup"><span data-stu-id="01ee3-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+<span data-ttu-id="22418-103">Office 365 amerikanske myndigheter planer er utformet for de unike behovene til amerikanske regjeringsorganisasjoner.</span><span class="sxs-lookup"><span data-stu-id="22418-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="22418-104">De tilbyr alle funksjonene og funksjonene til Office 365-tjenester i et segmentert offentlig skyfellesskap som gjør det mulig for organisasjoner å oppfylle amerikanske samsvars- og sikkerhetsstandarder.</span><span class="sxs-lookup"><span data-stu-id="22418-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
   
-- [<span data-ttu-id="01ee3-105">Se gjennom offentlig-planer</span><span class="sxs-lookup"><span data-stu-id="01ee3-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+- [<span data-ttu-id="22418-105">Gjennomgå regjeringens planer</span><span class="sxs-lookup"><span data-stu-id="22418-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
 
-- [<span data-ttu-id="01ee3-106">Sammenlign alle Office 365-planer</span><span class="sxs-lookup"><span data-stu-id="01ee3-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="22418-106">Sammenligne alle Microsoft 365-abonnementer</span><span class="sxs-lookup"><span data-stu-id="22418-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -1,8 +1,8 @@
 ---
-title: Ikke-samsvarende OneDrive-PUID
+title: OneDrive PUID-konflikt
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1fc50afa5b2e3d625c9136aac9bcb8ff24e00d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713151"
 ---
-# <a name="onedrive-puid-mismatch"></a><span data-ttu-id="628a3-102">Ikke-samsvarende OneDrive-PUID</span><span class="sxs-lookup"><span data-stu-id="628a3-102">OneDrive PUID mismatch</span></span>
-<span data-ttu-id="628a3-103">Det ser ut til at du opplever en [PUID-konflikt](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for bedrifter.</span><span class="sxs-lookup"><span data-stu-id="628a3-103">It appears you are experiencing a [PUID mismatch](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive for Business.</span></span> <span data-ttu-id="628a3-104">Følg trinnene nedenfor slik at vi kan hjelpe deg så snart som mulig:</span><span class="sxs-lookup"><span data-stu-id="628a3-104">Please follow the steps below so we may assist you as soon as possible:</span></span>
+# <a name="onedrive-puid-mismatch"></a><span data-ttu-id="48fdb-102">OneDrive PUID-konflikt</span><span class="sxs-lookup"><span data-stu-id="48fdb-102">OneDrive PUID mismatch</span></span>
+<span data-ttu-id="48fdb-103">Det ser ut til at du opplever en [PUID-konflikt](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="48fdb-103">It appears you are experiencing a [PUID mismatch](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive for Business.</span></span> <span data-ttu-id="48fdb-104">Vennligst følg trinnene nedenfor slik at vi kan hjelpe deg så snart som mulig:</span><span class="sxs-lookup"><span data-stu-id="48fdb-104">Please follow the steps below so we may assist you as soon as possible:</span></span>
 
-1. <span data-ttu-id="628a3-105">Klikk **Kontakt kundestøtte**og deretter **ny service forespørsel**.</span><span class="sxs-lookup"><span data-stu-id="628a3-105">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="628a3-106">La tittelen og beskrivelsen være **PUID feil på OneDrive-webområdet**.</span><span class="sxs-lookup"><span data-stu-id="628a3-106">Leave the title and description as **PUID Mismatch on OneDrive Site**.</span></span>
-3. <span data-ttu-id="628a3-107">Når billetten er sendt inn, kan du oppdatere den med følgende informasjon:</span><span class="sxs-lookup"><span data-stu-id="628a3-107">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="628a3-108">URL-adressen for OneDrive-området som berøres.</span><span class="sxs-lookup"><span data-stu-id="628a3-108">OneDrive site URL that is affected.</span></span>
-    - <span data-ttu-id="628a3-109">Hovednavn for bruker (UPN) for den aktuelle brukeren.</span><span class="sxs-lookup"><span data-stu-id="628a3-109">User principal name (UPN) of the affected user.</span></span>
+1. <span data-ttu-id="48fdb-105">Klikk **Kontaktkundestøtte**, og deretter **Ny serviceforespørsel**.</span><span class="sxs-lookup"><span data-stu-id="48fdb-105">Click **Contact Support**, and then **New Service Request**.</span></span>
+2. <span data-ttu-id="48fdb-106">La tittelen og beskrivelsen være **PUID-konflikt på OneDrive-området**.</span><span class="sxs-lookup"><span data-stu-id="48fdb-106">Leave the title and description as **PUID Mismatch on OneDrive Site**.</span></span>
+3. <span data-ttu-id="48fdb-107">Når billetten er sendt inn, må du oppdatere den med følgende informasjon:</span><span class="sxs-lookup"><span data-stu-id="48fdb-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="48fdb-108">URL-adresse for OneDrive-område som er berørt.</span><span class="sxs-lookup"><span data-stu-id="48fdb-108">OneDrive site URL that is affected.</span></span>
+    - <span data-ttu-id="48fdb-109">Brukerhovednavnet (UPN) til den berørte brukeren.</span><span class="sxs-lookup"><span data-stu-id="48fdb-109">User principal name (UPN) of the affected user.</span></span>
 
 
 

@@ -1,31 +1,31 @@
 ---
-title: EDiscovery-innstillinger
+title: Innstillinger for ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528236"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714411"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="57bcc-102">EDiscovery-innstillinger</span><span class="sxs-lookup"><span data-stu-id="57bcc-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="919ef-102">Innstillinger for ediscovery</span><span class="sxs-lookup"><span data-stu-id="919ef-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="57bcc-103">eDiscovery/innhold Søk i Office 365 kan du søke, hold, og eksportere innhold fra Exchange Online-postbokser, SharePoint Online og OneDrive for Business områder, Skype for Business samtaler, Microsoft Teams og Office 365-grupper.</span><span class="sxs-lookup"><span data-stu-id="57bcc-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="919ef-103">med søk på eDiscovery/innhold kan du søke i, holde og eksportere innhold fra Exchange Online-postbokser, SharePoint Online- og OneDrive for Business-områder, Skype for Business-samtaler, Microsoft Teams- og Office 365-grupper.</span><span class="sxs-lookup"><span data-stu-id="919ef-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="57bcc-104">Hvis du leter etter eDiscovery eller innholdssøk menyalternativer, kan du se [eDiscovery problemer](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="57bcc-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="57bcc-105">Lær mer om tillatelsene som trengs for å utføre eDiscovery søk fra [tillatelsene som kreves for eDiscovery-Søk](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="57bcc-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="57bcc-106">Hvis søket ikke returnerer de forventede resultatene, kan du se [Søk returnerer ikke forventet resultat](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="57bcc-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="919ef-104">Hvis du leter etter menyalternativene eDiscovery eller Innholdssøk, kan du se [eDiscovery-problemer](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="919ef-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="919ef-105">Lær om tillatelsene som trengs for å utføre eDiscovery-søk fra [tillatelser som kreves for eDiscovery-søk](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="919ef-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="919ef-106">Hvis søket ikke returnerer de forventede resultatene, kan du se [Søke om ikke å returnere forventede resultater](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="919ef-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="57bcc-107">Hvis du vil ha mer informasjon om ediscovery i Office 365, kan du se [Ediscovery i Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="57bcc-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="919ef-107">Hvis du vil ha mer informasjon om ediscovery, kan du se [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="919ef-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
