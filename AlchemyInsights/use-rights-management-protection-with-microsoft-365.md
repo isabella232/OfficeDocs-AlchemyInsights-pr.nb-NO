@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707381"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710704"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Bruk Rights Management Protection med Microsoft 365
 
-Du må aktivere [Rights Management-tjenesten](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) før du kan bruke Information Rights Management (IRM)-funksjonene til Office 365-programmer og -tjenester.
+Du må aktivere [Rights Management-tjenesten](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) før du kan bruke Information Rights Management (IRM)-funksjonene til Microsoft-programmer og -tjenester.
 
 1. For lisenskrav og aktivering fra **Administrasjonssenter for Microsoft 365** ser du [Slik aktiverer du Rights Management Protection fra administrasjonssenteret for Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Obs**! Krever en konto for global administrasjon.
 
