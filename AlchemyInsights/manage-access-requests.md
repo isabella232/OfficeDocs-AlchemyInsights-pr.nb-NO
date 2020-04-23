@@ -3,7 +3,7 @@ title: Behandle tilgangsforespørsler
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721814"
 ---
 # <a name="manage-access-requests"></a>Behandle tilgangsforespørsler
 
-Når en bruker prøver å få tilgang til et element i SharePoint, og de ikke har tillatelse, vil de se en melding om at de trenger tilgang til elementet. Brukeren kan be om tilgang (i noen tilfeller til det bestemte elementet eller for å bli med i gruppen), og en områdeeier kan godkjenne eller avslå forespørselen. Hvis noen som ikke er områdeeier deler et område med en annen person, vil områdeeieren også få en forespørsel om tilgang for den nye brukeren. Slik godkjenner eller avslår du tilgangsforespørsler:
+Når en bruker prøver å få tilgang til et element i SharePoint og de ikke har tillatelse, ser de en melding om at de trenger tillatelse til å få tilgang til elementet. Brukeren kan be om tilgang (i noen tilfeller til det bestemte elementet eller for å bli med i gruppen), og en områdeeier kan godkjenne eller avslå forespørselen. Hvis noen som ikke er nettstedseier deler et nettsted med en annen person, får eieren av nettstedet også en tilgangsforespørsel for den nye brukeren. Slik godkjenner eller avslår du tilgangsforespørsler:
   
-1. Gå til webområdet, klikk Innstillinger-ikonet øverst til høyre, og klikk deretter **Innstillinger for webområde**. (Hvis du ikke ser Områdeinnstillinger, klikker du **Områdetillatelser**, og deretter klikker du **avanserte tillatelsesinnstillinger**. Se etter en banner som har en link som heter "Vis tilgangsforespørsler og invitasjoner.")
+1. Gå til området, klikk Innstillinger-ikonet øverst til høyre, og klikk deretter **Innstillinger for område**. (Hvis du ikke ser Områdeinnstillinger, klikker du **Områdetillatelser**, og deretter klikker du **Avanserte tillatelsesinnstillinger**. Se etter et banner som har en kobling kalt "Vis tilgangsforespørsler og invitasjoner.")
     
-2. Klikk **tilgangsforespørsler og invitasjoner**under **brukere og tillatelser**. (Hvis dette ikke vises, er det ikke gjort noen tilgangsforespørsler.)
+2. Klikk **Få tilgang til forespørsler og invitasjoner**under Brukere og **tillatelser**. (Hvis dette ikke vises, er det ikke gjort noen tilgangsforespørsler.)
     
-3. Hvis du vil gi brukeren tillatelse enkeltvis, klikker du **Godkjenn** eller **Avslå**. Hvis du vil velge et bestemt tillatelsesnivå, klikker du først ellipsen (...) ved siden av personens navn. Du kan også legge til brukeren i en gruppe som har tillatelse til området. For kommunikasjons områder og klassiske gruppeområder kan du gjøre dette på siden for områdeinnstillinger. For områder som tilhører en Office 365-gruppe, kan du legge til brukeren i gruppen.
+3. Hvis du vil gi brukeren tillatelse individuelt, klikker du **Godkjenn** eller **Avslå**. Hvis du vil velge et bestemt tillatelsesnivå, klikker du først ellipsen (...) ved siden av personens navn. Du kan også legge til brukeren i en gruppe som har tillatelse til området. For kommunikasjonsområder og klassiske gruppeområder kan du gjøre dette på siden Innstillinger for område. For områder som tilhører en Office 365-gruppe, kan du legge til brukeren i gruppen.
     
     [Behandle tilgangsforespørsler](https://go.microsoft.com/fwlink/?linkid=2008747)
     

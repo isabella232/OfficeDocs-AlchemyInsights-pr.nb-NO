@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713295"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788011"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Verktøy for innholdssøk for å finne relevant informasjon
 
-Bruk innholdssøk-verktøyet i sikkerhetssenteret for & samsvar til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-plasseringer og direktemeldingssamtaler i Skype for Business. Du kan bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Office 365, for eksempel Microsoft Teams og Office 365-grupper.
+Bruk innholdssøk-verktøyet i sikkerhetssenteret for & samsvar til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-plasseringer og direktemeldingssamtaler i Skype for Business. Du kan bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Office 365-grupper.
 
 
 Før du bruker [innholdssøk](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhets& compliance Center](https://sip.protection.office.com/homepage), bør du fullføre konfigurasjonsinnstillinger, inkludert konfigurer tillatelser, [angi nedlastingshastigheter](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportinnstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results). [configure permissions](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)
@@ -28,4 +28,4 @@ Forstå mer om innholdssøk ved å gå gjennom [kravene og grensene](https://doc
 
 Når du har gått gjennom konfigurasjonsinnstillingene og begrensningene for innholdssøk, kan du se [Bruke innholdssøk</a> til å søke etter elementer på stedet, for eksempel e-post, dokumenter og direktemeldingssamtaler i organisasjonen](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Hvis du vil ha en fullstendig trinnvis innholdssøk, kan du se [Søke etter innhold i Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) hvis du vil ha mer informasjon.
+Hvis du vil ha en fullstendig trinnvis innholdssøk, kan du se [Søke etter innhold i Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) hvis du vil ha mer informasjon.

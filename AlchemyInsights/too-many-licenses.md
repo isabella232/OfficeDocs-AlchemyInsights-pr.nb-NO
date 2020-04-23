@@ -3,7 +3,7 @@ title: For mange lisenser?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665949"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759917"
 ---
 # <a name="too-many-licenses"></a>For mange lisenser?
 
-Hvis du tror du faktureres for for mange lisenser for Office 365, skyldes dette vanligvis at du har kjøpt flere lisenser.
+Hvis du tror du blir fakturert for for mange lisenser, skyldes dette vanligvis å ha kjøpt flere lisenser, så trenger du det.
   
 **Reduser antall kjøpte lisenser**
   
-1. Gå til siden **fakturerings** \> [produkter & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret.
+1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
 
-2. Finn abonnementet du vil fjerne lisenser fra, og velg deretter **Legg til/fjern lisenser**.
+2. Finn abonnementet du vil fjerne lisenser fra, og velg deretter **Legg til / fjern lisenser**.
 
-3. I boksen **Totalt antall lisenser** angir du det totale antallet lisenser du trenger for dette abonnementet, og deretter velger du **Send endring**. Hvis du for eksempel har 110 lisenser og du vil fjerne 5 av dem, må du skrive inn tallet 105 her.
+3. I **Totalt antall lisenser-boksen** angir du totalt antall lisenser du trenger for dette abonnementet, og deretter velger du **Send endring**. Hvis du for eksempel har 110 lisenser og du vil fjerne 5 av dem, må du skrive inn tallet 105 her.
 
-Hvis du vil ha mer informasjon, kan du se [fjerne lisenser fra Office 365 for forretnings abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Hvis du vil ha mer informasjon, kan du se [Fjerne lisenser fra Microsoft 365 for business-abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

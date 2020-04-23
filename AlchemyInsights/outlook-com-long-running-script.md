@@ -1,9 +1,9 @@
 ---
-title: 8000051 Outlook.com lang kjøring av skript
+title: 8000051 Outlook.com langvarig skript
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: 3cf400cbc56d2d3f0bb756358f8348f280b56eae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 86f9efc84fe9123ba12c43693c879dd0f74a48cb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546528"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760025"
 ---
-# <a name="long-running-script"></a>Tidkrevende skript
+# <a name="long-running-script"></a>Skript som kjører lenge
 
-Vi er klar over problemene med "lang tid å kjøre skriptet" i Outlook.com. Bruk Outlook.com-beta som en midlertidig løsning.
+Vi er klar over problemer med "langvarig skript" i Outlook.com. Som en løsning, vennligst bruk Outlook.com beta.
   
-[Lær mer om betaversjonen av Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Finn ut mer om Outlook.com betaversjonen.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   
