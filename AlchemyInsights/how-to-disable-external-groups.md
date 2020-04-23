@@ -2,7 +2,7 @@
 title: Slik deaktiverer du eksterne grupper
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739502"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720777"
 ---
 # <a name="how-to-disable-external-groups"></a>Slik deaktiverer du eksterne grupper
 
-Yammer eksterne meldinger bruker Exchange transport Rules (ETRs), et sett med proaktive kontroller for å hindre at firmainformasjon blir delt. For å begrense brukere fra å opprette eksterne grupper, må du konfigurere en Exchange transport-regel (ETR), og deretter konfigurere Yammer til å bruke Exchange transport-regelen til å blokkere eksterne meldinger.
+Yammer eksterne meldinger bruker Exchange Transport Rules (ETRs), et sett med proaktive kontroller for å hindre at firmainformasjon deles. Hvis du vil begrense brukere fra å opprette eksterne grupper, må du konfigurere en Exchange transportregel (ETR), og deretter konfigurere Yammer til å bruke Exchange Transport-regelen til å blokkere eksterne meldinger.
   
-Når du har opprettet en regel i Exchange Online administrasjonssenteret, følger du denne fremgangsmåten for å angi ETR skal brukes i Yammer:
+Når du har opprettet en regel i administrasjonssenteret for Exchange Online, følger du denne fremgangsmåten for å angi at ETR skal brukes i Yammer:
   
-- Logg på Yammer som en verifisert admin, og i **administrasjonssenteret for Yammer**, gå til C- **innhold og sikkerhets \> innstillinger for sikkerhet.**
+- Logg på Yammer som en bekreftet administrator, og gå til **C-innstillinger for \> innholds- og sikkerhetssikkerhet** i **Yammer.**
 
-- Under **eksterne meldinger**velger **du Gjennomfør Exchange Online Exchange transport Rules (ETRs) i Yammer.**
+- Under **Eksterne meldinger**velger du **Fremhev Exchange Online Exchange Transport Rules (ETRs) i Yammer.**
 
 - Velg **Lagre**.
 
-Hvis du vil ha mer informasjon, kan du se [deaktivere eksterne meldinger i et Yammer-nettverk](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Hvis du vil ha mer informasjon, kan du se [Deaktivere eksterne meldinger i et Yammer-nettverk](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

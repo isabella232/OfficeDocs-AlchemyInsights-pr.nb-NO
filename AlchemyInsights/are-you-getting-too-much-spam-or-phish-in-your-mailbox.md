@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712611"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Får du for mye søppelpost eller phishing i postboksen?
 
-Se [Slik reduserer du søppelpost i Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for å feilsøke søppelpost.
+Se [Slik reduserer du søppelpost](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for å feilsøke søppelpost.
   
 Den beste måten å rapportere denne typen problemer på er å:
   

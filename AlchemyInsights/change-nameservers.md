@@ -3,7 +3,7 @@ title: Endre navneservere
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706764"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Oppdatere navneserveren for domenet til Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Oppdatere navneserveren til å peke til Microsoft
 
 Obs! Noen ganger kan det ta opptil 48 timer før endringer i navneserverne overføres.
   
-Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet i Office 365. Opprette eller redigere navneserverpostene hos domeneregistratoren.
+For å konfigurere domenet i Microsoft 365 må navneserverne hos domeneregistratoren oppdateres. Opprette eller redigere navneserverpostene hos domeneregistratoren.
   
 1. Gå til domeneregistratorens nettsted og finn området der du kan redigere navneserverne.
   
@@ -35,5 +35,5 @@ Navneserverne hos registratoren må oppdateres hvis du skal konfigurere domenet 
 
 3. Lagre endringer.
 
-Du kan også finne detaljerte instruksjoner i denne artikkelen: [Endre navneservere for å konfigurere Office 365 med alle domeneregistratorer](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Du kan også finne detaljerte instruksjoner i denne artikkelen: [Endre navneservere hos domeneregistratorer](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

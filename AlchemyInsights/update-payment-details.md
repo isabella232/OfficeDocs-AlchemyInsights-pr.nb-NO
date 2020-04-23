@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059889"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720074"
 ---
 # <a name="update-credit-card-information"></a>Oppdater kredittkortinformasjonen
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059889"
 
 Hvis du opplever problemer med siden som lastes inn, kan du prøve å åpne nettsiden i en annen nettleser, eller du kan prøve å åpne siden et privat nettleservindu, for eksempel et InPrivate-vindu i Microsoft Edge eller et inkognitovindu i Google Chrome. 
 
-Hvis du vil ha mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Office 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) og [Feilsøke kredittkort og bankkontoer](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Hvis du vil ha mer informasjon, se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto i Microsoft 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) og [Feilsøke kredittkort og bankkontoer](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

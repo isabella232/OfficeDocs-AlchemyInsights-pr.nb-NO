@@ -1,9 +1,9 @@
 ---
-title: Blokkerer elementer i søppelpost-mappen
+title: Blokkere elementer i søppelpostmappen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 9/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: a2901c0156fa2ad32f9954cb4e19160ef2404086
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: 760f375e722b823f8160ba482214d12d718b6684
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719858"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Blokkere elementer i søppelpost-mappen
+# <a name="blocking-items-in-your-junk-email-folder"></a>Blokkere elementer i søppelpostmappen
 
-Hvis du blokkerer et element som allerede finnes i søppelpost-mappen, slettes det ikke. Elementer i [Søppelpost-mappen](https://outlook.live.com/mail/junkemail) slettes automatisk etter 30 dager. Velg et element i søppelpost-mappen for å se når det vil bli slettet.
+Blokkering av et element som allerede finnes i søppelpostmappen, slettes det ikke. Elementer i [søppelpostmappen](https://outlook.live.com/mail/junkemail) slettes automatisk etter 30 dager. Velg et element i søppelpostmappen for å se når det slettes.
 
-Finn ut mer om hvordan du [blokkerer avsendere eller merker e-post som useriøs](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Finn ut mer om hvordan [du blokkerer avsendere eller merker e-post som søppelpost](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
