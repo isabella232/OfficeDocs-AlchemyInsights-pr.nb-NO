@@ -1,9 +1,9 @@
 ---
-title: Hvordan du installerer Office på en iPad
+title: Slik installerer du Office på en iPad
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: c6fc0c5f6c05767df6a4b2a5686b4383f4309047
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e0c20fb30555f25155902cf9516f7c99b9f98e4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759233"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a>Hvordan du installerer Office på en iPad
+# <a name="how-to-install-office-on-an-ipad"></a>Slik installerer du Office på en iPad
 
-- Har du bruker [tapper nedlastingskoblingen](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) fra mobilenheten, for Word, Excel, PowerPoint og OneNote.
+- Be brukeren [trykke nedlastingskoblingen](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) fra mobilenheten, for Word, Excel, PowerPoint og OneNote.
 
-- Få brukeren til å starte programmet, tapper du **Logg på** og angi arbeidet eller skolen legitimasjon.
+- Få brukeren til å starte appen, trykk **på Logg på** og skriv inn jobb- eller skolelegitimasjonen.

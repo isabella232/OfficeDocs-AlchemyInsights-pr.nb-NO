@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: import-eksport-i-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629954"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724739"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Import og eksport i Outlook for Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Importere /eksportere i Outlook for Mac 
 
 Eksportere:
-1. Velg **Eksporter**i kategorien **Verktøy** .
-2. I **Lagre som** -boksen under **Favoritter**, velg **nedlastinger** -mappen, og velg **Lagre**.
-3. Når du ser meldingen at eksporten er fullført, velger du **Fullfør**.
+1. Velg **Eksporter**i kategorien **Verktøy.**
+2. Velg **Nedlastinger-mappen** under **Favoritter**i **Lagre som-boksen,** og velg **Lagre**.
+3. Når du ser varselet om at eksporten er fullført, velger du **Fullfør**.
 
-Import:
-1. Velg **Importer**i kategorien **Verktøy** .
-2. Velg **Arkiver PST-fil for Outlook for Windows** > **Fortsett**.
-3. Finne PST-filen på Mac, og velg deretter **Importer**.
-4. Når importen er fullført, velger du **Fullfør**.
-5. De importerte elementene vises i navigasjonsruten under **Min datamaskin**.
+Importere:
+1. Velg **Importer**i kategorien **Verktøy.**
+2. Velg **Outlook for Windows-arkivfil (PST)** > **Fortsett**.
+3. Finn PST-filen på Mac-en, og velg deretter **Importer**.
+4. Når importprosessen er fullført, velger du **Fullfør**.
+5. De importerte elementene vises i navigasjonsruten under **På min datamaskin**.
 
-For hele settet med Import og eksport av se instruksjoner for Outlook for Mac [Import og eksport Outlook e-post, kontakter og kalender](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Hvis du vil ha fullstendig sett med import- og eksportinstruksjoner for Outlook for Mac, kan du se [Importere og eksportere Outlook-e-post, kontakter og kalender](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-For å motta støtte i-app for Outlook for Mac problemer, åpne Outlook og velge **Hjelp** > **Kontakt kundestøtte**. Skriv inn spørsmålet, og et medlem av Outlook for Mac support team vil få kontakt med deg. [Kontakt kundestøtte i Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Hvis du vil motta problemer med kundestøtte i appen for Outlook for Mac, åpner du Outlook og velger **Hjelp** > **kontaktstøtte**. Skriv inn spørsmålet ditt, og et medlem av støtteteamet for Outlook for Mac vil kontakte deg. [Kontakt kundestøtte i Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
