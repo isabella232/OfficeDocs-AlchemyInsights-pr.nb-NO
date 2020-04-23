@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154317"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556997"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-anropsplaner
 
-Anrop til andre brukere av Skype for business og Microsoft Teams er gratis, men hvis du vil at brukerne dine skal kunne ringe til vanlige telefoner, og du ikke allerede har en tjenesteleverandør til å foreta taleanrop, må du kjøpe en anropsplan. 
+Hvis du vil at brukerne dine skal kunne ringe til vanlige telefoner, og du ikke allerede har en tjenesteleverandør til å foreta taleanrop, må du kjøpe en anropsplan.
 
-- Hvis du vil starte kjøpsprosessen, se [Hvordan du kjøper en anropsplan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Se [Hvordan du kjøper en anropsplan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) for å starte kjøpsprosessen.
 
-- Hvis du vil ha mer informasjon, kan du se [Telefonsystem og anropsplaner](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Konfigurer [Kommunikasjonskreditter](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) for å unngå at brukere **går tom for minutter**. Se priser [her](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Hvis du vil ha mer informasjon, se [Telefonsystem og anropsplaner](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) eller [Hva er kommunikasjonskreditter?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
