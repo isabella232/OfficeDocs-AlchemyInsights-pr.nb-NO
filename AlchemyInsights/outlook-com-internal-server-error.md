@@ -3,7 +3,7 @@ title: 9000234 Outlook.com intern serverfeil
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536552"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760097"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Intern serverfeil i Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Interne serverfeil i Outlook.com
 
-OH ingen! Hvis du ser "500-feil" eller feilmeldingen "Intern serverfeil", det er oss og ikke - beklager.
+Å nei! Hvis du ser "Feil 500" eller en "Intern serverfeil"-melding, er det oss og ikke deg - beklager det.
 
-Sjekk ut [siden Status for Office-tjenesten](https://portal.office.com/servicestatus) for å sørge for at det ikke er noe annet går videre, men den beste løsningen er å ta en pause i noen minutter, og deretter oppdatere leseren ved å trykke **CTRL** og **F5**.
+Sjekk ut [siden Status for Office-tjenesten](https://portal.office.com/servicestatus) for å sikre at det ikke skjer noe annet, men den beste løsningen er å ta en pause i noen minutter, og oppdater deretter nettleseren ved å trykke **CTRL** og **F5**.

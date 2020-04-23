@@ -3,7 +3,7 @@ title: 1490-feilsøking-eDiscovery-feil
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759593"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Innholdssøk feilsøking
+# <a name="troubleshoot-content-search-errors"></a>Feilsøke innholdssøk-feil
 
-Er du opplever problemer med innholdssøk i Office 365 eller henting feil når du eksporterer søkeresultatene?
+Opplever du problemer med innholdssøk eller får feil når du eksporterer søkeresultater?
 
-Hvis du for eksempel får du følgende når du kjører Søk?
+Mottar du for eksempel følgende når du kjører søk?
 
-- CS008 eller CS012 feil
+- CS008- eller CS012-feil
 
-- Opptatt/timeout-serverfeil
+- Feil ved opptatt/tidsavgjøring for server
 
 - Det oppstod en programfeil
 
-Eller når du søker eller eksportere resultatene fra et stort antall postbokser (over 100 000 postbokser), du får eksport feil?
+Eller når du søker eller eksporterer resultater fra et stort antall postbokser (over 100 000 postbokser), får du eksportfeil?
 
-For disse typer feil, prøv på nytt søk etter innholdsplasseringer som har mislyktes. Se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for mer informasjon.
+Prøv søket etter innholdsplasseringene som mislyktes for disse typene feil. Se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for mer informasjon.

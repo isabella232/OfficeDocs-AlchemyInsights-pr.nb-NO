@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789023"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Fjerning av oppringingsnummer for Teams
 
@@ -24,7 +24,7 @@ Trenger du hjelp til å fjerne et innringingsnummer fra konferansebroen? Er numm
 
 Standardtelefonnummeret til konferansebroen definerer oppringer-ID-en som vil bli brukt når en utgående oppringing er plassert av en deltaker eller arrangøren, fra et møte.
 
-1. Logg på Office 365 med jobbkontoen din.
+1. Logg på med jobbkontoen din.
 
 2. Gå til **Administrasjonssenteret for Microsoft 365**.
 

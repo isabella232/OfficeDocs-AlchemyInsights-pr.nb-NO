@@ -1,9 +1,9 @@
 ---
-title: Outlook.com-statusen er alltid tilgjengelig
+title: Outlook.com status vises alltid som Tilgjengelig
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511964"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743462"
 ---
-# <a name="my-status-always-shows-as-available"></a>Min status viser alltid som tilgjengelige
+# <a name="my-status-always-shows-as-available"></a>Statusen min vises alltid som tilgjengelig
 
-Hver gang du logger deg på Outlook.com, vil brukerstatusen din bli tilbakestilt til tilgjengelige. Du kan hindre at statusen din endrer ved ikke logger av Outlook.com. For å forbli pålogget når du lukker nettleseren, merker du **holde meg pålogget** på Outlook.com-påloggingssiden.
+Hver gang du logger på Outlook.com, tilbakestilles kontostatusen din til Tilgjengelig. Du kan forhindre at statusen endres ved å ikke logge av Outlook.com. Hvis du vil være pålogget når du lukker nettleseren, velger du boksen **Hold meg pålogget** på Outlook.com påloggingssiden.

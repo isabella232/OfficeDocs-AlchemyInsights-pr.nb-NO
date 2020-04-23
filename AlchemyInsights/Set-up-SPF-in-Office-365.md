@@ -1,5 +1,5 @@
 ---
-title: Konfigurere SPF i Office 365
+title: Konfigurere SPF i Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6b87c5b44ab275e69b58752c1fdfa8b416755c6f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784160"
 ---
-# <a name="set-passwords-to-never-expire"></a>Angi passord for aldri å utløpe 
+# <a name="set-passwords-to-never-expire"></a>Angi passord som aldri utløper 
 
-Hvis du vil angi at alle passord aldri skal utløpe, går du til[sikkerhets personvern &amp; ](https://portal.office.com/adminportal/home#/settings/security) siden **for** > Microsoft 365 i Administrasjonssenter for sikkerhet. Velg **Rediger** ved siden av **Passordpolicy**, og drei glidebryteren til **på**.
+Hvis du vil angi at ALLE passord aldri skal utløpe, går du til siden[Personvern for &amp; sikkerhetsinnstillinger](https://portal.office.com/adminportal/home#/settings/security) i administrasjonssenteret **for** > Microsoft 365. Velg **Rediger** ved siden **av Passordpolicy**, og slå glidebryteren til **På**.
   
-Hvis du vil ha mer detaljert informasjon, se: [Angi Utløpspolicyen for passord for organisasjonen.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Hvis du vil ha mer detaljert informasjon, kan du se: [Angi regler for utløp av passord for organisasjonen.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Angi at passord aldri skal utløpe for bestemte brukere](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+[Angi at passordet aldri utløper for bestemte brukere](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

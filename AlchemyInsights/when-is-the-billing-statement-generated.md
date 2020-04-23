@@ -1,9 +1,9 @@
 ---
-title: Når fakturaen genereres?
+title: Når genereres faktureringserklæringen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530881"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759377"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Når fakturaen genereres
+# <a name="when-is-the-billing-statement-generated"></a>Når genereres faktureringserklæringen
 
-Hver måned vil du motta en e-postmelding som forteller deg at din nye kontoutdraget er tilgjengelig i Microsoft 365 administrasjonssenteret. Fakturaen inneholder to sider. Side 1 er et sammendrag av fakturaen og inneholder generell informasjon om fakturaen, bestillingen, beløp til forfall, hvordan du betaler og hvordan du kontakter støtte. Side 2 inneholder detaljer om faktureringsaktiviteten for hvert abonnement.
+Hver måned mottar du en e-post som forteller deg at den nye faktureringserklæringen er tilgjengelig i administrasjonssenteret for Microsoft 365. Fakturaen inneholder to sider. Side 1 er et sammendrag av fakturaen og inneholder generell informasjon om fakturaen, bestillingen, beløp til forfall, hvordan du betaler og hvordan du kontakter støtte. Side 2 inneholder detaljer om faktureringsaktiviteten for hvert abonnement.
   
-Hvis du vil vite mer om fakturering begreper, kan du se [Forstå på fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Hvis du vil vite mer om faktureringskonsepter, kan du se [Forstå fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
