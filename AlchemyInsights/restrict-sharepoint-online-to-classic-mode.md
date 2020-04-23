@@ -1,8 +1,8 @@
 ---
-title: Begrens SharePoint Online til klassisk modus
+title: Begrense SharePoint Online til klassisk modus
 ms.author: pebaum
 author: pebaum
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048769"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742478"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Begrens SharePoint Online til klassisk modus
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Begrense SharePoint Online til klassisk modus
 
-Noen organisasjoner krever fortsatt klassisk modus opplevelse. Selv om det ikke er noen planer om å fjerne klassisk modus på et detaljert nivå, er det ikke lenger mulig å begrense en hel organisasjon (leietaker) til klassisk modus for lister og biblioteker.
+Noen organisasjoner krever fortsatt den klassiske modusopplevelsen. Selv om det ikke er noen planer om å fjerne klassisk modus på et detaljert nivå, er det ikke lenger mulig å begrense en hel organisasjon (leier) til klassisk modus for lister og biblioteker.
 
-Administratoren har følgende alternativer for å administrere enkelt lister og-biblioteker i klassisk modus ved hjelp av detaljerte opt-out-brytere som vi tilbyr på følgende nivåer:
+Administratoren vil ha følgende alternativer for å administrere individuelle lister og biblioteker i klassisk modus ved hjelp av detaljerte opt-out-brytere som vi tilbyr på følgende nivåer:
 
 - Områdesamling
 - Nettstedet
 - Listen
 - Biblioteket
 
-I tillegg vil lister som bruker bestemte funksjoner og tilpasninger som ikke støttes av moderne, fortsatt automatisk bli byttet til klassisk modus.
+I tillegg byttes lister som bruker bestemte funksjoner og tilpassinger som ikke støttes av moderne, automatisk til klassisk modus.
 
-Beginning 1 april 2019, prosessen for å deaktivere leietaker nivå opt ut av moderne liste og biblioteker vil starte og fortsette gjennom 31 mai 2019.  Listene og bibliotekene som er i klassisk modus som et resultat av leietaker opt-out vil automatisk bli forskjøvet til moderne.
+April 1, 2019, prosessen med å deaktivere leietaker nivå velge bort moderne liste og biblioteker vil starte og fortsette til 31 mai 2019.  Listene og bibliotekene som er i klassisk modus som følge av at leieren velger bort, flyttes automatisk til moderne.
 
-Hvis du trenger klassisk modus kan du se mer informasjon [her](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) og PnP PowerShell instruksjon [her](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) som beskriver alternativer og verktøy du kan bruke i dag for å bruke den klassiske modusen erfaring.
+Hvis du trenger klassisk modus, vennligst se mer informasjon [her](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) og PnP Powershell instruksjon [her](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) som beskriver alternativer og verktøy du kan bruke i dag til å bruke den klassiske modusopplevelsen.

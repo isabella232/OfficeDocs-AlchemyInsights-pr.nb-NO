@@ -3,7 +3,7 @@ title: Løsninger for feil 30180-28
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 63bb8b7495232bb43e9e7c45565a1c900a0e1f1d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1a30df2a78a838ddeb7be83b8ddebc9114bccabb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767129"
 ---
 # <a name="solutions-for-error-30180-28"></a>Løsninger for feil 30180-28
 
-Du kan se [feilen 30180 28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) under en Office-oppdatering hvis du har en dårlig Internett-tilkobling. Her er noen ting du kan prøve å løse problemet.
+Det kan [hende du ser feil 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) under en Office-oppdatering hvis du har en dårlig Internett-tilkobling. Her er noen ting du kan prøve å løse problemet.
   
-- Start datamaskinen og deretter [oppdatere Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA)på nytt.
+- Start datamaskinen på nytt, og oppdater deretter [Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
 
-- Følg fremgangsmåten ovenfor, men bruker en kablet tilkobling under oppdatering av Office.
+- Følg trinnene ovenfor, men bruk en kablet tilkobling mens du oppdaterer Office.

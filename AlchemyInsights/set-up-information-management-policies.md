@@ -2,29 +2,29 @@
 title: Definere policyer for informasjonsbehandling
 ms.author: stevhord
 author: bentoncity
-ms.date: 6/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767546"
 ---
 # <a name="set-up-information-management-policies"></a>Definere policyer for informasjonsbehandling
 
-1. Hvis SharePoint-området inneholder sekundære webområder, kan du gå til webområdet på øverste nivå.
+1. Hvis SharePoint-området har sekundære områder, blar du til området på øverste nivå.
     
-2. Klikk **Innstillinger**, og klikk deretter **Områdeinnstillinger**. Hvis området er et Office 365-gruppen koblet område, klikker du **Innstillinger**, klikker du **Innholdet på området**, og deretter **Områdeinnstillinger**.
+2. Klikk **Innstillinger**, og klikk deretter **Innstillinger for område**. Hvis området er et gruppetilkoblet office 365-område for gruppetil, klikker du **Innstillinger**, klikker **Områdeinnhold**og deretter **Innstillinger for område**.
     
-3. Under **Administrasjon av områdesamling**, klikker du **funksjoner i områdesamling**.
+3. Klikk Funksjoner for **områdesamling under** **Administrasjon av områdesamling**.
     
-4. Under **Arkivbehandling i stedet**, klikker du **Aktiver**.
+4. Klikk **Aktiver** **under Administrasjon av oppføringer på stedet**.
     
-For mer informasjon, kan du se [Introduction to policyer for informasjonsbehandling](https://go.microsoft.com/fwlink/?linkid=404239) og [opprette og bruke policyer for informasjonsbehandling](https://go.microsoft.com/fwlink/?linkid=2003916).
+Hvis du vil ha mer informasjon, kan du se [Innføring i policyer for informasjonsbehandling](https://go.microsoft.com/fwlink/?linkid=404239) og [Opprette og bruke policyer for informasjonsbehandling](https://go.microsoft.com/fwlink/?linkid=2003916).
   
 

@@ -1,9 +1,9 @@
 ---
-title: SharePoint Online offentlige webområder er opphører
+title: Offentlige webområder i SharePoint Online avvikles
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764306"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online offentlige webområder er opphører
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Offentlige webområder i SharePoint Online avvikles
 
-Hvis du opprettet et webområde for SharePoint Online offentlig, kan du fortsette å bruke den til 31 mars 2018. Hvis du vil fortsette å ha et offentlig webområde, må du opprette en ny relasjon med en ny leverandør. Innholdet på webområdet for SharePoint Online offentlige vil bli slettet, slik at du må kopiere innholdet du vil beholde.
+Hvis du opprettet et offentlig SharePoint Online-webområde, kan du fortsette å bruke det frem til 31. Hvis du vil fortsette å ha et offentlig nettsted, må du opprette et nytt nettsted hos en ny leverandør. Innholdet på det offentlige SharePoint Online-nettstedet slettes, så du må kopiere alt innhold du vil beholde.
   
-Vises nå et banner øverst på webområdet for SharePoint Online offentlige som varsel om at området vil bli fjernet. Du kan ikke deaktivere denne banner. For informasjon om å lagre og kopiere innholdet til en partner-webområde, kan du se [Detaljer om funksjonen discontinuation prosessen](https://go.microsoft.com/fwlink/?linkid=866980).
+Et banner vises nå øverst på det offentlige SharePoint Online-nettstedet som varsler om at nettstedet vil bli fjernet. Du kan ikke slå av dette banneret. Hvis du vil ha informasjon om hvordan du lagrer og kopierer innhold til et partnernettsted, kan du se [Detaljer om funksjonens opphørsprosess](https://go.microsoft.com/fwlink/?linkid=866980).
   

@@ -1,9 +1,9 @@
 ---
-title: 932 oppgraderer AADConnect
+title: 932 Oppgradere AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766502"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Oppgradering Azure AD koble
+# <a name="upgrade-azure-ad-connect"></a>Oppgrader Azure AD Connect
 
-Som standard aktiveres automatisk oppgradering for Azure AD-tilkobling, som bidrar til å sikre at du kjører den nyeste versjonen. Hvis du vil kontrollere innstillingene for automatisk oppgradering, kan du bruke cmdleten **Get-ADSyncAutoUpgrade** i Azure AD PowerShell. Cmdleten vil returnere en av følgende verdier:
+Som standard er automatisk oppgradering aktivert for Azure AD Connect, noe som bidrar til å sikre at du kjører den nyeste versjonen. Hvis du vil kontrollere de automatiske oppgraderingsinnstillingene, bruker du cmdleten **Get-ADSyncAutoUpgrade** i Azure AD PowerShell. Cmdleten returnerer én av følgende verdier:
 
-- **Aktivert**: automatisk oppgradering er aktivert.
+- **Aktivert:** Automatisk oppgradering er aktivert.
 
-- **Deaktivert**: automatisk oppgradering er deaktivert.
+- **Deaktivert:** Automatisk oppgradering er deaktivert.
 
-- **Suspended**: systemet er ikke lenger berettiget til å motta automatiske oppgraderinger. Du kan ikke konfigurere denne verdien. Det er satt av systemet.
+- **Suspendert**: Systemet er ikke lenger kvalifisert til å motta automatiske oppgraderinger. Du kan ikke konfigurere denne verdien. det er satt av systemet.
 
-Hvis du vil ha mer informasjon, kan du se [automatisk oppgradering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Hvis du vil ha mer informasjon, kan du se [Automatisk oppgradering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Hvis du vil laste ned den nyeste versjonen av Azure AD-tilkobling, kan du gå til [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Hvis du vil laste ned den nyeste [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)versjonen av Azure AD Connect, går du til .

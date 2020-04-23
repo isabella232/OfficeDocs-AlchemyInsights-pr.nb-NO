@@ -1,9 +1,9 @@
 ---
-title: Hvordan kjøpe Office 365 for ikke-fortjeneste
+title: Slik kjøper du Office 365 for ideelle organisasjoner
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389981"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763550"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Hvordan kjøpe Office 365 for ikke-fortjeneste
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Slik kjøper du Office 365 for ideelle organisasjoner
 
-Deres rett som en kvalifisert ideell organisasjon for Microsoft er under vurdering. Du kan forvente å motta et varsel i fastsettelse av dine rettigheter før prøveperioden utløper. Du kan spore statusen for programmet [her](http://eligibilityweb.azurewebsites.net/).
+Din kvalifisering som en Microsoft-kvalifisert ideell organisasjon er under vurdering. Du kan forvente å motta et varsel om fastsettelse av kvalifikasjonen før prøveperioden utløper. Du kan spore statusen for programmet [her](https://eligibilityweb.azurewebsites.net/).

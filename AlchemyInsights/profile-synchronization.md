@@ -2,30 +2,30 @@
 title: Profilsynkronisering
 ms.author: arnek
 author: arnek
-ms.date: 6/20/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36554342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768122"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Når synkroniseres profil endringene til SharePoint-brukerprofilprogrammet?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Når synkroniseres profilen min til SharePoint-brukerprofilprogrammet?
 
-SharePoint Online bruker tidtakerjobben for import av Active Directory (AD import) til å importere brukere og grupper til brukerprofilprogrammet. 
+SharePoint Online bruker tidtakerjobben for Active Directory-import (AD-import) til å importere brukere og grupper til brukerprofilprogrammet. 
   
-1. AD import synkroniserer endringer fra SharePoint Online Directory store til brukerprofilprogrammet. Disse endringene behandles i partier.
+1. AD Import synkroniserer endringer fra SharePoint Online Directory Store til brukerprofilprogrammet. Disse endringene behandles i grupper.
     
-2. Tidtakerjobben kjøres til endringene er synkronisert.
+2. Tidtakerjobben kjører til endringene er synkronisert.
     
 > [!NOTE]
-> Tiden det tar å kjøre jobben, avhenger av hvor mange endringer som skal utføres. Et stort antall endringer tar lengre tid. Service nivå avtalen (SLA) angir at en endring til en bruker i SharePoint Online Directory vil bli reflektert i brukerprofilprogrammet i 24 timer. 
+> Tiden det tar jobben å kjøre, avhenger av antall endringer som skal behandles. Et stort antall endringer tar lengre tid. Servicelevel-avtalen (Service Level Agreement) sier at en endring til en bruker i SharePoint Online-katalogen gjenspeiles i brukerprofilprogrammet om 24 timer. 
   
-[Mer informasjon om synkronisering av brukerprofiler i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Mer informasjon om synkronisering av brukerprofil i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

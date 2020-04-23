@@ -1,9 +1,9 @@
 ---
-title: 1488-Perform-eDiscovery-and-Content-Searches
+title: 1488-perform-eDiscovery-og-innhold-søk
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764737"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innhold Søk og eDiscovery-Søk
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innholdssøk og eDiscovery-søk
 
-Bruk verktøyet innholdssøk i sikkerhet & overholdelsessenteret til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive konto og direktemeldinger samtaler i Skype for bedrifter. Du kan også bruke verktøyet for innhold søk til å søke etter e-post, dokumenter og instant messaging samtaler i Office 365 samarbeidsverktøy som Microsoft Teams og Office 365-grupper.
+Bruk innholdssøk-verktøyet i sikkerhets& samsvarssenter til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-konto og direktemeldingssamtaler i Skype for Business. Du kan også bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Office 365-grupper.
 
-**Til å utføre et innholdssøk**
+**Slik utfører du et innholdssøk**
 
-1. Gå til [Sikkerhet & kompatibilitet Center](https://protection.office.com) , og Logg på.
-2. Klikk **Søk > innhold Søk**.
-3. Klikk **nytt søk** for å opprette et nytt søk.
-4. Angi de nødvendige søkebetingelsene inkludert nøkkelord og plassering av innhold.  
-5. Klikk **Lagre Kjør &** for å navngi søket, starte den, og Forhåndsvis deretter resultatene.
+1. Gå til [sikkerhets& samsvarssenter,](https://protection.office.com) og logg på.
+2. Klikk **Søk > Innholdssøk**.
+3. Klikk **Nytt søk** for å opprette et nytt søk.
+4. Angi de nødvendige søkebetingelsene, inkludert søkeord og innholdsplasseringer.  
+5. Klikk **Lagre & kjør** for å gi søket et navn, start det, og forhåndsvis deretter resultatene.
 
-For detaljerte instruksjoner om innhold søk, eksportere resultatene, og opprette en eDiscovery tilfeller for lagring av data, kan du se [Innholdssøk](https://docs.microsoft.com/office365/securitycompliance/content-search) og [eDiscovery saker](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Hvis du vil ha detaljerte instruksjoner om innholdssøk, eksport av resultater og oppretting av eDiscovery-saker for å holde data, kan du se [Innholdssøk](https://docs.microsoft.com/office365/securitycompliance/content-search) og [eDiscovery-saker](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Forstå mer om innholdssøk ved å se gjennom de [krav og begrensninger](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) og [undersøker delvis indekserte elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater skal være klar over.
+Forstå mer om innholdssøk ved å gå gjennom [kravene og grensene](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) og undersøke delvis [indekserte elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater å være klar over.

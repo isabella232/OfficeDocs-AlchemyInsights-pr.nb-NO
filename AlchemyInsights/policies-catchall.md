@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599961"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765564"
 ---
 # <a name="teams-policies"></a>Retningslinjer for team
 
@@ -30,5 +30,5 @@ Teampolicyer er delt inn i følgende områder:
 - [Møtepolicyer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrollerer hva brukerne kan gjøre med Teams-møter, inkludert kontroll av lobbyen. Hvis du trenger hjelp med lobbyproblemer, for eksempel konfigurere Teams til å innrømme alle, kan du se [Kontrollere lobbyinnstillinger og deltakelsesnivåer.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - [Meldingspolicyer](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrollerer hva brukerne kan gjøre med chat og meldinger, inkludert å slå chat på eller av, slette chatter, be om lesekvitteringer, bruke giphys og klistremerker og mer.
 - [Retningslinjer for appoppsett](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrollerer hvilke apper som er tilgjengelige for brukere, inkludert egendefinerte apper og tredjepartsapper, og rekkefølgen de vises i.  
-- Retningslinjer for [dataoppbevaring](https://docs.microsoft.com/microsoftteams/retention-policies) for teams finnes i Sikkerhets- og samsvarssenter for Office 365.
+- [Dataoppbevaringspolicyer](https://docs.microsoft.com/microsoftteams/retention-policies) for teams finnes i Sikkerhets- og samsvarssenter for Microsoft 365.
 - Policyer for teams adressebok angis via [områdekatalogsøk](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

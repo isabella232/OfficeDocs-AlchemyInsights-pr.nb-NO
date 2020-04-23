@@ -1,9 +1,9 @@
 ---
-title: Stavekontrollere i Outlook på weben
+title: Kontrollere stavemåten i Outlook på nettet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4ab3a63aa72cadd26ecc69c4322cf970ce52638f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36510560"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768626"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Bruke webleseren til å stavekontrollere
+# <a name="use-your-browser-to-check-spelling"></a>Bruk nettleseren til å kontrollere stavemåten
 
-Det finnes ikke noe alternativ for stavekontroll i Outlook på weben. Hvis du vil kontrollere stavemåten, må du bruke webleseren. Stavekontroll er tilgjengelig i Microsoft Edge, Internet Explorer 10 og senere versjoner og gjeldende versjoner av Firefox, Chrome og Safari. Kontroller alternativene for webleseren for å lære mer om hvordan du stavekontrollerer.
+Det er ingen stavekontroll alternativ i Outlook på nettet. Hvis du vil kontrollere stavemåten, må du bruke nettleseren. Stavekontroll er tilgjengelig i Microsoft Edge, Internet Explorer 10 og senere versjoner og gjeldende versjoner av Firefox, Chrome og Safari. Se alternativene for nettleseren for å finne ut mer om hvordan du kontrollerer stavemåten.

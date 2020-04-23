@@ -1,9 +1,9 @@
 ---
-title: Gjenopprette slettede elementer fra SharePoint- eller OneDrive
+title: Gjenopprette slettede elementer fra SharePoint eller OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742524"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Gjenopprette slettede elementer fra SharePoint- eller OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Gjenopprette slettede elementer fra SharePoint eller OneDrive
 
-1. Gå til din OneDrive eller SharePoint-området.
+1. Gå til OneDrive eller SharePoint-området.
     
-2. Klikk **Papirkurv** i den venstre ruten. 
+2. Klikk **Papirkurv** i ruten til venstre. 
     
 3. Klikk til venstre for elementene eller filene du vil gjenopprette.
     
 4. Klikk **Gjenopprett**. 
     
-Når filer, mapper, biblioteker, lister og listeelementer er slettet fra et SharePoint-område, går de til papirkurven, hvor de er plassert i 93 dager med mindre noen sletter dem fra papirkurven. Hvis de er slettet fra papirkurven (kalt papirkurven for området), de går til papirkurven for områdesamlingen for resten av tiden, og deretter slettes for godt. Slettede områder og områdesamlinger kan du gå direkte til papirkurven for områdesamlingen for 93 dagene.
+Når filer, mapper, biblioteker, lister og listeelementer slettes fra et SharePoint-område, går de til papirkurven, der de beholdes i 93 dager med mindre noen sletter dem fra denne papirkurven. Hvis de slettes fra denne papirkurven (kalt papirkurven for området), går de til papirkurven for områdesamlingen for gjenstående tid, og deretter slettes permanent. Slettede områder og områdesamlinger går direkte til papirkurven for områdesamlingen i de 93 dagene.
   
-[Gjenopprette elementer i papirkurven for områdesamlingen](https://go.microsoft.com/fwlink/?linkid=867800) (områdesamling administratorer) 
+[Gjenopprette elementer i papirkurven for områdesamlingen](https://go.microsoft.com/fwlink/?linkid=867800) (administratorer for områdesamling) 
   
-[Gjenopprett slettet områdesamlinger](https://go.microsoft.com/fwlink/?linkid=867660) (global eller SharePoint-administratorer i Office 365) 
+[Gjenopprette slettede områdesamlinger](https://go.microsoft.com/fwlink/?linkid=867660) (globale eller SharePoint-administratorer i Microsoft 365) 
   
-For områder som hører til en Office 365-gruppen, må du gjenopprette gruppen Hvis du vil gjenopprette området. Se [Gjenopprett en slettet gruppe for Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (global admin) 
+For områder som tilhører en Office 365-gruppe, må du gjenopprette gruppen for å gjenopprette området. Se [Gjenopprette en slettet Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=867802) (global administrator) 
   
 

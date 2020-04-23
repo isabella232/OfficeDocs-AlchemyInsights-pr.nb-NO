@@ -2,7 +2,7 @@
 title: SharePoint Online regulering
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958744"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742218"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online regulering
 
-**Viktig:** I løpet av disse enestående tider, vi tar skritt for å sikre at SharePoint Online og OneDrive-tjenester forblir svært tilgjengelige - Vennligst besøk [SharePoint Online midlertidige funksjonsjusteringer](https://aka.ms/ODSPAdjustments) for mer informasjon.
+**Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
 **503-serveren er opptatt feil**
 
 Brukere kan få en 503-server er opptatt feil når du prøver å navigere til SharePoint eller OneDrive-områder. 
 
-Denne feilen kan skyldes regulering i SharePoint-tjenesten. SharePoint Online bruker regulering for å opprettholde optimal ytelse og pålitelighet for SharePoint Online-tjenesten. Regulering begrenser antall brukerhandlinger eller samtidige anrop (etter skript eller kode) for å forhindre overforbruk av ressurser. 
+Denne feilen kan skyldes regulering i SharePoint-tjenesten. SharePoint Online bruker begrensning til å opprettholde optimal ytelse og pålitelighet for SharePoint Online-tjenesten. Begrensning begrenser antall brukerhandlinger eller samtidige anrop (via skript eller kode) for å hindre overforbruk av ressurser. 
 
 Hvis du vil ha mer informasjon om regulering, [se, Unngå å bli strupet eller blokkert i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
