@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Kopier Lim inn
+title: Outlook.com kopier lim inn
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8628a5dfe0b9e1d82bd7a43173221f6c1c107cbb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546923"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760493"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="434a3-102">Kopiere og lime inn i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="434a3-102">Copy and paste in Outlook.com</span></span>
+# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="07628-102">Kopier og lim inn i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="07628-102">Copy and paste in Outlook.com</span></span>
 
-<span data-ttu-id="434a3-103">Det er ikke Kopier eller Lim inn-knappen i Outlook.com, men du kan bruke hurtigtaster:</span><span class="sxs-lookup"><span data-stu-id="434a3-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
+<span data-ttu-id="07628-103">Det finnes ikke kopierings- eller lim inn knapper i Outlook.com, men du kan bruke hurtigtaster:</span><span class="sxs-lookup"><span data-stu-id="07628-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
 
-<span data-ttu-id="434a3-104">**På en PC:** CTRL + C for å kopiere, CTRL + X for å klippe ut og CTRL + V for å lime inn.</span><span class="sxs-lookup"><span data-stu-id="434a3-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
+<span data-ttu-id="07628-104">**På en PC:** CTRL +C for å kopiere, CTRL+ X for å klippe ut, og CTRL + V å lime inn.</span><span class="sxs-lookup"><span data-stu-id="07628-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
 
-<span data-ttu-id="434a3-105">**På en Mac:** CMD + C for å kopiere, CMD + X for å klippe ut og CMD + V for å lime inn.</span><span class="sxs-lookup"><span data-stu-id="434a3-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
+<span data-ttu-id="07628-105">**På en Mac:** CMD+C å kopiere, CMD +X å klippe ut, og CMD + V å lime inn.</span><span class="sxs-lookup"><span data-stu-id="07628-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
