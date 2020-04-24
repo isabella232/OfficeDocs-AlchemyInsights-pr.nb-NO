@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856806"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739445"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams vanlige problemer for Education-kunder
 
@@ -45,12 +45,12 @@ Hvis du trenger hjelp til å distribuere Teams til bruk i fjernundervisning, kan
     6. Klikk på **Telefonkonferanse** og deretter **Brukere** i Administrasjonssenter for Skype for Business.
     7. Velg den aktuelle brukeren, og kontroller at brukeren har et standard nummer.
 
-    Hvis du vil ha mer informasjon, kan du se [Abonnementer i Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe betalingsgruppen for Microsoft Commerce for hjelp med lisensieringsrelaterte spørsmål.
+    Hvis du vil ha mer informasjon, kan du se [Abonnementer](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe fakturaavdelingen for Microsoft Commerce for å få hjelp med lisensieringsrelaterte spørsmål.
 
     Flere ressurser
 
     - [Møter og konferanser i Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Telefonkonferanser i Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Lydkonferanser](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Møtepolicyer**: Møtepolicyer brukes til å kontrollere funksjonene som er tilgjengelige for møtedeltakere, for møter som er planlagt av brukere i organisasjonen. Når du har opprettet en policy og gjort ønskede endringer, kan du tilordne brukere til policyen.
 

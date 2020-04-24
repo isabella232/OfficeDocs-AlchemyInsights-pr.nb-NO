@@ -1,5 +1,5 @@
 ---
-title: Kjøp av Office 365 Education-abonnementer
+title: Kjøp Microsoft 365 Education-planer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195233"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789383"
 ---
-# <a name="purchase-office-365-education-plans"></a>Kjøp av Office 365 Education-abonnementer
+# <a name="purchase-microsoft-365-education-plans"></a>Kjøp Microsoft 365 Education-planer
 
-Du har blitt godkjent for Office 365 Education.  Slik kjøper du det:
+Du har blitt godkjent for Microsoft 365 Education.  Slik kjøper du det:
 
 1. Gå til **[Faktura > Kjøp tjenester](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Du har blitt godkjent for Office 365 Education.  Slik kjøper du det:
 
 **Ekstern undervisning og læring**
 
-- Se gjennom [Ekstern undervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for å se den mest oppdaterte veiledningen om hvordan du konfigurerer læreplanen for skolen din, virtuelle møter og deler innhold med elever.
+- Se gjennom [Ekstern undervisning og læring i Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for å se den mest oppdaterte veiledningen om hvordan du konfigurerer læreplanen for skolen din, virtuelle møter og deler innhold med elever.
 
 - Det finnes mer IT-veiledning i [Komme i gang med Microsoft Teams for ekstern læring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Ta overgangen til ekstern læring](https://www.microsoft.com/education/remote-learning).

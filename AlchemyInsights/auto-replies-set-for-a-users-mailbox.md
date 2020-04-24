@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509510"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788891"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Angi automatiske svar for postboksen til en bruker
 
 **Metode 1**
 
-1. Logg på Office 365-portalen.
+1. Logg på portalen for Microsoft 365.
 
 2. Gå til **Brukere > Aktive brukere** (eller **Grupper > Delte postbokser** dersom du angir dette for en delt postboks).
 
@@ -32,9 +32,9 @@ ms.locfileid: "43509510"
 
 **Metode 2**
 
-1. Logg på Office 365-administratorportalen med legitimasjon for administrator. 
+1. Logg på Microsoft 365-administratorportalen med legitimasjon for administrator. 
 
-2. Utvid **Administrasjonssentre**, og klikk deretter på **Exchange**.
+2. Velg **Administrasjonssentre**, og klikk deretter på **Exchange**.
 
 3. Klikk på bildet oppe i høyre hjørne, klikk **Annen bruker**, og velg deretter den brukerpostboksen som du vil endre.
 

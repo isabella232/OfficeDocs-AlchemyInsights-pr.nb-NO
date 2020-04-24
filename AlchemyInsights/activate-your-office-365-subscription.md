@@ -1,5 +1,5 @@
 ---
-title: Aktiver Office 365-abonnementet ditt
+title: Aktivere ditt Microsoft 365-abonnement
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191074"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784016"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktiver Office 365-abonnementet ditt
+# <a name="activate-your-subscription"></a>Aktivere ditt abonnement
 
 **Aktivere et abonnement**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191074"
 
 **Aktivere et abonnement på nytt**
 
-Hvis abonnementet går ut eller har blitt deaktivert av Microsoft, eller du har avbrutt det midt i en abonnementsperiode, kan du aktivere det på nytt i administrasjonssenteret for Office 365.
+Hvis abonnementet går ut eller har blitt deaktivert av Microsoft, eller du har avbrutt det midt i en abonnementsperiode, kan du aktivere det på nytt i administrasjonssenteret for Microsoft 365.
 
-- Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden (eller klikk på **Fakturering > Abonnementer**) i administrasjonssenteret for Office 365.
+- Gå til [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden (eller klikk på **Fakturering > Abonnementer**) i administrasjonssenteret for Microsoft 365.
 
 - Velg abonnementet du ønsker å aktivere på nytt, og klikk deretter på **Aktiver på nytt**. Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, [kontakter du brukerstøtte](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) for å aktivere abonnementet på nytt.
 
@@ -42,6 +42,6 @@ For mer informasjon, se [Aktivere abonnementet på nytt](https://docs.microsoft.
 
 **Aktivere et nytt abonnement med en produktnøkkel**
 
-- Hvis du vil aktivere et nytt Office 365-abonnement med produktnøkkelen, starter [du her](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Hvis du vil aktivere et nytt Microsoft 365-abonnement med produktnøkkelen, starter [du her](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Skriv inn Office 365-produktnøkkelen, og følg instruksjonene for å aktivere abonnementet. Hvis du har problemer med aktiveringen, kan du ta en titt på denne [listen over vanlige feil med produktnøkler og løsninger](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Skriv inn Microsoft 365-produktnøkkelen, og følg instruksjonene for å aktivere abonnementet. Hvis du har problemer med aktiveringen, kan du ta en titt på denne [listen over vanlige feil med produktnøkler og løsninger](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

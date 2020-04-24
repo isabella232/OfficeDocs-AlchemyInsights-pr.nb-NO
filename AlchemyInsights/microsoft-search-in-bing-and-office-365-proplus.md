@@ -1,21 +1,21 @@
 ---
-title: Microsoft Søk i Bing og Office 365 ProPlus
+title: Microsoft Søk i Bing og Microsoft 365 Apps for enterprise
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551170"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762326"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Microsoft Søk i Bing og Office 365 ProPlus
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Søk i Bing og Microsoft 365 Apps for enterprise
 
-Fra og med 2002 versjonen av Office 365 ProPlus, vil en utvidelse for Microsoft Søk i Bing bli installert, som gjør Bing til standard søkemotor for Google Chrome-nettleseren for enheter på bestemte steder.
+Fra og med 2002 versjonen av Microsoft 365 Apps for enterprise vil en utvidelse for Microsoft Søk i Bing bli installert, som gjør Bing til standard søkemotor for Google Chrome-nettleseren for enheter på bestemte steder.
 
 **Hvis du ikke vil installere utvidelsen, [følg disse trinnene](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
 

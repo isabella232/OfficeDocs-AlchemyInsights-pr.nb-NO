@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060006"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784556"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurere Insider Risk Management
 
@@ -26,13 +26,13 @@ Bruk policyer for Insider Risk Management for å identifisere risikable aktivite
 
 - **Microsoft 365 E3**-abonnement med tilleggsprogram for Microsoft E5-samsvar.
 
-Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og vil prøve Insider Risk Management, kan du legge til Microsoft 365 til det eksisterende Office 365-abonnementet eller registrere deg for en prøveversjon av Microsoft 365 Enterprise E5.
+Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og vil prøve Insider Risk Management, kan du legge til Microsoft 365 til det eksisterende abonnementet eller registrere deg for en prøveversjon av Microsoft 365 Enterprise E5.
 
 De grunnleggende trinnene for å bruke Insider Risk Management inkluderer:
 
 1. Aktiver tillatelser for Insider Risk Management.
 
-2. Aktiver Office 365-overvåkingsloggen.
+2. Aktivere overvåkingsloggen.
 
 3. Konfigurer forutsetninger for mal (valgfritt).
 

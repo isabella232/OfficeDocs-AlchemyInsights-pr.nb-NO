@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707740"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764378"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Konfigurere telefonkonferanse for Teams
 
@@ -38,8 +38,8 @@ Hvis du vil kontrollere at brukeren er lisensiert for telefonkonferanse og har e
 
 5. Klikk på **Eldre portal** i **Administrasjonssenter for Microsoft Teams**.
 
-6. Klikk på **Telefonkonferanse** og **brukere** i **Administrasjonssenter for Skype for Business**.
+6. Klikk på **Telefonkonferanse** og deretter **brukere** i **Administrasjonssenter for Skype for Business**.
 
 7. Velg den aktuelle brukeren, og kontroller at vedkommende har et **vanlig nummer**.
 
-Hvis du vil ha mer informasjon, kan du se [Abonnementer i Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe betalingsgruppen for Microsoft Commerce for hjelp med lisensieringsrelaterte spørsmål.
+Hvis du vil ha mer informasjon, kan du se [Abonnementer i Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe fakturaavdelingen for Microsoft Commerce for hjelp med lisensieringsrelaterte spørsmål.
