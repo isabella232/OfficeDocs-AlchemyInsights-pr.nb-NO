@@ -3,7 +3,7 @@ title: Blokkere eller oppheve blokkeringen av avsendere i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717773"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793964"
 ---
 # <a name="block-or-unblock-senders"></a>Blokkere eller oppheve blokkeringen av avsendere
 
-Meldinger fra e-postadresser eller domener på blokkerte avsendere går direkte til Outlook Junk Email-mappen. E-post fjernes automatisk fra søppelpostmappen etter 30 dager og kan ikke gjenopprettes. Velg et element for å se når det vil bli fjernet.
+Meldinger fra e-postadresser eller domener i listen over blokkerte avsendere kommer ikke til Outlook.com postboksen.
 
 **Fra innboksen:**
 
 - Velg meldingen i meldingslisten, og velg deretter **Useriøs** > **blokk**.
-- **Merk:** Blokkering av et element som allerede er i søppelpostmappen, slettes det ikke.
 
 **Fra Innstillinger:**
 
@@ -40,4 +39,4 @@ Meldinger fra e-postadresser eller domener på blokkerte avsendere går direkte 
 
 Hvis du vil oppheve blokkeringen av en avsender, velger du papirkurvikonet ved siden av e-postadressen eller domenet du vil oppheve blokkeringen.
 
-Hvis du vil ha mer informasjon, kan du se [Merke e-post som søppelpost eller blokkere avsendere i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se [Blokkere avsendere eller merke e-post som søppelpost](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
