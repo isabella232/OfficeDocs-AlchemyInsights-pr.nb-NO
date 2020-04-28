@@ -3,7 +3,7 @@ title: Tilgang til fellesmapper fra mobile enheter
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 568bf0aebbf954ff90cc45a080dd4a49aa23780d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ceb0ba5f5460156caae5bedc9148ad9c6836f011
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553945"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911445"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Tilgang til fellesmapper fra mobile enheter
 
-Hvis du vil ha samme funksjonalitet som fellesmapper og har innhold som er tilgjengelig på mobile enheter, kan du se [Lær om Office 365 grupper](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for et bedre alternativ.
+Hvis du vil ha funksjonalitet som ligner på fellesmapper og har innhold tilgjengelig på mobile enheter, kan du se [Lær om Microsoft 365 Grupper](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for et bedre alternativ.
   

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788011"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912267"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Verktøy for innholdssøk for å finne relevant informasjon
 
-Bruk innholdssøk-verktøyet i sikkerhetssenteret for & samsvar til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-plasseringer og direktemeldingssamtaler i Skype for Business. Du kan bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Office 365-grupper.
+Bruk innholdssøk-verktøyet i sikkerhetssenteret for & samsvar til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-plasseringer og direktemeldingssamtaler i Skype for Business. Du kan bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Microsoft 365 Grupper.
 
 
 Før du bruker [innholdssøk](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhets& compliance Center](https://sip.protection.office.com/homepage), bør du fullføre konfigurasjonsinnstillinger, inkludert konfigurer tillatelser, [angi nedlastingshastigheter](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportinnstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results). [configure permissions](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710524"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912903"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Brukertillatelser i SharePoint og OneDrive
 
@@ -27,7 +27,7 @@ Hvis en bruker i organisasjonen ikke får tilgang til SharePoint eller OneDrive,
   
 1. Åpne området i en nettleser.
     
-2. Hvis området tilhører en Office 365-gruppe, klikker du Innstillinger-ikonet øverst til høyre, og deretter klikker du **Områdetillatelser**. Klikk **Inviter personer**, og velg deretter å legge til medlemmer i Office 365-gruppen eller dele bare området. 
+2. Hvis området tilhører en Microsoft 365-gruppe, klikker du Innstillinger-ikonet øverst til høyre, og deretter klikker du **Områdetillatelser**. Klikk **Inviter personer**, og velg deretter å legge til medlemmer i Microsoft 365-gruppen eller dele bare området. 
     
     Klikk **Del område** øverst til høyre for et kommunikasjonsområde, skriv inn personens navn og deretter velger du tillatelsesnivået (Lese, Rediger eller Full kontroll). 
     

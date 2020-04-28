@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764737"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911840"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innholdssøk og eDiscovery-søk
 
-Bruk innholdssøk-verktøyet i sikkerhets& samsvarssenter til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-konto og direktemeldingssamtaler i Skype for Business. Du kan også bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Office 365-grupper.
+Bruk innholdssøk-verktøyet i sikkerhets& samsvarssenter til raskt å finne e-post i Exchange-postbokser, dokumenter i SharePoint-områder og OneDrive-konto og direktemeldingssamtaler i Skype for Business. Du kan også bruke innholdssøkeverktøyet til å søke etter e-post- og dokumenter- og direktemeldingssamtaler i Samarbeidsverktøy for Microsoft 365, for eksempel Microsoft Teams og Microsoft 365 Grupper.
 
 **Slik utfører du et innholdssøk**
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721814"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912412"
 ---
 # <a name="manage-access-requests"></a>Behandle tilgangsforespørsler
 
@@ -26,7 +26,7 @@ Når en bruker prøver å få tilgang til et element i SharePoint og de ikke har
     
 2. Klikk **Få tilgang til forespørsler og invitasjoner**under Brukere og **tillatelser**. (Hvis dette ikke vises, er det ikke gjort noen tilgangsforespørsler.)
     
-3. Hvis du vil gi brukeren tillatelse individuelt, klikker du **Godkjenn** eller **Avslå**. Hvis du vil velge et bestemt tillatelsesnivå, klikker du først ellipsen (...) ved siden av personens navn. Du kan også legge til brukeren i en gruppe som har tillatelse til området. For kommunikasjonsområder og klassiske gruppeområder kan du gjøre dette på siden Innstillinger for område. For områder som tilhører en Office 365-gruppe, kan du legge til brukeren i gruppen.
+3. Hvis du vil gi brukeren tillatelse individuelt, klikker du **Godkjenn** eller **Avslå**. Hvis du vil velge et bestemt tillatelsesnivå, klikker du først ellipsen (...) ved siden av personens navn. Du kan også legge til brukeren i en gruppe som har tillatelse til området. For kommunikasjonsområder og klassiske gruppeområder kan du gjøre dette på siden Innstillinger for område. For områder som tilhører en Microsoft 365-gruppe, kan du legge til brukeren i gruppen.
     
     [Behandle tilgangsforespørsler](https://go.microsoft.com/fwlink/?linkid=2008747)
     

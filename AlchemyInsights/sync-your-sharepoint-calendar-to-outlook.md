@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766970"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912867"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemer med synkronisering av kalenderen til enheter
 
-SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Office 365-gruppekalendere.
+SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Microsoft 365-gruppekalendere.
 
 Hvis du vil synkronisere en SharePoint-kalender til Outlook, gjør du følgende:
 
@@ -33,4 +33,4 @@ Hvis du vil synkronisere en SharePoint-kalender til Outlook, gjør du følgende:
 >[!Note]
 > Når du gjør en endring i den synkroniserte Outlook-kalenderen, vises den i SharePoint-kalenderen og omvendt.
 
-Hvis du vil ha mer informasjon om Office 365-grupper, kan du se denne [artikkelen](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Hvis du vil ha mer informasjon om Microsoft 365-grupper, kan du se denne [artikkelen](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

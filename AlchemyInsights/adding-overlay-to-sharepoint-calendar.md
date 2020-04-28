@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709416"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908857"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Legge til et overlegg i en SharePoint-kalender
 
-SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Office 365-gruppekalendere.
+SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Microsoft 365-gruppekalendere.
  
 Hvis du bruker en SharePoint-kalender på området, kan du legge over din egen Exchange-kalender på den for å opprette en kombinert kalendervisning. Du kan også legge over en annen SharePoint-kalender så lenge begge SharePoint-kalenderne er i samme områdesamling.
  

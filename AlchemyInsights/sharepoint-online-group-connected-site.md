@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642153"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912975"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemer når du oppretter et gruppetilkoblet område i SharePoint
 
@@ -30,5 +30,5 @@ Hvis du har slettet en gruppe og det tilkoblede området og ønsker å opprette 
 
 1. Det finnes forskjellige måter å opprette og bruke moderne grupper på med SharePoint.
 
-   - Du kan koble eksisterende områder til en Office 365-gruppe. Hvis du vil ha mer informasjon, kan du se [Koble til en Office 365-gruppe ved hjelp av Brukergrensesnittet i SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Hvis du vil opprette et tilkoblet office 365-gruppeområde, må du opprette et [gruppeområde](https://admin.microsoft.com/sharepoint).
+   - Du kan koble eksisterende områder til en Microsoft 365-gruppe. Hvis du vil ha mer informasjon, kan du se [Koble til en Microsoft 365-gruppe ved hjelp av SharePoint-brukergrensesnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Hvis du vil opprette et tilkoblet Microsoft 365-gruppeområde, må du opprette et [gruppeområde](https://admin.microsoft.com/sharepoint).

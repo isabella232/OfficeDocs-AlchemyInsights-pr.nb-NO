@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676398"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911085"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Legge til en gruppe på et SharePoint-område
 
-Noen SharePoint-gruppeområder (inkludert de som er opprettet i Microsoft Teams), administreres av gruppeeiere i Office 365. SharePoint-områder og -innhold kan også deles med Office 365-grupper og med SharePoint-grupper. En SharePoint-gruppe er en samling brukere som alle har samme sett med tillatelser til områder og innhold. For klassiske områder anbefaler vi at du bruker grupper til å tilordne det samme tillatelsesnivået til mange samtidig i stedet for å tilordne tillatelser én person om gangen.
+Noen SharePoint-gruppeområder (inkludert de som er opprettet i Microsoft Teams), administreres av Gruppeeiere i Microsoft 365. SharePoint-områder og -innhold kan også deles med Microsoft 365-grupper og med SharePoint-grupper. En SharePoint-gruppe er en samling brukere som alle har samme sett med tillatelser til områder og innhold. For klassiske områder anbefaler vi at du bruker grupper til å tilordne det samme tillatelsesnivået til mange samtidig i stedet for å tilordne tillatelser én person om gangen.
   
-Behandle medlemmer av Office 365-gruppen:
+Behandle gruppemedlemmer i Microsoft 365:
   
 1. Gå til [Grupper-siden i administrasjonssenteret for Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Velg en gruppe for å se eiere og medlemmer. Hvis du vil legge til eller fjerne personer, klikker du **Rediger-koblingen** i **Eiere-** eller **Medlemmer-raden.** 
     
-Dele et kommunikasjonsområde med en Office 365-gruppe:
+Dele et kommunikasjonsområde med en Microsoft 365-gruppe:
   
 1. Gå til området i en nettleser, og klikk **del området** øverst til høyre. 
     
@@ -42,7 +42,7 @@ Opprett en SharePoint-gruppe som skal brukes med et klassisk område:
     
 3. Klikk **Opprett gruppe**i kategorien Tillatelser.
     
-[Koble et klassisk gruppeområde til en ny Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Koble et klassisk gruppeområde til en ny Microsoft 365-gruppe](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Lær mer om hvordan du arbeider med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
   

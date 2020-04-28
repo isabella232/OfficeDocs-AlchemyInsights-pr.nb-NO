@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705634"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908749"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Kontrollere opprettingen av Office 365-grupper
+# <a name="control-creation-of-microsoft-365-groups"></a>Kontrollere opprettelsen av Microsoft 365-grupper
 
 Som standard kan alle brukere i firmaet opprette grupper. Hvis det er nødvendig, kan du endre dette, og tilordne retten til å opprette grupper til et sett med personer i firmaet. Vær oppmerksom på at dette vil ha innvirkning på oppretting av grupper fra en Hvilken som helst Microsoft 365-tjeneste (for eksempel Outlook, Teams, Planner og så videre).
   
-Instruksjoner: [Administrere hvem som kan opprette Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Instruksjoner: [Administrere hvem som kan opprette Microsoft 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

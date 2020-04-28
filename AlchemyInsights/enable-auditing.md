@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703652"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908425"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktivere og søke i overvåkingsloggen
 
@@ -31,7 +31,7 @@ Hvis du vil søke i overvåkingsloggen for Microsoft 365, gjør [du følgende](h
 
 - Postboksovervåking er aktivert som standard i Microsoft 365. Hvis du vil ha mer informasjon, kan du se [denne artikkelen](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365-gruppepostbokser og postbokser for fellesmapper i Exchange Online støtter ikke overvåkingslogging.
+- Microsoft 365 Gruppe postbokser og fellesmappe postbokser i Exchange Online støtter ikke overvåkingslogging.
 
 **SharePoint og OneDrive**
 
