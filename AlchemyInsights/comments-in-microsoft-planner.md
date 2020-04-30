@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706246"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911229"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentarer i Microsoft Planner
 
-Kommentarer for oppgaver i en plan lagres i Exchange Online-postboksen til Office 365-gruppen som er tilknyttet planen.  Når du publiserer en kommentar på en oppgave, sendes det et e-postvarsel til gruppeinnboksen, og du får tilsendt en e-post for hver nye kommentar som publiseres på den aktuelle oppgaven.
+Kommentarer for oppgaver i en plan lagres i Exchange Online-postboksen til Microsoft 365-gruppen som er tilknyttet planen.  Når du publiserer en kommentar på en oppgave, sendes det et e-postvarsel til gruppeinnboksen, og du får tilsendt en e-post for hver nye kommentar som publiseres på den aktuelle oppgaven.
 
 Her er noen svar på vanlige problemer knyttet til kommentarer:
 
 - **Brukere mottar ikke e-poster** – Kommentarer sendes til gruppeinnboksen til gruppen som planen tilhører. For at en bruker skal kunne motta gruppe-e-poster, må gruppen være konfigurert for å sende gruppesamtaler til medlemmenes innbokser.
 
-- **Kommentarer lagres ikke** – Brukeren som legger til kommentaren har ikke tillatelse til å sende e-poster til Office 365-gruppen. Les [Slik fungerer Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) for mer informasjon om dette scenarioet.
+- **Kommentarer lagres ikke** – Brukeren som legger til kommentaren har ikke tillatelse til å sende e-poster til Microsoft 365-gruppen. Les [Slik fungerer Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) for mer informasjon om dette scenarioet.
 
 - Feilmeldingen **Du har ikke lenger tilgang** vises, eller **gjestebrukere kan ikke legge til kommentarer** – Det kan være at gjestebrukere som ikke kan sende e-poster til gruppeinnboksen ser denne meldingen. Du kan løse problemet ved å sørge for at gjestebrukeren har en gyldig e-postadresse.
 

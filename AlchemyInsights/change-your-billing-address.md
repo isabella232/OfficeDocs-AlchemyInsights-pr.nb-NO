@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198857"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943953"
 ---
 # <a name="change-your-billing-address"></a>Endre faktureringsadressen
 
-Fakturaen eller fakturaen inneholder tre adresser. 
+Fakturaen eller fakturaen inneholder tre adresser.
 
-**Endre fakturatil-adressen din**
+**Endre faktureringsadressen for en betalingsmåte**
 
-1. Gå til siden Betalingsmåter for fakturering > betalingsmåter på siden ** [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** for fakturering. 
+1. Gå til Betalingsmåter for **fakturering > [betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806)i**administrasjonssenteret.
+2. Velg kredittkortet eller bankkontoen du vil endre.
+3. Klikk **Rediger**på siden **Detaljer om betalingsmåte.**
+4. Oppdater faktureringsadressen, og klikk deretter **på Lagre > ferdig**.
 
-2. Velg kredittkortet eller bankkontoen du vil endre. 
+Hvis du vil ha mer informasjon om adresse- og varslingsendringer, kan du se [Endre faktureringsadressene for Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Klikk **Rediger**på siden **Detaljer om betalingsmåte.** 
+**Endre faktureringskontoinformasjonen**
 
-4. Oppdater faktureringsadressen, og klikk deretter **på Lagre > ferdig**. 
+1. Gå til **Fakturering > [Faktureringskontoer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)i**administrasjonssenteret.
+2. Velg **Rediger faktureringskontoinformasjon**.
+3. Oppdater faktureringskontoinformasjonen, og klikk deretter **på Lagre > ferdig**.
 
-Hvis du vil ha mer informasjon om adresse- og varslingsendringer, kan du se [Endre faktureringsadressene for Office 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Merk:** Du kan ikke endre landet/området. Hvis dette feltet må endres, må du kjøpe en ny leier.

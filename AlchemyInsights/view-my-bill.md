@@ -1,5 +1,5 @@
 ---
-title: Vise regningen
+title: Se regningen min
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665697"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947758"
 ---
-# <a name="view-my-bill"></a>Vise regningen
+# <a name="view-my-bill"></a>Se regningen min
 
-1. Gå til **Fakturering** i administrasjonssenteret for Microsoft 365 \> [regninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) siden.
+1. Gå til siden \> [Faktureringsregninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) på administrasjonssenteret **for** Microsoft 365.
 
-2. Velg et datointervall fra fra rullegardinlisten, og velg deretter rekkefølgen du vil vise.
+2. Angi et datointervall fra nedtrekksmenyen, og velg så bestillingen du vil vise.
 
-For mer informasjon kan du se [vise regningen eller fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Hvis du vil skrive ut fakturaen, laster du ned fakturaen som en PDF-fil og klikker **Skriv ut**.
+
+Hvis du vil ha mer informasjon, kan du se [Vis regningen eller fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
