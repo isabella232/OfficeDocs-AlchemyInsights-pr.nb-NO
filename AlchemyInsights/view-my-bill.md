@@ -1,5 +1,5 @@
 ---
-title: Vise regningen
+title: Se regningen min
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665697"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947758"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="7a40c-102">Vise regningen</span><span class="sxs-lookup"><span data-stu-id="7a40c-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="4d65b-102">Se regningen min</span><span class="sxs-lookup"><span data-stu-id="4d65b-102">View my bill</span></span>
 
-1. <span data-ttu-id="7a40c-103">Gå til **Fakturering** i administrasjonssenteret for Microsoft 365 \> [regninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) siden.</span><span class="sxs-lookup"><span data-stu-id="7a40c-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="4d65b-103">Gå til siden \> [Faktureringsregninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) på administrasjonssenteret **for** Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="4d65b-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="7a40c-104">Velg et datointervall fra fra rullegardinlisten, og velg deretter rekkefølgen du vil vise.</span><span class="sxs-lookup"><span data-stu-id="7a40c-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
+2. <span data-ttu-id="4d65b-104">Angi et datointervall fra nedtrekksmenyen, og velg så bestillingen du vil vise.</span><span class="sxs-lookup"><span data-stu-id="4d65b-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-<span data-ttu-id="7a40c-105">For mer informasjon kan du se [vise regningen eller fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="7a40c-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+3. <span data-ttu-id="4d65b-105">Hvis du vil skrive ut fakturaen, laster du ned fakturaen som en PDF-fil og klikker **Skriv ut**.</span><span class="sxs-lookup"><span data-stu-id="4d65b-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
+
+<span data-ttu-id="4d65b-106">Hvis du vil ha mer informasjon, kan du se [Vis regningen eller fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="4d65b-106">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
