@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912053"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943988"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Vanlige spørsmål om Microsoft 365 E3-abonnement og -lisensadministrasjon
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912053"
 - Hvis du vil **kansellere** E3-lisenser, går du til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klikker på **Innstillinger og handlinger** og klikker på **Kanseller abonnement**. For mer informasjon, se [Kanseller abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Hvis du vil **aktivere** E3-abonnementet, kan du se [aktivere abonnementet](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Hvis du vil **aktivere på nytt** E3-abonnementet, kan du se [Aktivere abonnementet på nytt](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Hvis du vil forlenge E3-prøveperioden, kan du se [Forlenge prøveperioden](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Hvis du vil **forlenge** E3-prøveperioden, kan du se [Forlenge prøveperioden](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Hvis du vil ha mer informasjon, kan du se [Administrere abonnementslisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
