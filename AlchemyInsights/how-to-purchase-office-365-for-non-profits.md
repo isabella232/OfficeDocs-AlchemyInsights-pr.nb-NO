@@ -1,5 +1,5 @@
 ---
-title: Slik kjøper du Office 365 for ideelle organisasjoner
+title: Microsoft 365 for ideelle organisasjoner – under vurdering
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763550"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005231"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Slik kjøper du Office 365 for ideelle organisasjoner
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 for ideelle organisasjoner – under vurdering
 
-Din kvalifisering som en Microsoft-kvalifisert ideell organisasjon er under vurdering. Du kan forvente å motta et varsel om fastsettelse av kvalifikasjonen før prøveperioden utløper. Du kan spore statusen for programmet [her](https://eligibilityweb.azurewebsites.net/).
+Din kvalifisering som en Microsoft-kvalifisert ideell organisasjon er **under vurdering**. Du kan forvente å motta et varsel om fastsettelse av din berettigelse **48 timer** fra innsendingstidspunktet. Vennligst vent minst **48 timer** å motta dette varselet før du åpner en serviceforespørsel. 
+
+Hvis du vil ha mer informasjon, kan du se [Microsoft 365 for ideelle organisasjoner](https://www.microsoft.com/nonprofits/microsoft-365). 

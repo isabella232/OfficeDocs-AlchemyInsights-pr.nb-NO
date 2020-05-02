@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724565"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005267"
 ---
-# <a name="inbox-rules"></a>Innboksregler
+# <a name="inbox-rules-in-outlook-desktop"></a>Innboksregler i Outlook Desktop
 
-Hvis du vil ha mer informasjon om hvordan du bruker innboksregler i din egen postboks, kan du se:
+1. Gå til **Fil > Behandle regler & varsler** for å åpne dialogboksen Regler og **varsler.**
+2. Klikk **Ny regel**i kategorien **E-postregler** .
+3. Velg en av malene fra **trinn 1**. Hvis du vil starte fra en tom regel, velger du **Bruk regel på meldinger jeg mottar, eller Bruk regel på meldinger jeg sender**.
+4. I **trinn 2: Rediger regelbeskrivelsen boks**, klikk på noen understrekede alternativer for å angi dem. Hvis du for eksempel valgte **Flagg meldinger fra noen for oppfølging** i trinn 1, klikker du på personer eller offentlig **gruppe** for å velge hvilke avsenderes meldinger du vil flagge. klikk deretter **på oppfølging på dette tidspunktet** for å velge et flagg og en oppfølgingsdato.
+5. Klikk **Neste**.
 
-- [Behandle e-postmeldinger ved hjelp av regler i Outlook for PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Administrere meldingene ved hjelp av innboksregler i Outlook på nettet](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Du kan også administrere innboksregler i Exchange Online PowerShell. Hvis du vil ha mer informasjon, kan du se [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (endre eksisterende), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (deaktivere eksisterende) og [Aktiver-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (aktivere eksisterende).
+Hvis du vil ha mer informasjon om hvordan du arbeider med innboksregler, kan du se [Administrere e-postmeldinger ved hjelp av regler](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
