@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763226"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010623"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installere Office på en Terminal Server
 
@@ -23,7 +23,7 @@ For distribusjon av Microsoft 365 Apps for enterprise på en Windows Server ved 
   
 - Du må ha et Microsoft 365-abonnement som inkluderer Microsoft 365 Apps for enterprise, for eksempel Office 365 Enterprise E3 eller Enterprise E5. Microsoft 365 Apps for bedrifter og Microsoft 365 Apps for business Premium-planer inkluderer ikke Microsoft 365 Apps for enterprise.
 
-- Du må aktivere [aktivisering av delt datamaskin](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Du må aktivere [aktivisering av delt datamaskin](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 Hvis du vil installere Microsoft 365 Apps for enterprise på RDS fra administrasjonssenteret for Microsoft 365, ***som bruker standard installasjonsinnstillinger***, bruker du følgende trinn.
 
@@ -48,9 +48,9 @@ Hvis du vil installere Microsoft 365 Apps for enterprise på RDS fra administras
 
 3. Legg til en strengverdi for **SharedComputerLicensing** i Registerredigering med en innstilling på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Logg på som ***sluttbruker på*** RDS-serveren, og kontroller at delt [datamaskinaktivering er aktivert for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Logg på som ***sluttbruker på*** RDS-serveren, og kontroller at delt [datamaskinaktivering er aktivert for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Hvis du vil ha mer informasjon om forutsetninger, installasjonsinstruksjoner og veiledning om tilpassede installasjoner ved hjelp av Office Deployment Tool, kan du se [Distribuere Microsoft 365 Apps for enterprise ved hjelp av Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Hvis du vil ha mer informasjon om forutsetninger, installasjonsinstruksjoner og veiledning om tilpassede installasjoner ved hjelp av Office Deployment Tool, kan du se [Distribuere Microsoft 365 Apps for enterprise ved hjelp av Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Hvis du vil løse feil relatert til delt datamaskinaktivering, kan du se [Feilsøke problemer med delt datamaskinaktivering for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Hvis du vil løse feil relatert til delt datamaskinaktivering, kan du se [Feilsøke problemer med delt datamaskinaktivering for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   
