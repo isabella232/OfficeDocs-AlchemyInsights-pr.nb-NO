@@ -1,5 +1,5 @@
 ---
-title: Kjøp Microsoft 365 Education-planer
+title: Microsoft 365 for Education – godkjent
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789383"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005411"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Kjøp Microsoft 365 Education-planer
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education – godkjent
 
 Du har blitt godkjent for Microsoft 365 Education.  Slik kjøper du det:
 
@@ -28,6 +28,8 @@ Du har blitt godkjent for Microsoft 365 Education.  Slik kjøper du det:
 2. Velg fra listen under **Abonnementer for utdannelse**.
 
 3. Hold musepekeren over abonnementet du ønsker å kjøpe, og klikk på **Kjøp nå**.
+
+4. [Konfigurere tenanten for Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Aktiver Teams**
 
