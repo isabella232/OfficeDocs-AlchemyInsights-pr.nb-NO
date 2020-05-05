@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 4e68514c463b1c6d5376ee0fdd35672f1513fd1d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403614"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015770"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Dele videoene dine i Microsoft Stream
 
-Det kan være lurt å dele videoer i Microsoft Stream med personer som ikke ellers har tilgang. Du kan dele videoene dine på ulike måter: 
+Det kan være lurt å dele videoer i Microsoft Stream med personer som ikke ellers har tilgang. Du kan dele videoene dine på ulike måter:
 
 - [Dele videoene dine i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
-
-- [Ekstern deling i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [Tillatelser på videoen din](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
