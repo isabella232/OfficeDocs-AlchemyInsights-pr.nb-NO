@@ -13,18 +13,18 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711532"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059086"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Avslutte Microsoft 365-abonnementet?
 
 Vi beklager å se deg gå!
   
-Basert på organisasjonsdataene dine mener vi at alle de nåværende abonnementene dine har mindre enn 25 seter. Hvis du vil avslutte abonnementet på nettet, går du til siden \> **Faktureringsprodukter** [& tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) I delen **Innstillinger & Handlinger** velger du **Avbryt abonnement**.
+Basert på organisasjonsdataene dine mener vi at alle de nåværende abonnementene dine har mindre enn 25 seter. Hvis du vil avslutte abonnementet på nettet, går du til siden **Fakturering** \> **[av produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** I delen **Innstillinger & Handlinger** velger du **Avbryt abonnement**.
   
 **Refusjon: Eventuell proporsjonal kreditt vil bli returnert til deg innen neste faktureringssyklus.** 
 
