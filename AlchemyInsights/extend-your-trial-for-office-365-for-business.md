@@ -12,18 +12,18 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 458806ee36efdcab64d7544f0d3b7a7e7d753ee9
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016877"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063446"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Utvide prøveversjonen for Microsoft 365 for bedrifter
 
 Du kan forlenge den gratis prøveperioden i en ekstra 30-dagers periode. Etter at rettssaken går inn i en 30-dagers [gyldighetsperiode](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Følg disse trinnene for å forlenge prøveversjonen:
   
-1. Gå til **Faktureringsprodukter** \> [& tjenester](https://portal.office.com/adminportal/home#/subscriptions)i administrasjonssenteret.
+1. Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Velg prøveabonnementet du vil utvide.
 

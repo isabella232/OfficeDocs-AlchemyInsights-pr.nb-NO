@@ -1,5 +1,5 @@
 ---
-title: Produkter & tjenester
+title: Produktene dine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758799"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062870"
 ---
-# <a name="products--services"></a>Produkter & tjenester
+# <a name="your-products"></a>Produktene dine
 
-Du finner abonnementene som eies av organisasjonen, på siden >  **Faktureringsprodukter**[**& tjenester.**](https://go.microsoft.com/fwlink/p/?linkid=842054) Her er noen av høydepunktene på denne siden sammen med linker for mer informasjon om hver funksjon:
+Du finner abonnementene som eies av organisasjonen, på **siden Fakturering** > **[av produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Her er noen av høydepunktene på denne siden sammen med linker for mer informasjon om hver funksjon:
 
 1. Administrer antall lisenser som er kjøpt for hvert abonnement, sammen med hvor mange som er i bruk.  **Merk:** Lisenser som ikke er i bruk (ikke tilordnet til en bruker) belastes fortsatt.  Hvis du ikke vil bli belastet for ubrukte lisenser, kan du redusere antall kjøpte lisenser. Hvis du vil ha informasjon om hvordan du legger til eller fjerner lisenser fra et abonnement, kan du se [Legge til eller redusere lisenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

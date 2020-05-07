@@ -12,18 +12,18 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709524"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063914"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Slik kjøper du lisenser for microsoft 365 Apps for business-abonnementet
 
 Når du tilordner lisenser til brukerne, kan det hende du har behov for å kjøpe flere lisenser. For å gjøre dette:
   
-1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
+1. Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Finn abonnementet du vil legge til lisenser i, og velg deretter **Legg til / fjern lisenser**.
 

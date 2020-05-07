@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708256"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086897"
 ---
 # <a name="all-subscriptions-are-active"></a>Alle abonnement er aktive
 
-Abonnementene dine er aktive. Dette kan bekreftes ved å gå til \> [faktureringsabonnementer-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Abonnementene dine bestilles etter status, med Aktive abonnementer øverst. Tilleggsinformasjon, for eksempel antall lisenser og betalingsmåte, kan ses ved å velge abonnementet.
+Abonnementene dine er aktive. Dette kan bekreftes ved å gå til siden **Fakturering** \> [av produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054) Abonnementene dine bestilles etter status, med Aktive abonnementer øverst. Tilleggsinformasjon, for eksempel antall lisenser og betalingsmåte, kan ses ved å velge abonnementet.
   
-Hvis du har problemer med tjenesten, kan du bruke alternativet "La oss ringe deg" for å snakke med en støttetekniker.
+Hvis du vil fjerne de aktive abonnementene eller avslutte kontoen, kan du se [Slik avslutter du kontoen](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
