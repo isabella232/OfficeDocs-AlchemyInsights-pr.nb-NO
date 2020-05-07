@@ -12,18 +12,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03fb25b88b06f85ea4d2dfe53b123ce77c39aaf4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698283"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062689"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Spørsmål om Microsoft 365-lisensen
 
 Hvis du vil vite hvor mange lisenser du har kjøpt, eller hvor mange lisenser som er tilordnet fra et abonnement:
   
-1. I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.
+1. Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Finn abonnementet du vil vite mer om. Du kan se antall lisenser du betaler for, og hvor mange som er tilgjengelige for å bli tilordnet.
 

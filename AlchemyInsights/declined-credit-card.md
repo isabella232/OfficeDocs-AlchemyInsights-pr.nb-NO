@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705094"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062293"
 ---
 # <a name="declined-credit-card"></a>Avslått kredittkort
 
-Hvis du betaler med kredittkort, men betalingen blir avvist, mottar du en e-postmelding med beskjed om at vi ikke kunne behandle betalingen. Dobbeltsjekk at [kredittkortdetaljene](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, utløpsdato, navn på kredittkortet og adressen, inkludert by, stat og postnummer - vises akkurat som de gjør på kredittkortet og kredittkortutskriften din. Du kan oppdatere kredittkortinformasjonen din og umiddelbart sende inn betalingen ved hjelp av alternativet **Utlign saldo** på [siden Produkter & tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Hvis du betaler med kredittkort, men betalingen blir avvist, mottar du en e-postmelding med beskjed om at vi ikke kunne behandle betalingen. Dobbeltsjekk at [kredittkortdetaljene](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, utløpsdato, navn på kredittkortet og adressen, inkludert by, stat og postnummer - vises akkurat som de gjør på kredittkortet og kredittkortutskriften din. Du kan oppdatere kredittkortinformasjonen din og umiddelbart sende inn betalingen ved hjelp av alternativet **Utlign saldo** på **[Produkter-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Hvis du vil vite mer, kan du se "Hva om kredittkortet mitt er utløpt og betalingen min er forfalt?" i [Betal for abonnementet på Microsoft 365 for bedrifter](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
