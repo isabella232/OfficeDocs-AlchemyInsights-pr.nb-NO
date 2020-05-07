@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03fb25b88b06f85ea4d2dfe53b123ce77c39aaf4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698283"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062689"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="988f4-102">Spørsmål om Microsoft 365-lisensen</span><span class="sxs-lookup"><span data-stu-id="988f4-102">Questions about your Microsoft 365 license</span></span>
+# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="12fdf-102">Spørsmål om Microsoft 365-lisensen</span><span class="sxs-lookup"><span data-stu-id="12fdf-102">Questions about your Microsoft 365 license</span></span>
 
-<span data-ttu-id="988f4-103">Hvis du vil vite hvor mange lisenser du har kjøpt, eller hvor mange lisenser som er tilordnet fra et abonnement:</span><span class="sxs-lookup"><span data-stu-id="988f4-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="12fdf-103">Hvis du vil vite hvor mange lisenser du har kjøpt, eller hvor mange lisenser som er tilordnet fra et abonnement:</span><span class="sxs-lookup"><span data-stu-id="12fdf-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="988f4-104">I administrasjonssenteret, gå til **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)-siden.</span><span class="sxs-lookup"><span data-stu-id="988f4-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="12fdf-104">Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="12fdf-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="988f4-105">Finn abonnementet du vil vite mer om.</span><span class="sxs-lookup"><span data-stu-id="988f4-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="988f4-106">Du kan se antall lisenser du betaler for, og hvor mange som er tilgjengelige for å bli tilordnet.</span><span class="sxs-lookup"><span data-stu-id="988f4-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="12fdf-105">Finn abonnementet du vil vite mer om.</span><span class="sxs-lookup"><span data-stu-id="12fdf-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="12fdf-106">Du kan se antall lisenser du betaler for, og hvor mange som er tilgjengelige for å bli tilordnet.</span><span class="sxs-lookup"><span data-stu-id="12fdf-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="988f4-107">Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til / fjern lisenser** for å justere beløpet som er kjøpt.</span><span class="sxs-lookup"><span data-stu-id="988f4-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="12fdf-107">Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du **Legg til / fjern lisenser** for å justere beløpet som er kjøpt.</span><span class="sxs-lookup"><span data-stu-id="12fdf-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
