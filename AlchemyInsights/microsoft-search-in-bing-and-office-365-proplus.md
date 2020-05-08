@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762326"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043046"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Søk i Bing og Microsoft 365 Apps for enterprise
 
-Fra og med 2002 versjonen av Microsoft 365 Apps for enterprise vil en utvidelse for Microsoft Søk i Bing bli installert, som gjør Bing til standard søkemotor for Google Chrome-nettleseren for enheter på bestemte steder.
+En ***valgfri*** Microsoft Søk i Bing-utvidelse for Google Chrome er tilgjengelig med Microsoft 365-apper for virksomheter (tidligere kalt Office 365 ProPlus), fra og med versjon 2005. Denne utvidelsen er tilgjengelig på visse plasseringer for domenetilknyttede enheter som kjører Windows. Hvis du bestemmer deg for å distribuere denne utvidelsen, setter den opp Bing som standard søkemotor.
 
-**Hvis du ikke vil installere utvidelsen, [følg disse trinnene](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Hvis du vil installere utvidelsen, må du ***velge å delta*** ved å konfigurere en innstilling i Microsoft Søk-delen av administrasjonssenteret for Microsoft 365.
 
-Selv etter at utvidelsen er installert, kan brukerne enkelt slutte å bruke Bing som standard søkemotor ved å bruke en enkel [av\på](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)veksleknapp, eller du kan [fjerne utvidelsen](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) fra flere enheter i organisasjonen.
+Distribusjon av denne ***valgfrie*** utvidelsen er også avhengig av en bakgrunnstjeneste, som er inkludert i Microsoft 365-apper for virksomheter, fra og med versjon 2005. Hvis bakgrunnstjenesten ikke er installert, vil ikke utvidelsen bli installert.
 
-Vi har en detaljert hjelpeartikkel tilgjengelig for å hjelpe deg med å forstå mer om denne endringen [her](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Selv etter at utvidelsen er installert, kan brukerne enkelt slutte å bruke Bing som standard søkemotor ved hjelp av en enkel på/av-veksleknapp.
+
+Hvis du vil ha mer informasjon om distribuering av denne ***valgfrie*** utvidelsen, kan du se [Microsoft Søk i Bing og Microsoft 365-apper for virksomheter](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
