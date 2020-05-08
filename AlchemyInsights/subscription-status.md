@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417762"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063230"
 ---
 # <a name="subscription-status"></a>Abonnementsstatus
 
-Abonnementsstatus finnes på produkter og tjenester-siden i administrasjonssenteret for Microsoft 365.
+Abonnementsstatus finner du på **Produkter-siden i** administrasjonssenteret for Microsoft 365.
 
-1. Gå til **Faktureringsprodukter** > [& tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til **Fakturering** > **[av produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Hvis det er et problem med statusen for noen av abonnementene, ser du enten et rødt advarselsikon ved siden av abonnementet, eller statusen "utløpt" eller "deaktivert" i Fakturering-delen i abonnementsdetaljene.
 
@@ -30,11 +30,11 @@ Abonnementsstatus finnes på produkter og tjenester-siden i administrasjonssente
 
 **Utløpsdato**
 
-1. Gå til **Faktureringsprodukter** > [& tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til **Fakturering** > **[av produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Avhengig av visningen vises utløpsdatoen i kolonnen ytre høyre merket **Dato** eller i **Fakturering-delen** i abonnementsdetaljene ved **siden av Utløppå**.
 
 **Lisenser**
 
-Antall kjøpte lisenser og i bruk er oppført av abonnement på [siden Produkter & tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+Antall kjøpte lisenser og i bruk er oppført etter abonnement på **Produkter-siden.**
 

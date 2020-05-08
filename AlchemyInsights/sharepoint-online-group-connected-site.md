@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912975"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064402"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemer når du oppretter et gruppetilkoblet område i SharePoint
 
@@ -26,7 +26,7 @@ Hvis du har slettet en gruppe og det tilkoblede området og ønsker å opprette 
    - Hvis du vil ha mer informasjon om hvordan du kommer i gang med Powershell, kan du se [Komme i gang med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Fjern området fra slettede områder ved hjelp av cmdleten [Fjern SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell . Powershell er nødvendig for å slette gruppeområder permanent.
 
-1. Hvis du oppretter et gruppetilkoblet område og mottar en advarsel: **En annen gruppe med samme alias finnes allerede**, kan du kontrollere de eksisterende gruppene fra Administrasjonssenter for Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). Hvis du vil løse problemet ved å slette den eksisterende gruppen hvis den ikke lenger er nødvendig eller opprette området med et annet alias tilordnet.
+1. Hvis du oppretter et gruppetilkoblet område og mottar en advarsel: **En annen gruppe med samme alias finnes allerede**, kan du kontrollere de eksisterende gruppene fra [administrasjonssenteret for Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Hvis du vil løse problemet ved å slette den eksisterende gruppen hvis den ikke lenger er nødvendig eller opprette området med et annet alias tilordnet.
 
 1. Det finnes forskjellige måter å opprette og bruke moderne grupper på med SharePoint.
 

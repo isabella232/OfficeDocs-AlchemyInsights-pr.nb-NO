@@ -1,5 +1,5 @@
 ---
-title: Aktivere og tilordne programvare-som-en-tjeneste app lisenser
+title: Aktivere og tilordne applisenser for programvare som en tjeneste
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766324"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062149"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne programvare-som-en-tjeneste app lisenser 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne applisenser for programvare som en tjeneste 
 
 ## <a name="to-activate-apps"></a>Slik aktiverer du apper
 
-1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administrasjonssenter, og velg deretter kategorien **apper** .
+1. Gå til **siden Fakturering** > **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret, og velg deretter **Apper-fanen.**
 
 2. Finn og velg appen du vil administrere.
 
-3. Velg **Konfigurer konto**under **lisenser**.  
+3. Velg Definer **konto**under **Lisenser**.  
 
-## <a name="to-assign-app-licenses"></a>Slik tilordner du programlisenser
+## <a name="to-assign-app-licenses"></a>Slik tilordner du applisenser
 
-1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administrasjonssenter, og velg deretter kategorien **apper** .
+1. Gå til **siden Fakturering** > **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret, og velg deretter **Apper-fanen.**
 
 2. Finn og velg appen du vil administrere.  
 
-3. Under **innstillinger & handlinger**velger du koblingen som skal **administreres i utgiverens Portal**.
+3. Velg koblingen til **Behandle i publisher-portalen**under **Innstillinger & handlinger**.
