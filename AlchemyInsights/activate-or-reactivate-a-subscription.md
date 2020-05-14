@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062113"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller aktivere et abonnement på nytt
@@ -33,7 +33,7 @@ ms.locfileid: "44062113"
 
 Hvis abonnementet utløper, ble deaktivert av Microsoft, eller du avbrøt det midt i en abonnementsperiode, kan du aktivere det på nytt i administrasjonssenteret.
   
-1. Gå til siden Fakturering[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) på administrasjonssenteret **for** > Microsoft 365.
+1. Gå til siden Fakturering av produkter på administrasjonssenteret **for**Microsoft 365.  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Velg abonnementet du vil aktivere på nytt, og velg deretter **Aktiver på nytt**. Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, [kontakter du brukerstøtte](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for å aktivere abonnementet på nytt.
 

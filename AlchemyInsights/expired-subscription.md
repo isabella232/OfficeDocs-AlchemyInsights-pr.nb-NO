@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063482"
 ---
 # <a name="expired-subscription"></a>Utløpt abonnement
@@ -26,7 +26,7 @@ Det ser ut til at du har ett eller flere utløpte abonnementer. Hvis du vil fort
   
 **Aktivere på nytt**
   
-1. Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
+1. Gå til siden Fakturering **Billing** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Velg abonnementet du vil aktivere på nytt. I **Fakturering**, velg **Aktiver på nytt**.
 
@@ -38,7 +38,7 @@ For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.c
 
 **Foreta et nytt kjøp**
   
-1. Gå til siden \> **[Faktureringskjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)** på administrasjonssenteret. **Billing**
+1. Gå til siden **Billing** \> **[Faktureringskjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)** på administrasjonssenteret.
 
 2. Velg abonnementet du vil kjøpe, og velg deretter **Kjøp**.
 

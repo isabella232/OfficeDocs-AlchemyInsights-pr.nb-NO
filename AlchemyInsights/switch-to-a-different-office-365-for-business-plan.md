@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064366"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Bytte til et annet Abonnement på Microsoft 365 for bedrifter
 
 Når bedriften endres, eller du trenger flere funksjoner, kan du oppgradere til en ny plan.
   
-1. Gå til siden **Fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
+1. Gå til siden Fakturering **Billing** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Velg abonnementet du vil oppgradere.
 

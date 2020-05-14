@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058436"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Sammenligne, oppgradere eller kjøpe abonnementer
@@ -28,4 +28,4 @@ Hvis organisasjonen er interessert i å sammenligne alle planer og priser, kan d
   
 Hvis organisasjonen allerede har kjøpt abonnementer og er interessert i å endre til en annen plan, kan du gjøre det fra administrasjonssenteret for Microsoft 365. Gå til siden **Fakturering** \> [av produkter,](https://go.microsoft.com/fwlink/p/?linkid=842054) velg abonnementet du vil endre, og velg deretter **Kategorien Oppgrader** for å vise listen over nye planer som er tilgjengelige.
   
-Organisasjonen kan også mikse og matche abonnementer for å møte behovene og funksjonskravene til brukerne. Gå til siden **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) fra administrasjonssenteret.
+Organisasjonen kan også mikse og matche abonnementer for å møte behovene og funksjonskravene til brukerne. Gå til siden Billing **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) fra administrasjonssenteret.
