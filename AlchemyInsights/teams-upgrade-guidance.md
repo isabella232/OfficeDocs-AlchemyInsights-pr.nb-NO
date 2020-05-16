@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908797"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254758"
 ---
 # <a name="microsoft-teams-upgrade"></a>Oppgradering av Microsoft Teams
 
-**Viktig:** Vi kan bidra til å fikse dette for deg ved hjelp av en støttediagnose, men det ser ut til at du ikke bruker det nye administrasjonssenteret. Hvis du vil bruke det nye administrasjonssenteret, skyver du veksleknappen øverst til høyre som sier **nytt administrasjonssenter** til høyre. Ved hjelp av det nye administrasjonssenteret klikker du på **Kontrollprogrammet Trenger hjelp,** skriver inn "Teams Upgrade", og følger deretter instruksjonene for å kjøre diagnose.
+**Viktig:** Hvis du har blitt oppgradert fra Skype for Business Online til Microsoft Teams i Teams Only-modus, men finner ut at du ikke er klar ennå, kan vi bidra til å fikse dette for deg ved hjelp av en diagnose for støtte. Kontroller at du bruker det nye administrasjonssenteret ved å skyve veksleknappen øverst til høyre som sier **nytt administrasjonssenter**til høyre. Ved hjelp av det nye administrasjonssenteret klikker**Teams Upgrade**du på **Trenger hjelp?**
 
 Enten du nettopp har kommet i gang med Teams, allerede bruker Teams sammen med Skype for Business, eller klar til å oppgradere, vil vi sikre at du har alt du trenger for å navigere en vellykket reise til Teams. For mer informasjon, vennligst besøk linkene nedenfor.
 
