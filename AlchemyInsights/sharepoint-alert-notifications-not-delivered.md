@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742056"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343070"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Varsler om SharePoint-varsler som ikke leveres
 
@@ -33,15 +33,6 @@ Vanlige spørsmål om varsler:
 
 - Det er ikke mulig å sende varsler til distribusjonsgruppen, bare sikkerhets- og O365-grupper støttes.
 - Du kan ikke tilpasse e-postmaler for varsel. du må bruke Microsoft FLOW eller SharePoint Designer Workflow for å oppnå disse.
-
-Mer informasjon:
-
-- **Oppsett av varsel:** Hvis du vil ha mer informasjon om hvordan du konfigurerer varsler, kan du se [Opprette et varsel for å bli varslet når en fil eller mappe endres i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Feilsøke varsler**: Hvis du vil ha mer informasjon om feilsøking av varsler, kan du se [Brukere mottar ikke varsler om SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Avanserte policyer for samsvarsvarsel for Avansert O365**: Hvis du vil ha mer informasjon om hvordan du konfigurerer disse varslene, kan du se [Policyer for samsvarsvarsel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint- og OneDrive-overvåkingslogger**: Hvis du vil ha mer informasjon om hvordan du henter disse hendelsene, kan du se [Søke i overvåkingsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Varsler som sendes av Avansert trusselbeskyttelse:** Se [ATP for SharePoint og OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Varsler sendt av politiet for hindring av tap**av data: Se [E-postvarsler for DLP-policyer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Beslektede emner
 
