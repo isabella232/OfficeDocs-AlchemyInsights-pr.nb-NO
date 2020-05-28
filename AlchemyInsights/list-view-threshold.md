@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953980"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343054"
 ---
 # <a name="list-view-threshold"></a>Terskel for listevisning
 
-SharePoint-lister og -biblioteker kan inneholde opptil 30 millioner elementer, men når de har mer enn 5 000 elementer, kan det være du ser en terskelfeilmelding for listevisningen når du forsøker å arbeide med dem. Denne terskelen er der for å opprettholde ytelsen til tjenesten. Den kan ikke endres. Det kan også hende at du får denne feilmeldingen når du prøver å dele eller bryte arven til en mappe.
+Terskelen for listevisning er på plass for å opprettholde ytelsen til tjenesten. Terskelen kan ikke endres i SharePoint Online. Hvis du vil unngå å treffe denne terskelen, kan du se [Administrere store lister og biblioteker i SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Hvis du vil unngå å treffe denne terskelen besøker du:
-
-- [Administrere store lister og biblioteker i SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Feil Dele/Bryte arv](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Det kan også hende at du får denne feilmeldingen når du prøver å dele eller bryte arven til en mappe. Se [Feil del/skift arv](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
