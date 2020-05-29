@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062113"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418045"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller aktivere et abonnement på nytt
 
@@ -25,19 +25,19 @@ ms.locfileid: "44062113"
 
 - Hvis du ønsker gi brukere tilgang til en tjeneste, må du tilordne dem en lisens. For instruksjoner om hvordan du tilordner lisenser, se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-- Hvis du allerede har en lisens tilordnet, kan du finne programmer som du kan laste ned fra [Min konto-siden](https://portal.office.com/account/#installs). Denne siden inneholder en liste over programmer som er tilgjengelige for nedlasting basert på lisensene som er tilordnet.
+- Hvis du allerede har en lisens tilordnet, kan du finne programmer som du kan laste ned fra [Min konto-siden](https://portal.office.com/account/#installs). Denne siden inneholder en liste over programmer som er tilgjengelige for nedlasting, basert på lisensene som er tilordnet.
 
-- Hvis du allerede har lastet ned Office-programmene, må du kanskje logge på programmene med jobb- eller skolekontoen. Du kan gjøre dette i alle Office-programmer (Word, Excel osv.) ved å klikke på **Fil > Konto** (nederst). Under Brukerinformasjon klikker du på **Bytt konto**. Hvis du vil ha mer informasjon, kan [du lese Installere Office-programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Hvis du allerede har lastet ned Office-programmene, må du kanskje logge på programmene med jobb- eller skolekontoen. Du kan gjøre dette i alle Office-programmer (Word, Excel osv.) ved å klikke på **Fil > Konto** (nederst). Under Brukerinformasjon klikker du på **Bytt konto**. Hvis du vil ha mer informasjon, kan du lese [Installere Office-programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Aktivere et abonnement på nytt**
 
-Hvis abonnementet utløper, ble deaktivert av Microsoft, eller du avbrøt det midt i en abonnementsperiode, kan du aktivere det på nytt i administrasjonssenteret.
+Hvis abonnementet utløper, ble deaktivert av Microsoft, eller du avsluttet det midt i en abonnementsperiode, kan du aktivere det på nytt i administrasjonssenteret.
   
-1. Gå til siden Fakturering av produkter på administrasjonssenteret **for**Microsoft 365.  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Gå til siden **Fakturering**produkter i administrasjonssenteret for Microsoft 365.  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Velg abonnementet du vil aktivere på nytt, og velg deretter **Aktiver på nytt**. Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, [kontakter du brukerstøtte](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for å aktivere abonnementet på nytt.
 
-3. Skriv inn betalingsinformasjonen. Du kan også [oppdatere eksisterende betalingsinformasjon](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) her.
+3. Skriv inn betalingsinformasjonen. Du kan også [oppdatere eksisterende betalingsinformasjon](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) her.
 
 For mer informasjon, se [Aktivere abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 

@@ -13,12 +13,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dbe971468add6cc7278b5d5aa4511408ae33b296
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709984"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417289"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Hvordan fjerner jeg kredittkortinformasjonen min?
 
@@ -31,6 +31,6 @@ ms.locfileid: "43709984"
 > [!NOTE]
 > Du kan ikke fjerne et kredittkort eller en bankkonto hvis det er i bruk til å betale for et abonnement.
 
-4. Velg **Slett**i slett **betalingsmåte-ruten.**
+4. Velg **Slett**i ruten **Slett betalingsmåte.**
 
-Hvis du vil ha mer informasjon, kan du se [Legge til, oppdatere eller fjerne et kredittkort eller en bankkonto](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Hvis du vil ha mer informasjon, kan du se [Administrere betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
