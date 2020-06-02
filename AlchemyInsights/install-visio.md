@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765998"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508673"
 ---
 # <a name="install-visio"></a>Installere Visio
 
-Visio selges som et frittstående program, så hvis du ikke har det ennå, [Kjøp eller prøv Visio](https://products.office.com/visio). 
+Visio selges som et frittstående program, så hvis du ikke har det ennå, [kjøp eller prøv Visio](https://products.office.com/visio). 
 
 **Merk:** Visio Online Plan 1 inneholder ikke en skrivebordsversjon av Visio, så ingen installasjon er mulig.
 
-Hvis du har et abonnement på Visio Online Plan 2, må du [tilordne en lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) til en bruker, ellers har de ikke mulighet til å installere Visio fra Mine **installasjoner** i [Min konto-portalen](https://portal.office.com/account#installs). 
+Hvis du har et abonnement på Visio Online Plan 2, må du [tilordne en lisens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) til en bruker, eller de har ikke mulighet til å installere Visio fra Mine **installasjoner** i [Min konto-portalen](https://portal.office.com/account#installs). 
 
-Ikke-volumlisensversjoner av Visio Standard eller Visio Professional er knyttet til Microsoft-kontoer og kan ikke administreres i administrasjonssenteret. Hvis du vil installere disse versjonene, må brukere logge på [account.microsoft.com](https://account.microsoft.com) med Microsoft-kontoen som er knyttet til denne versjonen av Visio.
+Lisensversjoner som ikke er volum for Visio Standard eller Visio Professional, er knyttet til Microsoft-kontoer og kan ikke administreres i administrasjonssenteret. Hvis du vil installere disse versjonene, må brukere logge på [account.microsoft.com](https://account.microsoft.com) med Microsoft-kontoen som er knyttet til denne versjonen av Visio.
 
-Hvis du vil ha mer detaljert hjelp, kan du se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) og følge trinnene for din versjon av Visio.
+Hvis du vil ha mer detaljert hjelp, kan du se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) og følge fremgangsmåten for din versjon av Visio.
 
 Hvis du vil ha mer informasjon, kan du se:<br>
 [Distribusjonsveiledning for Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
