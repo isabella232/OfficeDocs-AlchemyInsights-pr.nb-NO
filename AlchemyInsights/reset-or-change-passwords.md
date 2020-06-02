@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059853"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511445"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="7d7a5-102">Tilbakestille eller endre passord</span><span class="sxs-lookup"><span data-stu-id="7d7a5-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="fa27b-102">Tilbakestille eller endre passord</span><span class="sxs-lookup"><span data-stu-id="fa27b-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="7d7a5-103">En bruker kan endre sitt eget passord fra **Min konto** > [Sikkerhet & personvern](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="7d7a5-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="fa27b-103">En bruker kan endre sitt eget passord fra **Min konto**Sikkerhet  >  [& personvern](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="fa27b-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="7d7a5-104">Hvis brukeren har glemt passordet sitt, kan en administrator tilbakestille passordet ved å gå til **Brukere** > [Aktive brukere](https://portal.office.com/adminportal/home#/users), velge brukeren(e) og klikke **Tilbakestill passord**.</span><span class="sxs-lookup"><span data-stu-id="7d7a5-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="fa27b-104">Hvis brukeren har glemt passordet sitt, kan en administrator tilbakestille passordet ved å gå til **Brukere**  >  [Aktive brukere](https://portal.office.com/adminportal/home#/users), velge brukeren(e) og klikke Tilbakestill **passord**.</span><span class="sxs-lookup"><span data-stu-id="fa27b-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="7d7a5-105">[Klikk her for å lære mer](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), eller for å la brukerne tilbakestille sine egne glemte passord.</span><span class="sxs-lookup"><span data-stu-id="7d7a5-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="fa27b-105">[Klikk her for å lære mer](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), eller for å la brukerne tilbakestille sine egne glemte passord.</span><span class="sxs-lookup"><span data-stu-id="fa27b-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
