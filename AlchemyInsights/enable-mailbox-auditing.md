@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2bcfb7cc174cd58b21e1bb0c82f0d7cdb25e2fdd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703580"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506963"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="d6f8f-102">Aktivere overvåking av postboks</span><span class="sxs-lookup"><span data-stu-id="d6f8f-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="60c24-102">Aktivere overvåking av postboks</span><span class="sxs-lookup"><span data-stu-id="60c24-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="d6f8f-103">Hvis du vil aktivere overvåking av postboks for én enkelt bruker eller en hel organisasjon, må følgende cmdleter kjøres fra Eksternt strømskall:</span><span class="sxs-lookup"><span data-stu-id="d6f8f-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="60c24-103">Hvis du vil aktivere overvåking av postboks for én enkelt bruker eller en hel organisasjon, må følgende cmdleter kjøres fra eksternt strømskall:</span><span class="sxs-lookup"><span data-stu-id="60c24-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="d6f8f-104">**Enkelt bruker**</span><span class="sxs-lookup"><span data-stu-id="d6f8f-104">**Single User**</span></span>
+ <span data-ttu-id="60c24-104">**Én bruker**</span><span class="sxs-lookup"><span data-stu-id="60c24-104">**Single User**</span></span>
   
-<span data-ttu-id="d6f8f-105">Sett-postboks -identitet "Jane Dow" -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="d6f8f-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="60c24-105">Set-Postboks -Identitet "Jane Dow" -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="60c24-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="d6f8f-106">**Organisasjon**</span><span class="sxs-lookup"><span data-stu-id="d6f8f-106">**Organization**</span></span>
+ <span data-ttu-id="60c24-106">**Organisasjon**</span><span class="sxs-lookup"><span data-stu-id="60c24-106">**Organization**</span></span>
   
-<span data-ttu-id="d6f8f-107">Get-postboks -ResultSize Ubegrenset -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-postboks -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="d6f8f-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="60c24-107">Get-Postboks -ResultSize Ubegrenset -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-mailbox -AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="60c24-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="d6f8f-108">få mer informasjon</span><span class="sxs-lookup"><span data-stu-id="d6f8f-108">Learn more</span></span>](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
+[<span data-ttu-id="60c24-108">få mer informasjon</span><span class="sxs-lookup"><span data-stu-id="60c24-108">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   
 
