@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063482"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505588"
 ---
 # <a name="expired-subscription"></a>Utløpt abonnement
 
@@ -26,7 +26,7 @@ Det ser ut til at du har ett eller flere utløpte abonnementer. Hvis du vil fort
   
 **Aktivere på nytt**
   
-1. Gå til siden Fakturering **Billing** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
+1. Gå til Siden Fakturering **Billing** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
 
 2. Velg abonnementet du vil aktivere på nytt. I **Fakturering**, velg **Aktiver på nytt**.
 
@@ -34,16 +34,16 @@ Hvis du ikke ser **Aktiver på nytt** som en tilgjengelig handling, kontakter du
 
 3. Bekreft betalingsinformasjon. Du kan oppdatere eksisterende betalingsinformasjon her. Når du er ferdig med å skrive inn betalings måten, velger du **Aktiver på nytt**.
 
-For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Foreta et nytt kjøp**
   
-1. Gå til siden **Billing** \> **[Faktureringskjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)** på administrasjonssenteret.
+1. Gå til siden **Billing** \> **[Faktureringstjenestetjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)** i administrasjonssenteret.
 
 2. Velg abonnementet du vil kjøpe, og velg deretter **Kjøp**.
 
 3. Angi antall lisenser du trenger, og velg om du vil betale hver måned eller for hele året. Velg om du vil tilordne lisenser automatisk til alle som foreløpig ikke har en lisens. Velg deretter **Sjekk ut nå**.
 
-4. Følg de gjenværende trinnene for å fullføre utsjekkingen.
+4. Følg de resterende trinnene for å fullføre utsjekkingen.
 
-Hvis du vil ha mer informasjon, kan du se [Kjøpe et annet abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Hvis du vil ha mer informasjon, kan du se [Kjøpe et annet abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

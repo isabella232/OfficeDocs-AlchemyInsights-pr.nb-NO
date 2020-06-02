@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712144"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506200"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Omgå spamfiltrering for å tillate bestemte meldinger?
 
-Vi anbefaler [forsiktighet](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) når du oppretter en tillatelsesliste. Hvis du for eksempel tillater ditt eget domene, kan ondsinnede avsendere forfalske og sende som domene.  I stedet anbefaler vi denne [falske feilsøkingsveiledningen for positiver](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), som vil hjelpe deg med å finne ut hvorfor en legitim melding ble merket som spam, og hva du kan gjøre for å tillate levering av meldingen på en trygg måte.
+Vi anbefaler [forsiktighet](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) når du oppretter en tillatelsesliste. Hvis du for eksempel tillater ditt eget domene, kan skadelige avsendere forfalske og sende som domene.  I stedet anbefaler vi denne [feilsøkingsveiledningen for falske positiver](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), som hjelper deg med å finne ut hvorfor en legitim melding ble merket som spam, og hva du kan gjøre for å trygt tillate levering av meldingen.

@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 870b96cf04e69722690cbd50083899e32b6811b1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706980"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506128"
 ---
 # <a name="change-your-display-name"></a>Endre visningsnavnet
   
 Hvis du vil endre visningsnavnet i Outlook, bruker du følgende trinn.
   
-1. I Outlook velger du **Kontoinnstillinger for** \> **filkonto** \> **.**
+1. Velg **File** \> **Kontoinnstillinger for filkonto** \> **i**Outlook .
 
 2. Velg e-postkontoen, og velg deretter **Endre**.
 
     > [!NOTE]
-    > Hvis du ikke ser alternativet for å endre visningsnavnet, bruker du sannsynligvis en Microsoft Exchange-e-postkonto. I dette tilfellet må du kontakte systemansvarlig for å endre visningsnavnet. Se [Endre et brukernavn og en e-postadresse](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Hvis du ikke ser alternativet for å endre visningsnavnet, bruker du sannsynligvis en Microsoft Exchange-e-postkonto. I dette tilfellet må du kontakte systemansvarlig for å endre visningsnavnet. Se [Endre et brukernavn og en e-postadresse](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Når du har endret visningsnavnet, klikker du **OK** for å lagre endringene. Det kan ta noen timer før endringene gjenspeiles i hele organisasjonen.
 
