@@ -11,17 +11,17 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 2415864bc426fbf08a27c1b9d0b0e645fc5e921b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: ec0c3c43eb28eb442ce9c699f610ee2ab064df93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789347"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512671"
 ---
 # <a name="set-up-spf"></a>Konfigurere SPF
 
-Oppdater DNS-postene slik at du kan bruke et AvsenderpolicyFramework (SPF) med det egendefinerte domenet til å validere utgående e-post som sendes fra det egendefinerte domenet. Dette bidrar til å hindre at andre "spoofing" mail som om den ble sendt fra domenet ditt.
+Oppdater DNS-postene slik at du kan bruke et Rammeverk for avsenderpolicy (SPF) med det egendefinerte domenet til å validere utgående e-post som sendes fra det egendefinerte domenet. Dette bidrar til å hindre at andre "spoofing" post som om det ble sendt fra domenet ditt.
   
-- [Konfigurer SPF for å forhindre forfalskning](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Konfigurere SPF for å forhindre etterligning](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Hjelp til å konfigurere alle DNS-poster](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Hjelp med å konfigurere alle DNS-poster](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
