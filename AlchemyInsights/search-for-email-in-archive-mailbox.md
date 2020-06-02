@@ -1,5 +1,5 @@
 ---
-title: Søk etter e-post i Arkiv-postboksen
+title: Søke etter e-post i Arkiv-postboksen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709272"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495600"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Søk etter e-post i Arkiv-postboksen
+# <a name="search-for-email-in-the-archive-mailbox"></a>Søke etter e-post i arkivpostboksen
 
-Når en arkivpostboks er aktivert for Microsoft 365, kan du bruke **eDiscovery-søk og -eksport** til å oppdage innhold i postboksen Primær og Arkiv. Hvis du vil ha informasjon om hvordan du bruker **eDiscovery Search Export** til å finne innholdet, følger du fremgangsmåten som er beskrevet [her](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Når en arkivpostboks er aktivert for Microsoft 365, kan du bruke **eDiscovery Search and Export** til å oppdage innhold i både primær- og arkivpostboksen. Hvis du vil ha informasjon om hvordan du bruker **eDiscovery Search Export** til å finne innholdet, følger du fremgangsmåten som er beskrevet [her](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
-Du kan også beholde innholdet ved å legge til postboksen i en oppbevaringspolicy. Dette plasserer innhold i både primær- og arkiv-postboksen på vent. Hvis du vil ha mer informasjon om hvordan du oppretter oppbevaringspolicyer for å beholde e-post, kan du se fremgangsmåten som er beskrevet [her](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Du kan også beholde innholdet ved å legge til postboksen i en oppbevaringspolicy. Dette plasserer innhold i både primær- og arkivpostboksen på vent. Hvis du vil ha mer informasjon om hvordan du oppretter oppbevaringspolicyer for å beholde e-post, kan du se fremgangsmåten som er beskrevet [her](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   

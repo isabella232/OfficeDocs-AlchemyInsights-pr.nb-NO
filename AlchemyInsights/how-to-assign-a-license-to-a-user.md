@@ -1,5 +1,5 @@
 ---
-title: Tilordne eller oppheve tilordning av lisenser til brukere
+title: Tilordne eller avfordele lisenser til brukere
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957879"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495996"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Tilordne eller oppheve tilordning av lisenser til brukere
+# <a name="assign-or-unassign-licenses-to-users"></a>Tilordne eller avfordele lisenser til brukere
 
-En bruker trenger en lisens for å ha tilgang til tjenester. Her er fremgangsmåten for å **legge til, endre eller fjerne** en lisens fra en bruker.
+En bruker trenger en lisens for å få tilgang til tjenester. Her er fremgangsmåten for å **legge til, endre eller fjerne** en lisens fra en bruker.
   
-1. Gå til **Brukere** \> [aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822)i administrasjonssenteret.
+1. Gå til **Brukere** Aktive brukere i administrasjonssenteret. \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
 2. Velg navnet på brukeren du vil tilordne, endre eller fjerne en lisens for.
 
@@ -34,4 +34,4 @@ En bruker trenger en lisens for å ha tilgang til tjenester. Her er fremgangsmå
 
 4. Klikk **Lagre endringer**nederst i ruten.
 
-Hvis du vil ha mer informasjon, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)og fjerne [lisenser fra brukere](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Hvis du vil ha mer informasjon, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)og Fjerne [lisenser fra brukere](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
