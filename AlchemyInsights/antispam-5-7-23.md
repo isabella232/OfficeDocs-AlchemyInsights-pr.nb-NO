@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676506"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506452"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering av e-post for feilkode 5.7.23
 
-Kontroller SPF DNS-posten for domenet ditt på en offentlig tilgjengelig SPF- eller DNS-postkontrollpå nettet.
+Kontroller SPF DNS-posten for domenet ditt på en offentlig tilgjengelig SPF- eller DNS-postkontroll på nettet.
 
-Kontroller at den utgående meldingen ikke ble identifisert som søppelpost av Microsoft, og rutet gjennom [leveringsutvalget med høy risiko](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meldinger i utvalget for levering med høy risiko passerer ikke SPF-kontroller, og vil derfor ikke bli akseptert av destinasjons-e-postorganisasjonen.
+Kontroller at den utgående meldingen ikke ble identifisert som spam av Microsoft og rutet gjennom [utvalget for levering av høy risiko](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Meldinger i utvalget for levering med høy risiko vil ikke bestå SPF-kontroller, og godtas derfor ikke av destinasjons-e-postorganisasjonen.
 
-Hvis problemet vedvarer, må du kanskje kontakte administratoren for e-postverten du prøver å sende e-post til. Noter deg den detaljerte eksterne feilen som er tilgjengelig i fluktmeldingen. Microsoft-støtte kan kanskje ikke hjelpe ytterligere.
+Hvis problemet vedvarer, må du kanskje kontakte administratoren for e-postverten du prøver å sende e-post til. Legg merke til den detaljerte eksterne feilen som er tilgjengelig i returmeldingen. Microsoft-støtte kan kanskje ikke hjelpe ytterligere.

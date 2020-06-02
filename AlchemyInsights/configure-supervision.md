@@ -1,5 +1,5 @@
 ---
-title: Konfigurere tilsyn
+title: Konfigurere overvåkning
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705922"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507775"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurere retningslinjer for tilsyn
+# <a name="configure-supervision-policies"></a>Konfigurere retningslinjer for overvåking
 
-Med retningslinjer for tilsyn i Microsoft 365 kan du overvåke Exchange-e-post, Skype for Business Online, Microsoft Teams og tredjepartskommunikasjon som sendes i og utenfor organisasjonen. Utpekte korrekturlesere kan undersøke overvåkede meldinger for å sikre at de overholder organisasjonens policyer, risikostyring og standarder for overholdelse av forskrifter og løse dem med en klassifiseringstype.
+Med overvåkningspolicyer i Microsoft 365 kan du overvåke Exchange-e-post, Skype for Business Online, Microsoft Teams og tredjepartskommunikasjon som sendes i og utenfor organisasjonen. Utpekte korrekturlesere kan undersøke overvåkede meldinger for å sikre at de overholder organisasjonens policyer, risikostyring og samsvarsstandarder for forskrifter, og løse dem med en klassifiseringstype.
 
-Hvis du vil bruke overvåkingspolicyer i organisasjonen, må du:
+Hvis du vil bruke retningslinjer for overvåkning i organisasjonen, må du:
 
 - Bestem kommunikasjonen som skal overvåkes.
 - Bestem hvem som skal utføre kommunikasjonsgjennomgang.
-- Retningslinjer for oppsettsovervåkning
+- Retningslinjer for oppsett av overvåkning
 
 få mer informasjon:
 
-- [Oversikt over retningslinjer for tilsyn](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Konfigurere retningslinjer for tilsyn](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Oversikt over retningslinjer for tilsyn](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurere overvåkingspolicyer](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

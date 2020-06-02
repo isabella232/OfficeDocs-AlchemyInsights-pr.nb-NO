@@ -11,12 +11,12 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049814"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507667"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Opprette og bruke en delt postboks
 
@@ -24,5 +24,5 @@ En delt postboks lar mer enn én person sende og motta e-post for et alias, for 
   
 - [Følg denne fremgangsmåten](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i administrasjonssenteret for Microsoft 365 for å komme i gang. 
 
-Du kan også lese artikkelen [opprette en delt postboks](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , som vil fortelle deg alt du trenger å vite om delte postbokser, inkludert hvordan du bruker dem.
+Du kan også lese artikkelen [Opprett en delt postboks,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) som forteller deg alt du trenger å vite om delte postbokser, inkludert hvordan du bruker dem.
   
