@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534855"
+ms.locfileid: "44542017"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Løse meldinger som sitter fast i utboksen
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Løs meldinger som sitter fast i utboksen med SaRA
 
-Vi anbefaler at du starter med å kjøre scenariet ["Jeg har problemer med å sende, motta eller finne e-postmeldinger"](https://aka.ms/SaRA-OutlookSendReceive) fra microsoft [support og gjenopprettingsassistent-verktøyet.](https://diagnostics.office.com/#/)
-
-Når en melding sitter fast i utboksen, er den mest sannsynlige årsaken et stort vedlegg eller alternativet "Send umiddelbart når tilkoblet" ikke er aktivert.
-Hvis du vil ha mer informasjon, kan du se:
-- [Video: Sende eller slette en fast e-post](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-post forblir i utboksmappen til du manuelt starter en send/ motta-operasjon i Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Vi anbefaler at du starter med å kjøre scenariet ["Jeg har problemer med å sende, motta eller finne e-postmeldinger"](https://aka.ms/SaRA-OutlookSendReceive) på den påvirkede maskinen fra [Microsoft Support and Recovery Assistant (SaRa)-verktøyet.](https://diagnostics.office.com/#/)
