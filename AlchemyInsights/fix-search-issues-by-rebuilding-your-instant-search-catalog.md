@@ -1,5 +1,5 @@
 ---
-title: 1800005 fix Søk problemer ved å bygge Direktesøk-katalogen
+title: Løs søkeproblemer på nytt ved å bygge opp direktesøk-katalogen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,25 +13,25 @@ ms.custom:
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
 ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36664905"
 ---
-# <a name="troubleshoot-search-issues"></a><span data-ttu-id="b6a40-102">Feilsøke problemer med søk</span><span class="sxs-lookup"><span data-stu-id="b6a40-102">Troubleshoot search issues</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="d56ce-102">Feilsøke søkeproblemer</span><span class="sxs-lookup"><span data-stu-id="d56ce-102">Troubleshoot search issues</span></span>
 
-<span data-ttu-id="b6a40-103">Hvis du har problemer med Søk i Outlook, kan du se koblingene nedenfor for hjelp og feilsøking.</span><span class="sxs-lookup"><span data-stu-id="b6a40-103">If you're having problems with search in Outlook, please see the links below for help and troubleshooting.</span></span>
+<span data-ttu-id="d56ce-103">Hvis du har problemer med søk i Outlook, kan du se koblingene nedenfor for å få hjelp og feilsøking.</span><span class="sxs-lookup"><span data-stu-id="d56ce-103">If you're having problems with search in Outlook, please see the links below for help and troubleshooting.</span></span>
 
-<span data-ttu-id="b6a40-104">Disse er de vanligste problemene, og er et bra sted å starte:</span><span class="sxs-lookup"><span data-stu-id="b6a40-104">These are the most common issues, and are a good place to start:</span></span>
+<span data-ttu-id="d56ce-104">Dette er de vanligste problemene, og er et godt sted å starte:</span><span class="sxs-lookup"><span data-stu-id="d56ce-104">These are the most common issues, and are a good place to start:</span></span>
 
-- [<span data-ttu-id="b6a40-105">Outlook Søk returnerer ingen resultater</span><span class="sxs-lookup"><span data-stu-id="b6a40-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [<span data-ttu-id="b6a40-106">Outlook Søk returnerer ufullstendige resultater</span><span class="sxs-lookup"><span data-stu-id="b6a40-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [<span data-ttu-id="b6a40-107">Outlook Søk finner ikke eldre e-post</span><span class="sxs-lookup"><span data-stu-id="b6a40-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [<span data-ttu-id="d56ce-105">Outlook-søk returnerer ingen resultater</span><span class="sxs-lookup"><span data-stu-id="d56ce-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="d56ce-106">Outlook-søk returnerer ufullstendige resultater</span><span class="sxs-lookup"><span data-stu-id="d56ce-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="d56ce-107">Outlook-søk finner ikke eldre e-postmeldinger</span><span class="sxs-lookup"><span data-stu-id="d56ce-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-<span data-ttu-id="b6a40-108">Mulige løsninger for mindre vanlige problemer du finner her:</span><span class="sxs-lookup"><span data-stu-id="b6a40-108">Possible solutions for less common problems can be found here:</span></span>
+<span data-ttu-id="d56ce-108">Mulige løsninger for mindre vanlige problemer finner du her:</span><span class="sxs-lookup"><span data-stu-id="d56ce-108">Possible solutions for less common problems can be found here:</span></span>
 
-- [<span data-ttu-id="b6a40-109">Bare Outlook-2016: kategorien Søk er nedtonet</span><span class="sxs-lookup"><span data-stu-id="b6a40-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [<span data-ttu-id="b6a40-110">Delt postboks: Problemer med søkeresultater</span><span class="sxs-lookup"><span data-stu-id="b6a40-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [<span data-ttu-id="b6a40-111">Feil: Søkeytelsen berøres på grunn av et problem med hvordan Outlook er konfigurert</span><span class="sxs-lookup"><span data-stu-id="b6a40-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [<span data-ttu-id="b6a40-112">Søkemapper vises uventet PersonMetadata-elementer med ingen emne</span><span class="sxs-lookup"><span data-stu-id="b6a40-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [<span data-ttu-id="d56ce-109">Bare Outlook-2016: Søkefanen er nedtonet</span><span class="sxs-lookup"><span data-stu-id="d56ce-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="d56ce-110">Delt postboks: Problemer med søkeresultatene</span><span class="sxs-lookup"><span data-stu-id="d56ce-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="d56ce-111">Feil: Søkeytelsen påvirkes på grunn av et problem med hvordan Outlook er konfigurert</span><span class="sxs-lookup"><span data-stu-id="d56ce-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="d56ce-112">Søkemapper viser uventede PersonMetadata-elementer uten emne</span><span class="sxs-lookup"><span data-stu-id="d56ce-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
