@@ -1,5 +1,5 @@
 ---
-title: 1800009 støtte for Outlook for Mac i App
+title: Støtte for Outlook for Mac i appen 1800009
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035764"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Støtte for in-app i Outlook for Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Støtte i appen i Outlook for Mac
 
-Hvis du vil motta støtte i app for Outlook for Mac-problemer, åpner du Outlook og klikker **hjelp til å** \> **kontakte kundestøtte**. Skriv inn spørsmålet ditt, og et medlem av kundestøtteteamet for Outlook for Mac tar kontakt med deg. 
+Hvis du vil motta problemer med kundestøtte i appen for Outlook for Mac, åpner du Outlook og klikker **Hjelp til** å \> **kontakte kundestøtte**. Skriv inn spørsmålet ditt, så kommer et medlem av kundestøtteteamet for Outlook for Mac i kontakt med deg. 
 
 Finn ut mer: [Kontakt kundestøtte i Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
