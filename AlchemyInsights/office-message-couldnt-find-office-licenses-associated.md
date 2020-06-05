@@ -1,5 +1,5 @@
 ---
-title: Office-appmelding – Finner ikke tilknyttede Office-lisenser
+title: Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505100"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581660"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office-appmelding – Finner ikke tilknyttede Office-lisenser
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
 
 For å løse denne filen prøver du følgende:
 
@@ -38,7 +38,7 @@ Hvis problemet vedvarer, kan du prøve følgende fremgangsmåte:
 
 - Tilbakestill aktiveringsstatusen for Office. Se [Tilbakestille Microsoft 365-apper for tilstand for organisasjonsaktivering](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Office-apper sin tilgang til internett. 
+- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Microsoft 365-apper tilgang til Internett. 
 
 Hvis du trenger ytterligere feilsøkingsløsninger, kan du se:
 

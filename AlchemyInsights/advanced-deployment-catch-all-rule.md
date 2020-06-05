@@ -1,5 +1,5 @@
 ---
-title: Avansert distribusjon fange alle regler
+title: Avansert distribusjon Catch Alle Regel
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710920"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580860"
 ---
-# <a name="deploy-office-apps"></a>Distribuere Office-apper
+# <a name="deploy-microsoft-365-apps"></a>Distribuere Microsoft 365-apper
 
-For distribusjon av Office-apper til flere sluttbrukere via Office Deployment Tool, Microsoft Endpoint Configuration Manager, som en del av en diskavbildning for operativsystemet, eller i et delt datamaskinscenario ved hjelp av Windows Server med Remote Desktop Services (RDS) eller Terminal Services, bør du vurdere å bruke trinnvis veiledning i **Microsoft 365 Apps for enterprise deployment advisor**.
+Hvis du vil distribuere Microsoft 365-apper til flere sluttbrukere via Office Deployment Tool, Microsoft Endpoint Configuration Manager, som en del av en operativsystemdiskavbildning, eller i et delt datamaskinscenario ved hjelp av Windows Server med Remote Desktop Services (RDS) eller Terminal Services, kan du vurdere å bruke trinnvis veiledning i **Microsoft 365 Apps for enterprise deployment advisor**.
   
-For å komme i gang må du kontrollere at du er logget på [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)som leieradministrator eller global administrator, og klikk deretter her: .
+For å komme i gang må du kontrollere at du er logget på som leieradministrator eller global administrator, og deretter klikke her: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

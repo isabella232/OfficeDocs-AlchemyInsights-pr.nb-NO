@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette et slettet område
+title: Gjenopprette et slettet nettsted
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912684"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582244"
 ---
-# <a name="restore-a-deleted-site"></a>Gjenopprette et slettet område
+# <a name="restore-a-deleted-site"></a>Gjenopprette et slettet nettsted
 
-Når en administrator sletter et SharePoint-område, plasseres det i papirkurven for områdesamlingen, der den holdes i 93 dager før det slettes permanent. Slik gjenoppretter du området:
+Når en administrator sletter et SharePoint-område, plasseres det i papirkurven for områdesamlingen, der det beholdes i 93 dager før det slettes permanent. Slik gjenoppretter du nettstedet:
   
 1. Klikk **Papirkurv** på båndet i det nye administrasjonssenteret for SharePoint. 
     

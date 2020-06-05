@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 0a07e6279f533a4c26a4e90c10651421a5df8860
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282929"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580666"
 ---
-# <a name="change-email-address-of-an-microsoft-365-group"></a>Endre e-postadressen til en Microsoft 365-gruppe
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Endre e-postadressen til en Microsoft 365-gruppe
 
 Du kan endre e-postadressen til en Microsoft 365-gruppe ved hjelp av administrasjonssenteret. Bare velg gruppen og velg @edit e-postadresse.
 
-Du kan også bruke følgende EXO PowerShell-kommandoen til å endre den primære SMTP-adressen til en Microsoft 365-gruppe:
+Du kan også bruke følgende EXO PowerShell -kommandoen til å endre den primære SMTP-adressen til en Microsoft 365-gruppe:
 
-Angi UnifiedGroup <Group Name> -PrimarySmtpAddress<new SMTP Address>
+Set-UnifiedGroup <Group Name> -PrimarySmtpAddress<new SMTP Address>
 
 Eksempel:
 
