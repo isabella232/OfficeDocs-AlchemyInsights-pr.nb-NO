@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912592"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582388"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Gjenopprette en Microsoft 365-gruppe ved hjelp av administrasjonssenteret for Exchange
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Gjenopprette en Microsoft 365-gruppe ved hjelp av administrasjonssenteret for Exchange
 
-1. Utvid **Administrasjonssenter**i administrasjonssenteret til venstre for administrasjonssenteret for Microsoft 365, og velg deretter **Exchange**.
+1. Utvid **Administrasjonssenter**i den venstre navigasjonen i administrasjonssenteret for Microsoft 365, og velg deretter **Exchange**.
     
 2. Velg **mottakere** og **grupper** i administrasjonssenteret for Exchange. Du kan vise om gruppen er aktiv eller mykt slettet. Hvis gruppen er slettet permanent, vil den ikke vises i det hele tatt.
     

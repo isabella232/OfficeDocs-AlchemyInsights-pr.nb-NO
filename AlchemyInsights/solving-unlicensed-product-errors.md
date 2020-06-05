@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512021"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582748"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til løsning av "Ulisensiert produkt" feil
 
@@ -26,7 +26,7 @@ Hvis du vil løse feil om et "Ulisensiert produkt", kan du prøve følgende:
 - Kontroller at du har et abonnement som tillater klientlisenser, for eksempel Microsoft 365 Apps for business eller Business Premium, og [kontroller at brukeren har en tilordnet lisens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Kontroller at brukeren logger på Office med samme konto som har tilordnet lisensen.
 - Kontroller [siden For å](https://docs.microsoft.com/office365/enterprise/view-service-health) se om det er kjente problemer med tjenesten.
-- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Office-apper tilgang til Internett. Se [URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Tilgang til Internett for Microsoft 365-apper. Se [URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Du kan også prøve følgende feilsøkingshandlinger: 
 
