@@ -12,26 +12,26 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: be56dfcdc65cf51fa66ef7c98dab5f0d78bbb21b
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 19db06fea287409e86c67a810ac57ca77004b993
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198889"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580738"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Endre faktureringsadresse eller e-postvarsler for fakturering
 
-**Endre fakturatil-adressen din**
+**Endre Faktura til-adressen**
 
-1. Gå til siden Betalingsmåter for fakturering > betalingsmåter på siden ** [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** for fakturering.
+1. Gå til siden Fakturering **> [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806) i** administrasjonssenteret.
 
 2. Velg kredittkortet eller bankkontoen du vil endre.
 
 3. Klikk **Rediger**på siden **Detaljer om betalingsmåte.**
 
-4. Oppdater faktureringsadressen, og klikk deretter **på Lagre > ferdig**.
+4. Oppdater faktureringsadressen, og klikk deretter **Lagre > Ferdig**.
 
-**Endre den alternative e-postadressen faktureringsvarslene dine sendes til** 
+**Endre den alternative e-postadressen faktureringsvarslene sendes til** 
 
 1. Klikk **Bruker-ikonet**, og klikk deretter **Min konto**.
 
@@ -41,4 +41,4 @@ ms.locfileid: "43198889"
 
 4. Skriv inn den alternative e-postadressen du vil bruke, i **Boksen Alternativ e-post,** og klikk deretter **Lagre**.
 
-Hvis du vil ha mer informasjon om adresse- og varslingsendringer, kan du se [Endre faktureringsadressene for Office 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Hvis du vil ha mer informasjon om endringer i adresse og varsling, kan du se [Endre faktureringsadressene for Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
