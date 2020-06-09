@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: nb-NO
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618022"
+ms.locfileid: "44664255"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Feil: Reglene på denne datamaskinen samsvarer ikke
 
@@ -28,3 +28,4 @@ Til hurtigreparasjonen er tilgjengelig, bruk følgende løsning:
 **Løsning**: Det har oppstått problemet for de som bare har opprettet klientregler i Outlook-skrivebordet i nylige rapporter. Hvis du fortsatt støter på problemet, kan du vurdere å slette reglene og deretter opprette og redigere regler bare i OWA (Outlook Web App) til problemet er løst.
 
 Hvis du ikke kan slette reglene manuelt, kan du kjøre en Outlook-kommando når du starter Outlook ved å kjøre Outlook.exe /cleanrules. Dette sletter både klient- og serverreglene. Det vil slette alle reglene for alle kontoene i Outlook-profilen. Denne kommandoen er ytterligere dokumentert i command-line brytere artikkelen.
+
