@@ -1,5 +1,5 @@
 ---
-title: Team Outlook-tillegget
+title: Team Outlook-tillegg
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021507"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702215"
 ---
-# <a name="teams-outlook-add-in"></a>Team Outlook-tillegget
+# <a name="teams-outlook-add-in"></a>Team Outlook-tillegg
 
-Det er flere faktorer som kan føre til at Teams-tillegget ikke vises, og de er alle oppført [her](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Hvis du vil feilsøke et manglende Teams Outlook-tillegg, må du først kjøre servicediagnosen her i administrasjonsportalen.  Hvis servicediagnosen ikke indikerer noen problemer, kan du fortsette å laste ned og kjøre [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) Teams **Outlook-tilleggsscenariet** på de berørte brukermaskinene for å diagnostisere og løse eventuelle klientproblemer.
 
-**Vi anbefaler at du først kontrollerer at tillegget ikke er deaktivert:**
-
-- Klikk **Fil** i Outlook, og klikk deretter **Alternativer**.
-- Velg **kategorien Tillegg i** dialogboksen **Alternativer for Outlook.**
-- Kontroller at **Microsoft Teams møtetillegg for Microsoft Office** er oppført i listen Aktive **programtillegg.**
-- Hvis Teams møtetillegg er oppført i listen **Deaktiverte programtillegg,** velger du **COM-tillegg** i **Behandle** og klikker deretter **Gå...**
-- Angi avmerkingsboksen ved siden av **Microsoft Teams møtetillegg for Microsoft Office**.
-- Klikk **OK** på alle dialogbokser og start Outlook på nytt.
+Hvis du vil feilsøke problemet manuelt, kan du se gjennom listen over potensielle faktorer som kan føre til at Teams-tillegget ikke vises oppført [her](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
