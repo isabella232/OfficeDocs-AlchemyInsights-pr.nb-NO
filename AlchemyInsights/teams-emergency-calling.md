@@ -17,12 +17,12 @@ ms.contentlocale: nb-NO
 ms.lasthandoff: 03/24/2020
 ms.locfileid: "42940339"
 ---
-# <a name="teams-emergency-calling"></a><span data-ttu-id="1e1a1-102">Nødsamtaler med Teams</span><span class="sxs-lookup"><span data-stu-id="1e1a1-102">Teams emergency calling</span></span>
+# <a name="teams-emergency-calling"></a><span data-ttu-id="c96ae-102">Nødsamtaler med Teams</span><span class="sxs-lookup"><span data-stu-id="c96ae-102">Teams emergency calling</span></span>
 
-<span data-ttu-id="1e1a1-103">Alle telefonnumre må være tilknyttet et nødsted.</span><span class="sxs-lookup"><span data-stu-id="1e1a1-103">All phone numbers must be associated with an emergency location.</span></span> <span data-ttu-id="1e1a1-104">Hvis du vil ha mer informasjon, kan du ta en titt på følgende:</span><span class="sxs-lookup"><span data-stu-id="1e1a1-104">Please see the following for more details:</span></span>
+<span data-ttu-id="c96ae-103">Alle telefonnumre må være tilknyttet en plassering for nødstilfeller.</span><span class="sxs-lookup"><span data-stu-id="c96ae-103">All phone numbers must be associated with an emergency location.</span></span> <span data-ttu-id="c96ae-104">Hvis du vil ha mer informasjon, kan du se følgende:</span><span class="sxs-lookup"><span data-stu-id="c96ae-104">Please see the following for more details:</span></span>
 
-- [<span data-ttu-id="1e1a1-105">Oversikt over nødsamtaler</span><span class="sxs-lookup"><span data-stu-id="1e1a1-105">Emergency calling overview</span></span>](https://docs.microsoft.com/MicrosoftTeams/what-are-emergency-locations-addresses-and-call-routing)
+- [<span data-ttu-id="c96ae-105">Oversikt over nødsamtaler</span><span class="sxs-lookup"><span data-stu-id="c96ae-105">Emergency calling overview</span></span>](https://docs.microsoft.com/MicrosoftTeams/what-are-emergency-locations-addresses-and-call-routing)
 
-- [<span data-ttu-id="1e1a1-106">Legg til, endre eller fjern et nødsted for organisasjonen din</span><span class="sxs-lookup"><span data-stu-id="1e1a1-106">Add, change, or remove an emergency location for your organization</span></span>](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)
+- [<span data-ttu-id="c96ae-106">Legge til, endre eller fjerne en plassering for nødstilfeller for organisasjonen din</span><span class="sxs-lookup"><span data-stu-id="c96ae-106">Add, change, or remove an emergency location for your organization</span></span>](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)
 
-- [<span data-ttu-id="1e1a1-107">Tilordne eller endre et nødsted for en bruker</span><span class="sxs-lookup"><span data-stu-id="1e1a1-107">Assign or change an emergency location for a user</span></span>](https://docs.microsoft.com/MicrosoftTeams/assign-change-emergency-location-user)
+- [<span data-ttu-id="c96ae-107">Tilordne eller endre en plassering for nødstilfeller for en bruker</span><span class="sxs-lookup"><span data-stu-id="c96ae-107">Assign or change an emergency location for a user</span></span>](https://docs.microsoft.com/MicrosoftTeams/assign-change-emergency-location-user)
