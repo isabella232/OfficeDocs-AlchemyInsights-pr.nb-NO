@@ -19,10 +19,10 @@ ms.locfileid: "42940339"
 ---
 # <a name="teams-emergency-calling"></a>Nødsamtaler med Teams
 
-Alle telefonnumre må være tilknyttet et nødsted. Hvis du vil ha mer informasjon, kan du ta en titt på følgende:
+Alle telefonnumre må være tilknyttet en plassering for nødstilfeller. Hvis du vil ha mer informasjon, kan du se følgende:
 
 - [Oversikt over nødsamtaler](https://docs.microsoft.com/MicrosoftTeams/what-are-emergency-locations-addresses-and-call-routing)
 
-- [Legg til, endre eller fjern et nødsted for organisasjonen din](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)
+- [Legge til, endre eller fjerne en plassering for nødstilfeller for organisasjonen din](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)
 
-- [Tilordne eller endre et nødsted for en bruker](https://docs.microsoft.com/MicrosoftTeams/assign-change-emergency-location-user)
+- [Tilordne eller endre en plassering for nødstilfeller for en bruker](https://docs.microsoft.com/MicrosoftTeams/assign-change-emergency-location-user)

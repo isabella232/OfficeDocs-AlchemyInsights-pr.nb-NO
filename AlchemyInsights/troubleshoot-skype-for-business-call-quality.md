@@ -1,5 +1,5 @@
 ---
-title: Feilsøke Skype for Business Online
+title: Feilsøke samtalekvaliteten i Skype for Business
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -17,6 +17,6 @@ ms.contentlocale: nb-NO
 ms.lasthandoff: 03/24/2020
 ms.locfileid: "42940403"
 ---
-# <a name="troubleshoot-skype-for-business-call-quality"></a>Feilsøke Skype for Business Online
+# <a name="troubleshoot-skype-for-business-call-quality"></a>Feilsøke samtalekvaliteten i Skype for Business
 
-Samtaleanalyse kan brukes til å feilsøke problemer med samtalekvaliteten i Microsoft Teams. Hvis du vil finne ut mer om samtaleanalyse og samtalekvalitet, kan du se [Bruke samtaleanalyse for å feilsøke samtalekvaliteten](https://docs.microsoft.com/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality).
+Samtaleanalyse kan brukes til å feilsøke problemer med samtalekvaliteten i Microsoft Teams. Hvis du vil finne ut mer om Samtaleanalyse og samtalekvalitet, kan du se [Bruke Samtaleanalyse til å feilsøke dårlig samtalekvalitet](https://docs.microsoft.com/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality).
