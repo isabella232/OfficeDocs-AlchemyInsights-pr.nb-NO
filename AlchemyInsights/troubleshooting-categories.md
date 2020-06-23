@@ -1,5 +1,5 @@
 ---
-title: 604 Feilsøking av kategorier
+title: 604 Feilsøkingskategorier
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732375"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850801"
 ---
 # <a name="outlook-categories"></a>Outlook-kategorier
 
-Fargekategorier lar deg enkelt identifisere og gruppere tilknyttede elementer i Microsoft Outlook. Hvis du vil ha mer informasjon, kan du se [Opprette og tilordne fargekategorier](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).
-  
+Kategorier gjelder bare for elementer i kalenderen. Hvis du bruker en fargekategori på en møteinnkallelse eller et møte du har mottatt fra en annen person, vises fargekategorien bare i kalenderen.  Hvis du bruker en fargekategori på en delt postboks, delegerer postboks, gruppepostboks, rompostboks osv.
+
+Hvis du vil ha mer informasjon: [Tilordne en fargekategori til en kalenderavtale, et møte eller en hendelse](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
