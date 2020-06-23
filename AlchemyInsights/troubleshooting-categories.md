@@ -1,5 +1,5 @@
 ---
-title: 604 Feilsøking av kategorier
+title: 604 Feilsøkingskategorier
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732375"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850801"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="c7dce-102">Outlook-kategorier</span><span class="sxs-lookup"><span data-stu-id="c7dce-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="7ac6d-102">Outlook-kategorier</span><span class="sxs-lookup"><span data-stu-id="7ac6d-102">Outlook categories</span></span>
 
-<span data-ttu-id="c7dce-103">Fargekategorier lar deg enkelt identifisere og gruppere tilknyttede elementer i Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="c7dce-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="c7dce-104">Hvis du vil ha mer informasjon, kan du se [Opprette og tilordne fargekategorier](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="c7dce-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
-  
+<span data-ttu-id="7ac6d-103">Kategorier gjelder bare for elementer i kalenderen.</span><span class="sxs-lookup"><span data-stu-id="7ac6d-103">Categories only apply to items in your calendar.</span></span> <span data-ttu-id="7ac6d-104">Hvis du bruker en fargekategori på en møteinnkallelse eller et møte du har mottatt fra en annen person, vises fargekategorien bare i kalenderen.</span><span class="sxs-lookup"><span data-stu-id="7ac6d-104">If you apply a color category to a meeting request or a meeting you've received from another person, that color category will only show in your calendar.</span></span>  <span data-ttu-id="7ac6d-105">Hvis du bruker en fargekategori på en delt postboks, delegerer postboks, gruppepostboks, rompostboks osv.</span><span class="sxs-lookup"><span data-stu-id="7ac6d-105">If you apply a color category on a shared mailbox, delegate mailbox, group mailbox, room mailbox, etc. the color category only affects your view.</span></span>
+
+<span data-ttu-id="7ac6d-106">Hvis du vil ha mer informasjon: [Tilordne en fargekategori til en kalenderavtale, et møte eller en hendelse](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span><span class="sxs-lookup"><span data-stu-id="7ac6d-106">For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span></span>
