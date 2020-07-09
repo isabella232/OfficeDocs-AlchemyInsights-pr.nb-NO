@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fed306790f74fce7c0b5a97b3609af5a90f16bf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d161e46e1d707fc05adab20aa62c2403f149cfd4
+ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758326"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083904"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="c746b-102">Overføre alternativer til SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c746b-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="7284d-102">Overføre alternativer til SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7284d-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="c746b-103">Det finnes flere alternativer for å overføre innhold til SharePoint Online på, avhengig av størrelsen på filene og hvor mange filer du ønsker å flytte. En liste med de ulike alternativene [finner du her](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="c746b-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+<span data-ttu-id="7284d-103">Det finnes flere alternativer for å overføre innhold til SharePoint Online på, avhengig av størrelsen på filene og hvor mange filer du ønsker å flytte. En liste med de ulike alternativene [finner du her](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="7284d-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
 
-<span data-ttu-id="c746b-104">Hvis du vil ha mer informasjon om innholdsoverføring, kan du ta en titt på koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="c746b-104">For more information on content migration, please visit the links below.</span></span>
+<span data-ttu-id="7284d-104">Hvis du vil ha mer informasjon om innholdsoverføring, kan du ta en titt på koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="7284d-104">For more information on content migration, please visit the links below.</span></span>
 
-- [<span data-ttu-id="c746b-105">Overføringsverktøyet for SharePoint</span><span class="sxs-lookup"><span data-stu-id="c746b-105">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="7284d-105">Overføringsverktøyet for SharePoint</span><span class="sxs-lookup"><span data-stu-id="7284d-105">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [<span data-ttu-id="c746b-106">Kom i gang med overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="c746b-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [<span data-ttu-id="7284d-106">Kom i gang med overføringsveiviseren</span><span class="sxs-lookup"><span data-stu-id="7284d-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [<span data-ttu-id="c746b-107">Mover</span><span class="sxs-lookup"><span data-stu-id="c746b-107">Mover</span></span>](https://mover.io/)
+- [<span data-ttu-id="7284d-107">Mover</span><span class="sxs-lookup"><span data-stu-id="7284d-107">Mover</span></span>](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
