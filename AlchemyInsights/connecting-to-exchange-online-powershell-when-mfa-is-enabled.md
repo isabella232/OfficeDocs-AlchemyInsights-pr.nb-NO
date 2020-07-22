@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705814"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205312"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Koble til Exchange Online PowerShell når MFA er aktivert
 
-Hvis kontoen din har aktivert multifaktorautentisering (MFA), må du følge disse instruksjonene for å koble til Exchange Online PowerShell: [Koble til Exchange Online PowerShell ved hjelp av godkjenning med flere faktorer](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Merk:** Selv om du har koblet til Exchange Online PowerShell tidligere ved hjelp av [de vanlige tilkoblingsinstruksjonene](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), må du bruke MFA-tilkoblingsinstruksjonene etter at MFA er aktivert for kontoen din.
+Hvis kontoen din har aktivert multifaktorautentisering (MFA), må du følge disse instruksjonene for å koble til Exchange Online PowerShell: [Bruk Exchange Online PowerShell med moderne godkjenning ved hjelp av V2-modul .](https://aka.ms/exops-docs) Søk etter instruksjoner for MFA/ Multi Factor Authentication på den siden.
