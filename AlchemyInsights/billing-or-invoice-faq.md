@@ -1,8 +1,9 @@
 ---
 title: Vanlige spørsmål om fakturering
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: e4034ec6f71f4578dbfdfcdfb5355d22fbd7c88e
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
-ms.translationtype: HT
+ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017125"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431190"
 ---
 # <a name="billing-or-invoice-faq"></a>Vanlige spørsmål om fakturering
 
 - En betaling kan **avslås** av flere grunner, blant annet når et kredittkort er utløpt. Se [Endre betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) for å løse problemet.
-- Hvis fakturaen er **forfalt**, kan du bruke funksjonen **Utligne saldo** til å sende inn betalingen på nytt. Se [Hva om betalingen er utløpt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) for å løse problemet.
-- Hvis du vil endre **faktureringshyppigheten** til månedlig eller årlig, kan du se [Endre faktureringshyppigheten](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+- Hvis fakturaen er **forfalt**, kan du bruke funksjonen **Utligne saldo** til å sende inn betalingen på nytt. Se [Hva om betalingen er utløpt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) for å løse problemet.
+- Du belastes fortsatt for lisenser som ikke er tilordnet til brukere. Hvis du vil hindre unødvendige kostnader, fjerner du lisensene for å redusere lisensantallet. Se [Legge til eller fjerne lisenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) fra et abonnement.
+- Hvis du vil endre **faktureringshyppigheten** til månedlig eller årlig, kan du se [Endre faktureringshyppigheten](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Hvis du trenger hjelp med fakturaen, kan du se [Forstå fakturaen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Hvis du trenger hjelp til å **vise** fakturaen, kan du se [Vis faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 - Hvis du vil endre faktureringsinformasjonen, kan du se [Behandle fakturaprofil](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) eller [Endre faktureringsadressen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Hvis du vil ha mer informasjon, kan du se [Fakturering og betalinger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/).
+Hvis du vil ha mer informasjon, kan du se [Forstå fakturaen .](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
