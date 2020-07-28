@@ -1,0 +1,46 @@
+---
+title: Bruke oppdateringer for Office-apper
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/24/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "1747"
+- "9000140"
+ms.openlocfilehash: b5952feaac7ac51faed2a3399c68a87a4227b165
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.translationtype: MT
+ms.contentlocale: nb-NO
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45440148"
+---
+# <a name="apply-updates-for-office-apps"></a><span data-ttu-id="a822e-102">Bruke oppdateringer for Office-apper</span><span class="sxs-lookup"><span data-stu-id="a822e-102">Apply updates for Office apps</span></span>
+
+<span data-ttu-id="a822e-103">Som standard er oppdateringer for Office Apps gratis, lastet ned automatisk og brukes i bakgrunnen uten brukermedvirkning.</span><span class="sxs-lookup"><span data-stu-id="a822e-103">By default, updates for Office Apps are free, downloaded automatically, and applied in the background without any user intervention.</span></span> <span data-ttu-id="a822e-104">Hvis du vil kjøre oppdateringer manuelt hvis du kjører problemer med å bruke oppdateringer, kan du se [Installere Office-oppdateringer](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).</span><span class="sxs-lookup"><span data-stu-id="a822e-104">To run updates manually if you are running into issues applying updates, see [Install Office updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span> <span data-ttu-id="a822e-105">Hvis du vil ha mer informasjon, kan du se [Feilsøke installasjon av Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).</span><span class="sxs-lookup"><span data-stu-id="a822e-105">For more information, see [Troubleshoot installing Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).</span></span>
+
+<span data-ttu-id="a822e-106">Hvis du vil administrere Office-oppdateringer for brukerne, kan du vurdere disse alternativene:</span><span class="sxs-lookup"><span data-stu-id="a822e-106">To manage Office updates for your users, consider these options:</span></span>
+
+- <span data-ttu-id="a822e-107">Velg riktig Office Update-kanal for organisasjonen basert på ønsket hyppighet av oppdateringer.</span><span class="sxs-lookup"><span data-stu-id="a822e-107">Choose the right Office Update Channel for your organization based on the desired frequency of updates.</span></span> <span data-ttu-id="a822e-108">Hvis du vil vite hvordan, kan du se [Oversikt over oppdateringskanaler for Microsoft 365-apper](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="a822e-108">To learn how, see [Overview of update channels for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span></span>
+
+- <span data-ttu-id="a822e-109">Bestem om du vil bruke oppdateringer automatisk fra Internett eller fra en lokal deling.</span><span class="sxs-lookup"><span data-stu-id="a822e-109">Decide whether to apply updates automatically from the internet or from an on-premises share.</span></span> <span data-ttu-id="a822e-110">Hvis du vil vite hvordan, kan du se [Velge hvordan du administrerer oppdateringer for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="a822e-110">To learn how, see [Choose how to manage updates to Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus).</span></span>
+
+- <span data-ttu-id="a822e-111">Se gjennom Office Update-innstillinger for å kontrollere hvordan oppdateringer brukes på sluttbrukermaskiner:</span><span class="sxs-lookup"><span data-stu-id="a822e-111">Review Office Update Settings to control how updates are applied to end user machines:</span></span>
+
+    - <span data-ttu-id="a822e-112">[Konfigurere oppdateringsinnstillinger for Microsoft 365-apper](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="a822e-112">[Configure update settings for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span></span>
+    - <span data-ttu-id="a822e-113">[Definer hvordan Office oppdateres etter at det er installert](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element).</span><span class="sxs-lookup"><span data-stu-id="a822e-113">[Define how Office is updated after it's installed](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element).</span></span>
+
+<span data-ttu-id="a822e-114">Når du distribuerer Office-apper til flere brukere, bruker du tilpasningsverktøyet for Office til å bygge konfigurasjonsfiler for distribusjon og konfigurere Office-oppdateringer ved hjelp av verktøyet for Office-distribusjon.</span><span class="sxs-lookup"><span data-stu-id="a822e-114">When deploying Office apps to multiple users, use the Office Customization tool to build configuration files for deployment, and configure Office updates by using the Office Deployment tool.</span></span> <span data-ttu-id="a822e-115">Hvis du vil ha mer informasjon, kan du se [Oversikt over tilpasningsverktøyet](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) for Office og [verktøyet for Office-distribusjon](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="a822e-115">For more info, see [Overview of the Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) and the [Office Deployment tool](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+
+- <span data-ttu-id="a822e-116">Hvis du vil ha et eksempel på hvordan du konfigurerer brukergrupper til å distribuere Office-oppdateringer, kan du se [Distribuere Microsoft 365-apper fra en lokal kilde](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source).</span><span class="sxs-lookup"><span data-stu-id="a822e-116">For an example of how to setup user groups to deploy Office updates, see [Deploy Microsoft 365 Apps from a local source](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source).</span></span>
+-   <span data-ttu-id="a822e-117">Vurder å bruke forceappshutdown-innstillingen i tilfelle Office-oppdateringer ikke blir brukt på noen få brukere på grunn av åpne Office-apper.</span><span class="sxs-lookup"><span data-stu-id="a822e-117">Consider using the ForceAppShutdown setting in case Office updates are not getting applied to a few users because of open Office apps.</span></span> <span data-ttu-id="a822e-118">Hvis du vil ha mer informasjon, kan du se [egenskapen FORCEAPPSHUTDOWN (del av egenskapselementet).](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element)</span><span class="sxs-lookup"><span data-stu-id="a822e-118">For more info, see the [FORCEAPPSHUTDOWN property (part of Property element)](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element).</span></span> 
+
+<span data-ttu-id="a822e-119">**Se også**</span><span class="sxs-lookup"><span data-stu-id="a822e-119">**See also**</span></span>
+
+<span data-ttu-id="a822e-120">[Oversikt over oppdateringsprosessen for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="a822e-120">[Overview of the update process for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span></span>  
+<span data-ttu-id="a822e-121">[Frigi informasjon for oppdateringer av Microsoft 365 Apps](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span><span class="sxs-lookup"><span data-stu-id="a822e-121">[Release information for updates to Microsoft 365 Apps](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span></span>  
+<span data-ttu-id="a822e-122">[Behandle oppdateringer for Microsoft 365-apper med Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span><span class="sxs-lookup"><span data-stu-id="a822e-122">[Manage updates to Microsoft 365 Apps with Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span></span>  
