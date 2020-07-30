@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508817"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522852"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Øke størrelsen på arkivpostboks
+
+
+Hvis du vil at vi skal kjøre automatiserte kontroller for innstillingene nevnt nedenfor, velger du tilbakeknappen < - øverst på denne siden, og deretter skriver du inn e-postadressen til brukeren som trenger deres arkivpostboksstørrelse økt.
 
 Microsoft 365 [begrenser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) størrelsen på arkivpostbokser basert på lisensen som er tilordnet brukerkontoen. Når arkivpostboksen når 90 % av den tillatte størrelsen, mottar brukeren et e-postvarsel. Når en arkivpostboks når størrelsesgrensen, kan ikke brukeren flytte flere elementer til arkivpostboksen. Microsoft 365 øker ikke størrelsen på en arkivpostboks når størrelsesgrensen er nådd. I stedet kan brukere utføre følgende handlinger for å frigjøre plass i arkivpostboksen:
 
