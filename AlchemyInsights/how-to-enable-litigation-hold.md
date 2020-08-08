@@ -1,5 +1,5 @@
 ---
-title: 976-hvordan-å-aktivere-rettssaker-hold
+title: 976 – How-to-Enable-Hold i rett tvist
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495822"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596756"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Plassere en postboks på lovlig hold
+# <a name="place-a-mailbox-on-legal-hold"></a>Plassere en post boks på den lovlige sperringen
 
-- Hvis du vil plassere en postboks på prosedyresperre eller på stedet, kreves en Exchange Online Plan 2-lisens [Exchange Online Plan 2-lisens.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Hvis en postboks er tilordnet en Plan 1-lisens, kan du tilordne en separat Exchange Online Arkivering-tilleggslisens [Exchange Online arkiveringstilleggslisens](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Hvis du vil plassere en post boks på en rettslig sperre eller i en lokal sperring, kreves det en lisens for lisens for Exchange Online-abonnement [2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis en post boks er tilordnet en plan 1-lisens, kan du tilordne en egen lisens for tilleggs overførings [-](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)og lagrings lisens for Exchange Online.
 
-- Hvis du vil aktivere prosedyresperre for én enkelt bruker, [følger du denne fremgangsmåten](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Når Prosedyresperre er aktivert, beholdes alt innhold i postboksen.
+- [Følg Fremgangs måten](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)nedenfor for å aktivere en rettslig sperre for én enkelt bruker. Når rettslig sperre er aktivert, beholdes alt innhold i post boksen.
 
-- Hvis du vil beholde innhold i alle postbokser i organisasjonen, kan du bruke en [oppbevaringspolicy for hele organisasjonen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Vær oppmerksom på at for oppbevaringspolicyer for hele organisasjonen tilordnes nye brukere automatisk til policyen.
+- Hvis du vil beholde innhold i alle post boksene i organisasjonen, eller hvis du vil opprette andre typer oppbevaring, kan du bruke en oppbevarings policy eller etiketter. Legg merke til at for oppbevarings policyer for hele organisasjonen tilordnes nye brukere automatisk til policyen. Hvis du vil ha mer informasjon, kan du se [lære om oppbevarings policyer og oppbevarings etiketter](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
