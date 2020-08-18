@@ -1,7 +1,7 @@
 ---
-title: Sharepoint Online PowerShell
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint Online PowerShell
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764270"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786898"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
 
-Arbeide med PowerShell eller skript i Sharepoint Online? Gå til linkene nedenfor for mer informasjon.
-- [Komme i gang med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Koble til SPO PowerShell med multifaktorautentisering (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) inneholder et bibliotek med PowerShell-kommandoer som lar deg utføre komplekse administrasjonshandlinger mot SPO.
+Arbeider du med PowerShell eller skript i SharePoint Online? Gå til koblingene nedenfor for mer informasjon.
+- [Komme i gang med administrasjons konsoll for SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Koble deg til SPO PowerShell med godkjenning med mer enn fakultet (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint-mønstre og-rutiner (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) inneholder et bibliotek med PowerShell-kommandoer som gjør at du kan utføre komplekse administrasjons handlinger mot SPO.
 
 > [!NOTE]
-> - Hvis du har problemer med å koble til SPO management shell, må du kontrollere at du har oppdatert til den nyeste versjonen og prøve å [importere modulen på nytt](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) ved hjelp av *"Import-Module Microsoft.Online.SharePoint.PowerShell".*
-> - Hvis du prøver å kjøre objektmodellskript på klientsiden, må du ha [SDK-en for Sharepoint Online-klientkomponenter](https://www.microsoft.com/download/details.aspx?id=42038) installert på den lokale maskinen.
-> - Hvis du har problemer med å kjøre skript fra PowerShell, kan det være lurt å vurdere å kjøre PowerShell som administrator og endre [kjøringspolicyen](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - Hvis du har problemer med å koble deg til SPO Management Shell, må du sørge for at du har oppdatert til den nyeste versjonen og prøver å [importere modulen på nytt](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) ved hjelp av *«Importer-modul Microsoft. online. SharePoint. PowerShell».*
+> - Hvis du prøver å kjøre objekt modell skript for klient side, må du ha [SDK for SharePoint Online-klienten](https://www.microsoft.com/download/details.aspx?id=42038) installert på den lokale maskinen.
+> - Hvis du har problemer med å kjøre skript fra PowerShell, vil du kanskje vurdere å kjøre PowerShell som administrator og endre [Kjørings policyen](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

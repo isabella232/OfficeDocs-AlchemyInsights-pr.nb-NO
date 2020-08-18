@@ -1,7 +1,7 @@
 ---
-title: Prosjekt Online ofte forespurtemner
-ms.author: v-todmc
-author: todmccoy
+title: Vanlige hjelpeemner om Project online
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c69725e296c9142c4c9034800f647df69873394f
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768050"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787474"
 ---
-# <a name="project-online-frequently-requested-topics"></a>Prosjekt Online ofte forespurtemner
+# <a name="project-online-frequently-requested-topics"></a>Vanlige hjelpeemner om Project online
 
-Her er noen ofte etterspurte emner med Project:
+Her er noen ofte forespurte emner med Project:
 
-Her er ofte forespurte emner for Project:
+Her er noen vanlige emner for Project:
 1.  Komme i gang: 
     -   [Komme i gang med Project Online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [Dokumentasjon for project Online-administrator](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Administrator dokumentasjon for Project online](https://docs.microsoft.com/projectonline/project-online) 
     -   [Project Online: programvarebegrensninger](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Legge til personer, grupper og ressurser, og deretter dele Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [Tune Project Web App (PWA) ytelse i Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Koble til [Project Online Desktop-klienten](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+2.  [Legge til personer, grupper og ressurser, og deretter dele Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [Justere ytelsen for Project Web App (PWA) i Project online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Koble til med [Project online skrive bords klienten](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
 5.  [Installere og bruke Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

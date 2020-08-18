@@ -1,7 +1,7 @@
 ---
-title: Rapport om fil- og mappedeling i et SharePoint-område
-ms.author: v-todmc
-author: todmccoy
+title: Rapportere om fil-og mappe deling på SharePoint-nettsteder
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693171"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787222"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Rapport om fil- og mappedeling i et SharePoint-område
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Rapportere om fil-og mappe deling på SharePoint-nettsteder
 
-Du kan opprette en CSV-fil som beskriver hver unike fil, bruker, tillatelse og kobling på et gitt SharePoint-område eller OneDrive-bibliotek. Dette kan hjelpe deg med å forstå hvordan deling brukes og om filer eller mapper deles med gjester.
+Du kan opprette en CSV-fil som beskriver alle unike filer, brukere, tillatelser og koblinger på et gitt SharePoint-område eller OneDrive-bibliotek. Dette kan hjelpe deg med å forstå hvordan deling brukes, og om eventuelle filer eller mapper deles med gjester.
 
-Hvis du vil ha mer informasjon, [kan du rapportere om fil- og mappedeling på et SharePoint-område](https://docs.microsoft.com/sharepoint/sharing-reports).
+Hvis du vil ha mer informasjon, kan du [rapportere om fil-og mappe deling på et SharePoint-område](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Denne funksjonen er for øyeblikket distribuert til First Release-leiere og vil gradvis rulle ut til alle produksjonsleietakere.
+> Denne funksjonen er for øyeblikket distribuert for å frigi tenanter og vil gradvis rulles ut til alle produksjons leietakere.
