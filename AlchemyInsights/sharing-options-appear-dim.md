@@ -1,7 +1,7 @@
 ---
-title: Delingsalternativer vises dim eller ikke tilgjengelig
-ms.author: v-todmc
-author: todmccoy
+title: Delings alternativer vises nedtonet eller ikke tilgjengelig
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: e4aebd8ffaa1169cb27dcf551f72ab7bc7b1210d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758593"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787402"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="cd3a0-102">Delingsalternativer vises dim eller er ikke tilgjengelige</span><span class="sxs-lookup"><span data-stu-id="cd3a0-102">Sharing Options Appear Dim or are Not Available</span></span>
+# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="955f3-102">Delings alternativer vises nedtonet eller er ikke tilgjengelige</span><span class="sxs-lookup"><span data-stu-id="955f3-102">Sharing Options Appear Dim or are Not Available</span></span>
 
-<span data-ttu-id="cd3a0-103">Hvis noen delingsalternativer eller ikke er tilgjengelige når du prøver å dele fra SharePoint Online eller OneDrive, kan du se [Delingsalternativer er nedtonet når du deler fra SharePoint Online eller OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="cd3a0-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="955f3-103">Hvis noen Delings alternativer eller ikke er tilgjengelige når du prøver å dele fra SharePoint Online eller OneDrive, kan du se [Delings alternativer nedtonet når du deler fra SharePoint Online eller onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="955f3-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
