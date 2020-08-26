@@ -1,5 +1,5 @@
 ---
-title: Pensjonering av eldre eDiscovery-verktøy
+title: Pensjon av eldre eDiscovery-verktøy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650577"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902629"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensjonering av eldre eDiscovery-verktøy
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensjon av eldre eDiscovery-verktøy
 
-Som et resultat av den nye og forbedrede eDiscovery-funksjonaliteten i Microsoft 365 Compliance center, vil følgende eldre eDiscovery-verktøy og -kommandoer bli pensjonert i de kommende månedene:
+Som et resultat av den nye og forbedrede eDiscovery-funksjonen i Samsvars senteret for Microsoft 365, vil følgende eldre eDiscovery-verktøy og-cmdleter bli trukket tilbake i de kommende månedene:
 
-- [Lokale eDiscovery-](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) og [In-Place-sperringer i](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) administrasjonssenteret for Exchange.
+- [Lokal eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) og [Lokal sperring](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) i administrasjons senteret for Exchange.
 
-- Exchange Online PowerShell-cmdleter som støtter innebygde eDiscovery- og In-Place-sperrer. (Disse cmdleter er kollektivt identifisert som *-MailboxSearch cmdlets.) Dette inkluderer følgende cmdleter:
+- Exchange Online PowerShell-cmdleter som støtter lokal eDiscovery og lokal sperring. (Disse cmdletene er samlet identifisert som *-MailboxSearch-cmdleter.) Dette inkluderer følgende cmdleter:
 
-    - [Nytt postbokssøk](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Start-PostboksSøk](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stopp-postboksSøk](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Sett postbokssøk](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stopp-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Cmdleten Søk-postboks](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) i Exchange Online PowerShell.
-- Følgende operasjoner i Exchange Web Services API:
-    - [Få SøkbarePostbokser](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxes (SettHoldOnMailboxes)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes (andre betydninger)](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Cmdleten for [søke post boksen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) i Exchange Online PowerShell.
+- Følgende operasjoner i API-en for Exchange Web Services:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Avansert eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Avansert eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Tidslinje for pensjonering**:
-- 1. april 2020: Du kan ikke opprette nye søk og sperrer, men du kan fortsatt kjøre, redigere og slette eksisterende søk på egen risiko. Microsoft Support støtter ikke lenger eDiscovery-& holder i EAC.
-
-- 1. juli 2020: Funksjonen på stedet eDiscovery & Holder i EAC vil bli plassert i skrivebeskyttet modus. Dette betyr at du bare kan fjerne eksisterende søk og sperrer.
+**Tids linje for pensjon**:
+- **1. juli 2020** Du kan ikke lenger opprette nye søk og sperringer, men du kan kjøre, redigere og slette eksisterende søk på egen risiko. Microsoft kunde støtte støtter ikke lenger lokal eDiscovery-& sperringer i EAC.
+    
+- **1. oktober 2020** Lokal eDiscovery-& inneholder funksjonalitet i en skrivebeskyttet modus, slik at du bare kan fjerne eksisterende søk og sperringer.
 
 **Hvis du vil ha mer informasjon, kan du se**:
 
- - [Overføre eldre eDiscovery-søk og holder til Microsoft 365-samsvarssenteret](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pensjonering av eldre eDiscovery-verktøy](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Vanlige spørsmål om eDiscovery og på stedet](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Overføre eldre eDiscovery-søk og sperringer til samsvars senteret for Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Pensjon av eldre eDiscovery-verktøy](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Vanlige spørsmål om lokal eDiscovery og lokal sperring](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
