@@ -1,5 +1,5 @@
 ---
-title: Lag skift
+title: Team SKIFT
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737461"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289992"
 ---
-# <a name="using-teams-shifts"></a>Bruke teams-skift
+# <a name="using-teams-shifts"></a>Bruke team SKIFT
 
-Hvis du vil vite mer om Skift for Teams, inkludert hvordan du overfører fra Microsoft Staffhub, kan du se [Skift for teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Hvis du vil ha informasjon om hvordan du administrerer Skift-appen, inkludert hvordan du konfigurerer SKIFT, aktiverer Skift for brukere og administrerer Skift-appen, kan du se:
+ 
+- [Behandle Skift-appen for organisasjonen i Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Aktiver eller deaktiver Skift for bestemte brukere i organisasjonen](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Desember 2019, Microsoft Staffhub, vil bli [pensjonert.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 
+Hvis du vil lære mer om Skift for team, inkludert behandling av tids plan for SKIFT, kan du se [SKIFT for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+
+**Fra og med 30. juni 2020**har Microsoft Staffhub blitt trukket tilbake. Hvis du vil ha mer informasjon, kan du se [Microsoft StaffHub har blitt trukket tilbake](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 
