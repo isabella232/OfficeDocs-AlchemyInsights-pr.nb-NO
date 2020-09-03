@@ -1,5 +1,5 @@
 ---
-title: Får ikke tilgang til fellesmapper
+title: Får ikke tilgang til felles mapper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891758"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341412"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke koble til fellesmapper
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke koble til felles mapper
 
-Hvis fellesmappetilgang ikke fungerer for noen brukere, kan du prøve følgende:
+Hvis tilgang til felles mapper ikke fungerer for enkelte brukere, kan du prøve følgende:
 
-Koble til EXO PowerShell og konfigurer parameteren DefaultPublicFolderMailbox på problembrukerkontoen slik at den samsvarer med parameteren på en fungerende brukerkonto.
+Koble deg til EXO PowerShell, og Konfigurer DefaultPublicFolderMailbox-parameteren på problem bruker kontoen for å samsvare med parameteren på en arbeids bruker konto.
 
-Eksempel:
+Eksempel
 
-Get-Postboks WorkingUser | ft DefaultPublicFolderMailbox, EffektivFellesMappeKasse
+Hent post boks WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-postboks ProblemUser -DefaultPublicFolderMailbox-verdien \<fra forrige kommando>
+Set-post boks ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
-Vent minst en time på at endringen trer i kraft.
+Vent minst én time før endringen trer i kraft.
 
-Hvis problemet forblir, følger du [denne fremgangsmåten](https://aka.ms/pfcte) for å feilsøke tilgangsproblemer for fellesmapper ved hjelp av Outlook.
+Hvis problemet fortsetter, kan du følge [denne Fremgangs måten](https://aka.ms/pfcte) for å feilsøke problemer med tilgang til felles mapper ved hjelp av Outlook.
+ 
+**Slik styrer du hvilke brukere som har tilgang til felles mapper ved hjelp av Outlook**:
+
+1.  Bruke Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true eller $FALSE  
+      
+    $true: gi brukere tilgang til felles mapper i Outlook  
+      
+    $false: hindre bruker tilgang til felles mapper i Outlook. Dette er standardverdien.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Obs!** Denne Fremgangs måten kan bare kontrollere tilkoblinger med skrive bords versjonen av Outlook for Windows-klienter. En bruker kan fortsette å få tilgang til felles mapper ved hjelp av OWA eller Outlook for Mac.
+ 
+Hvis du vil ha mer informasjon, kan du se [kunngjørings støtte for kontrollerte tilkoblinger til felles mapper i Outlook](https://aka.ms/controlpf).
