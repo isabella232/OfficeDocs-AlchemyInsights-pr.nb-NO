@@ -1,5 +1,5 @@
 ---
-title: Beskyttelse mot Microsoft-trusler
+title: Microsoft Threat Protection
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277935"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406443"
 ---
-# <a name="microsoft-threat-protection"></a>Beskyttelse mot Microsoft-trusler
+# <a name="microsoft-threat-protection"></a>Microsoft Threat Protection
 
 - [MTP-oversikt](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Forutsetninger](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Lisenskrav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Forhånds kravene forbindelse](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Lisens krav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
 - [Slik aktiverer du MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [MTP-feilsøking](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Slik kontrollerer du lisensiering: du må være tilordnet enten Billing admin eller global Reader rolle i Azure AD for å se din lisens. Gå til [administrasjonssenteret](https://admin.microsoft.com/) , og naviger til **fakturerings** > **lisenser** for å vise eksisterende lisenser.
+Slik kontrollerer du lisensiering: du må tilordnes enten fakturerings administrator eller rollen som global leser i Azure AD for å vise lisensen din. Gå til [administrasjons senteret](https://admin.microsoft.com/) , og naviger til **fakturerings**  >  **lisenser** for å vise de eksisterende lisensene.
