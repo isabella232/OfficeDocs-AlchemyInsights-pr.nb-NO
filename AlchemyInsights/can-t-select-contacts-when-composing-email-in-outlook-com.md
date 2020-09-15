@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711676"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683987"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>Kan ikke velge kontakter når du skriver e-post
 
-Når du skriver en ny e-post, ser noen kunder ikke listen over kontakter når de klikker på **Til-** eller **Kopi-knappene.** Hvis du vil velge en kontakt, begynner du å skrive i **feltene Til** eller **Kopi,** og de relaterte kontaktene dine vises.
+Når du skriver en ny e-post, ser ikke enkelte kunder listen over kontakter når de klikker **til** -eller **kopi** -knappene. Hvis du vil velge en kontakt, begynner du å skrive i **til** -eller **kopi** -feltene, og de relaterte kontaktene dine blir vist.

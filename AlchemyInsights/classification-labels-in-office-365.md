@@ -1,21 +1,22 @@
 ---
-title: Klassifisering etiketter
+title: Klassifiserings etiketter
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 3d4ebee3a7aca37b3de14c8f4acd51f33881b55f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b81f2915a3b8674dcbe30b735fc10858956ba94e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505948"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681485"
 ---
-# <a name="classification-labels"></a>Klassifisering etiketter
+# <a name="classification-labels"></a>Klassifiserings etiketter
 
-Med følsomhets- eller klassifiseringsetiketter kan du klassifisere og bidra til å beskytte det sensitive innholdet ditt, samtidig som du sørger for at dine ansattes produktivitet og evne til å samarbeide ikke hindres.
+Med følsomhet eller klassifiserings etiketter kan du klassifisere og bidra til å beskytte sensitivt innhold, samtidig som du sikrer at brukernes produktivitet og mulighet til å samarbeide ikke blir forstyrret.
 
-Hvis du vil ha mer informasjon, kan du se følgende [artikkel.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Hvis du vil ha mer informasjon, kan du se gjennom følgende [artikkel](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).

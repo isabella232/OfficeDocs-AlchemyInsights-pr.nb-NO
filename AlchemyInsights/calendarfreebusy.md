@@ -1,21 +1,22 @@
 ---
-title: 400 Kalender - FreeBusy
+title: 400 kalender – FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711856"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684059"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemer med å se informasjon om ledige og opptatte tidspunkt i kalenderen
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemer som ser informasjon om ledige og opptatte tidspunkt i kalenderen
 
-Hvis du ikke ser informasjon om ledige og opptatte tidspunkt i kalenderen i andre Outlook-kalendere, eller hvis andre ikke kan se informasjon om ledige og opptatte tidspunkt i kalenderen, kan du bruke [Microsoft Si-assistent for kundestøtte og gjenoppretting for Microsoft 365](https://diagnostics.office.com/).
+Hvis du ikke kan se informasjon om ledige og opptatte tidspunkt i kalenderen i andre Outlook-kalendere, eller hvis andre ikke kan se informasjon om ledige og opptatte tidspunkt i kalenderen, bruker du [Microsoft-assistenten for støtte og gjenoppretting for microsoft 365](https://diagnostics.office.com/).

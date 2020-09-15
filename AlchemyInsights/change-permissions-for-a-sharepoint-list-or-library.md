@@ -1,31 +1,32 @@
 ---
-title: Endre tillatelser for en SharePoint-liste eller et SharePoint-bibliotek
+title: Endre tillatelser for en SharePoint-liste eller et bibliotek
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681825"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Endre tillatelser for en SharePoint-liste eller et SharePoint-bibliotek
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Endre tillatelser for en SharePoint-liste eller et bibliotek
 
-1. Gå til SharePoint-området i en nettleser, og åpne listen eller biblioteket.
+1. Gå til SharePoint-nettstedet i en nett leser og åpne listen eller biblioteket.
     
-2. Klikk Innstillinger-ikonet øverst til høyre, og klikk deretter **Bibliotekinnstillinger** eller **Listeinnstillinger**. (Hvis du ikke ser kommandoen, velger du **kategorien Bibliotek** eller **Liste** for å åpne båndet, og deretter klikker du **Bibliotekinnstillinger** eller **Listeinnstillinger** på båndet.) 
+2. Klikk Innstillinger-ikonet øverst til høyre, og klikk deretter **bibliotek innstillinger** eller **liste innstillinger**. (Hvis du ikke ser kommandoen, velger du **bibliotek** -eller **liste** -fanen for å åpne båndet, og deretter klikker du **bibliotek innstillinger** eller **liste innstillinger** på båndet.) 
     
-3. Klikk **Tillatelser for denne listen** eller Tillatelser for dette **dokumentbiblioteket**under **Tillatelser og behandling**.
+3. Klikk **tillatelser for denne listen** eller **tillatelser for dette dokument biblioteket**under **tillatelser og behandling**.
     
-Vær oppmerksom på at SharePoint-lister og -biblioteker som standard arver tillatelsene sine fra området. Hvis du bryter tillatelsesarv, kopieres gjeldende tillatelser til listen eller biblioteket og alt i den. Hvis tillatelsene for området senere endres, brukes ikke endringene på listen eller biblioteket og elementene i det.
+Vær oppmerksom på at SharePoint-lister og-biblioteker arver tillatelsene fra området som standard. Hvis du bryter arving av tillatelser, kopieres gjeldende tillatelser til listen eller biblioteket og alt i den. Hvis tillatelsene for nettstedet senere endres, gjelder ikke endringene for listen eller biblioteket og elementene i den.
   
 

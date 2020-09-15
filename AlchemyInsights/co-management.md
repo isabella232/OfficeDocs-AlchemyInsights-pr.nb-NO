@@ -1,38 +1,39 @@
 ---
-title: Co-ledelse
+title: Samtidig administrasjon
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770900"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681269"
 ---
-# <a name="co-management"></a>Co-ledelse
+# <a name="co-management"></a>Samtidig administrasjon
 
-**Forutsetninger for overføring fra Config Manager Hybrid til Intune**
+**Forutsetninger for overføring fra konfigurasjons behandling hybrid til Intune**
 
 - Se gjennom [denne artikkelen](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Legg til en Intune-lisens til brukerne .](https://docs.microsoft.com/intune/licenses-assign)
-- Bruk [Edge-nettleseren](https://www.microsoft.com/windows/microsoft-edge) når du konfigurerer samtidig behandling.
+- [Legg til en Intune-lisens for brukerne](https://docs.microsoft.com/intune/licenses-assign).
+- Bruk [kant nett leseren](https://www.microsoft.com/windows/microsoft-edge) når du konfigurerer samtidig administrasjon.
 
-**Slik installerer jeg Config Manager-klienten på Intune-administrerte enheter**
+**Slik installerer du config Manager-klienten på Intune-administrerte enheter**
 
-Se [Justere MDM-administrerte Windows-enheter](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Se [INTUNE MDM-administrerte Windows-enheter](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
 **Hva om jeg bare vil endre MDM-myndighet?**
 
-MDM Authority kan endres uten å åpne en støttesak. Les gjennom følgende dokumentasjon for å hjelpe deg med å endre MDM-myndigheten:
+MDM-myndighet kan endres uten å åpne en støtte sak. Les gjennom følgende dokumentasjon for å få hjelp til å endre MDM-myndighet:
 
-- [Endre MDM Authority fra Configuration Manager til Intune frittstående](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Endre MDM-myndighet fra Intune frittstående til Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Endre MDM-myndighet fra Configuration Manager til Intune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Endre MDM-autoritet fra Intune standalone til Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

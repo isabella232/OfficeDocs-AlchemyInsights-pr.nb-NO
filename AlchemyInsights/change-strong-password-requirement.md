@@ -1,30 +1,31 @@
 ---
-title: Endre sterkt passordkrav
+title: Endre krav til sterkt passord
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: a054735a0c139c90d76098297bb9984d37464d3b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681881"
 ---
-# <a name="change-strong-password-requirement"></a>Endre sterkt passordkrav
+# <a name="change-strong-password-requirement"></a>Endre krav til sterkt passord
 
 Microsoft krever sterke passord som standard. 
 
 Ved hjelp av PowerShell kan du deaktivere sterke passord for bestemte brukere med denne kommandoen:<br>
-*Set-MsolUser – UserPrincipalName <UserPrincipalName> –StrongPasswordRequired $false*
+*Set-MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
 
-- [Mer informasjon om passordpolicy](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Mer informasjon om passord policy](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Slik kobler du til Microsoft 365 med PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
 - [Mer informasjon om PowerShell MsolUser-kommandoer](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)

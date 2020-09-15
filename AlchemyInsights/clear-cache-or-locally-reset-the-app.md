@@ -1,25 +1,26 @@
 ---
-title: Tømme hurtigbufferen eller tilbakestille appen lokalt
+title: Fjerne bufferen eller lokalt tilbakestille appen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: ac04f1397417c43cfca893009c3cdc91e819d434
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265264"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681233"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Tømme hurtigbufferen eller tilbakestille appen lokalt
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Fjerne bufferen eller lokalt tilbakestille appen
 
-Hvis du ser ufullstendige eller uriktige data, lukker du appen og åpner appen på nytt.  Hvis det ikke løser problemet, tilbakestiller du kontoen på enheten: 
+Hvis du ser ufullstendige eller uriktige data, kan du lukke og åpne appen på nytt.  Hvis dette ikke løser problemet, kan du tilbakestille kontoen på enheten: 
 
-**Åpne vår app > Innstillinger > Velg e-postkontoen > Tilbakestill konto**
+**Åpne appen vår > innstillinger > Velg e-postkontoen > Tilbakestill konto**
