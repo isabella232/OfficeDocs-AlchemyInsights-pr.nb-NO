@@ -5,36 +5,37 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713727"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702912"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Overvåke betinget tilgang for Exchange
 
-Brukere som er målrettet med betinget tilgang, mottar en e-post om varsler hvis de ikke oppfyller organisasjonens tilgangskrav. For å løse problemet anbefaler vi én eller flere av følgende løsninger:
+Brukere som er rettet mot betinget tilgang, mottar en e-postvarsling hvis de ikke oppfyller organisasjonens tilgangs krav. Vi anbefaler en eller flere av følgende løsninger for å løse:
   
-- Hvis enheten antas å være registrert, anbefaler du brukeren å gå til Firmaportal-appen og kontrollerer at den vises i firmaportalen. Hvis den ikke gjør det, bør brukeren registrere enheten.
+- Hvis enheten er Presumed for å bli registrert, ber du brukeren om å gå til Firmaportal-appen og kontrollere at den vises i firma portalen. Hvis den ikke gjør det, skal brukeren registrere enheten.
     
-- Gå til **Intune \> Device-samsvar i Azure-portalen.** Klikk **Enhetssamsvar**under **Skjerm.** Vis rapporten om enhetssamsvar for å kontrollere at brukerens enhet er merket som kompatibel. 
+- I Azure-portalen går du **til \> enhets samsvar for Intune**. Under **skjerm** Klikk **enhets samsvar**. Vis samsvars rapporten for enheten for å bekrefte at brukerens enhet er merket som kompatibel. 
     
-- Gå til **Intune \> Device-samsvar i Azure-portalen.** Klikk **Policyer**under **Behandle**. Kontroller at en profil er tilordnet brukerens enhet i listen over samsvarspolicyer. Hvis ingen profil er tilordnet, kan ikke Intune bekrefte enhetens samsvarsstatus. 
+- I Azure-portalen går du **til \> enhets samsvar for Intune**. Klikk **policyer**under **Behandle**. Kontroller at en profil er tilordnet til brukerens enhet i listen over samsvars policyer. Hvis ingen profil er tilordnet, vil ikke Intune kunne bekrefte enhetens samsvars status. 
     
-- Rediger brukerens betinget tilgangstilordning.
+- Rediger brukerens tilordningen for betinget tilgang.
     
-1. Gå til **Intune Betingede tilgangspolicyer \> i Azure-portalen \> **
+1. Gå til **Intune- \> \> policyer for betinget tilgang** i Azure-portalen
     
 2. Velg en policy fra listen
     
 3. Klikk **brukere og grupper**
     
-4. Hvis du vil målrette mot en bestemt policy hos noen, legger du dem til i **Inkluder-listen.** Hvis du vil sikre at en person utelates fra policyen, legger du dem til i **Utelat-listen.** 
+4. Hvis du vil angi en bestemt policy for noen, kan du legge dem til i **inkluderings** listen. Hvis du vil sikre at en person utelates fra policyen, legger du dem til i **ekskluderings** listen. 
     
-Les mer: [Slik overvåker du enheter med betinget tilgang](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Les mer: [Slik overvåker du enheter for betinget tilgang](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
