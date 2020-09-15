@@ -1,41 +1,42 @@
 ---
-title: Feilsøke access avviste meldinger
+title: Feilsøke meldinger om ingen tilgang
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691692"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Feilsøke access avviste meldinger
+# <a name="troubleshoot-access-denied-messages"></a>Feilsøke meldinger om ingen tilgang
 
-Hvis du mottar en melding om tilgang når du prøver å bla gjennom et Sharepoint Online-nettsted, kan du se artiklene nedenfor.
+Hvis du mottar en melding om at ingen tilgang når du prøver å bla gjennom et SharePoint Online-område, kan du se artiklene nedenfor.
 
 **Legge til og lisensiere brukeren**
 
-Kontroller at du [tilordner lisenser til brukere i Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Sikre at du [tilordner lisenser til brukere i Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Tilordne tillatelser**
 
-Hvis brukeren er tilordnet en Sharepoint-lisens og fortsatt mottar en melding om tilgang, må du kontrollere at de har [tilordnet riktig tillatelsesnivå](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Hvis brukeren er tilordnet en SharePoint-lisens og likevel mottar meldingen ingen tilgang, må du forsikre deg om at de har det [riktige tilgangs nivået](https://docs.microsoft.com/sharepoint/understanding-permission-levels)som er tilordnet.
 
-**Vurder å bruke funksjonen for tilgangsforespørsel**
+**Vurder å bruke funksjonen for tilgangs forespørsel**
 
-[Tilgangsforespørselsfunksjonen](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) gjør det mulig for folk å be om tilgang til innhold som de for øyeblikket ikke har tillatelse til å se. 
+Med [tilgangs forespørsels](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funksjonen kan personer be om tilgang til innhold som de ikke har tillatelse til å se. 
 
-**Tillat egendefinert skript kan føre til problemer med tilgang nektet**
+**Tillat egen definert skript kan føre til problemer som nektes tilgang**
 
-Det er visse scenarier der funksjonen "Tillat egendefinert skript" kan være å presentere en tilgang nektet. For en liste over berørte funksjoner, sikkerhetshensyn og muligheten til å deaktivere funksjonen. Vennligst besøk , [Tillat eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Det finnes bestemte situasjoner der funksjonen Tillat egen definerte skript kanskje presenterer en tilgang nektet. For en liste over funksjoner som påvirkes, sikkerhets hensyn og muligheten til å deaktivere funksjonen. Gå til, [Tillat eller hindre egen definert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Merk: Hvis et OneDrive- eller SharePoint-område ikke er tilgjengelig for flere brukere som tidligere hadde tilgang, kan det være et midlertidig tjenesteproblem. [Kontroller instrumentbordet for tjenestetilstand](https://portal.office.com/adminportal/home#/servicehealth).
+Obs! hvis et OneDrive-eller SharePoint-nettsted ikke er tilgjengelig for flere brukere som tidligere hadde tilgang, kan det være et midlertidig tjeneste problem. [Kontroller instrument bordet for tjeneste tilstand](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
