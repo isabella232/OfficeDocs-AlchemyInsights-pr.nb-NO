@@ -1,24 +1,25 @@
 ---
-title: 8000036 Endre profilbilde/navn i Outlook.com
+title: 8000036 endre profile pic/navn i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719385"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662694"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Endre profilbildet eller navnet mitt i Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Endre profil bildet mitt eller navnet ditt i Outlook.com
 
-1. Gå til [Informasjonen for Microsoft-kontoen](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Velg **Rediger navn** eller Endre **bilde**.
+1. Gå til [informasjon om Microsoft-kontoen din](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Velg **Rediger navn** eller **Endre bilde**.
 
-Vennligst vent opptil 24 timer for endringer i profilbildet eller navnet ditt for å tre i kraft.
+Tillat opptil 24 timer før endringene i profil bildet eller navnet trer i kraft.

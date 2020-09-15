@@ -1,26 +1,27 @@
 ---
-title: Bekreft domenet ditt med Namecheap
+title: Kontrollere domenet med namecheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721779"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689279"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Bekreft domenet ditt med Namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Kontrollere domenet med namecheap
 
-For å bekrefte domenet må du legge til en TXT-post i domeneregistratoren for å bekrefte at du eier domenet ditt. 
+Hvis du vil bekrefte domenet, må du legge til en TXT-post i domene registra ren for å bekrefte at du eier domenet. 
 
-Følg først [veiviseren Legg til domene](https://portal.office.com/adminportal/home#/Domains) ved å velge **Innstillinger** \> **domener**, og deretter **Legge til domene**.
+Først må du følge [vei viseren for å legge til domene](https://portal.office.com/adminportal/home#/Domains) ved å velge **Innstillinger** \> **Domains**og deretter **legge til domene**.
   
-Se [Opprette DNS-poster på Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for trinnvise instruksjoner.
+Se [opprette DNS-poster på namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for trinn vise instruksjoner.

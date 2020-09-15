@@ -1,29 +1,30 @@
 ---
-title: Arbeide med iOS VPP-programmer Regel-ID 1018
+title: Arbeide med iOS VPP-programmer regel-ID 1018
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719966"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688955"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Arbeide med iOS VPP-programmer
 
-Les [Slik administrerer du iOS-apper som er kjøpt gjennom et program for volumkjøp, med Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) for å lære om funksjoner, begrensninger og trinn for å gjøre bruk av Apples volumkjøpsprogram og støtte for det i Microsoft Intune.
+Les [hvordan du administrerer IOS-apper som er kjøpt via et volum kjøps program med Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) , til å lære om funksjoner, begrensninger og trinn for å bruke Apple Volume kjøps program og støtte for det i Microsoft Intune.
   
- **Vanlige problemer:** "Jeg tilordnet en iOS VPP-app til brukerne mine, men installasjonen mislyktes."
+ **Vanlige problemer:** «Jeg tilordnet en iOS-app til brukerne mine, men installasjonen mislyktes.»
   
-- Dette kan skje hvis ett enkelt VPP-token brukes på tvers av flere leverandører av administrasjon av mobilenheter. VPP-tokener fra Apple kan bare brukes med én leverandør. Hvis du brukte et VPP-token med flere leverandører, må du laste opp tokenet på nytt til Intune.
+- Dette kan skje hvis ett enkelt VPP-token brukes på tvers av flere administrasjons leverandører av mobil enheter. VPP-tokener fra Apple kan bare brukes med én leverandør. Hvis du har brukt et VPP-token med flere leverandører, må du laste opp tokenet på nytt til Intune.
 
-- Installasjonen kan også mislykkes hvis det totale antallet installasjoner overskrider antall lisenser. Hvis du vil vise en bruksrapport for lisensene dine, går du til siden Lisenser for **Intune-apper-appen.** \> **App licenses** Hvis du vil lære hvordan du tar tilbake lisenser i bruk, kan du se [denne artikkelen.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Installasjonen kan også mislykkes hvis det totale antallet installasjoner overskrider antall lisenser. Hvis du vil vise en bruks rapport for lisensene dine, kan du gå til siden Intune-lisenser for **Mobilapper** - \> **appene** . Hvis du vil lære hvordan du reviderer lisenser i bruk, kan du se [denne artikkelen.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

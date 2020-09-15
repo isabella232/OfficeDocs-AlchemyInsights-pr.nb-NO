@@ -1,11 +1,12 @@
 ---
-title: 1490-feilsøking-eDiscovery-feil
+title: 1490 – feil søking – eDiscovery-feil
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512563"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658959"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Feilsøke feil i innholdssøk
+# <a name="troubleshoot-content-search-errors"></a>Feilsøke innholds søke feil
 
-Har du problemer med innholdssøk eller feil når du eksporterer søkeresultater?
+Har du problemer med innholds søk, eller får feil når du eksporterer søke resultater?
 
-Mottar du for eksempel følgende når du kjører søk?
+Vil du for eksempel motta følgende når du kjører søk?
 
-- CS008- eller CS012-feil
+- CS008-eller CS012-feil
 
-- Feil med opptatt/tidsavbrudd for server
+- Feil med opptatt/tids avbrudd for server
 
-- Det oppstod en programfeil
+- Program feil oppstod
 
-Eller når du søker eller eksporterer resultater fra et stort antall postbokser (over 100 000 postbokser), får du eksportfeil?
+Eller når du søker etter eller eksporterer resultater fra et stort antall post bokser (over 100 000 post bokser), får du eksport feil?
 
-For slike feil prøver du søket etter innholdsplasseringene som mislyktes. Se [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for mer informasjon.
+For disse feil typene kan du prøve Søk på nytt for innholds plasseringer som har mislyktes. Se  [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) hvis du vil ha mer informasjon.

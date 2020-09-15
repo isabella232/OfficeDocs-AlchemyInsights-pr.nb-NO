@@ -1,32 +1,33 @@
 ---
-title: Åpen med Explorer fungerer ikke
+title: Åpne med Explorer fungerer ikke
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713043"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694465"
 ---
 # <a name="open-with-explorer-isnt-working"></a>Åpne med Explorer fungerer ikke
 
-Hvis **Åpne med Explorer** eller Vis i **Filutforsker** ikke fungerer, må du kontrollere at WebClient-tjenesten er satt til **Å kjøre** ved å følge trinnene nedenfor. Det kan for eksempel ta lang tid å åpne et SharePoint- eller OneDrive-bibliotek når tjenesten ikke kjører. 
+Hvis **Åpne med Utforsker** eller **Vis i fil Utforsker** ikke fungerer, kan du ikke sørge for at WebClient-tjenesten er satt til å **kjøre** ved å følge Fremgangs måten nedenfor. Det kan for eksempel gå lang tid å åpne et SharePoint-eller OneDrive-bibliotek når tjenesten ikke kjører. 
   
-1. Skriv inn kjør i Søkeboksen i Windows, velg Kjør skrivebord-appen, skriv inn services.msc, og velg deretter **Enter**.
+1. Skriv inn Kjør i Windows Search-boksen, velg Kjør skrive bords-appen, Skriv inn Services. msc, og velg deretter **Enter**.
     
-2. Bla ned til WebClient-tjenesten, og kontroller **Status-kolonnen.** Hvis WebClient-tjenestestatusen ikke **kjører**, dobbeltklikker du tjenesten, klikker **Start**, og deretter klikker du **OK**. Aktiver om nødvendig tjenesten ved å velge **manuell** eller **automatisk** i **Oppstartstype-boksen.** 
+2. Rull ned til WebClient-tjenesten, og kontroller **status** -kolonnen. Hvis tjeneste statusen WebClient ikke **kjører**, dobbelt klikker du tjenesten, klikker **Start**og deretter **OK**. Aktiver tjenesten, hvis nødvendig, ved å velge enten **manuell** eller **automatisk** i boksen **oppstarts type** . 
     
 > [!NOTE]
-> Hvis du vil feilsøke problemer med å åpne filutforsker, kan du se [Åpne i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Utforsk synkronisering som et bedre alternativ: [Synkroniser SharePoint-filer med den nye OneDrive-synkroniseringsklienten](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Hvis du vil feilsøke problemer med å åpne i fil Utforsker, kan du se [Åpne i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Utforsk synkronisering som et bedre alternativ: [synkronisere SharePoint-filer med den nye synkroniserings klienten for OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

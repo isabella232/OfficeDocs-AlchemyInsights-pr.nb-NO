@@ -1,51 +1,52 @@
 ---
-title: Rapporter for klassisk SharePoint-overvåkingslogg
+title: Klassiske rapporter for overvåkings Logg for SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509609"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662217"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Overvåkingslogger for SharePoint og OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Overvåkings logger for SharePoint og OneDrive
 
-## <a name="sharepoint-classic-audit-logs"></a>SharePoint klassiske overvåkingslogger
+## <a name="sharepoint-classic-audit-logs"></a>SharePoint-klassiske overvåkings logger
 
-SPO eldre revisjon ble overført til Unified Audit Log (UAL). Alle SPO eldre revisjonsrapporter vil nå bli drevet gjennom UAL, og de eldre revisjonssignalene er overført til UAL.
+SPO eldre overvåking ble overført til Unified Audit log (UAL). Alle SPO eldre overvåkings rapporter blir nå slått på via UAL, og de eldre overvåkings signalene har blitt overført til UAL.
 
-Viktige endringer:
+Taste endringer:
 
-* Trimming er IKKE tilgjengelig som en evne.
-* Å velge bestemte hendelser som skal revideres er IKKE tilgjengelig. Se [dette dokumentet](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) for en fullstendig liste over overvåkede hendelser som er tilgjengelige som standard.
-* Alternativet **Plassering** under **Tilpassede rapporter** er IKKE tilgjengelig.
-* Alternativet **Åpne eller laste ned dokumenter** hendelser er IKKE tilgjengelig.
+* Trimming er ikke tilgjengelig som en funksjon.
+* Det er ikke mulig å velge bestemte hendelser som skal overvåkes. Se [dette dokumentet](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) for en fullstendig liste over overvåkede hendelser som er tilgjengelige som standard.
+* **Plasserings** alternativet under **tilpassede rapporter** er ikke tilgjengelig.
+* Alternativet for **åpning eller nedlasting av dokument** hendelser er ikke tilgjengelig.
 
-[Konfigurere overvåkingsinnstillinger for en områdesamling](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+[Konfigurere overvåkings innstillinger for en nettsteds samling](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint og OneDrive moderne enhetlig overvåkingslogger fra samsvar
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Overvåkede overvåkings logger for SharePoint og OneDrive fra samsvar
 
-* [Aktivere/deaktivere logging av enhetlig revisjon](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
+* [Aktivere/deaktivere Unified revisjons logging](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-Ingen ekstra konfigurasjon er nødvendig i SharePoint eller OneDrive.
+Ingen ekstra konfigurasjon kreves i SharePoint eller OneDrive.
 
-Bruk søk etter overvåkingslogging til å kontrollere aktiviteten til filen(e), mappe(er), bruker(er), tillatelser:
+Bruk overvåkings logging søk til å kontrollere aktivitet i filen (e), mappe (r), bruker (e), tillatelser:
 
-* [Fil- og sideaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-* [Mappeaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Delings- og tilgangsforespørselsaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Synkroniseringsaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Aktiviteter for administrasjon av nettsteder](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Fil-og side aktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Mappe aktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Aktiviteter for Delings-og tilgangs forespørsler](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Synkroniserings aktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Aktiviteter for nettsteds administrasjon](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Hvis du vil ha mer informasjon om hvordan du henter disse hendelsene, kan du se [Søke i overvåkingsloggen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Hvis du vil ha mer informasjon om hvordan du henter disse hendelsene, kan du se [søke i overvåkings loggen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
