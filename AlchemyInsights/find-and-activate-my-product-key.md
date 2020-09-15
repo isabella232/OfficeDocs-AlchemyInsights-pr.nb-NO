@@ -1,43 +1,44 @@
 ---
-title: Finn og aktiver produktnøkkelen min
+title: Finne og aktivere produkt nøkkelen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062473"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708584"
 ---
-# <a name="find-and-activate-my-product-key"></a>Finn og aktiver produktnøkkelen min
+# <a name="find-and-activate-my-product-key"></a>Finne og aktivere produkt nøkkelen
 
-Hvis du kjøpte Microsoft 365 for bedrifter gjennom et [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), finner du og aktiverer produktnøkkelen.
+Hvis du kjøpte Microsoft 365 for bedrifter via et [Microsoft Open License-program](https://go.microsoft.com/fwlink/p/?LinkID=613298), finner du og aktiverer produkt nøkkelen.
 
-1. Når du har kjøpt en nøkkel fra en Microsoft 365-partner, merker du av for en e-post fra Microsoft som inneholder en aktiveringskobling.  **Merk:** E-posten sendes til personen som er oppført som den elektroniske administratoren i volumlisensavtalen.  Hvis du ikke er sikker på hvem som er angitt som nettadministrator, spør du Microsoft 365-partneren.
+1. Når du har kjøpt en nøkkel fra en Microsoft 365-partner, kan du se etter en e-post fra Microsoft som inneholder en aktiverings kobling.  **Obs**! e-postmeldingen sendes til personen som er oppført som nett administrator i volum lisens avtalen.  Hvis du ikke er sikker på hvem som er på nett administrator, spør du Microsoft 365-partneren.
 
-2. Følg linken i e-posten for å logge på med jobb- eller skolekontoen din, godta Åpne lisensavtalen og fornye abonnementet.  Hvis du vil ha en trinnvis gjennomgang, laster du ned PDF-veiledningen, [Aktiver elektroniske tjenester: Microsoft 365-abonnement](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Følg koblingen i e-postmeldingen for å logge på med jobb-eller skole kontoen, godta den åpne lisens avtalen og fornye abonnementet.  Hvis du vil ha en trinnvis gjennomgang, kan du laste ned PDF-guiden, [aktivere net tjenester: Microsoft 365-abonnement](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Merk:** Volumlisensieringskunder kan også velge å aktivere abonnementer i [volume licensing service center](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Hvis du vil vite hvordan du laster ned PDF-veiledningen, [Active Online Services i volume licensing service center](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Obs!** volum lisensierings kunder kan også velge å aktivere abonnementer i [service senteret for volum lisensiering](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Hvis du vil lære hvordan, kan du laste ned PDF-guiden, [aktive nettbaserte tjenester i Service senteret for volum lisensiering](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Hvis du kjøpte Microsoft 365 Business Premium Standard fra en detaljhandelsbutikk, kan du bruke følgende fremgangsmåte for å forlenge utløpsdatoen eller legge til en lisens i et eksisterende abonnement.
+Hvis du kjøpte Microsoft 365 Business Premium standard fra en butikk, bruker du følgende Fremgangs måte for å forlenge utløps datoen eller legge til en lisens for et eksisterende abonnement.
 
-**Merk:** Hvis du vil bruke en produktnøkkel til å utvide utløpsdatoen eller legge til en lisens i det eksisterende Microsoft 365 Business Premium Standard-abonnementet, trenger du en ny og ubrukt nøkkel for det samme Microsoft 365-abonnementet.  Hvis du angir den opprinnelige produktnøkkelen for Microsoft 365, fungerer ikke det fordi en nøkkel som allerede er løst inn, ikke kan brukes på nytt.
+**Obs**! hvis du vil bruke en produkt nøkkel til å forlenge utløps datoen eller legge til en lisens for det eksisterende Microsoft 365 Business Premium standard-abonnementet, trenger du en ny og ubrukt nøkkel for det samme Microsoft 365-abonnementet.  Angivelse av den opprinnelige produkt nøkkelen for Microsoft 365 vil ikke fungere fordi en nøkkel som allerede er innløst, ikke kan brukes på nytt.
 
-1. Gå til siden Fakturering **Billing**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
+1. Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret.
 
-2. Finn abonnementet du vil utvide utløpsdatoen til eller legge til lisenser i.  Klikk [utvid sluttdatoen](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [legg til flere lisenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Finn abonnementet du vil forlenge utløps datoen til, eller Legg til lisenser.  Klikk [Utvid slutt dato](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [Legg til flere lisenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-3. Klikk **Bruk en ny og ubrukt produktnøkkel,** og deretter **Neste**.
+3. Klikk **Bruk en ny og ubrukt produkt nøkkel** , og deretter **neste**.
 
-4. Angi produktnøkkelen, og klikk **Neste**.
+4. Skriv inn produkt nøkkelen, og klikk **neste**.
 
-5. Se gjennom bestillingsdetaljene dine.  Hvis alt ser riktig ut, klikker du **Løs inn**.
+5. Se gjennom bestillings detaljene.  Hvis alt ser riktig ut, klikker du **løs**inn.
