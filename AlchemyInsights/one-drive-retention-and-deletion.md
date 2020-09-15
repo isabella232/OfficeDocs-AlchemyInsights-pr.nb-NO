@@ -1,10 +1,11 @@
 ---
-title: Oppbevaring og sletting av OneDrive
+title: OneDrive-oppbevaring og-sletting
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511013"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673470"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Oppbevaring og sletting av OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive-oppbevaring og-sletting
 
-- Du kan [gjenopprette en slettet bruker OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) selv. De er i papirkurven i 93 dager.
+- Du kan [gjenopprette slettede brukere i OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) selv. De er i papir kurven for 93 dager.
 
-- Se [denne artikkelen](https://docs.microsoft.com/onedrive/retention-and-deletion) for å lære:
+- Se [denne artikkelen](https://docs.microsoft.com/onedrive/retention-and-deletion) for å lære følgende:
     - Slik gir du en annen bruker tilgang til en slettet brukers OneDrive.
-    - Hva skjer med en brukers OneDrive når du sletter brukerens Microsoft 365-konto for organisasjonen.
-    - Slik konfigurerer du delegering for automatisk tilgang.
-    - Slik fungerer OneDrive-slettingsprosessen.
+    - Hva skjer med en brukers OneDrive når du sletter brukerens Microsoft 365-konto for organisasjonen din.
+    - Slik konfigurerer du automatisk tilgang delegering.
+    - Hvordan prosessen for sletting av OneDrive fungerer.
 
-- Hvis du vil ha informasjon om hvordan du gjenoppretter elementer fra papirkurven i OneDrive, kan du se [Gjenopprette slettede filer eller mapper](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Hvis du vil ha informasjon om hvordan du gjenoppretter elementer fra papir kurven i OneDrive, kan du se [gjenopprette slettede filer eller mapper](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Interessert i oppbevaring og hold for sikkerhets- og samsvarssenter?
-    - [Oppbevaringspolicyer for OneDrive- og SharePoint-områder](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [eDiscovery hold for OneDrive- og SharePoint-områder](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Interessert i sikkerhets-og Samsvars senterets oppbevaring og hold?
+    - [Oppbevarings policyer for OneDrive-og SharePoint-nettsteder](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery-sperring for OneDrive-og SharePoint-nettsteder](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

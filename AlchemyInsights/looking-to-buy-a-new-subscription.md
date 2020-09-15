@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505552"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675194"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Ønsker du å kjøpe et nytt abonnement?
 
-Hvis du allerede har et Abonnement på Microsoft 365 for bedrifter og **Billing** vil kjøpe et annet abonnement for organisasjonen, går du til siden \> [Faktureringsinnkjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) for å se en liste over abonnementer som er tilgjengelige for organisasjonen.
+Hvis du allerede har et Microsoft 365 for Business-abonnement, og du vil kjøpe et annet abonnement for organisasjonen, går du til siden **for** \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) for å se en liste over abonnementer som er tilgjengelige for organisasjonen.
  
-1. Velg ønsket abonnement, og velg deretter **Kjøp**.
+1. Velg abonnementet du vil bruke, og velg deretter **Kjøp**.
 
-2. Velg hvordan du vil betale, og antall brukerlisenser som trengs.
+2. Velg hvordan du vil betale, og antall bruker lisenser som kreves.
 
-3. Velg **Gå til kassen nå**. På neste side kan du se gjennom bestillingen og fullføre kjøpet.
+3. Velg **Gå til kassen nå**. På neste side kan du se gjennom bestillingen og fullføre bestillingen.
 
-4. Når kjøpet er fullført, må du kanskje tilordne lisenser på nytt eller avslutte et abonnement. Hvis du trenger hjelp med dette, kan du se delen Tilleggsressurser nedenfor.
+4. Når kjøpet er fullført, må du kanskje tilordne lisenser eller avbryte et abonnement. Hvis du vil ha hjelp med dette, kan du se delen tilleggs ressurser nedenfor.
 
  **Flere ressurser:**
   
@@ -36,4 +36,4 @@ Hvis du allerede har et Abonnement på Microsoft 365 for bedrifter og **Billing*
     
 - [Avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Hvis du er interessert i å bytte abonnement, kan du se [Bytte til en annen Microsoft 365 for forretningsplan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Hvis du er interessert i å bytte abonnementer, kan du se [bytte til et annet Microsoft 365 for Business-abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

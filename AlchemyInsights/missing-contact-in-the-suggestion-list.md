@@ -1,27 +1,28 @@
 ---
-title: Manglende kontakt i forslagslisten mens du skriver e-post
+title: Manglende kontakt i forslag-listen når du skriver e-post
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 325bdc133c9a8458ad8a65b3d1ca2276a558bfbf
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423917"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673974"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Manglende kontakt i forslagslisten mens du skriver e-post
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Manglende kontakt i forslag-listen når du skriver e-post
 
-1. Velg **Til:**, og velg deretter en kontakt fra listen.
+1. Velg **til:**, og velg deretter en kontakt fra listen.
 2. Velg **Send**.
 
-    Kontakten vises i forslagslisten.
+    Kontakten vises i forslag-listen.
