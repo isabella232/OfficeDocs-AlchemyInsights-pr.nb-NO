@@ -1,28 +1,29 @@
 ---
-title: 8000052 legge ved filer i Outlook.com
+title: 8000052 Legg ved filer i Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 798884ed8bb190044d486265c8e896c8980f2f54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768341"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715426"
 ---
-# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="e3723-102">Slik legger du ved filer i OUtlook</span><span class="sxs-lookup"><span data-stu-id="e3723-102">How to attach files in OUtlook</span></span> 
+# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="cd25c-102">Legge ved filer i OUtlook</span><span class="sxs-lookup"><span data-stu-id="cd25c-102">How to attach files in OUtlook</span></span> 
 
-1. <span data-ttu-id="e3723-103">Skriv en ny melding eller svar på en melding.</span><span class="sxs-lookup"><span data-stu-id="e3723-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="cd25c-103">Skriv en ny melding, eller svar på en melding.</span><span class="sxs-lookup"><span data-stu-id="cd25c-103">Compose a new message or reply to a message.</span></span>
 
-2. <span data-ttu-id="e3723-104">Velg binders-ikonet nederst i skrive ruten.</span><span class="sxs-lookup"><span data-stu-id="e3723-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="cd25c-104">Velg bindersikonet nederst i skrive ruten.</span><span class="sxs-lookup"><span data-stu-id="cd25c-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
 
-<span data-ttu-id="e3723-105">Lær mer om [hvordan du legger ved filer i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="e3723-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="cd25c-105">Lær mer om [hvordan du legger ved filer i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="cd25c-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   
