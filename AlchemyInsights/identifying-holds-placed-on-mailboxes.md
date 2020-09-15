@@ -1,40 +1,41 @@
 ---
-title: Identifisere sperrer plassert på postbokser
+title: Identifisere sperringer som er plassert på post bokser
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508889"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668103"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifisere sperrer plassert på postbokser
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifisere sperringer som er plassert på post bokser
 
-Har du Microsoft 365-innhold som **beholdes** av en **sperre** som du ikke kan identifisere? Trenger du å **finne ut** hvor hold er plassert på **postkassen** ? Sperrer (*oppbevaringsfunksjoner*) kan brukes av én av følgende metoder:
+Har du Microsoft 365-innhold som **beholdes** av en **sperring** , som du ikke kan identifisere? Trenger du å **finne ut** hvor sperringen er plassert på **post boksen** ? Sperringer (*oppbevarings funksjoner*) kan brukes av én av følgende metoder:
   
-- Rettstvist hold
+- Rettslig sperre
 
-- eDiscovery hold
+- eDiscovery-sperring
 
-- Hold på stedet
+- Lokal sperring
 
-- Policy for oppbevaring av Microsoft 365 
+- Microsoft 365 oppbevarings policy 
 
-  - Spesifikke policyer for posisjonsoppbevaring
+  - Spesifikke retnings linjer for oppbevaring av sted
 
-  - Oppbevaringspolicyer for hele organisasjonen
+  - Oppbevarings policyer for hele organisasjonen
 
 - Microsoft 365-etiketter
 
-Hvis du vil identifisere hvilken type sperre som brukes på en brukers postboks, kan du se [Slik identifiserer du typen hold som er plassert på en Exchange Online-postboks](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Hvis du vil identifisere hvilken type sperring som skal brukes på en brukers post boks, kan du se [hvordan du identifiserer hvilken type sperring som er plassert på en Exchange Online-postboks](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
