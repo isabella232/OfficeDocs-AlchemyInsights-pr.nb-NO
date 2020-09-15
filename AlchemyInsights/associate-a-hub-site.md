@@ -5,30 +5,31 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407287"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715750"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Knytte eksisterende område til et hub-område
 
-Hvis du vil knytte et eksisterende område til hubområdet, gjør du følgende:
+Hvis du vil knytte et eksisterende område til hub-nettstedet, gjør du følgende:
   
-1. Velg **Innstillinger** (tannhjulikonet øverst til høyre), på **nettstedet ditt,** og velg deretter Områdeinformasjon .
+1. Velg **Innstillinger** på nettstedet (tann hjul ikonet øverst i høyre hjørne), og velg deretter **område informasjon**.
 
-2. Velg hubområdet du vil knytte til området, i menyen Tilknytning for hubområde i panelet **Rediger områdeinformasjon,** og klikk deretter **Hub site association** **Lagre**. Utseendet på nettstedet ditt endres slik at det samsvarer med hubområdet, og navigasjonsfeltet for hubområdet vises øverst.
+2. Velg hub-området du vil knytte til området, og klikk deretter **Lagre**på fanen Rediger område- **tilknytning** i dialog boksen for å **redigere nettsteds informasjon** . Utseendet på området vil bli endret til å samsvare med hub-området, og navigasjons feltet for hub-området vises øverst.
 
->**Merk**
+>**Egenvekselremittering**
 >
->Hvis alternativet Hub-områdetilknytning ikke finnes eller ingen områder er oppført der, kan det hende at hubområder ikke er aktivert, eller du har kanskje ikke tillatelse til å knytte områder til et hubområde. Kontakt systemansvarlig for mer informasjon.
+>Hvis alternativet for tilordning av hub-nettstedet ikke finnes eller det ikke er noen nett steder der, kan det hende at hub-områder ikke er aktivert, eller at du ikke har tillatelse til å knytte områder til et hub-område. Kontakt administratoren for mer informasjon.
 >
->Det er ingen grense for antall nettsteder som kan knyttes til et hubområde.
+>Det er ingen begrensning på antall områder som kan knyttes til et hub-område.
   
