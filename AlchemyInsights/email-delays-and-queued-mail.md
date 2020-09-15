@@ -1,22 +1,23 @@
 ---
-title: Ser du forsinkelser i e-post eller e-post i kø?
+title: Ser du e-postforsinkelser eller e-post i kø?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703796"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710240"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ser du forsinkelser i e-post eller e-post i kø?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ser du e-postforsinkelser eller e-post i kø?
 
-Vi har nylig begynt å avprecating eldre SMTP endepunkter. Disse destinasjonsverdiene var tilgjengelige for bruk i MX-poster og smarte verter før 2012. Hvis du fortsatt bruker en av disse eldre verdiene, må du oppdatere endepunktet til en støttet verdi. Hvis du vil ha mer informasjon, kan du se denne [støtten KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Vi har nylig begynt å avverge eldre SMTP-endepunkter. Disse mål verdiene var tilgjengelige for bruk i MX-poster og smart verter før 2012. Hvis du fremdeles bruker en av disse eldre verdiene, må du oppdatere ende punktet til en støttet verdi. Hvis du vil ha mer informasjon, kan du se denne [støtte KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
