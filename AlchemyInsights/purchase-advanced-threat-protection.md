@@ -1,32 +1,33 @@
 ---
-title: Kjøp avansert trusselbeskyttelse for Office 365
+title: Kjøp Office 365 Advanced Threat Protection
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 80f3ea749813d6038f9234229f445d6cd43d3637
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693564"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a><span data-ttu-id="a7b71-102">Kjøp avansert trusselbeskyttelse for Office 365</span><span class="sxs-lookup"><span data-stu-id="a7b71-102">Purchase Office 365 Advanced Threat Protection</span></span>
+# <a name="purchase-office-365-advanced-threat-protection"></a><span data-ttu-id="484f5-102">Kjøp Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="484f5-102">Purchase Office 365 Advanced Threat Protection</span></span>
 
-<span data-ttu-id="a7b71-103">Office 365 Advanced Threat Protection (ATP) er inkludert i enkelte abonnementer, for eksempel Microsoft 365 E5, Office 365 E5, Office 365 A5 og Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="a7b71-103">Office 365 Advanced Threat Protection (ATP) is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="a7b71-104">Hvis abonnementet ikke inkluderer Office 365 ATP, kan du kjøpe [ATP Plan 1 eller ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) som et tillegg til et bestemt abonnement.</span><span class="sxs-lookup"><span data-stu-id="a7b71-104">If your subscription does not include Office 365 ATP, you can purchase [ATP Plan 1or ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="a7b71-105">Slik kjøper du i administrasjonssenteret for Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="a7b71-105">To purchase in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="484f5-103">Office 365 Advanced Threat Protection (ATP) er inkludert i enkelte abonnementer, for eksempel Microsoft 365 E5, Office 365 E5, Office 365 a5 og Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="484f5-103">Office 365 Advanced Threat Protection (ATP) is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="484f5-104">Hvis abonnementet ikke inkluderer Office 365 ATP, kan du kjøpe ATP- [1OR ATP](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) -plan 2 som et tillegg til et bestemt abonnement.</span><span class="sxs-lookup"><span data-stu-id="484f5-104">If your subscription does not include Office 365 ATP, you can purchase [ATP Plan 1or ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="484f5-105">Kjøpe i administrasjons senteret for Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="484f5-105">To purchase in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="a7b71-106">Gå **Billing**til   >   [Faktureringskjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="a7b71-106">Go to  **Billing**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
-2. <span data-ttu-id="a7b71-107">Velg **Tillegg-siden** fra **Andre kategorier som kan interessere deg.**</span><span class="sxs-lookup"><span data-stu-id="a7b71-107">Select **Add-ons**  page from **Other categories that might interest you.**</span></span>
-3. <span data-ttu-id="a7b71-108">Velg planen for avansert trusselbeskyttelse du vil kjøpe.</span><span class="sxs-lookup"><span data-stu-id="a7b71-108">Select the Advanced Threat Protection plan you want to purchase.</span></span> <span data-ttu-id="a7b71-109">Du kan også velge en prøveplan der.</span><span class="sxs-lookup"><span data-stu-id="a7b71-109">You may select a Trial plan there as well.</span></span>
-4. <span data-ttu-id="a7b71-110">Velg antall brukere som skal bruke Avansert trusselbeskyttelse.</span><span class="sxs-lookup"><span data-stu-id="a7b71-110">Select the number of users who will use Advanced Threat Protection.</span></span>
+1. <span data-ttu-id="484f5-106">Gå til **Billing**   >   [kjøps tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)for fakturering.</span><span class="sxs-lookup"><span data-stu-id="484f5-106">Go to  **Billing**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
+2. <span data-ttu-id="484f5-107">Velg **tillegg-**  siden fra **andre kategorier som kanskje interesserer deg.**</span><span class="sxs-lookup"><span data-stu-id="484f5-107">Select **Add-ons**  page from **Other categories that might interest you.**</span></span>
+3. <span data-ttu-id="484f5-108">Velg den avanserte beskyttelses planen for trussel som du vil kjøpe.</span><span class="sxs-lookup"><span data-stu-id="484f5-108">Select the Advanced Threat Protection plan you want to purchase.</span></span> <span data-ttu-id="484f5-109">Du kan velge en prøve plan der også.</span><span class="sxs-lookup"><span data-stu-id="484f5-109">You may select a Trial plan there as well.</span></span>
+4. <span data-ttu-id="484f5-110">Velg antall brukere som skal bruke Advanced Threat Protection.</span><span class="sxs-lookup"><span data-stu-id="484f5-110">Select the number of users who will use Advanced Threat Protection.</span></span>
 
-<span data-ttu-id="a7b71-111">Hvis du vil tilordne lisenser til brukere, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="a7b71-111">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
+<span data-ttu-id="484f5-111">Hvis du vil tilordne lisenser til brukere, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="484f5-111">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="a7b71-112">Hvis du vil kjøpe flere lisenser, eller fjerne noen, kan du ta en titt på [Legg til / fjern lisenser for abonnementet](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="a7b71-112">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="484f5-112">Hvis du vil kjøpe flere lisenser, eller fjerne noen, kan du ta en titt på [Legg til / fjern lisenser for abonnementet](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="484f5-112">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
