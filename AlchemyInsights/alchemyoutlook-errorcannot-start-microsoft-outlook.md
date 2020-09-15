@@ -5,6 +5,7 @@ author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 9efe1eadbec5f8ee00c4450f26049b66f3ac99b3
-ms.sourcegitcommit: 36c7cc63f8a86e247993e6cd566afe57087435e4
+ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44694832"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718522"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-feil: Kan ikke starte Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-feil: kan ikke starte Microsoft Outlook
 
-Har du problemer med å starte Outlook 2016, Outlook 2013 eller Outlook 2010, eller får du "Kan ikke starte Microsoft Outlook. Kan ikke åpne Outlook-vinduet"-feilmeldinger?
+Har du problemer med å starte Outlook 2016, Outlook 2013 eller Outlook 2010 eller motta kan ikke starte Microsoft Outlook. Feil meldinger kan ikke åpnes i Outlook-vinduet?
   
-Bruk først feilsøkingstrinnene i [denne artikkelen](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) til å løse disse oppstartsproblemene. 
+Først må du bruke feil søkings trinnene i [denne artikkelen](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) for å løse disse oppstarts problemene. 
   
-Du kan også kjøre [verktøyet Avansert diagnostikk](https://aka.ms/SaRA-OutlookAdvDiagnostics) på den berørte maskinen.
+Du kan også kjøre det [avanserte diagnose verktøyet](https://aka.ms/SaRA-OutlookAdvDiagnostics) på den berørte data maskinen.
