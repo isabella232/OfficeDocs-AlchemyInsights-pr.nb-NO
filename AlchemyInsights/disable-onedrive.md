@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 650ed5cabd2d692ff07a88e81f8c2d01498f8eb5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715169"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712553"
 ---
 # <a name="disable-onedrive"></a>Deaktivere OneDrive
 
-Du kan deaktivere tilgang til OneDrive og tjenestene på flere måter, avhengig av forretningsbehovene dine:
+Det finnes flere måter du kan deaktivere tilgang til OneDrive og tjenester på, avhengig av bedriftens behov:
 
-[Koble fra, skjule eller avinstallere OneDrive-programmet](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Koble fra, Skjul eller Avinstaller OneDrive-programmet](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Tillat bare synkronisering for bestemte organisasjoner](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Bare Tillat synkronisering for bestemte organisasjoner](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
 [Deaktivere oppretting av OneDrive-område for enkelte brukere](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
@@ -33,7 +34,7 @@ Du kan deaktivere tilgang til OneDrive og tjenestene på flere måter, avhengig 
 
 [Deaktivere personlig OneDrive-synkronisering](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Administrere tilkoblinger fra Windows-enheter til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Behandle tilkoblinger fra Windows-enheter til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 
