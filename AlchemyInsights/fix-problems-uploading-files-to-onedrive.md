@@ -1,28 +1,29 @@
 ---
-title: Løse problemer med å laste opp filer til OneDrive
+title: Løse problemer med opplasting av filer til OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: f84d2ca8e5f620af7fb0d583fa311bf9d2d97c0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719583"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677649"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Løse problemer med å laste opp filer til OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Løse problemer med opplasting av filer til OneDrive
 
-Prøv dette hvis en fil ikke laster opp:
+Prøv dette hvis en fil ikke kan lastes opp:
   
-- Gi filen nytt navn, og prøv på nytt. Noen filnavn og tegn i filnavn er ikke tillatt. 
+- Gi nytt navn til filen, og prøv på nytt. Enkelte fil navn og tegn i fil navn er ikke tillatt. 
     
-- Hvis du synkroniserer filen, flytter du den ut av OneDrive-mappen (flytt den for eksempel til skrivebordet), og når OneDrive-synkroniseringsstatusen vises som «Oppdatert», flytter du den tilbake. 
+- Hvis du synkroniserer filen, kan du flytte den ut av OneDrive-mappen (for eksempel flytte den til skrive bordet), og når synkroniserings statusen i OneDrive vises som «oppdatert», flytter du den tilbake. 
     
-[Flere feilsøkingstips](https://go.microsoft.com/fwlink/?linkid=873155)
+[Flere feil søkings tips](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

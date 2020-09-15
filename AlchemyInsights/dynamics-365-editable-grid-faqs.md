@@ -1,23 +1,24 @@
 ---
-title: Spørsmål og svar om Dynamics 365 redigerbare rutenettet
+title: Vanlige spørsmål om Dynamics 365 redigerbare rute nett
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1464"
 - "6200013"
-ms.openlocfilehash: 35cfe1da0cbf191bb47af95c2fb63161994cc16b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 8f2876a10ac09d9ba293b14aa818dc8024179129
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752945"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678261"
 ---
-# <a name="dynamics-365-editable-grid-faqs"></a>Dynamics 365 redigerbare rutenettet hyppig stilte spørsmål
+# <a name="dynamics-365-editable-grid-faqs"></a>Vanlige spørsmål om Dynamics 365 redigerbare rute nett
 
-* [Vanlige spørsmål om redigerbare rutenettet](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
+* [Redigerbare spørsmål om vanlige rute nett](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
 
-* [Redigerbare rutenettet hurtigtaster](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [Redigerbare hurtig taster for rute nett](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
