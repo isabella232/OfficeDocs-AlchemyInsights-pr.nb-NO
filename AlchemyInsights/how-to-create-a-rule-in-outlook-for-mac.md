@@ -1,31 +1,32 @@
 ---
-title: 1800021 hvordan du oppretter en regel i Outlook for Mac
+title: 1800021 Slik oppretter du en regel i Outlook for Mac
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769096"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704354"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Hvordan du oppretter en regel i Outlook for Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Slik oppretter du en regel i Outlook for Mac
 
-1. Hvis du vil opprette en mappe som skal inneholde e-postmeldingene som er sendt av regelen, velger du rot postboksen, klikker **ny mappe**i kategorien **Organiser** , skriver inn navnet på mappen og trykker ENTER.
+1. Hvis du vil opprette en mappe for å lagre e-postmeldingene som er sendt av regelen, velger du rot post boksen, og deretter klikker du **ny mappe**på **Ordne** -fanen, skriver inn navnet på mappen og trykker ENTER.
 
-2. I meldingslisten klikker du en e-postmelding du vil o opprette en regel for.
+2. Klikk en e-postmelding du vil opprette en regel for, i meldings listen.
 
-3. Klikk **regler**i kategorien **hjem** , og klikk deretter **Opprett regel**.
+3. Klikk **regler**på **hjem** -fanen, og klikk deretter **Opprett regel**.
 
-4. Under **når en ny melding kommer** inn, redigerer du kriteriene etter behov. 
+4. Under **når en ny melding kommer** til å redigere kriteriene etter behov. 
 
-Hvis du vil ha detaljerte instruksjoner om hvordan du oppretter egendefinerte regler, se [opprette en regel i Outlook for Mac](https://aka.ms/AA1uy0v)
+Hvis du vil ha detaljerte instruksjoner om hvordan du oppretter egen definerte regler, kan du se [opprette en regel i Outlook for Mac](https://aka.ms/AA1uy0v)
   

@@ -1,36 +1,37 @@
 ---
-title: 646 Hvordan du konfigurerer AADConnect
+title: 646 slik konfigurerer du AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704498"
 ---
-# <a name="configure-sync-features"></a>Konfigurere synkroniseringsfunksjoner
+# <a name="configure-sync-features"></a>Konfigurere synkroniserings funksjoner
 
-Azure AD Connect inneholder flere funksjoner som er aktivert som standard, eller som du kan aktivere senere. Noen funksjoner krever ekstra konfigurasjon i bestemte miljøer.
+Azure AD Connect inkluderer flere funksjoner som er aktivert som standard, eller som du kan aktivere senere. Noen funksjoner krever ytterligere konfigurasjon i bestemte miljøer.
 
-- [Filtrering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) begrenser objektene synkroniseres til Azure AD. Som standard synkroniseres alle brukere, kontakter, grupper og Windows 10-datamaskinkontoer. Du kan inkludere eller utelate objekter basert på domener, ouer eller andre attributter.
+- [Filtrering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) begrenser at objektene er synkronisert med Azure ad. Som standard er alle brukere, kontakter, grupper og Windows 10-data maskin kontoer synkronisert. Du kan inkludere eller utelate objekter basert på domener, organisasjons enheter eller andre attributter.
 
-- [Synkronisering av passordhash](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniserer passordhashen fra den lokale Active Directory til Azure AD. Dette tillater passordbehandling på ett sted, men bruk av det samme passordet i både lokale og skymiljøer. Fordi Active Directory er den autoritative kilden, kan du bruke dine egne passordpolicyer.
+- [Passord nummer synkronisering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniserer passord nummeret fra den lokale Active Directory til Azure ad. Dette gjør det mulig for passord behandling på ett sted, men bruker samme passord i lokale og Sky miljøer. Fordi Active Directory er den autoritative kilden, kan du bruke dine egne passord policyer.
 
-- [Selvbetjent tilbakestilling av passord (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) gjør det mulig for brukere å tilbakestille sine egne passord i skyen mens de fortsatt bruker den lokale passordpolicyen.
+- [Selv betjent tilbakestilling av passord (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) lar brukere tilbakestille sine egne passord i skyen mens de fremdeles bruker den lokale passord policyen.
 
-- [Enhetswriteback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) gjør at registrerte enheter i Azure AD kan skrives tilbake til den lokale Active Directory, slik at de kan brukes til betinget tilgang.
+- [Bakgrunns skriving for enheter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) lar registrerte enheter i Azure ad skrives tilbake til den lokale Active Directory, slik at de kan brukes til betinget tilgang.
 
-- [Forhindre utilsiktet sletting](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) er aktivert som standard for å forhindre for mange samtidige objektslettinger (mer enn 500 objekter per synkronisering). Du kan endre denne innstillingen for å dekke behovene til organisasjonen.
+- [Unngå utilsiktede](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) slettinger er aktivert som standard for å forhindre for mange samtidige objekt slettinger (mer enn 500 objekter per synkronisering). Du kan endre denne innstillingen for å oppfylle organisasjonens behov.
 
-- [Automatisk oppgradering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) er aktivert som standard for ekspressinstallasjoner og bidrar til å sikre at din versjon av Azure AD Connect alltid er oppdatert.
+- [Automatisk oppgradering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) er aktivert som standard for hurtig installasjoner og hjelper deg med å sikre at din versjon av Azure ad Connect alltid er oppdatert.
