@@ -1,31 +1,32 @@
 ---
-title: Angi IMAP-portnumre
+title: Skriv inn IMAP-port numre
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279093"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709448"
 ---
-# <a name="enter-imap-port-numbers"></a>Angi IMAP-portnumre
+# <a name="enter-imap-port-numbers"></a>Skriv inn IMAP-port numre
 
-Logg inn via skjermbildet for forhåndsinstallasjon, og legg til portdetaljene bak et kolon i tråd med innkommende og utgående serveradresser. (Du kan få disse detaljene fra e-postleverandøren.) 
+Logg på via skjerm bildet for avansert oppsett, og Legg til port detaljene bak et kolon på linje med inn kommende og utgående serveradresser. (Du kan få disse opplysningene fra leverandøren av e-posttjenesten.) 
 
-Gå til **Innstillinger** > **Legg til konto** > **IMAP** > og klikk **På Vis avanserte innstillinger**. deretter angi dine detaljer. 
+Gå til **Innstillinger**  >  **Legg**til  >  **IMAP** ->, og klikk **Vis avanserte innstillinger**, og skriv deretter inn opplysningene dine. 
 
-*Innkommende e-postserver:* imap.servername.com:000 (vanligvis 993 eller 143) 
+*Server for inn kommende e-post*: IMAP.servername.com:000 (vanligvis 993 eller 143) 
 
-*Server for utgående e-post:* smtp.servername.com:000 (vanligvis 465 eller 25) 
+*Server for utgående e-post*: SMTP.servername.com:000 (vanligvis 465 eller 25) 
 
-Husk at tykktarmen er viktig. 
+Husk at kolonet er viktig. 
