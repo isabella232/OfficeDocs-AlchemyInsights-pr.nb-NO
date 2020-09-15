@@ -1,46 +1,47 @@
 ---
-title: Omkjøringsvei lobby
+title: Omgå informasjons
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889091"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684959"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrollér innstillingene for lobbyen og nivået for deltakelse i Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrollere informasjons innstillinger og deltakelses nivå i Teams
 
-Hvis du vil tillate alle, inkludert eksterne, eksterne og anonyme brukere, å **omgå vestibylen**, bruker du PowerShell til å utføre denne oppgaven. Her er et eksempel på hvordan du endrer den globale møte policyen for organisasjonen.
+Hvis du vil tillate alle, inkludert innringede, eksterne og anonyme brukere, kan du bruke PowerShell til å utføre denne oppgaven for å **omgå den**. Her er et eksempel på hvordan du endrer den globale møte policyen for organisasjonen.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denne cmdleten krever for øyeblikket bruk av Skype for Business PowerShell-modulen. For å få satt opp til å bruke denne cmdleten, kan du sjekke ut [administrerende policyer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Denne cmdleten krever for øyeblikket bruk av Skype for Business PowerShell-modul. Hvis du vil konfigurere for å bruke denne cmdleten, kan du se [Behandle policyer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Når du har konfigurert en policy, må du bruke den på brukere. eller, hvis du endret den globale policyen, vil den automatisk gjelde for brukerne. For alle politikk endre, du nød å vent det vil si **4 timene til 24 timene** for det politiet å tre i kraft. 
+Når du har konfigurert en policy, må du bruke den på brukere. Hvis du endret den globale policyen, vil den automatisk gjelde for brukere. For enhver policy endring må du vente minst **4 timer opptil 24 timer** før policyene trer i kraft. 
 
-Husk å se gjennom dokumentasjonen nedenfor før du gjør disse endringene for å forstå nøyaktig hva dette tillater.
+Pass på å se gjennom dokumentasjonen nedenfor før du gjør disse endringene for å forstå nøyaktig hva dette tillater.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Forstå Teams-policy kontroller for gruppemøte
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Lære om retnings linjer for informasjons kontroller for Teams
 
-Disse innstillingene kontrollerer hvilke møtedeltakere som venter i vestibylen før de blir tatt opp på møtet og nivået på deltakelsen de er tillatt i et møte. Du kan bruke PowerShell til å oppdatere innstillinger for møte policy som ennå ikke er implementert (merket "kommer snart") i Teams Administrasjonssenter. Se nedenfor for et eksempel PowerShell cmdlet som gjør at alle brukere til å omgå lobbyen.
+Disse innstillingene styrer hvilke møte deltakere som venter på data før de blir lagt til møtet og deltakelses nivået som er tillatt i et møte. Du kan bruke PowerShell til å oppdatere innstillingene for møte policy som ennå ikke er implementert (merket "kommer snart") i administrasjons senteret for Teams. Se nedenfor for et eksempel på PowerShell-cmdlet som tillater alle brukere å hoppe over den aktuelle informasjons filen.
 
-- [Automatisk innrømme at personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) er en policy for hver arrangør som kontrollerer om personer blir med i et møte direkte eller venter i vestibylen til de blir tatt opp av en godkjent bruker.
+- [Gi tilgang personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) er en per Organizer-policy som styrer om personer skal bli med i et møte direkte eller vente i den, før de lagt av en godkjent bruker.
 
-- [Tillate at anonyme personer starter et møte](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) , er en policy for hver arrangør som kontrollerer om anonyme personer, inkludert B2B-og Federated brukere, kan delta i brukerens møte uten en godkjent bruker fra organisasjonen som er tilstede.
+- [Tillat at anonyme personer kan starte et møte](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) er en per Organizer-policy som styrer om anonyme personer, inkludert B2B og Forbunds brukere, kan bli med i brukerens møte uten en godkjent bruker fra organisasjonen som deltar.
 
-- [Tillat eksterne brukere å omgå lobbyen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kommer snart**) er en per-arrangør politikk som styrer om folk som ringer inn via telefon delta i møtet direkte eller vente i lobbyen uavhengig av **automatisk innrømme folk** innstillingen.
+- [Tillat at innringings brukere kan hoppe over informasjons](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kommer snart**) er en per-arrangør-policy som styrer om personer som ringer inn via telefon, skal bli med i møtet direkte eller vente i informasjons delen uavhengig av innstillingen for **automatisk gi tilgang av personer** .
 
-- [La arrangørene overstyre lobby innstillingene](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kommer snart**) er en policy for hver arrangør som kontrollerer om møtearrangøren kan overstyre lobby innstillingene som en administrator har angitt i automatisk å **innrømme personer** og **tillate at eksterne brukere omgår lobbyen** når de planlegger et nytt møte.
+- [Tillat at arrangører overstyrer informasjons innstillinger](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kommer snart**) er en per Organizer-policy som styrer om møte arrangøren kan overstyre informasjons innstillingene som en administrator angir i **automatisk gi tilgang-personer** og **tillate at innringings brukere omgår data** når de planlegger et nytt møte.
 
-**Merk:** Les [Behandle møte policyer i Teams for å](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) se en fullstendig oversikt over retningslinjene for Microsoft Teams-møte.
+**Obs!** Les [Behandle møte policyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) for å få en fullstendig oversikt over møte retnings linjene i Microsoft Teams.
