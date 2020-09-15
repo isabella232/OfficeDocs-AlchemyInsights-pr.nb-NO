@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665769"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699528"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 
-1. Gå til siden **Setup**  >  [Installasjonsdomener i administrasjonssenteret](https://portal.office.com/adminportal/home#/Domains) for Microsoft 365, og velg domenet du bruker for webområdet, i listen over domener.
+1. Gå til siden **Konfigurer**domener i administrasjons senteret for Microsoft 365,  >  [Domains](https://portal.office.com/adminportal/home#/Domains) og velg domenet du bruker for nettstedet, i listen over domener.
 
 2. Velg **+ Ny egendefinert post** og angi følgende:
 
   - Angi **A (Adresse)** for **DNS-type**
 
-  - For **Vertsnavn eller Alias**skriver du inn følgende:**@**
+  - Skriv inn følgende for **verts navn eller alias**: **@**
 
   - Skriv inn den statiske IP-adressen for nettstedet ditt der den driftes for øyeblikket (for eksempel: 172.16.140.1), for **IP-adresse**
 
