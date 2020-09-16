@@ -1,32 +1,33 @@
 ---
-title: Eier kan ikke opprette undermappe ved hjelp av Outlook
+title: Eieren kan ikke opprette under mappen ved hjelp av Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 2116bb837e4378ea29d7882df1d3010b3a4e0b1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665727"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Eier kan ikke opprette undermappe ved hjelp av Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Eieren kan ikke opprette under mappen ved hjelp av Outlook
 
-**Det er et pågående problem med fellesmappeeiere som oppretter undermapper ved hjelp av Outlook. Problemet vil bli løst snart.**
+**Det finnes et pågående problem med felles mappe eiere som oppretter under mapper ved hjelp av Outlook. Problemet blir løst snart.**
 
-I mellomtiden bruker du en av følgende løsninger:
+Bruk en av følgende midlertidige løsninger:
 
-1. Bruk Outlook for MAC til å opprette undermappen som problemet påvirker bare Outlook for skrivebordsvinduer (alle versjoner)
-2. Be admin opprette undermappen ved hjelp av EXO Shell eller EAC
-3. Endre DefaultPublicFolderMailbox/EffectivePublicFolderMailbox på brukeren til en annen postboks enn innholdspostboksen for mappen som forårsaker problemet  
-    - *Angi postboks bruker1 standardPublicFolderMailbox PubMBX3*
-4. Vent i en time, start Outlook-klienten på nytt
+1. Bruke Outlook for MAC til å opprette under mappen når problemet bare påvirker Outlook for skrive bords Vinduer (alle versjoner)
+2. Få administrator til å opprette under mappen ved hjelp av EXO Shell eller EAC
+3. Endre DefaultPublicFolderMailbox/EffectivePublicFolderMailbox i brukeren til en annen post boks enn innholds post boksen for mappen som for år saker problemet  
+    - *Sett-post boks bruker1 DefaultPublicFolderMailbox PubMBX3*
+4. Vent en time, Start Outlook-klient på nytt

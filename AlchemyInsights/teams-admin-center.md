@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670373"
 ---
 # <a name="teams-admin-center"></a>Administrasjonssenter for Teams
 
@@ -31,5 +32,5 @@ Hvis brukerne ikke vises i administrasjonssenteret for Teams, må du kontrollere
 
 - Har du opprettet brukere eller tilordnet lisenser de siste 24 timene? Kontroller at du venter minst 24 timer før du åpner en støtteforespørsel.
 - Kontroller at du har tildelt riktige lisenser?
-- Hvis du har en lokal Active Directory, må du kontrollere at [verdien for msRTCSIP-PrimaryUserAddress eller SIP-adressen i Feltet ProxyAddresses i den lokale Active Directory er unik, og formatet samsvarer med](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip: Brukernavn**for** brukeren fra [administrasjonssenteret for Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Hvis du har tenkt å beholde en Skype for Business Server-distribusjon og få brukere hjemmehjemme og tilkoblet: følg **"Konfigurer hybrid med Teams og Skype for Business Online"** i Kontrollpanelet for Skype for Business Server og flytt brukere på nettet.
+- Hvis du har en lokal Active Directory, må du kontrollere at [verdien til msRTCSIP-PrimaryUserAddress eller SIP-adressen i proxyAddresses-feltet i den lokale Active Directory er unik, og formatet Sams varer](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) med SIP:**bruker navnet** til brukeren fra [administrasjons senteret for Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Hvis du har tenkt å holde en distribusjon av Skype for Business Server og la brukere være hjemme og tilkoblet: Følg denne Fremgangs muligheten **med å konfigurere hybrid med team og Skype for business online** i Skype for Business Server Control Panel og flytte brukere på nettet.
