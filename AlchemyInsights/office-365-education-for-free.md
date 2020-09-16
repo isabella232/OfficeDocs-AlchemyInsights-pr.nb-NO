@@ -1,26 +1,27 @@
 ---
-title: Office 365 Utdanning gratis
+title: Office 365 Education gratis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 21f4f0c2531005ec8146953d7f392a6ceecd66b4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713439"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729952"
 ---
-# <a name="office-365-education-for-free"></a>Office 365 Utdanning gratis
+# <a name="office-365-education-for-free"></a>Office 365 Education gratis
 
-[Office 365 Utdanning gratis](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 Education gratis](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-Det er ikke en rettssak! Elever og lærere er kvalifisert for Office 365 Education, som inkluderer Word, Excel, PowerPoint, OneNote og nå Microsoft Teams, pluss flere klasseromsverktøy.
+Det er ikke en prøve periode! Elever og lærere er kvalifisert for Office 365 Education, som inkluderer Word, Excel, PowerPoint, OneNote og nå Microsoft Teams, pluss ytterligere klasse roms verktøy.

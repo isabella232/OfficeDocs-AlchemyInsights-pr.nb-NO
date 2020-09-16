@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette slettet postboks
+title: Gjenopprette slettet post boks
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511373"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728080"
 ---
-# <a name="restore-a-deleted-mailbox"></a>Gjenopprette en slettet postboks
+# <a name="restore-a-deleted-mailbox"></a>Gjenopprette en slettet post boks
 
-Når en bruker mister en Exchange Online-lisens, beholdes postboksen i 30 dager og kan gjenopprettes ved ganske enkelt å tilordne lisensen til brukeren på nytt.
+Når en bruker mister en Exchange Online-lisens, beholdes post boksen i 30 dager og kan gjenopprettes ved ganske enkelt å tilordne lisensen til brukeren på nytt.
   
  *Dette vil bare fungere innen 30 dager.*  
   
-1. Gå til siden Brukere aktive brukere i administrasjonssenteret for **Microsoft** 365. \> **Active users** Velg den aktuelle brukeren.
+1. Gå til siden **brukere** av \> **aktive brukere** i administrasjons senteret for Microsoft 365. Velg den aktuelle brukeren.
 
-2. I kategorien **Lisenser og apper tilordner** du Exchange Online-lisensen og velger **Lagre endringer**.
+2. Tilordne Exchange Online-lisensen på fanen **lisenser og apper** , og velg **Lagre endringer**.
 
-Hvis du prøver å gjenopprette en delt postboks, kan den også gjenopprettes i 30 dager. Du finner dem under **Brukere** \> **Slettede brukere**; delte postbokser krever ikke en lisens. Hvis du innser at du må gjenopprette en slettet bruker, kan du se [Gjenopprette en bruker](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Hvis du prøver å gjenopprette en delt post boks, kan den også gjenopprettes i 30 dager. Du finner dem under **brukere** som har \> **slettet brukere**, og delte post bokser krever ikke en lisens. Hvis du oppdager at du må gjenopprette en slettet bruker, kan du se [gjenopprette en bruker](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   
