@@ -1,32 +1,33 @@
 ---
-title: Administrere direktetekster for utdanningsorganisasjoner
+title: Administrere direkte meldinger for utdannings organisasjoner
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555647"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812772"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Administrere direktetekster for utdanningsorganisasjoner
+# <a name="managing-live-captions-for-education-organizations"></a>Administrere direkte meldinger for utdannings organisasjoner
 
-Vi anbefaler administratorer av utdanningsorganisasjoner vurdere å bruke policypakker for student- og læreres sikkerhet og lærere. Hvis du vil ha mer informasjon, kan du ta en titt på:  
+Vi anbefaler at administratorer av utdannings organisasjoner vurderer å bruke policy pakker for sikkerhet og lærere i elever og lærere. Hvis du vil ha mer informasjon, kan du ta en titt på:  
 
-- [Policypakker i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Policy pakker i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Retningslinjer som bør tilordnes for studentsikkerhet](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Policyer som skal tilordnes for student sikkerhet](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Retningslinjer som bør tilordnes for lærere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Policyer som skal tilordnes for lærere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Hvis du bare vil administrere muligheten til å aktivere direktetekster, kan du se [Aktivere direktetekster](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Hvis du vil ha mer informasjon, kan du se [Administrere møtepolicyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Hvis du bare vil administrere muligheten til å aktivere direkte teksting, kan du se [aktivere direkte meldinger](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Hvis du vil ha mer informasjon, kan du se [Behandle møte policyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

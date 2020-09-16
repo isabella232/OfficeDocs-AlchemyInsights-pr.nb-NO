@@ -4,33 +4,34 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 0caa2a9d2e212a206694c6ec2f56d23f64fbe7ad
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054098"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800797"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Oversikt over SharePoint hub-områder
 
-SharePoint hub-områder hjelper deg med å dekke organisasjonens behov ved å koble til og organisere områder basert på prosjekt, avdeling, divisjon, region osv., noe som gjør det enklere å:
+SharePoint hub-områder hjelper deg med å imøtekomme organisasjonens behov ved å koble til og organisere områder basert på prosjekt, avdeling, divisjon, område, osv. gjør det enklere å:
 
-- Oppdag beslektet innhold, for eksempel nyheter og andre område aktiviteter.
+- Oppdag relatert innhold, for eksempel nyheter og andre nettsteds aktiviteter.
 
-- Bruk vanlig navigering og merking på tvers av tilknyttede områder. 
+- Bruke vanlig navigasjon og merking på tvers av tilknyttede områder. 
 
 - Søk på tvers av alle tilknyttede områder.
 
 Se følgende hvis du vil ha mer informasjon om hub-områder:
-- [Opprette et hub-område i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Lær hvordan du oppretter et hub-område fra det nye administrasjonssenteret eller PowerShell.
+- [Opprette et hub-nettsted i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Lær hvordan du oppretter et hub-område fra det nye administrasjons senteret eller PowerShell.
 
-- [Knytt et SharePoint-område til et hub-område](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Lær om hvordan du knytter eksisterende områder til et hub-område fra det nye administrasjonssenteret eller PowerShell.
+- [Knytte et SharePoint-område](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)til et hub-nettsted: Lær hvordan du knytter eksisterende områder til et hub-nettsted fra det nye administrasjons senteret eller PowerShell.
 
-- [Fjern et hub-område](https://docs.microsoft.com/sharepoint/remove-hub-site): Finn ut hvordan du fjerner et eksisterende hub-område i det nye administrasjonssenteret eller PowerShell.
+- [Fjerne et hub-nettsted](https://docs.microsoft.com/sharepoint/remove-hub-site): Lær hvordan du fjerner et eksisterende hub-nettsted i det nye administrasjons senteret eller PowerShell.
 
