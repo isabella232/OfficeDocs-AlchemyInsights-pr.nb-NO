@@ -1,25 +1,26 @@
 ---
-title: 8000073 Outlook.com konto hacket - FRANSK
+title: 8000073 Outlook.com-konto hacket – fransk
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: ba8cdf7c0b83f1f649d73b92487721eb7b66c3ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 803efdcc24eee7082ce90ee439e9836e269bc5b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761141"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769084"
 ---
-# <a name="mon-compte-outlookcom-a-t-pirat"></a><span data-ttu-id="b7085-102">Mon compte Outlook.com en été piraté</span><span class="sxs-lookup"><span data-stu-id="b7085-102">Mon compte Outlook.com a été piraté</span></span>
+# <a name="mon-compte-outlookcom-a-t-pirat"></a><span data-ttu-id="fde2d-102">Ma compte Outlook.com en été piraté</span><span class="sxs-lookup"><span data-stu-id="fde2d-102">Mon compte Outlook.com a été piraté</span></span>
 
-<span data-ttu-id="b7085-103">Si votre compte a été piraté, cela signifie que quelqu'un s'est procuré votre mot de passe et qu'il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.</span><span class="sxs-lookup"><span data-stu-id="b7085-103">Si votre compte a été piraté, cela signifie que quelqu’un s’est procuré votre mot de passe et qu’il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.</span></span>
+<span data-ttu-id="fde2d-103">Si votre compte en été piraté, cela betyr que quelqu'un s'est procuré votre mot de kan bli et qu'il peut-votre compte støpe accéder à Vos informasjon personnelles ou envoyer des courriers indésirables.</span><span class="sxs-lookup"><span data-stu-id="fde2d-103">Si votre compte a été piraté, cela signifie que quelqu’un s’est procuré votre mot de passe et qu’il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.</span></span>
 
-<span data-ttu-id="b7085-104">Hell récupérer votre compte, [suivez les instruksjoner](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b7085-104">Pour récupérer votre compte, [suivez les instructions](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="fde2d-104">Støpe récupérer votre compte, [suivez Les instruksjonene](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fde2d-104">Pour récupérer votre compte, [suivez les instructions](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
