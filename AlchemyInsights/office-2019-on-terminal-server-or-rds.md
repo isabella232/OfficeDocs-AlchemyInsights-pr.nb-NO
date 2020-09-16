@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796262"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754574"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuere Office 2019 for delt bruk på RDS, Terminal Server eller VDI
 
-Hvis Office allerede er installert på RDS-serveren ved hjelp av andre Office-planer, avinstallerer du det. For eksempel gå til **kontroll panel** > **avinstallere et program**. Hvis du har problemer, avinstallerer du ved hjelp av [Microsoft Kundestøtte og gjenoppretting Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Hvis Office allerede er installert på RDS-serveren ved hjelp av andre Office-abonnementer, må du avinstallere det. Du kan for eksempel gå til **kontroll panel**  >  **avinstallere et program**. Hvis du har problemer, kan du avinstallere ved hjelp av [Microsoft-assistent for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Bruk Office Deployment Tool (ODT) til å installere Office. Se [distribuere Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy)for detaljerte trinn.
+Bruke distribusjons verktøy for Office (ODT) til å installere Office. Hvis du vil ha detaljerte trinn, kan du se [distribuere Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Hvis du vil aktivere, kan du se [Oversikt over Volumaktivering av Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Hvis du vil aktivere, kan du se [Oversikt over volum aktivering av Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
