@@ -1,39 +1,40 @@
 ---
-title: Kan ikke angi eller vise policyen AllowSelfServicePurchase
+title: Kan ikke angi eller vise AllowSelfServicePurchase-policyen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735208"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan ikke angi eller vise policyen AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan ikke angi eller vise AllowSelfServicePurchase-policyen
 
-Når du prøver å angi eller vise policyen AllowSelfServicePurchase, får du følgende feilmelding:
+Når du prøver å angi eller vise AllowSelfServicePurchase-policyen, får du følgende feil melding:
 
-*HandleError : Kan ikke hente produktpolicy med PolicyId 'AllowSelfServicePurchase', ErrorMessage - Den underliggende tilkoblingen ble lukket: Det oppstod en uventet feil ved sending.*
+*HandleError: kan ikke hente produkt policy med PolicyId ' AllowSelfServicePurchase ', ErrorMessage-den underliggende tilkoblingen ble lukket: Det oppstod en uventet feil under sendingen.*
 
-Dette kan skyldes en eldre versjon av Transport Layer Security (TLS). Hvis du vil koble til MSCommerce-tjenesten, må du bruke TLS 1.2 eller nyere.  
+Dette kan skyldes en eldre versjon av TLS (Transport Layer Security). Hvis du vil koble til MSCommerce-tjenesten, må du bruke TLS 1,2 eller nyere.  
 
-Prøv følgende trinn for å aktivere/sette TLS-protokollen til 1.2, kontrollere og prøve på nytt.
- 1. Ved PowerShell-ledeteksten (PS\) C: skriv inn følgende kommando for å sette TLS-protokollen til versjon 1.2:
+Prøv følgende trinn for å aktivere/sette TLS-protokollen til 1,2, bekrefte og prøve på nytt.
+ 1. I PowerShell-ledeteksten (PS C: \) Angi følgende kommando for å angi TLS-protokollen til versjon 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Kontroller TLS-protokollen(e) som er i bruk, med følgende kommando:
+2. Kontroller hvilken TLS-protokoll som er i bruk, med følgende kommando:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Prøv kommandoene Hent eller Oppdater på nytt etter behov.
+3. Prøv kommandoene Hent eller oppdater på nytt etter behov.
 
