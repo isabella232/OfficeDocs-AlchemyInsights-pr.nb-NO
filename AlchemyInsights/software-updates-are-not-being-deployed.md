@@ -1,27 +1,28 @@
 ---
-title: Programvareoppdateringer blir ikke distribuert
+title: Programvare oppdateringer distribueres ikke
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: 418f457700f02881df30e6f650a60101192aa538
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45424116"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665259"
 ---
-# <a name="software-updates-are-not-being-deployed"></a><span data-ttu-id="f41f7-102">Programvareoppdateringer blir ikke distribuert</span><span class="sxs-lookup"><span data-stu-id="f41f7-102">Software updates are not being deployed</span></span>
+# <a name="software-updates-are-not-being-deployed"></a><span data-ttu-id="be3a5-102">Programvare oppdateringer distribueres ikke</span><span class="sxs-lookup"><span data-stu-id="be3a5-102">Software updates are not being deployed</span></span>
 
-<span data-ttu-id="f41f7-103">Hvis du konfigurerte programvareoppdateringer via en oppdateringsring for Windows 10, men oppdateringene ikke distribueres, kan du prøve følgende:</span><span class="sxs-lookup"><span data-stu-id="f41f7-103">If you configured software updates through a Windows 10 update ring, but the updates are not being deployed, try the following:</span></span>  
+<span data-ttu-id="be3a5-103">Hvis du konfigurerte programvare oppdateringer via en Windows 10 Update-ring, men oppdateringene ikke blir distribuert, kan du prøve følgende:</span><span class="sxs-lookup"><span data-stu-id="be3a5-103">If you configured software updates through a Windows 10 update ring, but the updates are not being deployed, try the following:</span></span>  
 
-- <span data-ttu-id="f41f7-104">Vurder å endre **Windows-service** fra en halvårlig kanalutgivelsestype til en strengere, hyppigere utgivelsestype.</span><span class="sxs-lookup"><span data-stu-id="f41f7-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type.</span></span>
-- <span data-ttu-id="f41f7-105">Kontroller utsettelsesperioden for **kvalitetsoppdatering** og **funksjonsoppdatering**.</span><span class="sxs-lookup"><span data-stu-id="f41f7-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="f41f7-106">En utsettelsesperiode kan føre til en forsinkelse i oppdateringer i opptil 180 dager.</span><span class="sxs-lookup"><span data-stu-id="f41f7-106">A deferral period could lead to a delay in updates for up to 180 days.</span></span>
+- <span data-ttu-id="be3a5-104">Vurder å endre Windows-vedlikehold fra en  **halv Årst kanal**  Utgivelses type til en strengere, en mer hyppig Utgivelses type.</span><span class="sxs-lookup"><span data-stu-id="be3a5-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type.</span></span>
+- <span data-ttu-id="be3a5-105">Se utsettelses-perioden for  **kvalitets oppdatering**  og  **funksjons oppdatering**.</span><span class="sxs-lookup"><span data-stu-id="be3a5-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="be3a5-106">En utsettelses-periode kan føre til en forsinkelse i oppdateringer for opptil 180 dager.</span><span class="sxs-lookup"><span data-stu-id="be3a5-106">A deferral period could lead to a delay in updates for up to 180 days.</span></span>
