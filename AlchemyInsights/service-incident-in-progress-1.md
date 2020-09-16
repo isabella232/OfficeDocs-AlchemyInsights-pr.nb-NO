@@ -1,29 +1,30 @@
 ---
-title: Tjenestehendelse pågår
-ms.author: v-crytho
+title: Tjeneste hendelse som pågår
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681797"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767932"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="8e288-102">Tjenestehendelse pågår</span><span class="sxs-lookup"><span data-stu-id="8e288-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="fa224-102">Tjeneste hendelse som pågår</span><span class="sxs-lookup"><span data-stu-id="fa224-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="8e288-103">Du kan bli påvirket av en tjenestehendelse eller en veiledning som for øyeblikket undersøkes.</span><span class="sxs-lookup"><span data-stu-id="8e288-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="8e288-104">Du kan sjekke den nyeste statusen ved å gå til [Siden Tjenestetilstand.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="8e288-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="fa224-103">Du kan bli påvirket av en tjeneste hendelse eller veiledning som blir undersøkt for øyeblikket.</span><span class="sxs-lookup"><span data-stu-id="fa224-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="fa224-104">Du kan kontrollere den nyeste statusen ved å gå til [tjeneste tilstand](https://admin.microsoft.com/adminportal/home#/servicehealth) -siden.</span><span class="sxs-lookup"><span data-stu-id="fa224-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="8e288-105">For enkelhets skyld kan du finne et sammendrag av denne hendelsen nedenfor:</span><span class="sxs-lookup"><span data-stu-id="8e288-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="fa224-105">Du kan få en oversikt over denne hendelsen nedenfor:</span><span class="sxs-lookup"><span data-stu-id="fa224-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="8e288-106">**Hendelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="8e288-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="fa224-106">**Hendelses nummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="fa224-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="8e288-107">Beskrivelse av innvirkning: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="8e288-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="fa224-107">Innvirknings beskrivelse: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="fa224-107">Impact description: {ImpactDescription}</span></span>
