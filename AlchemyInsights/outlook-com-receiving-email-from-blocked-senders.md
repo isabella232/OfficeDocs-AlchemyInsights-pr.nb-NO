@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
@@ -13,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709344"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723688"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Motta e-post fra blokkerte avsendere
 
-Hvis e-post fra en blokkert avsender fortsatt vises i innboksen Outlook.com, kan avsenderen skjule sin virkelige e-postadresse. Slik kontrollerer du en avsenders virkelige e-postadresse:
+Hvis e-post fra en blokkert avsender fremdeles vises i Outlook.com-innboksen, kan det hende at avsenderen skjuler den virkelige e-postadressen. Slik kontrollerer du den virkelige e-postadressen til en avsender:
   
-1. Velg de tre prikkene <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- øverst i meldingsvinduet, og velg **Vis meldingskilde**.
-2. Rull ned til du finner **Fra-feltet** i **meldingskildevinduet.**
-3. Merk e-postadressen som \< \> er vedlagt, og høyreklikk for å **kopiere**
-4. Bruk adressen du kopierte, til å blokkere avsenderen. Hvis du vil vite hvordan du blokkerer avsendere, kan du se [Merke e-post som søppelpost eller blokkere avsendere i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. Merk de tre prikkene <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ øverst i meldings vinduet, og velg **Vis meldings kilde**.
+2. Rull ned til du finner **fra** -feltet i vinduet for **meldings kilde** .
+3. Utheve e-postadressen som står i \< \> og høyre klikk for å **kopiere**
+4. Bruk adressen du kopierte til å blokkere avsenderen. Hvis du vil lære hvordan du blokkerer avsendere, kan du se [markere e-post som søppel post eller blokkere avsendere i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Hvis du vil ha mer informasjon, kan du se [Motta e-post fra blokkerte avsendere i Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se [motta e-post fra blokkerte avsendere i Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
