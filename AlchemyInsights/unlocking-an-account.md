@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799060"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657906"
 ---
 # <a name="unlocking-an-account"></a>Låse opp en konto
 
@@ -40,4 +41,4 @@ Hvis en av brukerne er hindret fra å sende en e-postmelding, kan du  [oppheve b
 
 Hvis du vil ha mer informasjon om tilbakestilling av passord, inkludert selvbetjent tilbakestilling av passord, kan du se [Tilbakestille Microsoft 365 for flere forsøk og betale på nett instrumentbusiness-passord](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Tjenesten hindrer en bruker i å sende e-post etter å ha oppdaget bevis på en kompromittert konto og/eller utgående søppelpost. Følg fremgangsmåten for [Svare på en kompromittert e-postkonto i Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)for brukeren, som en forholdsregel.
+Tjenesten hindrer en bruker i å sende e-post etter å ha oppdaget bevis på en kompromittert konto og/eller utgående søppelpost. Følg fremgangsmåten for [Svare på en kompromittert e-postkonto i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)for brukeren, som en forholdsregel.
