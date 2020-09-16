@@ -1,34 +1,35 @@
 ---
-title: 2609-oppbevaring-eller-ediscovery-hold
+title: 2609 – oppbevaring eller eDiscovery-vent
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576893"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727900"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Kan ikke slette elementer i SharePoint Online eller OneDrive for bedrifter
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Kan ikke slette elementer i SharePoint Online eller OneDrive for Business
 
-Du eller brukerne kan ikke slette elementer i SharePoint Online eller OneDrive for bedrifter fordi en oppbevaringspolicy, oppbevaringsetikett eller eDiscovery-sperre brukes på et SharePoint-område på OneDrive-området eller et bestemt element. Dette inkluderer å ikke kunne slette et dokument, en dokumentversjon, en mappe, et dokumentbibliotek, en liste, en app, et område eller en områdesamling. 
+Du eller brukerne kan ikke slette elementer i SharePoint Online eller OneDrive for Business fordi en oppbevarings policy, en oppbevarings etikett eller en eDiscovery-sperring brukes på et SharePoint-område eller et bestemt element. Dette omfatter ikke å slette et dokument, en dokument versjon, en mappe, et dokument bibliotek, en liste, en app, et område eller en nettsteds samling. 
 
-Hvis du vil slette elementer i ett av disse scenariene, må oppbevaringspolicyen, oppbevaringsetiketten eller eDiscovery-sperren fjernes (eller et område må utelates fra en oppbevaringspolicy). Du må enten deaktivere eller utelate respektive sperrer som forårsaker dette problemet. Når en oppbevaringspolicy eller hold er fjernet, kan det ta opptil 24 timer før endringen trer i kraft. 
+Hvis du vil slette elementer i en av disse scenariene, må oppbevarings policyen, oppbevarings etiketten eller eDiscovery-sperringen fjernes (eller et nettsted må ekskluderes fra en oppbevarings policy). Du må enten deaktivere eller utelukke den respektive sperringen som for år saker Dette problemet. Etter en oppbevarings policy eller sperring er fjernet, kan det ta opptil 24 timer før endringen trer i kraft. 
 
-Hvis du vil ha informasjon om de ulike oppbevarings- og hold-funksjonene som kan brukes på SharePoint-områder og OneDrive-kontoer, kan du se ett av følgende emner.
+Hvis du vil ha informasjon om hvordan du kan bruke de forskjellige funksjonene for oppbevaring og venting på SharePoint-nettsteder og OneDrive-kontoer, kan du se ett av følgende emner.
 
-- [Oversikt over oppbevaringspolicyer](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Oversikt over festeetiketter](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Behandle sperrer i Avansert eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [eDiscovery holder](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Policyer for stenging av eldre nettsteder og sletting](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Oversikt over oppbevarings policyer](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Oversikt over oppbevarings etiketter](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Behandle sperringer i avansert eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [eDiscovery-sperringer](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Eldre policyer for avslutning og sletting av område](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
