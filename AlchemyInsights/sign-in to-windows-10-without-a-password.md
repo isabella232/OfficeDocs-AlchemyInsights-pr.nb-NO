@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719962"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Logge på Windows 10 uten å bruke et passord
 
-Hvis du vil unngå å måtte skrive inn et passord ved oppstart av Windows, anbefaler vi at du bruker et av windows Hello-sikre påloggingsalternativene, for eksempel en PIN-kode, ansiktsgjenkjenning eller fingeravtrykk, hvis tilgjengelig. Hvis du virkelig vil deaktivere sikker pålogging, kan du se instruksjonene "Logg på Windows 10 automatisk" nedenfor.
+Vi anbefaler at du bruker et av alternativene for sikker pålogging for Windows Hello, for eksempel en PIN-kode, et ansikts gjenkjenning eller finger avtrykk, hvis det er tilgjengelig for å unngå å måtte skrive inn et passord på Windows-oppstart. Hvis du virkelig vil deaktivere sikker pålogging, kan du se instruksjonene automatisk Logg på Windows 10 nedenfor.
 
-**Sikre Windows Hello-alternativer til kontopassordet**
+**Sikre Windows Hello-alternativer til konto passordet**
 
-Gå til **Innstillinger > Kontoer > Påloggingsalternativer** (eller klikk [her).](ms-settings:signinoptions?activationSource=GetHelp) Tilgjengelige påloggingsalternativer vises. Eksempel:
+Gå til **innstillinger > kontoer > påloggings alternativer** (eller klikk [her](ms-settings:signinoptions?activationSource=GetHelp)). Tilgjengelige påloggings alternativer vil være oppført. Eksempel:
 
-![Påloggingsalternativer.](media/sign-in-options.png)
+![Påloggings alternativer.](media/sign-in-options.png)
 
-Klikk eller trykk på ett av alternativene for å konfigurere det. Neste gang du starter eller låser opp Windows, kan du bruke det nye alternativet i stedet for et passord. 
+Klikk eller trykk et av alternativene for å konfigurere det. Neste gang du starter eller låser opp Windows, vil du kunne bruke det nye alternativet i stedet for et passord. 
 
 **Logge på Windows 10 automatisk**
 
-**Merk:** Automatisk pålogging er praktisk, men introduserer en sikkerhetsrisiko, spesielt hvis PCen er tilgjengelig av flere personer. 
+**Obs**! automatisk pålogging er praktisk, men introduserer en sikkerhets risiko, spesielt hvis PC-en er tilgjengelig for flere personer. 
 
-1. Klikk eller trykk **startknappen** på oppgavelinjen.
+1. Klikk eller trykk **Start** -knappen på oppgave linjen.
 
-2. Skriv inn **netplwiz,** og trykk på Enter-tasten for å åpne Brukerkontoer-vinduet.
+2. Skriv inn **NETPLWIZ** , og trykk Enter-tasten for å åpne Brukerkontoer-vinduet.
 
-3. Klikk kontoen du vil logge på automatisk når Windows starter, i **Brukerkontoer.**
+3. Klikk kontoen du vil logge på automatisk når Windows starter, i **bruker kontoer**.
 
-4. Fjern merket for "Brukere må skrive inn et brukernavn og passord for å bruke denne datamaskinen".
+4. Fjern merket i avmerkings boksen brukere må angi et bruker navn og passord for å bruke denne data maskinen.
 
-    ![Brukere må skrive inn et alternativ for brukernavn og passord.](media/users-must-enter-username.png)
+    ![Brukere må angi et bruker navn og et passord alternativ.](media/users-must-enter-username.png)
 
-5. Klikk på **OK**. Du vil bli bedt om å skrive inn og bekrefte passordet for kontoen du valgte. Klikk **OK** for å fullføre. Neste gang Windows 10 starter, logger den automatisk på kontoen du valgte.
+5. Klikk **OK**. Du blir bedt om å skrive inn og bekrefte passordet for kontoen du valgte. Klikk **OK** for å fullføre. Neste gang Windows 10 starter, vil den automatisk logge på kontoen du valgte.
