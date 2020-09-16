@@ -1,29 +1,30 @@
 ---
-title: Bruke oppsetts- og gjenopprettingsassistenten til å feilsøke OneDrive for Business
+title: Bruke assistenten for installasjon og gjenoppretting til å feilsøke OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710632"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749343"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Løse synkroniseringsproblemer med OneDrive
 
-Støtte- og gjenopprettingsassistent-appen kan hjelpe deg med å identifisere og løse vanlige problemer med synkronisering av OneDrive-filer. 
+Appen for støtte og gjenopprettings assistent kan hjelpe deg med å identifisere og løse vanlige problemer med å synkronisere OneDrive-filer. 
   
-[Last ned støtte- og gjenopprettingsassistenten](https://aka.ms/sara), logg på med jobb- eller skolekontoen, og følg instruksjonene i appen for å feilsøke OneDrive for Business. 
+[Last ned assistenten for støtte og gjenoppretting](https://aka.ms/sara), Logg på med jobb-eller skole kontoen, og følg instruksjonene i appen for å feilsøke OneDrive for Business. 
   
-[Flere feilsøkingstrinn](https://go.microsoft.com/fwlink/?linkid=872097)
+[Flere feil søkings trinn](https://go.microsoft.com/fwlink/?linkid=872097)
   
 
