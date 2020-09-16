@@ -1,34 +1,35 @@
 ---
-title: Opprette fellesmapper
+title: Opprette felles mapper
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715369"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746696"
 ---
-# <a name="creating-public-folders"></a>Opprette fellesmapper
+# <a name="creating-public-folders"></a>Opprette felles mapper
 
-Før brukerne kan bruke fellesmapper, må du opprette minst én fellesmappepostboks. Slik oppretter du:
+Før brukerne kan bruke felles mapper, må du opprette minst én felles mappe post boks. Slik oppretter du:
   
-1. Gå til **Administrasjonssentre for Administrasjonssentre** \> **for**Microsoft 365.
+1. I administrasjons senteret for Microsoft 365 går du til **administrasjons sentre** \> **Exchange**.
 
-2. Naviger til **Fellesmapper** \> **Fellesmapper postbokser**, og klikk deretter **Legg til**.
+2. Gå til **felles mappene** \> **Felles mappe post bokser**, og klikk deretter **Legg til**.
 
-3. Angi et navn for fellesmappepostboksen i **postboksen for fellesmapper.**
+3. Skriv inn et navn for felles mappe post boksen i **post boksen i felles mappen**.
 
-4. Klikk **Lagre**.
+4. Klikk på **Lagre**.
 
-Når en postboks er opprettet, kan du begynne å opprette individuelle mapper eller be brukerne om å begynne å [opprette og bruke fellesmapper i Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Når du har opprettet en post boks, kan du begynne å opprette individuelle mapper eller be brukerne om å [begynne å opprette og bruke felles mapper i Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
