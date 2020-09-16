@@ -1,39 +1,40 @@
 ---
-title: Løse feil i produktet uten lisens
+title: Løse ulisensiert produkt-feil
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737962"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til løsning av "Ulisensiert produkt" feil
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til å løse feil i «ulisensiert produkt»
 
-Hvis du vil løse feil om et "Ulisensiert produkt", kan du prøve følgende:
+Hvis du vil løse feil om et "ulisensiert produkt", kan du prøve følgende:
 
-- Kontroller om abonnementsstatusen er utløpt.
-- Kontroller at du har et abonnement som tillater klientlisenser, for eksempel Microsoft 365 Apps for business eller Business Premium, og [kontroller at brukeren har en tilordnet lisens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
-- Kontroller at brukeren logger på Office med samme konto som har tilordnet lisensen.
-- Kontroller [siden For å](https://docs.microsoft.com/office365/enterprise/view-service-health) se om det er kjente problemer med tjenesten.
-- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Tilgang til Internett for Microsoft 365-apper. Se [URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kontroller om abonnements statusen er utløpt.
+- Kontroller at du har et abonnement som tillater klient lisenser, for eksempel Microsoft 365-apper for Business eller Business Premium, og [at brukeren har en lisens som er tilordnet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Kontroller at brukeren logger på Office med den samme kontoen som er tilordnet lisensen.
+- Kontroller [tjeneste tilstands IDen](https://docs.microsoft.com/office365/enterprise/view-service-health) for å se om det er noen kjente problemer med tjenesten.
+- Kontroller brann muren, antivirus program varen og proxy-innstillingene for å bekrefte at de ikke blokkerer Microsoft 365-apper tilgang til Internet t. Se [URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-Du kan også prøve følgende feilsøkingshandlinger: 
+Du kan også prøve følgende feil søkings handlinger: 
 
-- Åpne en Office-app, og [logg](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) av eventuelle eksisterende brukerkontoer. [Fjern](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) og [tilordne Office-lisensen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) på nytt, og logg deretter [på Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) ved hjelp av den berørte brukerkontoen.
-- Kjør [feilsøking for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
+- Åpne en Office-app og [Logg](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) av eksisterende bruker kontoer. [Fjern](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) og [Tilordne Office-](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lisensen på nytt, og [Logg deg](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) deretter på Office ved hjelp av den berørte bruker kontoen.
+- Kjør [feil søkings verktøyet for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
 - [Tilbakestill aktiveringsstatusen for Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
-- [Utføre en elektronisk reparasjon av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Utføre en tilkoblet reparasjon av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 Hvis du trenger ytterligere feilsøkingsløsninger, kan du se: 
 

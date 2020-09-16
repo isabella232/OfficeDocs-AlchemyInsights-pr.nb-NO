@@ -6,30 +6,31 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e14bd6b4ddd0b4fbe5a6f0991e7f12009c9a2137
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582352"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739330"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Slik deler du i SharePoint Online
 
 Slik deler du et nettsted:
   
-1. Åpne området i en nettleser.
+1. Åpne nettstedet i en nett leser.
     
-2. Hvis området tilhører en Microsoft 365-gruppe, klikker du Innstillinger-ikonet øverst til høyre, og deretter klikker du **Områdetillatelser**. Klikk **Inviter personer**, og velg deretter å legge til medlemmer i Microsoft 365-gruppen eller bare dele området. 
+2. Hvis området tilhører en Microsoft 365-gruppe, klikker du innstillinger-ikonet øverst til høyre, og deretter klikker du **område tillatelser**. Klikk **Inviter personer**, og velg deretter å legge til medlemmer i Microsoft 365-gruppen eller bare dele området. 
     
-    For et kommunikasjonsområde klikker du **Del område** øverst til høyre, skriver inn personens navn og velger deretter tillatelsesnivået (Les, Rediger eller Full kontroll). 
+    Hvis du vil ha et kommunikasjons område, klikker du **del område** øverst til høyre, skriver inn navnet på personen og velger deretter tilgangs nivået (Les, Rediger eller full kontroll). 
     
-    Klikk **Del** øverst til høyre for et klassisk gruppeområde. Skriv inn navnet på personen du vil invitere, eller skriv inn Alle for å dele med alle i organisasjonen. Klikk **Del**.
+    For et klassisk gruppe nettsted klikker du på **del** øverst til høyre. Skriv inn navnet på personen du vil invitere, eller skriv alle som skal deles med alle i organisasjonen. Klikk **del**.
     
-[Lær hvordan du deler en fil eller mappe](https://go.microsoft.com/fwlink/?linkid=511430)
+[Lær hvordan du deler en fil eller en mappe](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
