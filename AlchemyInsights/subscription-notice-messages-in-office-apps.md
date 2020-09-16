@@ -1,24 +1,25 @@
 ---
-title: Abonnementsvarsler i Office-apper
+title: Melding om abonnements meldinger i Microsoft 365-apper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789203"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659247"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Abonnementsvarsler i Office-apper
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Melding om abonnements meldinger i Microsoft 365-apper
 
 - Hvis Office var forhåndsinstallert på den nye enheten din, kan du ta en titt på [Aktivere Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) for å få hjelp med å aktivere Office på den nye enheten.
 
@@ -32,10 +33,10 @@ ms.locfileid: "43789203"
 
 - Kjør [feilsøkingsverktøyet for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) og start datamaskinen på nytt.
 
-- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Hvis du vil ha detaljerte instruksjoner, kan du ta en titt på: 
 
-[Et abonnementsvarsel vises når jeg åpner en Microsoft 365-app](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Et abonnementsvarsel vises når jeg åpner et Microsoft 365-program](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Feilsøking av problemer med Office-aktivering](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

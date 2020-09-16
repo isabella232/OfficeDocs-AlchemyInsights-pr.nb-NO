@@ -1,54 +1,55 @@
 ---
-title: Feilsøke distribusjon av klientgodkjenningssertifikat
+title: Feilsøke distribusjon av klient godkjennings sertifikat
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 698329d7705af320c9f679b92532b58ac84e6624
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555304"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658995"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Feilsøke distribusjon av klientgodkjenningssertifikat
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Feilsøke distribusjon av klient godkjennings sertifikat
 
-Intune NDES/SCEP- og PKCS/PFX Client-sertifikatprofiler brukes ofte sammen med andre profiler som Wifi, VPN og e-post for å tillate brukere å godkjenne til bedriftsressurser. Når disse profiltypene er koblet til en klientsertifikatprofil, avhenger av vellykket distribusjon av denne profilen.
+Intune NDES/SCEP-og PKCS/PFX-klient sertifikat profiler brukes ofte sammen med andre profil typer, for eksempel WiFi, VPN og e-post, slik at brukere kan godkjenne til firma ressurser. Når disse profil typene er koblet til en klient sertifikat profil, er avhengig av vellykket distribusjon av profilen.
 
-Første infrastrukturoppsett og tilknyttet konfigurasjon av klientsertifikatprofilen krever ofte feilsøking. Hvis du vil ha en trinnvis veiledning for vellykket oppsett av NDES-koblingen og feilsøkingsveiledningen for å isolere problemer med sertifikatdistribusjon, kan du se: 
+Innledende infrastruktur konfigurasjon og tilknyttet konfigurasjon av klient sertifikat profilen krever ofte feil søking. Hvis du vil ha en trinnvis veiledning for vellykket konfigurasjon av NDES Connector og veiledning for feil søking for å isolere problemer med sertifikat distribusjon, kan du se: 
 
-- [Konfigurere infrastruktur for å støtte SCEP med Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Oversikt for feilsøking av SCEP-sertifikatprofiler med Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Konfigurere infrastrukturen til å støtte SCEP med Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Oversikt over feil søking av SCEP-sertifikat profiler med Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Bruk de refererte powershell-skriptene til å bekrefte konfigurasjonen. Hvis du vil ha mer informasjon, kan du se [Skript for bekreftelse av Intune Sertifikat-kobling](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Bruk de refererte PowerShell-skriptene for å bekrefte konfigurasjonen. Hvis du vil ha mer informasjon, kan du se [verifiserings skript for Intune Certificate Connector](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
 
   
 **Andre vanlige problemer**
 
-**Når jeg prøver å installere Intune sertifikatkoblingen på NDES connector-serveren, får jeg meldingen "Passordet i sertifikatforespørselen kan ikke bekreftes. Det kan ha blitt brukt allerede. Få et nytt passord å sende inn med denne forespørselen."**  
+**Når jeg prøver å installere Intune Certificate Connector på NDES Connector-serveren, får jeg meldingen «passordet i sertifikat forespørselen kan ikke bekreftes. Den kan allerede ha blitt brukt. Få et nytt passord for å sende med denne forespørselen.**  
 
-Denne meldingen betyr at du må kjøre installasjonen av sertifikatkoblingen som administrator.
+Denne meldingen betyr at du må kjøre Certificate Connector-installasjonen som administrator.
 
-I noen miljøer må serverne der Intune-sertifikatet kjører, bruke en proxy-server til å koble til Intune, og derfor må sertifikatkoblingen bruke en proxy. I noen tilfeller ignorerer NDES Connector de konfigurerte proxy-innstillingene, og det kan være nødvendig å konfigurere proxy-innstillingene mens du kjører i sikkerhetskonteksten for LocalSystem. 
+I enkelte miljøer må serverne der Intune-sertifikatet kjører, bruke en proxy-server til å koble seg til Intune, og derfor må sertifikat koblingen bruke en proxy. I enkelte tilfeller ignorerer NDES Connector de konfigurerte proxy-innstillingene, og det kan være nødvendig å konfigurere proxy-innstillingene mens du kjører i sikkerhets omgivelsene til LocalSystem. 
  
-Løsningen er å kjøre Internet Explorer som SYSTEM og konfigurere en proxy i IE. Etter en omstart av Intune Connector Service, kobler NDES-kontakten til Intune.
+Løsningen er å kjøre Internet Explorer som SYSTEM og konfigurere en proxy i IE. Når tjenesten Intune Connector er startet på nytt, kobles NDES Connector til Intune.
 
-**Brukerenheter mottar ikke lenger SCEP-sertifikater fra NDES.**
+**Bruker enheter mottar ikke lenger SCEP-sertifikater fra NDES.**
 
-Det er mulig at klientgodkjenningssertifikatet som er utstedt til NDES-serveren, og angitt under installasjonen av NDES-koblingen, er utløpt eller mangler. Slik løser du: 
+Det er mulig at klient godkjennings sertifikatet som er utstedt til NDES server, og som ble angitt under installasjonen av NDES Connector, er utløpt eller mangler. Slik løser du: 
  
-1. Avinstaller NDES-kontakten.  
-2. Bruk disse detaljene til å be om en ny klientgodkjenning eller servergodkjenningssertifikat: 
+1. Avinstaller NDES Connector.  
+2. Bruk disse detaljene til å be om et nytt klient godkjenning eller sertifikat for servergodkjenning: 
  
-    - Emnenavn: CN=external fqdn  
-    - Emne alternativ navn (begge er nødvendig): DNS = ekstern fqdn, DNS = intern fqdn 
+    - Emnenavn: CN = eksternt FQDN  
+    - Alternativt navn for emne (begge er nødvendige): DNS = eksternt FQDN, DNS = intern FQDN 
  
-3. Installer NDES-koblingen på nytt med det nye sertifikatet.
+3. Installer NDES Connector med det nye sertifikatet.
