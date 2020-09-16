@@ -1,31 +1,32 @@
 ---
-title: For fellesmappemigreringsgruppe med CompletedWithErrors-status
+title: For masse overføring av felles mappe med CompletedWithErrors-status
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158624"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744122"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>For fellesmappemigreringsgruppe med CompletedWithErrors-status
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>For masse overføring av felles mappe med CompletedWithErrors-status
 
-Bruk følgende fremgangsmåte for å fullføre den satsvise jobben, og hopp over de store/dårlige varene: 
-1. Godkjenne de hoppede varene på migreringsgruppen:
+Følg Fremgangs måten nedenfor for å fullføre den satsvise jobben, og hopp over de store/dårlige elementene: 
+1. Godkjenn de hoppet over elementene på overførings gruppen:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Bruk følgende kommando til å godkjenne de hoppede elementene på overføringsforespørsler som er "Synkronisert", men ikke fullført:
+2. Bruk følgende kommando for å godkjenne de hoppet over elementene på overførings forespørsler som er "synkronisert", men ikke fullført:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Migreringsgruppen og forespørslene skal gjenopptas og fullføres om noen få minutter.
+3. Overførings gruppen og forespørslene skal fortsette og full føres om noen minutter.
 

@@ -1,31 +1,32 @@
 ---
-title: Standard fornying ser ut til å være
+title: Standard Forny subsscription
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062257"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745868"
 ---
 # <a name="renewing-your-subscription"></a>Fornye abonnementet
 
-Hvis du betaler med kredittkort eller bankkonto, er regelmessig fakturering aktivert som standard. Når regelmessig fakturering er på, faktureres abonnementet fortsatt hvert år den dagen du abonnerte. Du kan slå den av eller på igjen i administrasjonssenteret hvis abonnementet er aktivt.
+Hvis du betaler med kreditt kort eller bank konto, er regelmessig fakturering aktivert som standard. Når regelmessig fakturering er aktivert, blir abonnementet ditt fortsatt fakturert hvert år på den dagen du abonnerer på. Du kan slå den av eller på igjen i administrasjons senteret hvis abonnementet ditt er aktivt.
 
-Hvis du forhåndsbetalte abonnementet med en produktnøkkel, utløper abonnementet på slutten av abonnementsperioden. Du kan slå på regelmessig fakturering og oppgi kredittkort- eller bankkontoinformasjon slik at abonnementet fortsetter å bli fakturert hvert år den dagen du abonnerte.
+Hvis du forhånds viser abonnementet med en produkt nøkkel, utløper abonnementet på slutten av abonnements perioden. Du kan slå på regelmessig fakturering og oppgi kreditt kort-eller bank konto informasjon, slik at abonnementet fortsetter å faktureres hvert år på den dagen du har abonnert.
 
 Slik slår du på regelmessig fakturering: 
 
-1. Gå til **Fakturering**  >  **[av produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Velg abonnementet du vil administrere regelmessig fakturering for.
-3. Velg **Rediger** og gjør endringene i vinduet **Innstillinger for regelmessig fakturering** under **Fakturering.** 
+1. Gå til **fakturering**  >  **[av produktene](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Velg abonnementet du vil behandle regelmessig fakturering for.
+3. Under **fakturering**velger du **Rediger** og gjør endringene i vinduet for **regelmessige fakturerings innstillinger** . 
