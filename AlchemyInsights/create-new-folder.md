@@ -1,28 +1,29 @@
 ---
-title: 8000059 opprette ny mappe
+title: 8000059 Opprett ny mappe
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 67ed45120474b6b85971e5ba44e2d77ebe0ed283
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e07d753afbe3d171981824236943966362c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769492"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732472"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a>Opprett en ny mappe i Outlook.com
+# <a name="create-a-new-folder-in-outlookcom"></a>Opprette en ny mappe i Outlook.com
 
-1. Velg **ny mappe**under **mapper** i navigasjonsruten.
+1. Velg **ny mappe**under **mapper** i navigasjons ruten.
 
-2. Skriv inn et navn for mappen, og trykk ENTER.
+2. Skriv inn et navn på mappen, og trykk ENTER.
 
-Hvis du vil vite mer, kan du se [opprette en mappe i Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se [opprette en mappe i Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).
   
