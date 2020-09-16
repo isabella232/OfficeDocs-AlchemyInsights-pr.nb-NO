@@ -1,66 +1,67 @@
 ---
-title: Oppbevaringspolicyer i Exchange administrasjonssenter fungerer ikke
+title: Oppbevarings policyer i Exchange admin Center fungerer ikke
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740519"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Oppbevaringspolicyer i Administrasjonssenter for Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Oppbevarings policyer i administrasjons senteret for Exchange
 
-Hvis du vil at vi skal kjøre automatiserte kontroller for innstillingene som er nevnt nedenfor, velger du tilbakeknappen < - øverst på denne siden, og deretter skriver du inn e-postadressen til brukeren som har problemer med oppbevaringspolicyer.
+Hvis du vil at vi skal kjøre automatiske kontroller for innstillingene som nevnes nedenfor, velger du tilbake-knappen < øverst på siden, og deretter skriver du inn e-postadressen til brukeren som har problemer med oppbevarings policyer.
 
- **Utgave:** Nylig opprettede eller oppdaterte oppbevaringspolicyer i Administrasjonssenter for Exchange gjelder ikke for postbokser eller elementer flyttes ikke til arkivpostboksen eller slettes. 
+ **Problem:** Nylig opprettede eller oppdaterte oppbevarings policyer i administrasjons senteret for Exchange gjelder ikke for post bokser eller elementer flyttes ikke til arkiv post boksen eller slettes. 
   
- **Grunnårsaker:**
+ **Hoved årsaker:**
   
-- Dette kan skyldes **at administrert mappeassistent** ikke har behandlet brukerens postboks. Administrert mappeassistent prøver å behandle hver postboks i den skybaserte organisasjonen én gang hver sjuende dag. Hvis du endrer en oppbevaringskode eller bruker en annen oppbevaringspolicy på en postboks, kan du vente til administrert mappehjelp behandler postboksen, eller du kan kjøre cmdleten Start-ManagedFolderAssistant for å starte administrertmappeassistent for å behandle en bestemt postboks. Hvis du kjører denne cmdleten, kan du prøve eller feilsøke en oppbevaringspolicy eller innstillinger for oppbevaringskode. Hvis du vil ha mer informasjon, kan du gå [til Kjør assistenten for administrerte mapper](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Dette kan være fordi **assistenten for forvaltede mapper** ikke har behandlet brukerens post boks. Den forvaltede mappe assistenten prøver å behandle alle post bokser i en sky BAS ert organisasjon én gang i løpet av sju dager. Hvis du endrer en oppbevarings kode eller bruker en annen oppbevarings policy i en post boks, kan du vente til den administrerte mappe assistenten behandler post boksen, eller du kan kjøre Start-ManagedFolderAssistant-cmdleten for å starte en bestemt post boks i den forvaltede mappe. Hvis du kjører denne cmdleten, er det nyttig å teste eller feilsøke en oppbevarings kode-innstilling. Hvis du vil ha mer informasjon, kan du se [kjøre assistenten for forvaltede mapper](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Løsning:** Kjør følgende kommando for å starte administrert mappeassistent for en bestemt postboks:
+  - **Løsning:** Kjør følgende kommando for å starte den forvaltede mappe assistenten for en bestemt post boks:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Dette kan også skje hvis **RetentionHold** er **aktivert** på postboksen. Hvis postboksen er plassert på en RetentionHoldhold, behandles ikke oppbevaringspolicyen på postboksen i løpet av denne tiden. Hvis du vil ha mer informasjon om oppbevaringshold-innstillingen, kan du se Postboks [oppbevaring hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Dette kan også skje hvis **RetentionHold** er **aktivert** på post boksen. Hvis post boksen er plassert på en RetentionHold, blir ikke oppbevarings policyen i post boksen behandlet i den perioden. Hvis du vil ha mer informasjon på RetentionHold-innstillingen, kan du se: [Oppbevarings plass for post boks](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Løsning:**
+    **Løsning**
     
-  - Kontroller statusen for RetentionHoldHold-innstillingen på den bestemte postboksen i [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Kontroller statusen for RetentionHold-innstillingen for den bestemte post boksen i [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Kjør følgende kommando for å **deaktivere** RetentionHold på en bestemt postboks:
+  - Kjør følgende kommando for å **deaktivere** RetentionHold for en bestemt post boks:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Kjør nå assistenten for administrerte mapper på nytt:
+  - Kjør deretter den administrerte mappe assistenten på nytt:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Merk:** Hvis en postboks er mindre enn 10 MB, behandler ikke assistenten for administrerte mapper automatisk postboksen.
+ **Obs!** Hvis en post boks er mindre enn 10 MB, vil ikke assistenten for forvaltet mappe automatisk behandle post boksen.
  
-Hvis du vil ha mer informasjon om oppbevaringspolicyer i administrasjonssenteret for Exchange, kan du se:
-- [Oppbevaringskoder og oppbevaringspolicyer](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Bruke en oppbevaringspolicy for postbokser](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Legge til eller fjerne oppbevaringskoder](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Slik identifiserer du typen hold som er plassert på en postboks](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+Hvis du vil ha mer informasjon om oppbevarings policyer i administrasjons senteret for Exchange, kan du se:
+- [Oppbevarings koder og oppbevarings policyer](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Bruke en oppbevarings policy på post bokser](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Legge til eller fjerne oppbevarings koder](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Identifisere hvilken type sperring som skal plasseres i en post boks](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

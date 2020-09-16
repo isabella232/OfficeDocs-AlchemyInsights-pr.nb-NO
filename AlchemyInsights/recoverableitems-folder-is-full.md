@@ -1,44 +1,45 @@
 ---
-title: 1336 RecoverableItems mappen er full
+title: 1336 RecoverableItems-mappen er full
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741276"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>Mappen Gjenopprettelige elementer er full
+# <a name="the-recoverable-items-folder-is-full"></a>Mappen gjen opprettelige elementer er full
 
-For Exchange Online-postbokser er standard lagringsgrense for mappen Gjenopprettelige elementer 30 GB. Lagringsgrensen for mappen Gjenopprettelige elementer økes automatisk til 100 GB hvis postboksen er plassert på prosedyresperre, eDiscovery hold eller er tilordnet til en oppbevaringspolicy.
+For Exchange Online-postbokser er standard lagrings grense for mappen gjen opprettelige elementer 30 GB. Lagrings grensen for mappen gjen opprettelige elementer økes automatisk til 100 GB hvis post boksen er plassert på en rettslig sperre, i eDiscovery-sperring eller tilordnes til en oppbevarings policy.
 
-Når mappen Gjenopprettelige elementer når lagringsgrensen, påvirkes postboksfunksjonaliteten på følgende måter:
+Når mappen gjen opprettelige elementer når lagrings grensen, påvirkes post boks funksjonaliteten på følgende måter:
 
-- Brukeren kan ikke slette elementer fra postboksen.
+- Brukeren kan ikke slette elementer fra post boksen.
 
-- Administrert mappeassistent kan ikke slette elementer basert på lagringskode eller administrerte mappeinnstillinger.
+- Assistenten for forvaltede mapper kan ikke slette elementer basert på oppbevarings kode eller innstillinger for forvaltede mapper.
 
-- For postbokser som har enkel elementgjenoppretting aktivert eller er plassert på vent, kan ikke beskyttelsesprosessen for copy-on-write-siden vedlikeholde versjoner av elementer som er redigert av brukeren.
+- For post bokser som har en enkelt vare gjenoppretting aktivert eller som er satt på vent, kan ikke tillatelse til å opprettholde versjonen av elementer som er redigert av brukeren, bli behandlet.
 
-- For postbokser som har postboks overvåking logging aktivert, ingen postboks overvåkingsloggoppføringer kan lagres i undermappen overvåkingser i mappen Gjenopprettelige elementer.
+- For post bokser der overvåkings logging for post boks er aktivert, kan ikke oppføringer i overvåkings loggen for post boksen lagres i overvåkings under mappen i mappen gjen opprettelige elementer.
 
-For postbokser som ikke er på vent, kan administratorer bruke `Search-Mailbox -SearchDumpsterOnly -DeleteContent` kommandoen i Exchange Online PowerShell til å slette elementer i mappen Gjenopprettelige elementer. Hvis du vil ha mer informasjon, kan du se følgende emner:
+For post bokser som ikke er på vent, kan administratorer bruke `Search-Mailbox -SearchDumpsterOnly -DeleteContent` kommandoen i Exchange Online PowerShell til å slette elementer i mappen gjen opprettelige elementer. Hvis du vil ha mer informasjon, kan du se følgende emner:
 
 - [Søke etter og slette meldinger](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
-- [Søkepostboks](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Søk – post boks](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-For postbokser som er på vent, må administratorer fjerne sperren før de kan slette elementer fra mappen Gjenopprettelige elementer. Hvis du vil ha mer informasjon, kan du se [Slette elementer i mappen Gjenopprettelige elementer i skybaserte postbokser på vent](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+For post bokser som er på vent, må administratorer fjerne sperringen før de kan slette elementer fra mappen gjen opprettelige elementer. Hvis du vil ha mer informasjon, kan du se [slette elementer i mappen gjen opprettelige elementer i Sky BAS ert post bokser på vent](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Hvis du vil hindre at mappen Gjenopprettelige elementer blir fullstendige, kan administratorer øke lagringsgrensen for mappen Gjenopprettelige elementer for postbokser som er på vent og konfigurere en postboksoppbevaringspolicy som flytter elementer fra mappen Gjenopprettelige elementer til brukerens arkivpostboks. Se [Øke kvoten gjenopprettelige elementer for postbokser på vent](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+For å hindre at mappen gjen opprettelige elementer blir full, kan administratorer øke lagrings grensen for mappen gjen opprettelige elementer for post bokser på vent og konfigurere en oppbevarings policy for post boks som flytter elementer fra mappen gjen opprettelige elementer til brukerens arkiv post boks. Se [øke gjenopprettende element kvoten for post bokser som er sperret](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
