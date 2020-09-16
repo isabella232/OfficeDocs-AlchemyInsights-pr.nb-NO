@@ -1,27 +1,28 @@
 ---
-title: Dele videoene dine i Microsoft Stream
+title: Del videoene dine i Microsoft stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44015770"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727324"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Dele videoene dine i Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>Del videoene dine i Microsoft stream
 
-Det kan være lurt å dele videoer i Microsoft Stream med personer som ellers ikke har tilgang. Du kan dele videoene dine på flere måter:
+Du vil kanskje dele videoer i Microsoft stream med personer som ikke har tilgang til andre. Det finnes ulike måter å dele videoer på:
 
-- [Dele videoene dine i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Del videoene dine i Microsoft stream](https://docs.microsoft.com/stream/portal-share-video)
 
-- [Tillatelser for videoen din](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [Tillatelser på videoen](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
