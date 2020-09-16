@@ -1,33 +1,34 @@
 ---
-title: Konvertere et nettsted til et hub-område
+title: Konvertere et område til et hub-område
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: c911972a7ccd689e57455ec3e283842bf6f5d7a5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705598"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733012"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Opprette et SharePoint-hubområde
+# <a name="create-a-sharepoint-hub-site"></a>Opprette et SharePoint-hub-nettsted
 
-1. Klikk **Aktive områder**under **Områder**i det nye administrasjonssenteret for SharePoint.
+1. Klikk **aktive områder**under **områder**i det nye administrasjons senteret for SharePoint.
 
-2. Velg området du vil være et hubområde, klikk **Hub-område**, og klikk deretter **Registrer som hubområde**.
+2. Velg nettstedet du vil bruke som hub-område, klikk på **hub-området**, og klikk deretter på **Registrer som hub-område**.
 
-3. Skriv inn et visningsnavn for hubområdet, og angi de enkelte brukerne eller sikkerhetsgruppene du vil tillate å knytte områder til huben.
+3. Skriv inn et visnings navn for hub-nettstedet, og angi de individuelle brukerne eller sikkerhets gruppene du vil tillate å knytte områder til huben.
 
     > [!NOTE]
-    >  Vi anbefaler at du velger et kommunikasjonsområde eller et gruppeområde som bruker den nye malen. Hvis du bruker et klassisk gruppeområde, vises hubnavigasjonen bare på moderne sider, og innstillinger for hub-område vises bare på moderne sider. Nettsteder som allerede er knyttet til en annen hub, kan ikke registreres som et hubområde.
+    >  Vi anbefaler at du velger et kommunikasjons område eller et gruppe nettsted som bruker den nye malen. Hvis du bruker et klassisk gruppe nettsted, vises hub-navigasjonen bare på moderne sider, og innstillinger for hub-nettsted vil bare vises på moderne sider. Områder som allerede er knyttet til en annen hub, kan ikke registreres som et hub-område.
   
-[Finn ut mer om hubnettsteder](https://go.microsoft.com/fwlink/?linkid=869149)
+[Finn ut mer om hub-områder](https://go.microsoft.com/fwlink/?linkid=869149)
   

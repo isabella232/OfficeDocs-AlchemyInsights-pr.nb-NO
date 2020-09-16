@@ -1,28 +1,29 @@
 ---
-title: Slik avslutter du Skrivebordsanalyse-kontoen
+title: Slik lukker du skrive bords analyse kontoen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771116"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725632"
 ---
-# <a name="working-with-desktop-analytics"></a>Arbeide med Skrivebordsanalyse
+# <a name="working-with-desktop-analytics"></a>Arbeide med skrive bords analyse
 
-Det ser ut som du spør om Desktop Analytics. Vi kan kanskje hjelpe til med et mer presist svar hvis du omformulerer spørsmålet ditt.
+Det ser ut til at du blir spurt om skrive bords analyse. Vi vil kanskje kunne hjelpe deg med et mer nøyaktig svar hvis du omformulerer spørsmålet.
 
-- [Hva er Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Slik konfigurerer du Skrivebordsanalyse](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Hva er skrive bords analyse?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Slik konfigurerer du skrive bords analyse](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Vanlige spørsmål](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Feilsøk skrivebordsanalyse](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Feilsøke skrive bords analyse](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
