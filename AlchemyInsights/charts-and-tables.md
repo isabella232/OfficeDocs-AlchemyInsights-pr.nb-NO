@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 260c9b74fdd99bb1ecef58307d1ac7629c05909a
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554267"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812484"
 ---
 # <a name="common-issues-with-tables"></a>Vanlige problemer med tabeller 
 
-Her er noen ofte forespurte emner relatert til arbeid med tabeller og diagrammer i Word.
+Her er noen vanlige emner relatert til å arbeide med tabeller og diagrammer i Word.
 
-Se [åpne et dokument etter en fil ødeleggelse feil](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) å reparere en skadet tabell i Word:
+Se [åpne et dokument etter en fil skade feil](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) for å reparere en skadet tabell i Word:
 
- 1. Velg **fil** > **Åpne** > **Bla gjennom**i Word.
+ 1. Velg åpne på **fil**-  >  **Open**  >  **visning**i Word.
  2. Velg filen med den skadede tabellen.
  3. Velg pilen ved siden av **Åpne**, og velg **åpne og reparer**.
 
