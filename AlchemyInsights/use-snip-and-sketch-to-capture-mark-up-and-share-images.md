@@ -1,39 +1,40 @@
 ---
-title: Bruk Klipp & Sketch til å ta opp, markere og dele bilder
+title: Bruke klipp & skisser til å ta, markere og dele bilder
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584486"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773208"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Bruk Klipp & Sketch til å ta opp, markere og dele bilder
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Bruke klipp & skisser til å ta, markere og dele bilder
 
-Skjermskisse kalles nå **Klipp & Sketch**. **Slik tar du raskt et klipp**:
+Skjerm skisse kalles nå **klipp & skisser**. **Slik kan du få et klipp raskt**:
 
-1. Trykk **Windows-logotasten + Skift + S**. Du ser skjermen mørkere og markøren vises som et kors. 
+1. Trykk **Windows-tasten + SKIFT + S**. Du ser skjermen mørkere, og markøren vises som et kryss. 
 
-2. Velg et punkt på kanten av området du vil kopiere, og klikk markøren til venstre. 
+2. Velg et punkt på kanten av området du vil kopiere, og venstre klikk markøren. 
 
-3. Flytt markøren for å utheve området du vil ta opp. Området du tar opp, vises på skjermen.
+3. Flytt markøren for å utheve området du vil ta bilde av. Området du tar opp, vises på skjermen.
 
-   ![bilde av uthevet valg](media/snipone.png)
+   ![bilde av uthevet utvalg](media/snipone.png)
 
-Bildet du klippet, lagres på utklippstavlen, klar til å lime inn i en e-post eller et dokument. 
+Bildet du utklippet, er lagret på utklipp stav len, klart for innliming i en e-postmelding eller et dokument. 
 
 **Hvis du vil redigere eller vise bildet**: 
 
-- Klikk på varslingsikonet helt til høyre på oppgavelinjen. klikk deretter på bildet du nettopp har tatt. Klippet åpnes i Klipp & Sketch-appen.
+- Klikk varslings ikonet helt til høyre på oppgave linjen. Klikk deretter bildet du nettopp har tatt opp. Klippet åpnes i utklipps & skisser-appen.
 
-   ![bilde av bilde som vises i utklippsappen](media/sniptwo.png)
+   ![bilde av bilde som vises i utklipps programmet](media/sniptwo.png)
