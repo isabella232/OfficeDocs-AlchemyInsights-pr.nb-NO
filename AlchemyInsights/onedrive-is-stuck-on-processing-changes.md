@@ -1,10 +1,11 @@
 ---
-title: OneDrive sitter fast på behandlingsendringer
+title: OneDrive er fast for behandling av endringer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 6bb3eb01a1ea70ec29298a649c76a634cc90856d
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708469"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802642"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive sitter fast på behandlingsendringer
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive er fast for behandling av endringer
 
-Hvis OneDrive viser "Behandling av endringer" i lang tid, kan det skyldes at du har en elektronisk fil åpen, mange filer som sitter fast i en kø eller en veldig stor filsynkronisering. Les [OneDrive sitter fast på "Behandling av endringer"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) for foreslåtte trinn og mer informasjon.
+Hvis OneDrive viser «behandler endringer» i en lang periode, kan det skyldes at du har en tilkoblet fil åpen, mange filer som sitter i en kø, eller en svært stor fil synkronisering. Les  [OneDrive er låst på «behandler endringer»](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) for å få forslag til trinn og mer informasjon.
 
-Hvis du trenger mer hjelp, kan du [sende OneDrive-støtte via e-post](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Hvis du trenger mer hjelp, kan du  [støtte for e-post i OneDrive](https://go.microsoft.com/fwlink/p/?LinkId=528676).

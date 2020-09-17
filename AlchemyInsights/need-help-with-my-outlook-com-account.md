@@ -1,29 +1,30 @@
 ---
-title: Trenger hjelp med min Outlook.com konto
+title: Trenger du hjelp med Outlook.com-kontoen min
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288292"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803290"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Trenger hjelp med min Outlook.com konto
+# <a name="need-help-with-my-outlookcom-account"></a>Trenger du hjelp med Outlook.com-kontoen min
 
-Hvis du trenger hjelp med Outlook.com-tjenesten, har vi dedikert hjelp til å hjelpe deg. Slik får du støtte direkte i nettappen: 
+Hvis du trenger hjelp med Outlook.com-tjenesten, har vi dedikert hjelp til å hjelpe deg. Hvis du vil ha kunde støtte direkte på nett appen: 
 
-1. Klikk på ? -ikonet øverst til høyre på skjermen. 
+1. Klikk på? ikonet øverst til høyre på skjermen. 
 
-2. Skriv inn det du trenger hjelp med i hjelpeboksen som vises på popup-panelet, og klikk **send inn**. 
+2. Skriv inn det du trenger hjelp med, i hjelp-boksen som vises på hurtig panelet, og klikk **Send**. 
 
-3. Hvis en løsning ikke presenteres, kan du bla nedover sidepanelet og klikke **på e-post oss**.
+3. Hvis en løsning ikke vises, kan du rulle ned side panelet og klikke **e-post for oss**.

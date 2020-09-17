@@ -1,24 +1,25 @@
 ---
-title: Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
+title: Microsoft 365-apper melding – finner ikke Office-lisenser som er forbundet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581660"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802786"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-apper melding – finner ikke Office-lisenser som er forbundet
 
 For å løse denne filen prøver du følgende:
 
@@ -38,10 +39,10 @@ Hvis problemet vedvarer, kan du prøve følgende fremgangsmåte:
 
 - Tilbakestill aktiveringsstatusen for Office. Se [Tilbakestille Microsoft 365-apper for tilstand for organisasjonsaktivering](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Microsoft 365-apper tilgang til Internett. 
+- Kontroller brann muren, antivirus program varen og proxy-innstillingene for å bekrefte at de ikke blokkerer Microsoft 365-apper tilgang til Internet t. 
 
 Hvis du trenger ytterligere feilsøkingsløsninger, kan du se:
 
 [Feil ved ulisensiert produkt og aktivering i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Url-adresser og IP-adresseområder for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[URL-adresser og IP-adresseområder for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
