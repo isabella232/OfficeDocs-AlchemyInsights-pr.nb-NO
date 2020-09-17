@@ -5,27 +5,28 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 1447212596f3b89b5c0223f52acb1105c45561ec
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ddbeae692a321a3b657f5b6e2e140d8f71a4576b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053666"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795361"
 ---
 # <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Delings-og tillatelses metoder for å gi eller begrense bruker tilgang til SharePoint-område
 
-Når du har opprettet et SharePoint-område, vil du kanskje gi eller begrense bruker tilgang til området eller innholdet. Dette kan gjøres via ulike Delings-og tillatelses metoder nevnt nedenfor.
+Når du har opprettet et SharePoint-område, vil du kanskje gi eller begrense bruker tilgangen til nettstedet eller innholdet. Dette kan gjøres via ulike Delings-og tillatelses metoder som er angitt nedenfor.
 
 - [Dele SharePoint-filer eller-mapper](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Del et nettsted](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [Dele et område](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
 
-- [Endre standard koblingstype når brukere får koblinger for deling](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [Endre standard koblings type når brukere får koblinger for deling](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
 
 - [Slutte å dele OneDrive-eller SharePoint-filer eller-mapper, eller endre tillatelser](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
@@ -33,7 +34,7 @@ Når du har opprettet et SharePoint-område, vil du kanskje gi eller begrense br
 
 - [Aktivere eller deaktivere ekstern deling for SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [OSE deling av feil i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE-delfeil i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

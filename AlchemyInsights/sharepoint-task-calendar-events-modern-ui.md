@@ -1,9 +1,10 @@
 ---
-title: Aktivitets- og kalenderhendelsesliste i moderne brukergrensesnittet
+title: Oppgave-og kalender hendelses liste i moderne bruker grensesnitt
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6137138a-9570-4ac9-892b-143c25ad6f64
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573243"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795469"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Aktivitets- og kalenderhendelsesliste i moderne brukergrensesnittet
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Oppgave-og kalender hendelses liste i moderne bruker grensesnitt
 
-Det kan hende du ser en `< ID >_.000` feil i visningen av "Tittel" som på OPPGAVE- og EVENT-lister når du prøver å gjengi dem i moderne visning.
+Det kan hende du ser en feil i visningen av «tittel» som `< ID >_.000` oppgave-og hendelses lister når du prøver å gjengi dem i moderne visning.
 
-Visse typer lister og biblioteker er ennå ikke bygget for å vises i et moderne brukergrensesnitt, for eksempel en oppgaveliste eller hendelsesliste.
+Visse typer lister og biblioteker er ennå ikke bygget for å vises i et moderne bruker grensesnitt, for eksempel en oppgave liste eller en hendelses liste.
 
-Et av de prioriterte elementene for oss er å støtte OPPGAVE- og EVENT-lister som en del av den moderne UX. Men vi har ikke et ETA for denne støtten, så fortsett å bruke klassisk opplevelse for disse listene.
+Et av de prioriterte elementene for oss er støtte for oppgave-og HENDELSES lister som en del av moderne UX. Vi har imidlertid ikke en ETA for denne støtten, så du kan fortsette å bruke klassisk opplevelse for disse listene.
 
-Hvis du vil ha mer informasjon, kan du gå [til Maksimer bruk av moderne lister og biblioteker](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Hvis du vil ha mer informasjon, kan du gå til [Maksimer bruk av moderne lister og biblioteker](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).

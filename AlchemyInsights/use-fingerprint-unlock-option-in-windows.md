@@ -1,55 +1,56 @@
 ---
-title: Bruke alternativet for opplåsing av fingeravtrykk i Windows 10
+title: Bruke alternativet for å låse opp finger i Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 8a5059c722c306ad79811140062cec7f52f31766
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588324"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795253"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Bruke alternativet for opplåsing av fingeravtrykk i Windows 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Bruke alternativet for å låse opp finger i Windows 10
 
-**Aktiver Windows Hello-fingeravtrykk**
+**Aktiver finger avtrykk for Windows Hello**
 
-Hvis du vil låse opp Windows 10 ved hjelp av fingeravtrykket ditt, må du konfigurere Windows Hello Fingerprint ved å legge til (la Windows lære å gjenkjenne) minst én finger. 
+Hvis du vil låse opp Windows 10 ved hjelp av finger avtrykket, må du konfigurere Windows Hello-finger avtrykk ved å legge til (slik at Windows lærer å gjenkjenne) minst én finger. 
 
-1. Gå til **Innstillinger > Kontoer > Påloggingsalternativer** (eller klikk [her).](ms-settings:signinoptions?activationSource=GetHelp) Tilgjengelige påloggingsalternativer vises. Eksempel:
+1. Gå til **innstillinger > kontoer > påloggings alternativer** (eller klikk [her](ms-settings:signinoptions?activationSource=GetHelp)). Tilgjengelige påloggings alternativer vil være oppført. Eksempel:
 
-    ![Påloggingsalternativer.](media/sign-in-options.png)
+    ![Påloggings alternativer.](media/sign-in-options.png)
 
-2. Klikk eller trykk **Windows Hello Fingeravtrykk**, og klikk deretter **Konfigurer**. Klikk **Kom i gang**i vinduet Installasjonsprogram for Windows Hello . Fingeravtrykkssensoren aktiveres, og du blir bedt om å plassere fingeren på sensoren:
+2. Klikk eller trykk **Windows Hello-fingerprint**, og klikk deretter **Konfigurer**. I vinduet Windows Hello-oppsett klikker du på **kom i gang**. Finger avtrykk sensoren vil aktivere, og du blir bedt om å plassere fingeren på sensoren:
 
-   ![Fingeravtrykkssensor.](media/fingerprint-sensor.png)
+   ![Finger avtrykk sensoren.](media/fingerprint-sensor.png)
 
-3. Følg instruksjonene, som vil be deg om å skanne fingeren gjentatte ganger. Når dette er ferdig, har du muligheten til å legge til andre fingre du kanskje vil bruke til pålogging. Neste gang du logger på Windows 10, har du muligheten til å bruke fingeravtrykket til å gjøre det.
+3. Følg instruksjonene, noe som vil be deg om å skanne fingeren din gjentatte ganger. Når dette er fullført, har du muligheten til å legge til andre fingre som du kanskje vil bruke til å logge på. Neste gang du logger deg på Windows 10, kan du velge å bruke finger avtrykk til å gjøre det.
 
-**Windows Hello Fingeravtrykk er ikke tilgjengelig som påloggingsalternativ**
+**Windows Hello-fingerprint ikke tilgjengelig som et påloggings alternativ**
 
-Hvis Windows Hello Fingeravtrykk ikke vises som et alternativ i **påloggingsalternativer**, betyr det at Windows ikke er klar over fingeravtrykksleser/skanner som er koblet til PCen, eller at en systempolicy forhindrer bruk (hvis pCen for eksempel administreres av arbeidsplassen din). Slik feilsøker du: 
+Hvis Windows Hello-finger avtrykk ikke vises som et alternativ i **påloggings alternativer**, betyr det at Windows ikke er klar over finger avtrykks leser/skanner som er koblet til data maskinen, eller at en system policy hindrer bruk (Hvis for eksempel data maskinen administreres av arbeids plassen din). Slik feil søker du: 
 
-1. Velg **Start-knappen** på oppgavelinjen, og søk etter **Enhetsbehandling**.
+1. Velg **Start** -knappen på oppgave linjen, og søk etter **enhets behandling**.
 
-2. Klikk eller trykk for å åpne **Enhetsbehandling**.
+2. Klikk eller trykk for å åpne **enhets behandling**.
 
-3. Utvid Biometriske enheter i Enhetsbehandling ved å klikke på vinkeltegnet.
+3. Utvid Biometriske enheter i enhets behandling ved å klikke vinkel tegnet.
 
    ![Biometriske enheter.](media/biometric-devices.png)
 
-4. Fingeravtrykkskanneren skal være oppført som en biometrisk enhet, for eksempel Synaptics WBDI-skanneren:
+4. Finger avtrykks skanneren skal være oppført som en biometrisk enhet, for eksempel Synaptics WBDI-skanneren:
 
    ![Biometriske enheter.](media/biometric-devices-expanded.png)
 
-5. Hvis fingeravtrykkskanneren ikke vises, og skanneren er integrert i PCen, går du til PC-produsentens nettsted. I delen teknisk støtte for PC-modellen søker du etter en Windows 10-driver etter en skanner du kan installere.
+5. Hvis finger avtrykks skanneren ikke vises, og skanneren er integrert i PC-en, kan du gå til PC-produsentens nettsted. Søk etter en Windows 10-driver for en skanner du kan installere, i delen teknisk støtte for din PC-modell.
 
-6. Hvis skanneren er atskilt fra PC-en (tilkoblet via USB), går du til skannerprodusentens nettsted for å finne og installere Windows 10-enhetsdriverprogramvare for skannermodellen du har.
+6. Hvis skanneren er atskilt fra PC-en (tilknyttet via USB), kan du gå til skanner produsentens nettsted for å finne og installere Windows 10 enhets driver program vare for skanner modellen du har.

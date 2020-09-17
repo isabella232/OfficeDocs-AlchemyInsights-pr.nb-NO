@@ -1,11 +1,12 @@
 ---
-title: Kontrollere synkroniseringsstatus for AAD-identitet
+title: Kontrollere synkroniserings status for AAD-identitet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706318"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793911"
 ---
-# <a name="check-aad-identity-sync-status"></a>Kontrollere statusen for AAD-identitetssynkronisering
+# <a name="check-aad-identity-sync-status"></a>Kontrollere synkroniserings status for AAD-identitet
 
-Det er enkelt å kontrollere synkroniseringsstatusen:
+Det er enkelt å kontrollere synkroniserings status:
   
-- Logg på administrasjonssenteret for Microsoft 365, og velg **DirSync-status** på hjemmesiden.
+- Logg deg på administrasjons senteret for Microsoft 365, og velg **DirSync-status** på hjemme siden.
 
-- Alternativt kan du gå \> til Brukere Aktive brukere, og velg \> Mer katalogsynkronisering på Aktive brukere-siden.
+- Alternativt kan du gå til brukere \> aktive brukere og velge mer katalog synkronisering på aktive brukere-siden \> .
 
-- Velg Gå til DirSync-behandling i katalogsynkronisering-ruten.
+- Velg gå til DirSync Management i ruten for katalog synkronisering.
 
-Hvis det er et problem med katalogsynkroniseringen, vises feilene på denne siden. Hvis du vil ha mer informasjon om ulike feil du kan støte på, kan du se [Vise feil for katalogsynkronisering](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Hvis det oppstår et problem med katalog synkroniseringen, vises feilene på denne siden. Hvis du vil ha mer informasjon om ulike feil du kan støte på, se [vise katalog synkroniserings feil](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   
