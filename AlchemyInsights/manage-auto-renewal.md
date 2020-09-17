@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 67c52866f683c6d14171ac8e96b82f75d821017a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063842"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778196"
 ---
-# <a name="manage-recurring-billing"></a>Administrere regelmessig fakturering
+# <a name="manage-recurring-billing"></a>Behandle regelmessig fakturering
 
-Du kan aktivere eller deaktivere regelmessig fakturering i administrasjonssenteret for Microsoft 365.
+Du kan slå regelmessig fakturering av eller på i administrasjons senteret for Microsoft 365.
   
-1. Gå til siden Fakturering **Billing** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjonssenteret.
+1. Gå til siden for **fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret.
 
-2. **Velg**Rediger ved siden **av Fornyer på** eller Utløp er **under** **Fakturering**.
+2. Velg **Rediger**under **fakturering**ved siden av **renews on** or **utgåd on**.
 
-3. Velg **Slå av** i ruten **Gjentakende faktureringsinnstillinger** for å slå den av. Hvis regelmessig fakturering allerede er slått av, velger du **Månedlig** eller **Én gang** for å slå den på.
+3. I ruten for **regelmessige fakturerings innstillinger** **velger du Deaktiver for** å deaktivere den. Hvis regelmessig fakturering allerede er slått av, velger du **månedlig** eller **én gang** for å aktivere den.
 
 4. Velg **Send endring**.
 

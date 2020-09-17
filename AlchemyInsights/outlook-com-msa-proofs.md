@@ -1,11 +1,12 @@
 ---
-title: Outlook.com MSA-bevis
+title: Outlook.com MSA-korrektur
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745910"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776927"
 ---
-# <a name="security-info-and-security-codes"></a>Sikkerhetsinformasjon og sikkerhetskoder
+# <a name="security-info-and-security-codes"></a>Sikkerhets informasjon og sikkerhets koder
 
-Slik legger du til sikkerhetsinformasjon i Microsoft-kontoen:
+Slik legger du til sikkerhets informasjon i Microsoft-kontoen:
 
-1. Logg på [Grunnleggende om sikkerhet](https://account.microsoft.com/security) med Microsoft-kontoen din.
-1. Velg **Informasjon om sikkerhetskontakt**.
-1. Velg **Legg til sikkerhetsinformasjon,** og følg instruksjonene for å angi et telefonnummer eller en e-postadresse.
-1. Du vil motta en sikkerhetskode på det telefonnummeret eller e-postadressen. Angi sikkerhetskoden du mottok, i vinduet **Legg til sikkerhetsinformasjon,** og velg **Neste**.
+1. Logg på for [Grunnleggende sikkerhet](https://account.microsoft.com/security) med Microsoft-kontoen din.
+1. Velg **sikkerhets kontakt informasjon**.
+1. Velg **Legg til sikkerhets informasjon** , og følg instruksjonene for å angi et telefon nummer eller en e-postadresse.
+1. Du vil motta en sikkerhets kode på dette telefon nummeret eller e-postadressen. Skriv inn sikkerhets koden du mottok i vinduet **Legg til sikkerhets informasjon** , og velg **neste**.
 
-Hvis du vil fjerne et telefonnummer eller en e-postadresse, velger du **Fjern** ved siden av det.
+Hvis du vil fjerne et telefon nummer eller en e-postadresse, velger du **Fjern** ved siden av den.
 
-Hvis du vil endre hvilket telefonnummer eller e-postadresse som mottar sikkerhetsvarsler, velger du **Endre varslingsalternativer**.
+Hvis du vil endre hvilket telefon nummer eller e-postadresse som mottar sikkerhets varsler, velger du **endre varslings alternativer**.
 
-Hvis du vil ha mer informasjon om, kan du lese [sikkerhetsinformasjon og bekreftelseskoder for Microsoft-kontoen](https://support.microsoft.com/help/12428/).
+Hvis du vil ha mer informasjon, kan du lese [sikkerhets informasjon og bekreftelses koder for Microsoft-kontoer](https://support.microsoft.com/help/12428/).
