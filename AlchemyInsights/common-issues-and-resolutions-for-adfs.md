@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812304"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213036"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Vanlige problemer og løsninger for ADFS
 
 Konfigurasjonen for forbundsdomenet kan oppdateres som beskrevet i følgende Microsoft Knowledge Base-artikler.
 
 - [Sertifikat utløp for ADFS-forbund](adfs-federation-certificate-expiring.md)
+
+- [Konfigurere ADFS for Office 365 for enkel pålogging](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  det oppstod et problem under tilgang til nettstedet «fra AD FS når en Forbunds bruker logger seg på Microsoft 365, Azure eller Intune.
 
