@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685463"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219864"
 ---
-# <a name="block-email-forwarding"></a>Blokkere videre sending av e-post
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokkere eller fjerne blokkeringen av e-postvideresending
 
-Se [konfigurere videre sending av e-](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)post for å deaktivere videre sending av e-post
+Hvis du vil aktivere eller deaktivere videre sending av e-post for en bestemt post boks, kan du se [konfigurere videre kobling](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Hvis du vil blokkere videre sending av e-post for hele organisasjonen, kan [du blokkere automatisk videre sending av e-post i Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Kontroll over ekstern videre sending utføres på leier nivå ved hjelp av den utgående beskyttelses policyen for søppel post. Hvis den er satt til av eller automatisk, kan det blokkere e-postvideresending med tilgangs meldingen "550 5.7.520 ingen tilgang, organisasjonen tillater ikke ekstern videre sending". Hvis videre sending ble satt til blokkert, og det er feilen brukerne vil se.
+
+Hvis videre sending blir blokkert, må du kontrollere at policyen er konfigurert til å aktivere ekstern automatisk videre sending. Du kan kontrollere den utgående filter policyen for søppel post fra sikkerhets-og Samsvars senteret eller ved å kjøre kommandoen Get-HostedOutboundSpamFilterPolicy | fl-navn, AutoForwardingMode. Hvis du vil konfigurere automatisk videre sending, vil den samme kommandoen fortelle deg tilstanden til policyen nå.
+
+Obs! det anbefales at du holder det eksterne alternativet videresendt automatisk i den standard utgående filter policyen for søppel post og aktiverer den bare for brukere som trenger ekstern videre sending ved å opprette en egen definert policy for disse brukerne. Du kan lese mer i [konfigurere ekstern videre sending av e-post i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
