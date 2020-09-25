@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658959"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277812"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Feilsøke innholds søke feil
 
@@ -36,3 +36,5 @@ Vil du for eksempel motta følgende når du kjører søk?
 Eller når du søker etter eller eksporterer resultater fra et stort antall post bokser (over 100 000 post bokser), får du eksport feil?
 
 For disse feil typene kan du prøve Søk på nytt for innholds plasseringer som har mislyktes. Se  [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) hvis du vil ha mer informasjon.
+
+Hvis du eksporterer mer enn 100K post bokser, må du bruke følgende PowerShell til å laste ned eksport resultatene:  [eksportere resultater fra mer enn 100K post bokser](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
