@@ -2,7 +2,7 @@
 title: Kjøp et abonnement til Microsoft 365 for bedrifter fra en gratis prøve periode
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684995"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416197"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kjøp et abonnement til Microsoft 365 fra din gratis prøve periode
 
@@ -26,17 +26,16 @@ Du har prøvd Microsoft 365, og nå er du klar til å kjøpe. Du har to alternat
   
  **Kjøpe den samme planen som i prøveperioden**
   
-1. Gå til siden for **fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret.
-
-2. Finn abonnementet du vil kjøpe. Velg **kjøps abonnement**i **lisenser** -delen, og følg Fremgangs måten for å sjekke ut.
-
+1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
+2. Velg abonnementet du vil kjøpe, på **produkter** -fanen.
+3. Velg **Kjøp betalt abonnement nå**i delen **lisens** på siden abonnements detaljer, og følg Fremgangs måten for å sjekke ut.
+ 
 **Kjøp et annet abonnement**
   
 1. Gå til siden **for** \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) i administrasjons senteret.
+2. Finn abonnementet du vil kjøpe, velg **Kjøp**, og følg Fremgangs måten for å sjekke ut.
 
-3. Finn abonnementet du vil kjøpe, velg **Kjøp**, og følg Fremgangs måten for å sjekke ut.
-
-Hvis du vil ha mer informasjon, kan du se [kjøpe et abonnement på Microsoft 365 for bedrifter fra en gratis prøve periode](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Hvis du vil ha mer informasjon, kan du se [kjøpe et abonnement fra din gratis prøve periode](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
 
 **Feilsøking**
 
