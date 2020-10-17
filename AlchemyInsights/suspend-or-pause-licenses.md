@@ -1,8 +1,8 @@
 ---
 title: Stoppe eller stanse lisenser midlertidig
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800185"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488926"
 ---
 # <a name="suspend-or-pause-licenses"></a>Stoppe eller stanse lisenser midlertidig
 
-Hvis du vil deaktivere bruker lisensene midlertidig eller midlertidig, kan du fjerne lisenser fra **administrasjons senteret for Microsoft 365** og legge dem til på nytt senere.
+Hvis du vil stoppe eller midlertidig stanse lisens bruken midlertidig, kan du fjerne lisenser fra administrasjons senteret for Microsoft 365, og deretter legge dem til på nytt på et senere tidspunkt.
 
-1. Du må først [oppheve tildeling av lisenser](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) fra brukere før du kan fjerne dem fra abonnementet.
+1. Før du fjerner lisenser fra abonnementet, må du først [oppheve tildeling av lisenser fra brukere](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+2. Deretter går du til siden **fakturering**  >  [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+3. Velg abonnementet du vil oppdatere, i kategorien **produkter** .
+4. Velg **Fjern lisenser**på siden abonnements detaljer.
+5. Skriv inn det totale antallet lisenser du vil ha for dette abonnementet, i **totalt lisenser** -boksen i **Fjern lisenser** -ruten, og velg deretter **Lagre**. Hvis du for eksempel har 100-lisenser og vil stoppe eller stoppe 25, skriver du inn 75 som total lisenser for abonnementet.
 
-2. Deretter går du til **fakturering > [produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. På **produkter** -siden finner du abonnementet du vil fjerne lisenser for, og klikker **Legg til/fjern lisenser**.
-
-4. Skriv inn det totale antallet lisenser du trenger for dette abonnementet, i totalt antall lisenser-boksen, og klikk deretter **Send endring**. Hvis du for eksempel har 100-lisenser og vil stoppe eller stoppe 50, kan du angi 50 som total lisenser for abonnementet.
-
-Hvis du vil ha mer informasjon, kan du se [Administrere abonnementslisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Hvis du vil ha mer informasjon, kan du se [Administrere abonnementslisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

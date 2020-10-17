@@ -2,8 +2,8 @@
 title: Slik kjøper du utdannings tilbud
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703669"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489286"
 ---
-# <a name="how-to-purchase-education-offer"></a>Slik kjøper du utdannings tilbud
+# <a name="how-to-purchase-an-education-offer"></a>Slik kjøper du et utdannings tilbud
 
 Du har blitt godkjent for Office 365 Education. Slik kjøper du det:
   
-1. Gå til siden for **fakturering** \> **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret.
-
-2. Velg prøve perioden for **elever eller fakultet**.
-
-3. Velg **kjøps abonnement**i **lisenser** -delen.
-
+1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
+2. Velg prøve perioden for **elever eller fakultet**på **produkter** -fanen.
+3. På siden abonnements detaljer, i delen **lisens** , velger du **Kjøp betalt abonnement nå**.
 4. Følg de gjenværende trinnene for å sjekke ut.
 
-Hvis du vil kjøpe et annet abonnement enn det som er i prøve perioden, **kan du gå** til siden for \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) og velge fra listen under **utdannings planer**.
+Hvis du vil kjøpe et annet abonnement enn prøve abonnementet, kan du gå til **Billing** \> siden [tjenester for kjøp](https://go.microsoft.com/fwlink/p/?linkid=868433) av betaling. Velg planen du vil bruke, under **utdannings planer**.
 
-Hvis du vil ha mer informasjon, kan du se [kjøpe samme plan som prøve perioden](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Hvis du vil ha mer informasjon, kan du se [kjøpe et abonnement fra din gratis prøve periode](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
