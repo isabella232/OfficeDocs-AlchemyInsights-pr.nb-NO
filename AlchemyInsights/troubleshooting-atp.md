@@ -1,5 +1,5 @@
 ---
-title: Feilsøke Office 365 Advanced Threat Protection
+title: Feilsøke Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658923"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801452"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Feilsøke Office 365 Advanced Threat Protection
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Feilsøke Microsoft Defender for Office 365
 
 - Oppdager du forsinkelser i meldings levering? Bruk alternativet [dynamisk levering](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) i policyen ATP-sikre vedlegg. Dette vil bidra til å unngå meldings forsinkelser under beskyttelse av mottakere fra ondsinnede filer.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658923"
 
   1. Gå til [https://protection.office.com](https://protection.office.com) og Logg på med en global administrator-eller sikkerhets administrator konto.
 
-  2. Velg **policy** sikker kobling i den venstre navigasjons ruten under **trussel administrasjon** \> **Safe Links**.
+  2. Velg **policy** sikker kobling i den venstre navigasjons ruten under **trussel administrasjon** \> **Safe Links** .
 
-  3. Velg policyen i **policyene som gjelder for hele organisasjonen** , og klikk **Rediger**.
+  3. Velg policyen i **policyene som gjelder for hele organisasjonen** , og klikk **Rediger** .
 
-  4. Aktiver **Bruk sikre koblinger til meldinger som sendes i organisasjonen**under **Innstillinger**.
+  4. Aktiver **Bruk sikre koblinger til meldinger som sendes i organisasjonen** under **Innstillinger** .

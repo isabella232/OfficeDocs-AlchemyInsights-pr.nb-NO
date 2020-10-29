@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759228"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801560"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angripe Simulator i Microsoft 365
 
-- Mangler du angripe Simulator? Angreps Simulator krever **Office 365 Advanced Threat Protection Plan 2 (ATP plan 2)** eller **Office 365 Enterprise E5**. Angripe Simulator er **ikke** inkludert i Office 365 Advanced Threat Protection Plan 1 (ATP plan 1), Office 365 Enterprise E3 eller noen Microsoft 365-apper for forretnings abonnementer.
+- Mangler du angripe Simulator? Angripe Simulator krever **Microsoft Defender for Office 365 plan 2 (ATP plan 2)** eller **Office 365 Enterprise E5** . Angripe Simulator er **ikke** inkludert i Microsoft Defender for Office 365 plan 1 (ATP plan 1), Office 365 Enterprise E3 eller noen Microsoft 365-apper for bedrifts abonnementer.
 
 - Kontoen du bruker til å starte simulerte angrep, krever globale administrator-eller sikkerhets administrator tillatelser og godkjenning med flere faktorer (MFA). Hvis du vil ha mer informasjon om krav til angrep, kan du se [dette emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759228"
 
 - Viktige ting å vite om **spear phishing** attach-simuleringer:
 
-  - Som standard kan du ikke gi en egen definert verdi for **URL-adresse for phishing-påloggingsserver**.
+  - Som standard kan du ikke gi en egen definert verdi for **URL-adresse for phishing-påloggingsserver** .
 
   - Hvis en mottaker bruker [tillegget Aktiver rapport melding](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) til å rapportere meldingen som phishing, kan du kanskje ikke motta varsler for meldingen (fordi dette er et simulert angrep).
 

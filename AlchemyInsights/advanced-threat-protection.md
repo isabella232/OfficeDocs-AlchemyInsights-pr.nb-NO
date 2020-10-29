@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696630"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801236"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- Sikre vedlegg, sikre koblinger og anti-phishing er en del av Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education a5 og Microsoft 365 Business Premium inkluderer ATP. Alle andre planer krever et ATP-abonnement.
+- Sikre vedlegg, sikre koblinger og anti-phishing er en del av Microsoft Defender for Office 365 (ATP). Enterprise E5, Education a5 og Microsoft 365 Business Premium inkluderer ATP. Alle andre planer krever et ATP-abonnement.
 
 - Du må tilordne de nødvendige lisensene for å beskytte brukerne av Office 365 ATP. Se [dette emnet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for instruksjoner om hvordan du kan bruke lisenser til brukerne.
 
-- Globale administratorer eller sikkerhets administratorer kan få tilgang til Office 365 ATP-funksjoner i sikkerhets &s samsvars senter ved **trussel Managmeent** - \> **policy**.
+- Globale administratorer eller sikkerhets administratorer kan få tilgang til Office 365 ATP-funksjoner i sikkerhets &s samsvars senter ved **trussel Managmeent** - \> **policy** .
 
 - Klarerte vedlegg og policyer for sikker tilkobling kan være omfang for hele organisasjonen, bestemte domener eller mindre bruker grupper.
 
