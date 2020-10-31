@@ -10,16 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
+ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801596"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815947"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Deling av Microsoft to-leietaker
 
-Microsoft to do støtter liste deling mellom private og jobb kontoer som starter 25. september 2020. Dette lar brukere i organisasjonen bli med, vise, endre og legge til data i lister som eies av personlige Microsoft-kontoer.
+Microsoft to do støtter liste deling mellom personlige og jobb kontoer. Dette lar brukere i organisasjonen
+
+bli med i, vise, endre og legge til data i lister som eies av personlige Microsoft-kontoer.
 
 En ny administrator innstilling er tilgjengelig for administratorer for å deaktivere denne funksjonen ved å fjerne merket for alternativet.
-Administratoren kan finne denne innstillingen i administrasjons portalen under **Innstillinger** for  >  **organisasjons innstillinger**  >  **Services**  >  **Microsoft to do** .
+
+Administratoren kan finne denne innstillingen i administrasjons portalen under **Innstillinger** for  >  **organisasjons innstillinger**  >  **Services**  >  **Microsoft to do** .  
+
+[Hvorfor kan jeg ikke bli med i en delt liste?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
