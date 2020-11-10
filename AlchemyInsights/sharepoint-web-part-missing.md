@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800365"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949826"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Nett deler for innholds redigering eller skript redigering mangler
 
-Hvis du mangler en nettdel som du kan bruke til å se, for eksempel webdelen for **innholds redigering eller skript redigering**, er det mulig at du prøver å legge til en [klassisk nettdel på en moderne side](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Det er viktig å være oppmerksom på at moderne sider bare kan bruke moderne nett deler og klassiske sider kan bare bruke klassiske nett deler. Mange moderne nett deler oppfyller samme formål som klassiske nett deler, men du vil se forskjeller i utseende og funksjonalitet.
+To nett deler som ikke er tilgjengelige i SharePoint for Microsoft 365 moderne sider, er **nett delen for skript redigering** og **nett delen for innholds redigering**. Det finnes imidlertid [moderne out-of-Box-webdeler](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) som kan dekke noen av de samme formålene. Eller du kan opprette [egen definerte webdeler eller overføre eksisterende webdeler for skript redigering](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) til SharePoint-rammeverket.  
 
-Det er mange nett deler som ikke vises på grunn av den [egen definerte skript innstillingen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), som er deaktivert som standard på moderne nett steder. 
-
-Hvis du vil ha en liste over nett deler som ikke er tilgjengelige, kan du se [funksjoner som påvirkes når egen definert skript er blokkert](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Hvis du vil ha mer informasjon om sikkerhets implikasjonene til egen definerte skript, kan du se [sikkerhets hensyn for å tillate egen definert skript](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Hvis du vil ha mer informasjon, kan du se [hvor er nett delene for innholds redigering og skript redigering i SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
