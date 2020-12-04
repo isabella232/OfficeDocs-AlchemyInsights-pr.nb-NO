@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688487"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571674"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Opprette eller legge til et e-postalias for en bruker
 
 Trenger du å opprette et e-postalias for en bruker eller legge til en ekstra e-postadresse? Bare følg disse trinnene!
   
-1. Gå til [brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden i administrasjons senteret for Microsoft 365, eller velg **brukere** \> **aktive brukere**.
+1. Gå til [brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) -siden i administrasjons senteret for Microsoft 365, eller velg **brukere**  >  **aktive brukere**.
     
 2. Velg navnet på personen du vil redigere, på **Aktive brukere**-siden. 
     
