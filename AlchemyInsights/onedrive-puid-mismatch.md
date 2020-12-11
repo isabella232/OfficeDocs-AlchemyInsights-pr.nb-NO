@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605718"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653269"
 ---
 # <a name="onedrive-puid-mismatch"></a>Feil i OneDrive-PUID
 
@@ -26,6 +26,6 @@ Det ser ut til at du opplever en [ID-konflikt](https://docs.microsoft.com/sharep
 
 1. Klikk  **kontakt kunde støtte**, og deretter  **ny service forespørsel**.
 2. La tittelen og beskrivelsen være  **feil i bruker-ID-en for OneDrive-området**.
-3. Når billetten er sendt, må du oppdatere den med følgende informasjon:
+3. Når billetten er sendt, oppdaterer du den med følgende informasjon:
     - Netta dressen til OneDrive-området som påvirkes.
     - UPN (User Principal Name) for den berørte brukeren.
