@@ -5,29 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 9c588a21e9192a48231836c29a5238589fdf7092
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217837"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676351"
 ---
 # <a name="self-service-password-reset-sspr"></a>Selvbetjent tilbakestilling av passord (SSPR)
 
-- Klikk her for å [La brukere tilbakestille sine egne passord](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).  SSPR er aktivert som standard for administratorer.
+- [Planlegg distribusjon av selvbetjent tilbakestilling av passord](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- Klikk her for å [registrere kontaktinformasjon for SSPR](https://go.microsoft.com/fwlink/?linkid=849451).
+    eller
+- [Registrer din SSPR-kontaktinformasjon](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR er aktivert som standard for administratorer) 
 
-Hvis du vil ha mer informasjon:
+    Hvis du vil ha mer informasjon, kan du se:
 
-Grunnleggende oppsett for SSPR – [La brukere tilbakestille sine egne passord](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)
+    Grunnleggende oppsett for SSPR – [La brukere tilbakestille sine egne passord](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-[Vanlige spørsmål om SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [Vanlige spørsmål om SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[SSPR-feilsøking](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [SSPR-feilsøking](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
