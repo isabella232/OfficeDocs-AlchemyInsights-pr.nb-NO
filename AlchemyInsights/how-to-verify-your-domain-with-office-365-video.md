@@ -1,0 +1,29 @@
+---
+title: Verify your domain
+ms.author: pebaum
+author: CrystalThomasMS
+ms.audience: ITPro
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
+ms.custom:
+- "7"
+- "7593"
+ms.openlocfilehash: b220f7a1b900582ba700f0e7cb5ec2a17ba0a325
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.translationtype: MT
+ms.contentlocale: nb-NO
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49692263"
+---
+# <a name="verify-your-domain"></a><span data-ttu-id="07577-102">Verify your domain</span><span class="sxs-lookup"><span data-stu-id="07577-102">Verify your domain</span></span>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
+
+<span data-ttu-id="07577-103">Du kan bekrefte et domene ved å følge [vei viseren for å legge til domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)eller gå til **installasjons** domener manuelt ved å  >    >  **legge til domene**.</span><span class="sxs-lookup"><span data-stu-id="07577-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+
+<span data-ttu-id="07577-104">Hvis du vil ha mer informasjon om DNS-endringer som kreves for å bekrefte domenet, kan du se instruksjonene i [legge til DNS-poster for å koble til domenet](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="07577-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="07577-105">Hvis du har spørsmål om andre domener, kan du se [vanlige spørsmål om domener](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="07577-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
