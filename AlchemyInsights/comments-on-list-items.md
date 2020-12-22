@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982487"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724163"
 ---
 # <a name="comments-on-list-items"></a>Kommentarer om liste elementer
 
-Brukere vil snart kunne legge til og slette kommentarer i liste elementer. Brukere kan vise alle kommentarer i et liste element og filtrere mellom visninger som viser kommentarer eller aktivitet som er relatert til et element.
-
-**Tids beregning** :
-
-**Målrettet utgivelse** : gradvis Rull ut i midt-oktober og forventet å fullføre med midt-november
-
-**Standard utgivelse** : gradvis innrulling i midt-november og forventet å fullføre innen tidlig desember
-
-**Distribusjon** : målrettet utgivelse for hele organisasjonen
+Brukere kan vise alle kommentarer i et liste element og filtrere mellom visninger som viser kommentarer eller aktivitet som er relatert til et element.
 
 Brukere må merke av nedenfor før de kan legge til og slette kommentarer:
 
