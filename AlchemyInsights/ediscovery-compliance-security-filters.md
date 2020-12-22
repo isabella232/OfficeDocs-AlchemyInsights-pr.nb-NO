@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680334"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727232"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Ingen resultater ble returnert under innholds søk/eksport
 
@@ -26,7 +26,7 @@ Hvis du har problemer med følgende eDiscovery-scenarioer:
 - Innholds søk/eksport returnerer ingen data eller uventede data
 - eDiscovery-søk eller eksport mislyktes
 
-Dette kan være forårsaket av bestemte sikkerhets filtre for samsvar som ble konfigurert av en bestemt administrator, og som ikke er formidlet til alle administratorer.
+Dette kan skyldes bestemte sikkerhets filtre for samsvar som ble konfigurert av en bestemt administrator, og som ikke er formidlet til alle administratorer.
 
 Du kan løse dette ved å kontrollere om det finnes noen Samsvars sikkerhets filtre som for år saker disse problemene:
 
