@@ -1,5 +1,5 @@
 ---
-title: Hvordan gjenoppretter jeg en slettet eeam eller-kanal
+title: Hvordan gjenoppretter jeg en slettet gruppe eller kanal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,14 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705020"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726433"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Gjenopprette en slettet gruppe eller kanal
-
-Hvis du vil ha mer informasjon, kan du se [gjenopprette et slettet team i Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
 Slettede kanaler i et team kan gjenopprettes i opptil 21 dager etter at kanalen har blitt slettet.
 
@@ -31,4 +29,4 @@ Hvis du vil gjenopprette en slettet kanal, kan eieren av teamet gjøre følgende
 1. Åpne gruppe innstillingene ved å velge de tre prikkene til høyre for Team navnet.
 2. Velg **Administrer team**  >  **kanaler**  >  **slettet**, og velg deretter **Gjenopprett** til høyre.
 
-Hvis du vil ha mer informasjon, kan du se [gjenopprette et slettet team i Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Hvis du vil ha mer informasjon om hvordan du gjenoppretter et team, kan du se [arkivere eller slette et team i Microsoft Teams | Microsoft-dokumenter](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
