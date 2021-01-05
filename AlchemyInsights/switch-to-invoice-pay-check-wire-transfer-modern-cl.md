@@ -1,5 +1,5 @@
 ---
-title: Bytte til faktura lønn (Sjekk/telegraf overføring) – moderne CL
+title: Bytte til Betal med faktura (Sjekk/telegraf overføring)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706649"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755477"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Bytte til faktura lønn (Sjekk/telegraf overføring) – moderne CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Bytte til Betal med faktura (Sjekk/telegraf overføring)
+
+Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
 
 Hvis du bytter til Betal med faktura, betyr det at du betaler fakturaen innen 30 dager etter faktura datoen. Hvis du vil betale for Azure-abonnementet ditt etter faktura, kan du sende inn en forespørsel til Azure kunde støtte. Når forespørselen er godkjent, kan du bytte abonnement for å fakturere Betal i Azure-portalen.
 

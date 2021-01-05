@@ -1,5 +1,5 @@
 ---
-title: Slik legger du til og behandler administratorer-MCA FL/CL
+title: Slik legger du til og behandler administratorer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692307"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755504"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Slik legger du til og behandler administratorer-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Slik legger du til og behandler administratorer
+
+Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
 
 Hvis du vil administrere betalings kontoen for en Microsoft Customer Agreement (MCA), kan du bruke forskjellige roller med det ønskede tilgangs nivået. Disse rollene er i tillegg til de innebygde Azure-tjeneste rollene som hjelper deg med å kontrollere ressursene.
 

@@ -1,5 +1,5 @@
 ---
-title: Bytte til faktura betaling (Sjekk/telegraf overføring) – eldre WD
+title: Bytte til Betal med faktura (Sjekk/telegraf overføring)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726127"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755412"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Bytte til faktura betaling (Sjekk/telegraf overføring) – eldre WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Bytte til Betal med faktura (Sjekk/telegraf overføring)
+
+Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
 
 Hvis du bytter til Betal med faktura, betyr det at du betaler fakturaen innen 30 dager etter faktura datoen. Hvis du vil betale for Azure-abonnementet ditt etter faktura, kan du sende inn en forespørsel til Azure kunde støtte. Når forespørselen er godkjent, kan du bytte abonnement for å fakturere Betal i [Azure-portalen](https://portal.azure.com/).
 
