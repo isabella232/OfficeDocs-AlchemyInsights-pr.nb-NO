@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731248"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768826"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivere BitLocker-kryptering med Intune
 
@@ -30,10 +30,12 @@ Hvis du vil ha informasjon om å feilsøke BitLocker-problemer, kan du se [Feils
  
 **SPØRSMÅL OG SVAR**
 
- Spørsmål: hvilke utgaver av Windows støtter enhets kryptering ved hjelp av policyen for ende punkt beskyttelse?<br>
- Svar: innstillingene i policyer for Intune Endpoint Protection implementeres ved hjelp av [BitLocker-CSPen](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle utgaver eller versjoner av Windows støtter BitLocker-CSPEN. <br><br>
-      På dette tidspunktet støttes følgende Windows-utgaver: Enterprise, Education, Mobile, mobile Enterprise og Professional (bygg 1809 og nyere).
- 
+Spørsmål: hvilke utgaver av Windows støtter enhets kryptering ved hjelp av policyen for ende punkt beskyttelse?<br>
+Svar: innstillingene i policyer for Intune Endpoint Protection implementeres ved hjelp av [BitLocker-CSPen](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle utgaver eller versjoner av Windows støtter BitLocker-CSPEN. <br><br>
+
+Spørsmål: Hvordan kan BitLocker aktiveres på enheter uten å kreve slutt bruker medvirkning?<br>
+A: så lenge de nødvendige forhånds kravene er oppfylt, er det mulig å aktivere BitLocker "stille kryptering" gjennom Intune. Se detaljene om enhetens krav og eksempler på policy innstillinger for å aktivere stille kryptering i følgende dokument: [aktivere BitLocker-kryptering stille](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 Spørsmål: Hvis en enhet allerede er kryptert med BitLocker ved hjelp av standard innstillingene for krypterings metode og chifferkodestyrke (XTS-AES-128), vil bruk av en policy med ulike innstillinger automatisk utløse rekryptering av stasjonen med de nye innstillingene?<br>
 Sv.: Nei. Hvis du vil bruke de nye Cipher innstillingene, må stasjonen først dekrypteres.<br><br>
 **Obs!** For enheter som blir registrert med automatisk pilot, utløses ikke krypteringen som ville oppstå under OOBE, før Intune-policyen evalueres, slik at de policy-baserte innstillingene kan brukes i stedet for OS-standardene.
