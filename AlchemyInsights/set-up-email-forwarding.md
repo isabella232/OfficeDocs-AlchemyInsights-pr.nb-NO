@@ -13,18 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801085"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847609"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollere innstillingene for videre sending av e-post
 
-Det er enkelt å kontrollere innstillingene for videre sending av e-post i en Microsoft 365-postboks. Bare følg disse trinnene.
+Videre sending av e-post må være aktivert på leier nivå. Hvis du har konfigurert e-postvideresending i en post boks, men den ikke fungerer, kan du se [kontrollere automatisk videre sending av ekstern e-post i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Det er enkelt å bekrefte innstillingene for videre sending av e-post i en post boks. Bare følg disse trinnene.
   
-> Hvis dette er en bruker post boks, går du til **brukere** \> **aktive brukere** og velger brukeren som har post boksen du vil vide res ende. Velg **Behandle videre sending av e-post**i kategorien **e-post** .
+> Hvis dette er en bruker post boks, går du til **brukere** \> **aktive brukere** og velger brukeren som har post boksen du vil vide res ende. Velg **Behandle videre sending av e-post** i kategorien **e-post** .
 
 > Hvis dette er en delt post boks, går du til **grupper** \> **delte post bokser** og velger den delte post boksen du vil vide res ende. Velg **Rediger** for videre sending av e-post.
 
