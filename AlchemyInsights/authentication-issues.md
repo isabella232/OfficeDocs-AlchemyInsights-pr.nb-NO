@@ -22,7 +22,7 @@ ms.locfileid: "49976858"
 ---
 # <a name="authentication-issues"></a>Godkjenningsproblemer
 
-**Ser du etter informasjon om AADSTS-feilkoder som returneres fra sikkerhetstokentjenesten (STS) for Azure Active Directory (Azure AD) ?** Se[Azure AD-autorisasjon og autorisasjonsfeilkoder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for å finne AADSTS-feilbeskrivelser, løsninger og noen foreslåtte midlertidige løsninger.
+**Ser du etter informasjon om AADSTS-feilkoder som returneres fra sikkerhetstokentjenesten for Azure Active Directory (Azure AD) ?** Se[Azure AD Authentication og autorisasjonsfeilkoder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for å finne AADSTS-feilbeskrivelser, løsninger og noen foreslåtte midlertidige løsninger.
 
 Autorisasjonsfeil kan være et resultat av flere ulike problemer. De fleste av disse genererer en 401- eller 403-feil. Følgende problemer kan for eksempel alle føre til autorisasjonsfeil:
 
@@ -30,56 +30,56 @@ Autorisasjonsfeil kan være et resultat av flere ulike problemer. De fleste av d
 - Dårlig konfigurerte [tillatelsesområder](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 - Mangel på [samtykke](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-For å løse vanlige autorisasjonsfeil kan du prøve de trinnene nedenfor, som best samsvarer med feilen du mottar. mer enn ett trinn kan gjelde for en feil som du mottar.
+For å løse vanlige autorisasjonsfeil kan du prøve trinnene nedenfor som best samsvarer med feilen. Mer enn ett trinn kan gjelde for en feil som du får.
 
 **Feil 401 Uautorisert: Er tokenet gyldig?**
 
-Sørg for at appen presenterer et gyldig tilgangstoken til Microsoft Graph som en del av forespørselen. Denne feilen betyr ofte at tilgangstokenet mangler i forespørselshodet for HTTP-godkjenning eller tokenet er ugyldig eller utløpt. Vi anbefaler på det sterkeste at du bruker Microsofts godkjenningsbibliotek (MSAL) for henting av tilgangstoken. I tillegg kan denne feilen oppstå hvis du prøver å bruke et delegert tilgangstoken som er gitt til en personlig Microsoft-konto, for å få tilgang til en API som kun støtter jobb- eller skolekontoer (organisasjonskontoer).
+Sørg for at appen presenterer et gyldig tilgangstoken til Microsoft Graph som en del av forespørselen. Denne feilen betyr ofte at tilgangstokenet mangler i forespørselshodet for HTTP-godkjenning, eller at tokenet er ugyldig eller utløpt. Vi anbefaler på det sterkeste at du bruker Microsofts godkjenningsbibliotek (MSAL) for henting av tilgangstoken. I tillegg kan denne feilen oppstå hvis du prøver å bruke et delegert tilgangstoken som er gitt til en personlig Microsoft-konto, til å få tilgang til en API som bare støtter jobb- eller skolekontoer (organisasjonskontoer).
 
 **Feil 403 Ingen tilgang: Har du valgt riktig sett med tillatelser?**
 
-Sørg for at du har bedt om riktig sett med tillatelser basert på Microsoft Graph-API-ene appen kaller. Anbefalte minst privilegerte tillatelser er angitt i alle referansemetodeemner for Microsoft Graph-API. I tillegg må disse tillatelsene gis til programmet av en bruker eller en administrator. Å gi tillatelser skjer vanligvis gjennom en samtykkeside eller bruk av Azure Portal-programregistreringsbladet. Gå til **Innstillinger**-bladet til programmet, klikk på **Nødvendige tillatelser**, og klikk deretter på **Gi tillatelser**. Hvis du vil ha mer informasjon, kan du se:
+Sørg for at du har bedt om riktig sett med tillatelser basert på Microsoft Graph-API-ene appen kaller opp. Anbefalte minst privilegerte tillatelser er angitt i alle referansemetodeemner for Microsoft Graph-API-en. I tillegg må disse tillatelsene gis til programmet av en bruker eller administrator. Tillatelser blir vanligvis gitt gjennom en samtykkeside eller Azure Portal-programregistreringsbladet. Gå til **Innstillinger**-bladet til programmet, klikk på **Nødvendige tillatelser**, og klikk deretter på **Gi tillatelser**. Hvis du vil ha mer informasjon, kan du se:
 
 - [Microsoft Graph-tillatelser](https://docs.microsoft.com/graph/permissions-reference) 
 - [Forstå tillatelse og samtykke for Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
 **Feil 403 Ingen tilgang: Hentet appen et token for å samsvare med valgte tillatelser?**
 
-Sørg for at typene tillatelse som er forespurt eller gitt, samsvarer med typen tilgangstoken som appen krever. Du kan be om og gi apptillatelser, men bruke delegerte interaktive kodeflyttokener i stedet for klientlegitimasjonsflyttokener, eller be om eller gi delegerte tillatelser, men bruke klientlegitimasjonsflyttokener i stedet for delegerte kodeflyttokener.
+Sørg for at typene tillatelse som er forespurt eller gitt, samsvarer med typen tilgangstoken som appen krever. Du ber kanskje om og gi apptillatelser, men bruker delegerte interaktive kodeflyttokener i stedet for klientlegitimasjonsflyttokener, eller du ber om eller gir delegerte tillatelser, men bruker klientlegitimasjonsflyttokener i stedet for delegerte kodeflyttokener.
 
-For mer informasjon knyttet til å hente tokener, kan du se:
+Hvis du vil ha mer informasjon knyttet til å hente tokener, kan du se:
 
 - [Få tilgang på vegne av brukere og delegerte tillatelser](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v2.0 – OAuth 2.0- autorisasjonskodeflyt](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Azure AD v2.0 – OAuth 2.0-autorisasjonskodeflyt](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
 - [Få tilgang uten en bruker (daemon-tjeneste) og programtillatelser](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v2.0 – OAuth 2.0 klientlegitimasjonsflyt](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Azure AD v2.0 – OAuth 2.0-klientlegitimasjonsflyt](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
 **Feil 403 Ingen tilgang: Tilbakestilling av passord**
 
-Det er for øyeblikket ingen daemon-service-til-service-tillatelser som tillater tilbakestilling av brukerpassord. Disse API-ene støttes kun ved bruk av de interaktive delegerte kodeflytene med en pålogget administrator. For mer informasjon kan du se[Microsoft Graph-tillatelser](https://docs.microsoft.com/graph/permissions-reference).
+Det er for øyeblikket ingen daemon-tjeneste-til-tjeneste-tillatelser som tillater tilbakestilling av brukerpassord. Disse API-ene støttes bare ved bruk av de interaktive delegerte kodeflytene med en pålogget administrator. Hvis du vil ha mer informasjon, kan du se[Microsoft Graph-tillatelser](https://docs.microsoft.com/graph/permissions-reference).
 
 **403 Ingen tilgang: Har brukeren tilgang og lisens?**
 
-For delegerte kodeflyter evaluerer Microsoft Graph om forespørselen er tillatt basert på tillatelsene som er gitt til appen, og tillatelsene som den påloggede brukeren har. Generelt sett indikerer denne feilen at brukeren ikke har nok rettigheter til å utføre forespørselen **eller** brukeren er ikke lisensiert for dataene som åpnes. Kun brukere med nødvendige tillatelser eller lisenser kan utføre forespørselen.
+For delegerte kodeflyter evaluerer Microsoft Graph om forespørselen er tillatt basert på tillatelsene som er gitt til appen, og tillatelsene som den påloggede brukeren har. Generelt sett indikerer denne feilen at brukeren ikke har nok rettigheter til å utføre forespørselen, **eller** brukeren er ikke lisensiert for tilgang til dataene. Bare brukere med nødvendige tillatelser eller lisenser kan utføre forespørselen.
 
 **403 Ingen tilgang: Valgte du riktig ressurs-API?**
 
-API-tjenester som Microsoft Graph kontrollerer at *aud*-kravet (målgruppen) i det mottatte tilgangstokenet samsvarer med verdien det forventer for seg selv, og hvis ikke, oppstår feilen 403 Ingen tilgang. En vanlig feil som resulterer i denne feilen prøver å bruke et token som er hentet for Azure AD Graph API-er, Outlook API-er eller SharePoint-/OneDrive-API-er for å kalle Microsoft Graph (eller motsatt). Sørg for at ressursen (eller området) appen henter et token for, samsvarer med API-en som appen kaller.
+API-tjenester som Microsoft Graph kontrollerer at *aud*-kravet (målgruppen) i det mottatte tilgangstokenet samsvarer med verdien den forventer for seg selv. Hvis ikke oppstår feilen 403 Ingen tilgang. En vanlig feil som fører til i denne feilen, er å prøve å bruke et token som er hentet for Azure AD Graph API-er, Outlook API-er eller SharePoint-/OneDrive-API-er, til å kalle opp Microsoft Graph (eller motsatt). Sørg for at ressursen (eller området) appen henter et token for, samsvarer med API-en som appen kaller opp.
 
-**400 Ugyldig forespørsel eller 403 Ingen tilgang: Overholder brukeren organisasjonens policyer for betinget tilgang (CA)?**
+**400 Ugyldig forespørsel eller 403 Ingen tilgang: Overholder brukeren organisasjonens policyer for betinget tilgang?**
 
-Basert på policyene for betinget tilgang (CA) for en organisasjon, kan en bruker som åpner Microsoft Graph-ressurser via appen, bli bedt om ekstra informasjon som ikke finnes i tilgangstokenet som appen opprinnelig hentet. I dette tilfellet mottar appen feilen **400 med *interaction_required*** under henting av tilgangstoken eller feilen **403 med *insufficient_claims*** ved kalling på Microsoft Graph. I begge tilfeller inneholder feilresponsen tilleggsinformasjon som kan presenteres til det autoriserte endepunktet, for å utfordre brukeren for tilleggsinformasjon (for eksempel godkjenning med flere faktorer eller enhetsregistrering).
+Basert på policyene for betinget tilgang for en organisasjon kan en bruker som åpner Microsoft Graph-ressurser via appen, bli bedt om ekstra informasjon som ikke finnes i tilgangstokenet som appen opprinnelig hentet. I dette tilfellet mottar appen feilen **400 med *interaction_required*** under henting av tilgangstoken eller feilen **403 med *insufficient_claims*** når Microsoft Graph kalles opp. I begge tilfeller inneholder feilen tilleggsinformasjon som kan presenteres til det autoriserte endepunktet for å be brukeren om mer informasjon (for eksempel godkjenning med flere faktorer eller enhetsregistrering).
 
-For mer informasjon knyttet til betinget tilgang, kan du se:
+Hvis du vil ha mer informasjon om betinget tilgang, kan du se:
 
 - [Håndtere utfordringer med betinget tilgang med MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Utviklerveiledning for betinget tilgang for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Avvikling av kundestøtte for godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph API (AAD Graph)_* _
+**_Avvikling av kundestøtte for godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph-API-en (AAD Graph)_* _
 
-- Fra og med 30. juni 2020 kommer vi ikke til å legge til nye funksjoner i godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph API (AAD Graph). Vi vil fortsette å tilby teknisk støtte og sikkerhetsoppdateringer, men vi vil ikke lenger tilby funksjonsoppdateringer.
-- Fra og med 30. juni 2022 vil vi avvikle støtten for ADAL og AAD Graph, og vil ikke lenger tilby teknisk støtte eller sikkerhetsoppdateringer.
-    - Apper som bruker ADAL på eksisterende OS-versjoner, vil fortsette å fungere etter dette tidspunktet, men vil ikke få teknisk støtte eller sikkerhetsoppdateringer.
+- Fra og med 30. juni 2020 kommer vi ikke til å legge til nye funksjoner i godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph-API-en (AAD Graph). Vi vil fortsette å tilby teknisk støtte og sikkerhetsoppdateringer, men vi vil ikke lenger tilby funksjonsoppdateringer.
+- Fra og med 30. juni 2022 vil vi avvikle støtten for ADAL og AAD Graph og vil ikke lenger tilby teknisk støtte eller sikkerhetsoppdateringer.
+    - Apper som bruker ADAL på eksisterende operativsystemversjoner, vil fortsette å fungere etter dette tidspunktet, men vil ikke få teknisk støtte eller sikkerhetsoppdateringer.
     - Apper som bruker AAD Graph etter dette tidspunktet, vil ikke lenger motta svar fra AAD Graph-endepunktet.
 
 _ *ADAL-overføring**
@@ -87,15 +87,15 @@ _ *ADAL-overføring**
 Vi anbefaler at du oppdaterer til [Microsofts godkjenningbibliotek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funksjonene og sikkerhetsoppdateringene. Denne anbefalingen gis i forbindelse med at Microsoft overfører programmene sine til MSAL innen fristen for avvikling av kundestøtte. Målet med overføringen av Microsoft-apper til MSAL er å sikre at appene drar nytte av MSALs pågående sikkerhets- og funksjonsforbedringer.
 
 - [Les Vanlige spørsmål om ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Finn ut hvordan du overfører apper på per plattform-basis](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Hvis du trenger hjelp til å forstå hvilke av appene som bruker ADAL, anbefaler vi at du ser gjennom kildekoden til alle appene, og hvis det er aktuelt, tar du kontakt med en uavhengig programvareleverandør (ISV) eller appleverandør. Microsoft Kundestøtte kan også gi deg en liste med alle ADAL-appene i tenanten, som ikke er fra Microsoft.
+- [Finn ut hvordan du overfører apper per plattform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Hvis du trenger hjelp til å forstå hvilke av appene som bruker ADAL, anbefaler vi at du ser gjennom kildekoden til alle appene, og hvis det er aktuelt, tar du kontakt med en uavhengig programvareleverandør eller appleverandør. Microsoft Kundestøtte kan også gi deg en liste over alle ADAL-appene i tenanten som ikke er fra Microsoft.
 
 **AAD Graph-overføring**
 
 For programmer som bruker AAD Graph, følger du veiledningen for å [overføre Azure AD Graph-apper til Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
 - [Sjekklisten for overføring gir et utgangspunkt for å komme i gang](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- Appregistreringsportalen for Azure viser hvilke programmer som bruker AAD Graph. Vi anbefaler at du ser gjennom kildekoden for alle appene, og hvis det er aktuelt, tar du kontakt med en ISV eller appleverandør. Microsoft Kundestøtte kan også gi deg informasjon om AAD Graph-bruken i tenanten.
+- Appregistreringsportalen for Azure viser hvilke programmer som bruker AAD Graph. Vi anbefaler at du ser gjennom kildekoden for alle appene, og hvis det er aktuelt, tar du kontakt med en uavhengig programvareleverandør eller appleverandør. Microsoft Kundestøtte kan også gi deg informasjon om AAD Graph-bruken i tenanten.
 
  
 
