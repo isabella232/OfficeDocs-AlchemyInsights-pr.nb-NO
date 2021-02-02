@@ -1,5 +1,5 @@
 ---
-title: Endre en delt post boks Send som virke måte
+title: Endre virkemåten Send som i den delte postboksen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793659"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075870"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Endre en delt post boks Send som virke måte
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Endre virkemåten Send som i den delte postboksen
 
 Meldinger som sendes fra den delte postboksen, blir som standard ikke lagret i Sendte elementer-mappen i den delte postboksen. De blir i stedet lagret i Sendte elementer-mappen til personen som sendte meldingen.
   
-Hvis du vil at alle medlemmer skal se den sendte e-postmeldingen, kan du redigere den delte post boks informasjonen i administrasjons senteret for Microsoft 365, og velge Rediger for **Sendte elementer** \> **Edit**.
+Hvis du vil at alle medlemmene skal se sendte e-postmeldinger, redigerer du detaljene for den delte postboksen i administrasjonssenteret for Microsoft 365 og velger **Rediger sendte** \> **elementer.**
   
-Hvis du vil lese mer, kan du se [opprette en delt post boks](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Hvis du vil ha mer informasjon, kan [du se Konfigurere innstillinger for delt postboks.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
   
