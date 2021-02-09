@@ -1,37 +1,35 @@
 ---
-title: Hvordan endrer jeg fra kreditt kort betalinger til fakturering?
+title: Hvordan endrer jeg fra kredittkortbetalinger til faktura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286743"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152315"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan endrer jeg fra kreditt kort betalinger til fakturering?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan endrer jeg fra kredittkortbetalinger til faktura?
 
 > [!NOTE]
-> Alternativet for å betale per faktura er bare tilgjengelig hvis abonnementet koster over et bestemt beløp (som varierer etter Service sted). En kredittvurdering kan være nødvendig for større fakturabetalinger. Hvis du vil ha mer informasjon, kan du se [betale for abonnementet ditt](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Du kan bare endre til å betale med faktura hvis abonnementskostnadene dine over et bestemt beløp. Du må først betale utestående saldo på kreditt- eller debetkortet eller bankkontoen før du kan bytte til å betale med faktura.
 
-1. Gå til siden for **fakturering**  >  [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Finn abonnementet du vil endre. Under **fakturering**ved siden av betalings metoden velger du **Rediger**.
-3. Ved siden av den eksisterende betalings metoden velger du **endre**.
-4. Fra rulle gardin menyen velger du faktura- **eller transport overføring**.
-5. Skriv inn navn, adresse og telefon nummer. Du kan også legge til et BESTILLINGs nummer som skal vises på fakturaen.
-6. Velg **Lagre**når du er ferdig.
-7. Kontroller at den valgte betalings metoden er riktig, og velg deretter **Lagre**.
+1. Gå til Fakturering for produkter-siden i  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Finn abonnementet **du** vil betale for med den alternative betalingsmåten, på Produkter-fanen.
+3. Velg **Flere handlinger** (tre prikker), og velg deretter **Erstatt betalingsmåte.**
+4. Velg Legg **til betalingsmåte i** erstatt betalingsmåte. 
+5. Velg Faktura **eller** **bankoverføring** i ruten Legg til betalingsmåte.
+6. Skriv inn navn, adresse og telefonnummer. Du kan også legge til et kjøpsnummer som skal vises på fakturaen.
+7. Når du er ferdig, velger du **Lagre.**
 
-Hvis du vil ha mer informasjon, kan du se [endre betalings måte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Hvis du vil ha mer informasjon, [kan du se Hvordan du betaler for abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
