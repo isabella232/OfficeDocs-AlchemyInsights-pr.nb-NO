@@ -1,37 +1,35 @@
 ---
-title: Hvordan endrer jeg fra kreditt kort betalinger til fakturering?
+title: Hvordan endrer jeg fra kredittkortbetalinger til faktura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286743"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152315"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="0df6d-102">Hvordan endrer jeg fra kreditt kort betalinger til fakturering?</span><span class="sxs-lookup"><span data-stu-id="0df6d-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="7d701-102">Hvordan endrer jeg fra kredittkortbetalinger til faktura?</span><span class="sxs-lookup"><span data-stu-id="7d701-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="0df6d-103">Alternativet for å betale per faktura er bare tilgjengelig hvis abonnementet koster over et bestemt beløp (som varierer etter Service sted).</span><span class="sxs-lookup"><span data-stu-id="0df6d-103">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="0df6d-104">En kredittvurdering kan være nødvendig for større fakturabetalinger.</span><span class="sxs-lookup"><span data-stu-id="0df6d-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="0df6d-105">Hvis du vil ha mer informasjon, kan du se [betale for abonnementet ditt](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0df6d-105">To learn more, see [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
+> <span data-ttu-id="7d701-103">Du kan bare endre til å betale med faktura hvis abonnementskostnadene dine over et bestemt beløp.</span><span class="sxs-lookup"><span data-stu-id="7d701-103">You can only change to paying by invoice if your subscription costs above a certain amount.</span></span> <span data-ttu-id="7d701-104">Du må først betale utestående saldo på kreditt- eller debetkortet eller bankkontoen før du kan bytte til å betale med faktura.</span><span class="sxs-lookup"><span data-stu-id="7d701-104">You must first pay any outstanding balance on the credit or debit card or bank account before you can change to paying by invoice.</span></span>
 
-1. <span data-ttu-id="0df6d-106">Gå til siden for **fakturering**  >  [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.</span><span class="sxs-lookup"><span data-stu-id="0df6d-106">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="0df6d-107">Finn abonnementet du vil endre.</span><span class="sxs-lookup"><span data-stu-id="0df6d-107">Find the subscription that you want to change.</span></span> <span data-ttu-id="0df6d-108">Under **fakturering**ved siden av betalings metoden velger du **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="0df6d-108">Under **Billing**, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="0df6d-109">Ved siden av den eksisterende betalings metoden velger du **endre**.</span><span class="sxs-lookup"><span data-stu-id="0df6d-109">Next to your existing payment method, select **Change**.</span></span>
-4. <span data-ttu-id="0df6d-110">Fra rulle gardin menyen velger du faktura- **eller transport overføring**.</span><span class="sxs-lookup"><span data-stu-id="0df6d-110">From the drop-down menu, select **Invoice or wire transfer**.</span></span>
-5. <span data-ttu-id="0df6d-111">Skriv inn navn, adresse og telefon nummer.</span><span class="sxs-lookup"><span data-stu-id="0df6d-111">Enter your name, address, and phone number.</span></span> <span data-ttu-id="0df6d-112">Du kan også legge til et BESTILLINGs nummer som skal vises på fakturaen.</span><span class="sxs-lookup"><span data-stu-id="0df6d-112">You can also add a PO number to display on the invoice.</span></span>
-6. <span data-ttu-id="0df6d-113">Velg **Lagre**når du er ferdig.</span><span class="sxs-lookup"><span data-stu-id="0df6d-113">When you're finished, select **Save**.</span></span>
-7. <span data-ttu-id="0df6d-114">Kontroller at den valgte betalings metoden er riktig, og velg deretter **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="0df6d-114">Verify that the selected payment method is correct, then select **Save**.</span></span>
+1. <span data-ttu-id="7d701-105">Gå til Fakturering for produkter-siden i  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="7d701-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="7d701-106">Finn abonnementet **du** vil betale for med den alternative betalingsmåten, på Produkter-fanen.</span><span class="sxs-lookup"><span data-stu-id="7d701-106">On the **Products** tab, find the subscription that you want to pay for with the alternate payment method.</span></span>
+3. <span data-ttu-id="7d701-107">Velg **Flere handlinger** (tre prikker), og velg deretter **Erstatt betalingsmåte.**</span><span class="sxs-lookup"><span data-stu-id="7d701-107">Select **More actions** (three dots), then select **Replace payment method**.</span></span>
+4. <span data-ttu-id="7d701-108">Velg Legg **til betalingsmåte i** erstatt betalingsmåte. </span><span class="sxs-lookup"><span data-stu-id="7d701-108">In the **Replace payment method** pane, select **Add payment method**.</span></span>
+5. <span data-ttu-id="7d701-109">Velg Faktura **eller** **bankoverføring** i ruten Legg til betalingsmåte.</span><span class="sxs-lookup"><span data-stu-id="7d701-109">In the **Add a payment method** pane, select **Invoice or wire transfer**.</span></span>
+6. <span data-ttu-id="7d701-110">Skriv inn navn, adresse og telefonnummer.</span><span class="sxs-lookup"><span data-stu-id="7d701-110">Enter your name, address, and phone number.</span></span> <span data-ttu-id="7d701-111">Du kan også legge til et kjøpsnummer som skal vises på fakturaen.</span><span class="sxs-lookup"><span data-stu-id="7d701-111">You can also add a PO number to display on the invoice.</span></span>
+7. <span data-ttu-id="7d701-112">Når du er ferdig, velger du **Lagre.**</span><span class="sxs-lookup"><span data-stu-id="7d701-112">When you're finished, select **Save**.</span></span>
 
-<span data-ttu-id="0df6d-115">Hvis du vil ha mer informasjon, kan du se [endre betalings måte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span><span class="sxs-lookup"><span data-stu-id="0df6d-115">To learn more, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="7d701-113">Hvis du vil ha mer informasjon, [kan du se Hvordan du betaler for abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="7d701-113">To learn more, see [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
