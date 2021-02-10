@@ -3,32 +3,32 @@ title: Vanlige spørsmål om fakturering
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
-ms.translationtype: MT
+ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364632"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152505"
 ---
 # <a name="billing-or-invoice-faq"></a>Vanlige spørsmål om fakturering
 
-- En betaling kan **avslås** av flere grunner, blant annet når et kredittkort er utløpt. Se [Endre betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) for å løse problemet.
-- Hvis fakturaen er **forfalt**, kan du bruke funksjonen **Utligne saldo** til å sende inn betalingen på nytt. Se [Hva om betalingen er utløpt?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) for å løse problemet.
-- Du blir fortsatt belastet for lisenser som ikke er tilordnet til brukere. Hvis du vil unngå unødvendige kostnader, fjerner du de ubrukte lisensene for å redusere lisens antallet. Se [legge til eller fjerne lisenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) fra et abonnement.
+- En betaling kan **avslås** av flere grunner, blant annet når et kredittkort er utløpt. Se [Oppdater betalingsmetodedetaljer](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details) for å løse dette.
+- Hvis fakturaen er **forfalt**, kan du bruke funksjonen **Utligne saldo** til å sende inn betalingen på nytt. [Hva hvis jeg har en utestående saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance) for å løse dette.
+- Du blir fortsatt belastet for lisenser som ikke er tilordnet til brukere. Hvis du vil hindre unødvendige kostnader, kan du fjerne de ubrukte lisensene for å redusere lisensantallet. Se [Kjøpe eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) fra et abonnement.
 - Hvis du vil endre **faktureringshyppigheten** til månedlig eller årlig, kan du se [Endre faktureringshyppigheten](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Hvis du trenger hjelp med fakturaen, kan du se [Forstå fakturaen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Hvis du trenger hjelp til å **vise** fakturaen, kan du se [Vis faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Hvis du vil endre fakturerings informasjon, kan du se [Behandle fakturerings profil](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) eller [endre fakturerings adresse](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Se [Forstå fakturaprofiler](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) eller [Endre faktureringsadressen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) for å endre faktureringsinformasjonen.
 
-Hvis du vil ha mer informasjon, kan du se [forstå fakturaen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Se [Forstå fakturaen din](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) for mer informasjon.

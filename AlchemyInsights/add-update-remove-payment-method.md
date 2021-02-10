@@ -1,33 +1,34 @@
 ---
 title: Legge til, oppdatere eller fjerne betalingsalternativer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708732"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152525"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Legge til, oppdatere eller fjerne betalingsalternativer
 
 Du kan kjøpe produkter og tjenester fra Microsoft med kredittkort, debetkort eller bankkonto (direkte debet).
 
-- Hvis du vil legge til en bankkonto som en betalingsmåte, kan du se [Legge til en betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
+- Hvis du vil legge til en bankkonto som en betalingsmåte, kan du se [Legge til en betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Hvis du vil oppdatere informasjon på en bankkonto, se [Oppdatere en eksisterende betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Se [Oppdatere betalingsmetodedetaljer](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details) hvis du vil oppdatere informasjon om en bankkonto.
 
-- Hvis du vil endre betalingsmåte til eller fra en bankkonto, kan du se [Endre betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+- Se [Erstatt betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method) hvis du vil endre betalingsmåte til eller fra en bankkonto.
 
-- Hvis du vil fjerne en bankkonto som en betalingsmåte, kan du se [Fjerne en betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method). 
+- Se [Slette en betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method) hvis du vil fjerne en bankkonto som en betalingsmåte.
 
-Hvis du vil ha mer informasjon, kan du se [Legge til, oppdatere eller fjerne betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). 
+Se [Endre betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) hvis du vil ha mer informasjon. 

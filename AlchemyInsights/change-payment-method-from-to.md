@@ -1,30 +1,29 @@
 ---
 title: Endre betalingsmetode
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933402"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152603"
 ---
 # <a name="change-payment-method-fromto"></a>Endre betalingsmetode fra/til
 
 1. **Endre fra faktura til kredittkort eller bankkonto**
 
-    - Når du bytter fra å betale med faktura til å betale med kredittkort eller bankkonto, oppretter vi automatisk et nytt abonnement for deg, vi flytter brukerne dine til det nye abonnementet, og til slutt deaktiverer vi det gamle abonnementet. Du trenger ikke bekymre deg, da brukerne ikke vil oppleve noen avbrudd i tjenesten og all informasjonen deres vil være tilgjengelig gjennom det nye abonnementet. 
-
-    - Følg stegene dokumentert i [Endre fra faktura til kredittkort eller bankkonto](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Du kan ikke automatisk endre fra betaling med faktura til betaling med en annen betalingsmåte. I stedet må du [kjøpe et annet abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) som betales med kreditt- eller debetkort eller bankkonto, [flytte alle brukerne til det nye abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), og deretter [stoppe det gamle abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Endre fra kredittkort eller bankkonto til faktura**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933402"
 
     - Hvis ordreantallet er for høyt, kan det være nødvendig med en kredittsjekk. Hvis dette er tilfelle, kan du se meldingen «ikke kvalifisert til å bytte til faktura. Bestillingen krever en kredittsjekk.» I dette tilfellet endres du til betaling med faktura manuelt.
 
-    - Følg stegene dokumentert i [Endre fra kredittkort eller bankkonto til faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) for å fullføre den manuelle endringen.
+    - Følg stegene som forklares i [Hvordan endrer jeg fra kredittkort til faktura?](how-do-i-change-from-credit-card-payments-to-invoice.md) for å fullføre den manuelle endringen.
 
-Du finner mer informasjon i [Endre betalingsmåte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Se [Slik betaler du for abonnementet](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) for mer informasjon.
