@@ -12,28 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307279"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232448"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Legge til eller fjerne lisenser for abonnementet
 
-Slik legger du til eller fjerner lisenser.
-  
-1. Gå til siden for **fakturering**  >  [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Finn abonnementet du vil kjøpe eller fjerne lisenser for, i kategorien **produkter** . Velg **flere handlinger** (tre prikker), og velg deretter **Kjøp lisenser**.
-3. Hvis du vil redusere antall lisenser, velger du **Fjern lisenser**øverst i **Kjøp lisenser** -ruten.
-4. Hvis du vil kjøpe eller fjerne lisenser, skriver du inn det totale antallet lisenser du vil ha for dette abonnementet, under **nytt antall** i **totalt lisenser** -boksen. Hvis du for eksempel har 100-lisenser og vil legge til 25 flere, skriver du inn 125. Hvis du vil fjerne 25 lisenser, skriver du inn 75.
+**SE en video** som viser hvordan du gjør dette: [Kjøpe nye lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154857) eller [fjerne eksisterende lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+
+1. Gå til Fakturering for produkter-siden i  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Finn abonnementet **du** vil kjøpe eller fjerne lisenser for, på Produkter-fanen. Velg **Flere handlinger** (tre prikker), og velg **kjøp lisenser.**
+3. Hvis du vil redusere antall lisenser, velger  du Fjern lisenser øverst i Ruten Kjøp **lisenser.**
+4. Hvis du vil kjøpe eller fjerne  lisenser, **angir** du det totale antallet lisenser du vil ha for dette abonnementet, under Nytt antall i boksen Totalt antall lisenser. Hvis du for eksempel har 100 lisenser og du vil legge til 25 til, må du skrive inn tallet 125 her. Hvis du vil fjerne 25 lisenser, angir du 75.
 5. Velg **Lagre**.
 
-Hvis du vil ha informasjon om hvordan du tilordner lisenser, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Hvis du vil ha informasjon om hvordan du tilordner lisenser, kan [du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Ressurser**
   
-- [Kjøpe eller fjerne abonnements lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [Avbryte Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Prøv eller kjøp et abonnement for Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Kjøpe eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Avbryte Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Prøv eller kjøp et abonnement på Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

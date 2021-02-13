@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 8e6efea39e32720a22ddb4337e7a23381cff4bb9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307151"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231944"
 ---
 # <a name="power-bi-license-management"></a>Power BI-lisensstyring
 
-Behandling av Power BI-lisens kan full føres i administrasjons senteret for Microsoft 365.
+Administrasjon av Power BI-lisenser kan fullføres i administrasjonssenteret for Microsoft 365.
 
-- **Slik kjøper du Power bi**: gå til tjenester for kjøp av **fakturering** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433). Bruk søke boksen til å søke etter Power BI, Velg planen og antall brukere du vil kjøpe. Hvis du vil ha mer informasjon, kan du se [kjøpe et annet abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription).
-- **Slik tilordner du Power bi-lisenser**: gå til **fakturerings**  >  [lisenser](https://go.microsoft.com/fwlink/p/?linkid=842264). Hvis du vil ha mer informasjon, kan du se [Tilordne lisenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- **Hvis du vil legge til eller fjerne lisenser for Power bi**: gå til **fakturering**  >  [av produktene](https://go.microsoft.com/fwlink/p/?linkid=842054), Finn abonnementet du vil endre, velg **flere alternativer** (tre prikker), og velg deretter **Kjøp lisenser**. Hvis du vil fjerne lisenser, velger du **Fjern lisenser**øverst i **Kjøp lisenser** -ruten. Hvis du vil ha mer informasjon, kan du se [legge til eller fjerne lisenser fra et bedrifts abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- **Slik kjøper du Power BI:** Gå til **tjenester for** \> **[faktureringskjøp.](https://go.microsoft.com/fwlink/p/?linkid=868433)** Bruk søkeboksen til å søke etter Power BI, og velg deretter planen og antall brukere du vil kjøpe. Hvis du vil ha mer informasjon, [kan du se Kjøpe et annet abonnement.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- **Slik tilordner du Power BI-lisenser:** Gå **til**  >  **[Faktureringslisenser.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Hvis du vil ha mer informasjon, [kan du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Slik legger du til eller fjerner lisenser **for Power BI:** Gå til Fakturering for produkter, finn abonnementet du vil endre, velg Flere alternativer (tre prikker), og velg kjøp  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** **lisenser.**  Hvis du vil fjerne lisenser, velger du Fjern lisenser øverst i ruten Kjøp **lisenser.**  Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne lisenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)\
+**SE en video** som viser hvordan du gjør dette: [Kjøpe nye lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)

@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287075"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231872"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Spørsmål om Microsoft 365-lisensen
 
-Bruk disse trinnene for å finne ut hvor mange lisenser du har kjøpt, eller hvor mange lisenser som er tilordnet fra et abonnement.
+Bruk denne fremgangsmåten for å finne ut hvor mange lisenser du har kjøpt, eller hvor mange lisenser som er tilordnet fra et abonnement.
   
-1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Finn abonnementet du vil vite mer om, i kategorien **produkter** . Du kan se antall lisenser du betaler for, og hvor mange som er tilordnet.
+1. Gå til Fakturering for  produkter-siden i \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
+2. Finn **abonnementet** du vil vite mer om, på Produkter-fanen. Du kan se antall lisenser du betaler for, og hvor mange som er tilordnet for øyeblikket.
 
-Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du abonnementet. På abonnements data-siden velger du **Kjøp lisenser** eller **Fjern lisenser** for å justere totalt antall lisenser for abonnementet.
+Hvis du vil legge til flere lisenser, eller hvis du har for mange, velger du abonnementet. Velg Kjøp lisenser eller Fjern lisenser på **abonnementsdatasiden** for å justere det totale antallet lisenser for abonnementet. 
+
+**SE en video** som viser hvordan du gjør dette: [Kjøpe nye lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154857) eller [fjerne eksisterende lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154938)
