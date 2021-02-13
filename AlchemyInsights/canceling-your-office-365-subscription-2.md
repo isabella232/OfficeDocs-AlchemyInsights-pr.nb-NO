@@ -1,9 +1,8 @@
 ---
-title: Avbryter du Microsoft 365-abonnementet?
+title: Vil du avbryte Microsoft 365-abonnementet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416222"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232016"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="89a1a-102">Avbryter du Microsoft 365-abonnementet?</span><span class="sxs-lookup"><span data-stu-id="89a1a-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="c0de3-102">Vil du avbryte Microsoft 365-abonnementet?</span><span class="sxs-lookup"><span data-stu-id="c0de3-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="89a1a-103">Vi beklager at du kan komme i gang!</span><span class="sxs-lookup"><span data-stu-id="89a1a-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="c0de3-103">Det er leit at du blir med!</span><span class="sxs-lookup"><span data-stu-id="c0de3-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="89a1a-104">Avhengig av organisasjonens data, tror vi at alle de nå værende abonnementene har mer enn 25 tilordnede lisenser.</span><span class="sxs-lookup"><span data-stu-id="89a1a-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="89a1a-105">Fjern lisenser fra brukere til du har færre enn 25 lisensierte brukere.</span><span class="sxs-lookup"><span data-stu-id="89a1a-105">Remove licenses from users until you have fewer than 25 licensed users.</span></span> <span data-ttu-id="89a1a-106">Deretter går du til siden **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="89a1a-106">Next, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="89a1a-107">Finn abonnementet du vil avbryte, i kategorien **produkter** , velg **flere handlinger** (tre prikker), og velg deretter **Avbryt abonnement**.</span><span class="sxs-lookup"><span data-stu-id="89a1a-107">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+<span data-ttu-id="c0de3-104">Basert på organisasjonsdataene mener vi at alle gjeldende abonnementer har mer enn 25 lisenser.</span><span class="sxs-lookup"><span data-stu-id="c0de3-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="c0de3-105">Før du kan avbryte:</span><span class="sxs-lookup"><span data-stu-id="c0de3-105">Before you can cancel:</span></span>
 
-<span data-ttu-id="89a1a-108">**Refusjon:** Eventuell fordelt kredit blir tilbake til deg i den neste fakturerings syklusen.</span><span class="sxs-lookup"><span data-stu-id="89a1a-108">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+1. <span data-ttu-id="c0de3-106">Fjern lisenser fra brukere til du har færre enn 25 lisensierte brukere.</span><span class="sxs-lookup"><span data-stu-id="c0de3-106">Remove licenses from users until you have fewer than 25 licensed users.</span></span>
+2. <span data-ttu-id="c0de3-107">Gå til siden **Fakturering** \> **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.</span><span class="sxs-lookup"><span data-stu-id="c0de3-107">Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+3. <span data-ttu-id="c0de3-108">Finn abonnementet **du** vil avbryte, på Produkter-fanen, velg Flere handlinger **(tre** prikker), og velg deretter **Avbryt abonnement.**</span><span class="sxs-lookup"><span data-stu-id="c0de3-108">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="89a1a-109">Hvis du vil ha mer informasjon, kan du se [avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="89a1a-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="c0de3-109">**Refusjon:** Eventuell fortløpende kreditt vil bli returnert til deg innen neste faktureringssyklus.</span><span class="sxs-lookup"><span data-stu-id="c0de3-109">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+
+<span data-ttu-id="c0de3-110">Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="c0de3-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>

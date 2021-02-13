@@ -1,9 +1,8 @@
 ---
-title: Behandle app-lisenser
+title: Behandle applisenser
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778160"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232412"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="fa60b-102">Behandle app-lisenser</span><span class="sxs-lookup"><span data-stu-id="fa60b-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="7f2ee-102">Behandle applisenser</span><span class="sxs-lookup"><span data-stu-id="7f2ee-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="fa60b-103">Slik endrer du lisens antall</span><span class="sxs-lookup"><span data-stu-id="fa60b-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="7f2ee-103">Slik endrer du lisensantall</span><span class="sxs-lookup"><span data-stu-id="7f2ee-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="fa60b-104">Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** , og velg deretter **apper** -fanen.</span><span class="sxs-lookup"><span data-stu-id="fa60b-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="7f2ee-104">Gå til siden **Fakturering**  >  **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="7f2ee-105">Finn **appen** du vil  administrere, under Apper på Produkter-fanen.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-105">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="7f2ee-106">Velg **Flere handlinger** (tre prikker), og velg **kjøp lisenser.**</span><span class="sxs-lookup"><span data-stu-id="7f2ee-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="7f2ee-107">Hvis du vil redusere antall lisenser, velger  du Fjern lisenser øverst i Ruten Kjøp **lisenser.**</span><span class="sxs-lookup"><span data-stu-id="7f2ee-107">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="7f2ee-108">Hvis du vil kjøpe eller fjerne  lisenser, **angir** du det totale antallet lisenser du vil ha for dette abonnementet, under Nytt antall i boksen Totalt antall lisenser.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="7f2ee-109">Hvis du for eksempel har 100 lisenser og du vil legge til fem til, må du skrive inn tallet 105 her.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-109">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="7f2ee-110">Hvis du vil fjerne fem av dem, skriver du inn tallet 95.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-110">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="7f2ee-111">Velg **Lagre**.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="fa60b-105">Finn og velg appen du vil administrere.</span><span class="sxs-lookup"><span data-stu-id="fa60b-105">Find and select the app you want to manage.</span></span>  
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="7f2ee-112">Slik tilordner du applisenser:</span><span class="sxs-lookup"><span data-stu-id="7f2ee-112">To assign app licenses</span></span>
 
-3. <span data-ttu-id="fa60b-106">Velg **Legg til/fjern lisenser**.</span><span class="sxs-lookup"><span data-stu-id="fa60b-106">Select **Add/remove licenses**.</span></span>
-
-4. <span data-ttu-id="fa60b-107">Skriv inn det nye antallet lisenser du trenger.</span><span class="sxs-lookup"><span data-stu-id="fa60b-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="fa60b-108">Hvis du for eksempel for øyeblikket har fem lisenser og bare trenger 4, skriver du inn 4 i boksen **Totalt antall lisenser** .</span><span class="sxs-lookup"><span data-stu-id="fa60b-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="fa60b-109">Hvis du for øyeblikket har 5 lisenser og trenger 10 totale lisenser, skriver du inn 10 i boksen **Totalt antall lisenser** .</span><span class="sxs-lookup"><span data-stu-id="fa60b-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
-
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="fa60b-110">Slik tilordner du app-lisenser</span><span class="sxs-lookup"><span data-stu-id="fa60b-110">To assign app licenses</span></span>
-
-1. <span data-ttu-id="fa60b-111">Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** , og velg deretter **apper** -fanen.</span><span class="sxs-lookup"><span data-stu-id="fa60b-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
-
-2. <span data-ttu-id="fa60b-112">Finn og velg appen du vil administrere.</span><span class="sxs-lookup"><span data-stu-id="fa60b-112">Find and select the app you want to manage.</span></span>  
-
-3. <span data-ttu-id="fa60b-113">Under **innstillinger & handlinger**velger du koblingen du vil **Behandle i Publisher-portalen**.</span><span class="sxs-lookup"><span data-stu-id="fa60b-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="7f2ee-113">Gå til siden **Fakturering**  >  **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-113">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="7f2ee-114">Finn **og velg** appen du vil administrere, i **Apper-delen** på Produkter-fanen.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-114">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="7f2ee-115">Velg **koblingen &** Behandle i **Publisher-portalen** under Innstillinger for &.</span><span class="sxs-lookup"><span data-stu-id="7f2ee-115">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
