@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232412"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237577"
 ---
 # <a name="manage-app-licenses"></a>Behandle applisenser
 
 ## <a name="to-change-license-quantity"></a>Slik endrer du lisensantall
+
+**SE en video** som viser hvordan du gjør dette: [Kjøpe nye lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154857) eller [fjerne eksisterende lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Gå til siden **Fakturering**  >  **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
 2. Finn **appen** du vil  administrere, under Apper på Produkter-fanen. Velg **Flere handlinger** (tre prikker), og velg **kjøp lisenser.**
@@ -32,5 +34,5 @@ ms.locfileid: "50232412"
 ## <a name="to-assign-app-licenses"></a>Slik tilordner du applisenser:
 
 1. Gå til siden **Fakturering**  >  **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
-2. Finn **og velg** appen du vil administrere, i **Apper-delen** på Produkter-fanen.
+2. Finn **og velg** appen  du vil administrere, i Apper-delen på Produkter-fanen.
 3. Velg **koblingen &** Behandle i **Publisher-portalen** under Innstillinger for &.
