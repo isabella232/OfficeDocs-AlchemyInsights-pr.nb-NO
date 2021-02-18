@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 9476b3a4cd38879fa4c4000d3ba603fbb4cc6bff
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692596"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291765"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Opprett et organisasjonsomfattende team som inkluderer alle i organisasjonen
 
 Det kan hende at du kan opprette et team som inkluderer alle medlemmer i firmaet eller organisasjonen, også kalt et [organisasjonsomfattende team](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Har organisasjonen **færre enn 5000 brukere**? For øyeblikket er organisasjonsomfattende team begrenset til organisasjoner med 5000 eller færre brukere. Vi planlegger å øke denne grensen i fremtiden.
+- Har organisasjonen **færre enn 10 000 brukere**? For øyeblikket er organisasjonsomfattende team begrenset til organisasjoner med 10 000 eller færre brukere. Vi planlegger å øke denne grensen i fremtiden.
 
 - Organisasjonsomfattende team **er for øyeblikket utilgjengelige** for **Teams for utdanning**.
 
