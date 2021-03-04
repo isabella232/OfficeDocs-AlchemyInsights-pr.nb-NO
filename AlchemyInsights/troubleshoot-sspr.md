@@ -1,0 +1,52 @@
+---
+title: Feilsøke SSPR
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: nb-NO
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430220"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="4c474-102">Feilsøke SSPR</span><span class="sxs-lookup"><span data-stu-id="4c474-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="4c474-103">**Jeg har problemer med å konfigurere tilbakestilling av passord**</span><span class="sxs-lookup"><span data-stu-id="4c474-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="4c474-104">Hvis du er administrator og ser etter hvordan du aktiverer selvbetjent tilbakestilling av passord, kan du se Opplæring aktivere [SSPR og](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)konfigurere tilbakestilling av passord for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="4c474-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="4c474-105">Du kan også se gjennom [lisensieringskravene.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="4c474-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="4c474-106">Du må ha minst én lisens tilordnet i organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="4c474-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="4c474-107">**Bare skybrukere** – alle Office 365 (O365) betalte SKU-er, eller Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="4c474-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="4c474-108">**Skybrukere og/eller** lokale brukere – Azure AD Premium P1 eller P2, Enterprise Mobility + Security (EMS) eller Secure Productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="4c474-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="4c474-109">Hvis du vil ha flere spørsmål om selvbetjent tilbakestilling av passord, kan du se [vanlige spørsmål.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="4c474-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="4c474-110">**Jeg får en feilmelding**</span><span class="sxs-lookup"><span data-stu-id="4c474-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="4c474-111">Se gjennom denne artikkelen for å finne vanlige feil og løsninger for dem: [Feilsøke selvbetjent tilbakestilling av passord](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="4c474-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="4c474-112">**Jeg har et problem med policyen for tilbakestilling av passord**</span><span class="sxs-lookup"><span data-stu-id="4c474-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="4c474-113">Hvis policyen for tilbakestilling av passord ikke oppfører seg som forventet, eller hvis du har spørsmål om policyer for tilbakestilling av passord, kan du se denne artikkelen: Passordpolicyer og begrensninger i [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="4c474-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="4c474-114">Policyer for tilbakestilling av passord gjelder ikke for administratorer.</span><span class="sxs-lookup"><span data-stu-id="4c474-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="4c474-115">Microsoft håndhever en sterk policy for tilbakestilling av passord med to porter for en hvilken som helst Azure-administratorrolle.</span><span class="sxs-lookup"><span data-stu-id="4c474-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="4c474-116">Kontroller at du tester med en bruker som ikke er administrator.</span><span class="sxs-lookup"><span data-stu-id="4c474-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="4c474-117">Hvis du vil ha mer informasjon om policyen for tilbakestilling av administrator, kan du se denne artikkelen: [Policyforskjeller for tilbakestilling av administratorer.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)</span><span class="sxs-lookup"><span data-stu-id="4c474-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="4c474-118">**Jeg vil ikke at brukerne mine skal registrere mer sikkerhetsinformasjon for tilbakestilling av passord**</span><span class="sxs-lookup"><span data-stu-id="4c474-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="4c474-119">Du kan forhåndsutmulere data (e-post- og telefonattributter) for brukere som bruker en API, PowerShell eller Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="4c474-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="4c474-120">Slik finner du ut hvordan du leser:</span><span class="sxs-lookup"><span data-stu-id="4c474-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="4c474-121">Distribuere tilbakestilling av passord uten at brukere må registrere seg</span><span class="sxs-lookup"><span data-stu-id="4c474-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="4c474-122">Hvilke data som brukes av tilbakestilling av passord</span><span class="sxs-lookup"><span data-stu-id="4c474-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="4c474-123">**Jeg vil at brukerne skal registrere ekstra sikkerhetsinformasjon for tilbakestilling av passord**</span><span class="sxs-lookup"><span data-stu-id="4c474-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="4c474-124">Be brukerne registrere sin sikkerhetsinformasjon for selvbetjent tilbakestilling av passord ved å be dem [om](https://mysignins.microsoft.com/security-info)å aka.ms/ssprsetup.</span><span class="sxs-lookup"><span data-stu-id="4c474-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="4c474-125">Når dataene er fylt ut for brukeren (av brukeren eller av administratoren), dirigerer du brukeren til aka.ms/sspr slik [at](https://passwordreset.microsoftonline.com/) brukerne kan få mulighet til å tilbakestille sitt eget passord.</span><span class="sxs-lookup"><span data-stu-id="4c474-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="4c474-126">Hvis brukerne fremdeles har problemer, er de mest sannsynlige brukere **i** forbund eller brukere med **hash-hash for** passord.</span><span class="sxs-lookup"><span data-stu-id="4c474-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="4c474-127">Dette betyr at det sannsynligvis er et problem med Password Writeback-tjenesten.</span><span class="sxs-lookup"><span data-stu-id="4c474-127">This means there is likely a problem with the Password Writeback service.</span></span>
