@@ -1,5 +1,5 @@
 ---
-title: Exploratory-opplevelse for Microsoft Teams
+title: Microsoft Teams Utforsker-opplevelse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019556"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480728"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Exploratory-opplevelse for Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Utforsker-opplevelse
 
-- Hva er [Teams-Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Med Microsoft Teams Exploratory Experience kan brukere i organisasjonen som ikke er lisensiert for Teams, starte en Exploratory opplevelse av Teams. Hvis du vil ha mer informasjon, kan du se [hva som er i Teams Exploratory Experience](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Når vil lisensen min utløpe](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Exploratory-opplevelsen for Microsoft Teams er tilgjengelig uten ekstra kostnad før neste avtale jubileum eller fornyelse, eller etter januar 2021.
-- Som administrator kan du [oppgradere brukere fra Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) -lisensen ved å kjøpe et abonnement som inneholder team, fjerne Teams Exploratory-abonnementet fra brukeren og tilordne den nylig kjøpte lisensen.
-- Hvis du vil ha mer informasjon, kan du se [Behandle Exploratory-lisensen for Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Hva er [Teams Exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Microsoft Teams Utforsker lar brukere i organisasjonen som ikke er lisensiert for Teams, starte en utforskende opplevelse av Teams. Hvis du vil ha mer informasjon, kan du se hva som er [i Teams Utforsker-opplevelsen.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Hvor lenge varer Utforsker-opplevelsen for Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teams Exploratory-opplevelsen er tilgjengelig uten ekstra kostnader i 12 måneder (fra første bruker registrering) pluss en ekstra 30-dagers henstandsperiode.
+- Som administrator kan du oppgradere brukere fra lisensen for [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ved å kjøpe et abonnement som omfatter Teams, fjerne teams utforskende abonnement fra brukeren og tilordne den nylig kjøpte lisensen.
+- Hvis du vil ha mer informasjon, [kan du se Administrere lisensen for Teams Exploratory.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
