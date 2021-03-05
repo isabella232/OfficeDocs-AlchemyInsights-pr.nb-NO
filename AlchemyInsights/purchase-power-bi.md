@@ -1,37 +1,36 @@
 ---
-title: Kjøp Power BI
+title: Kjøpe Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693348"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469661"
 ---
-# <a name="purchase-power-bi"></a><span data-ttu-id="c7247-102">Kjøp Power BI</span><span class="sxs-lookup"><span data-stu-id="c7247-102">Purchase Power BI</span></span>
+# <a name="purchase-power-bi"></a><span data-ttu-id="8b27a-102">Kjøpe Power BI</span><span class="sxs-lookup"><span data-stu-id="8b27a-102">Purchase Power BI</span></span>
 
-<span data-ttu-id="c7247-103">Power BI kan kjøpes i **administrasjons senteret for Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="c7247-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="8b27a-103">Power BI kan kjøpes i **administrasjonssenteret for Microsoft 365.**</span><span class="sxs-lookup"><span data-stu-id="8b27a-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="c7247-104">Gå til siden \*\*betalings > [kjøps tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) \*\* .</span><span class="sxs-lookup"><span data-stu-id="c7247-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+1. <span data-ttu-id="8b27a-104">Gå til **faktureringssiden > [kjøpstjenester.](https://go.microsoft.com/fwlink/p/?linkid=868433)**</span><span class="sxs-lookup"><span data-stu-id="8b27a-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+2. <span data-ttu-id="8b27a-105">Bruk søkeboksen til å søke etter Power BI.</span><span class="sxs-lookup"><span data-stu-id="8b27a-105">Use the Search box to search for "Power BI".</span></span>
+3. <span data-ttu-id="8b27a-106">Velg Power BI-abonnementet du vil kjøpe, velg **Detaljer,** og velg deretter **Kjøp.**</span><span class="sxs-lookup"><span data-stu-id="8b27a-106">Select the Power BI plan you want to buy, select **Details**, then select **Buy**.</span></span>
+4. <span data-ttu-id="8b27a-107">Angi hvor mange lisenser du trenger, og velg om du vil betale hver måned eller for hele året.</span><span class="sxs-lookup"><span data-stu-id="8b27a-107">Enter the number of licenses that you need and choose whether to pay each month or for the whole year.</span></span> <span data-ttu-id="8b27a-108">Velg om du vil tilordne lisenser automatisk til alle som foreløpig ikke har en lisens.</span><span class="sxs-lookup"><span data-stu-id="8b27a-108">Choose whether you want to automatically assign licenses to everyone who does not currently have a license.</span></span> <span data-ttu-id="8b27a-109">Velg deretter **Gå til sjekk nå.**</span><span class="sxs-lookup"><span data-stu-id="8b27a-109">Then select **Check out now**.</span></span>
+5. <span data-ttu-id="8b27a-110">Se gjennom prisinformasjonen, og velg **Neste.**</span><span class="sxs-lookup"><span data-stu-id="8b27a-110">Review the pricing information and select **Next**.</span></span>
+6. <span data-ttu-id="8b27a-111">Oppgi betalingsinformasjon, og velg deretter **Legg inn ordre** Gå til hjemmesiden for  >  **administrator.**</span><span class="sxs-lookup"><span data-stu-id="8b27a-111">Provide your payment information, and then select **Place order** > **Go to Admin Home**.</span></span>
 
-2. <span data-ttu-id="c7247-105">Bruk søke boksen til å søke på Power BI.</span><span class="sxs-lookup"><span data-stu-id="c7247-105">Use the Search box to search on "Power BI".</span></span>
+<span data-ttu-id="8b27a-112">Hvis du vil tilordne lisenser til brukere, kan [du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="8b27a-112">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-3. <span data-ttu-id="c7247-106">Velg Power BI-planen du vil kjøpe.</span><span class="sxs-lookup"><span data-stu-id="c7247-106">Select the Power BI plan you want to purchase.</span></span>
-
-4. <span data-ttu-id="c7247-107">Velg antall brukere som skal bruke Power BI.</span><span class="sxs-lookup"><span data-stu-id="c7247-107">Select the number of users who will use Power BI.</span></span>
-
-<span data-ttu-id="c7247-108">Hvis du vil tilordne lisenser til brukere, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="c7247-108">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="c7247-109">Hvis du vil kjøpe flere lisenser, eller fjerne noen, kan du ta en titt på [Legg til / fjern lisenser for abonnementet](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="c7247-109">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="8b27a-113">Hvis du vil kjøpe flere eller fjerne lisenser, kan du se Kjøpe eller fjerne [lisenser for bedriftsabonnementet.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="8b27a-113">To buy more or remove licenses, see [Buy or remove Licenses for your business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
