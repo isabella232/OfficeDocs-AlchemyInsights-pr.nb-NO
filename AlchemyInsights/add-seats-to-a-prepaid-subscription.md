@@ -1,9 +1,8 @@
 ---
-title: Legge til seter i et forhåndsbetalt abonnement
+title: Legge til lisenser i et forhåndsbetalt abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 144ca4097e0b1831e5772c78208e9e542577b1ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687695"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469455"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Legge til seter i et forhåndsbetalt abonnement
+# <a name="add-seats-to-a-prepaid-subscription"></a>Legge til lisenser i et forhåndsbetalt abonnement
 
-Du får tilsendt forhåndsbetalte lisenser som en alfanumerisk kode på 25 tegn. Når du har kjøpt lisensene du trenger, kan du legge dem til i abonnementet. 
+Du får tilsendt forhåndsbetalte lisenser som en alfanumerisk kode på 25 tegn. Når du har kjøpt lisensene du trenger, kan du legge dem til i abonnementet.
 
-1. Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret.
-
-2. Finn abonnementet du vil legge til lisenser for. Velg **Legg til flere lisenser**i **lisenser** -delen.
-
-3. Velg **Bruk en ny og ubrukt produkt nøkkel**i **Legg til flere lisenser** -ruten, og velg deretter **neste**.
-
-4. Skriv inn produkt nøkkelen, og velg deretter **neste**.
-
+1. Gå til Fakturering for produkter-siden i  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
+2. Velg **abonnementet** du vil legge til lisenser i, på Produkter-fanen.
+3. Velg Legg til flere lisenser i **Lisenser-delen** på siden **for abonnementsdetaljer.**
+4. Velg **Bruk en** ny og ubrukt produktnøkkel i ruten Legg til flere lisenser, og velg deretter **Neste.**
+5. Skriv inn produktnøkkelen, og velg **Deretter Neste.**
     > [!NOTE]
-    > Hvis du har mer enn én produkt nøkkel, kan du velge **Legg til en annen produkt nøkkel** for å skrive dem inn.
+    > Hvis du har mer enn én produktnøkkel, kan du velge Legg til **en ny produktnøkkel for** å angi dem.
+6. Se gjennom bestillingsdetaljene, og velg **deretter Løs inn.**
 
-5. Se gjennom bestillings opplysningene dine, og velg deretter **løs**inn.
-
-Hvis du vil ha mer informasjon, kan du se [legge til lisenser i eller forlenge et abonnement betalt for å bruke en produkt nøkkel](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Hvis du vil ha mer informasjon, kan du se Legge til lisenser i eller utvide [et abonnement betalt for ved hjelp av en produktnøkkel.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

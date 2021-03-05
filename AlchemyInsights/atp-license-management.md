@@ -1,5 +1,5 @@
 ---
-title: Lisens behandling for avansert trussel beskyttelse
+title: Lisensbehandling for Microsoft Defender for Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287111"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469017"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Lisens behandling for avansert trussel beskyttelse
+# <a name="microsoft-defender-for-office-365-license-management"></a>Lisensbehandling for Microsoft Defender for Office 365
 
-Office 365 Advance Threat Protection (ATP) lisens behandling kan full føres i  **administrasjons senteret for Microsoft 365**.
+Lisensbehandling for Microsoft Defender for Office 365 kan fullføres i administrasjonssenteret for **Microsoft 365.**
 
-- Slik kjøper du Office 365 Advance Threat Protection:
-    1. Gå til **Billing**  >  [kjøps tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)for fakturering.
-    2. Velg **tilleggs programmer**nederst på siden.
-    3. På **Kjøp tjenester** -siden velger du den avanserte trussel beskyttelses planen du vil kjøpe, angir antallet brukere som trenger en lisens, og deretter velger du **Sjekk ut nå**. Hvis du vil ha mer informasjon, kan du se [kjøpe et tillegg](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Hvis du vil tilordne lisenser for Advance Threat Protection for Office 365, går du til **fakturerings**  >  **lisenser**. Hvis du vil ha mer informasjon, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Hvis du vil legge til eller fjerne lisenser fra Office 365 Advance Threat Protection, kan du gå til **fakturering**  >  **av produktene**. Velg abonnementet du vil oppdatere, og velg deretter **Kjøp lisenser** eller ***Fjern lisenser**. Hvis du vil ha mer informasjon, kan du se [kjøpe eller fjerne abonnements lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Slik kjøper du Microsoft Defender for Office 365:
+    1. Gå til   >  [Faktureringskjøpstjenester.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. Velg Tillegg nederst på **siden.**
+    3. Velg  Microsoft Defender for Office 365-abonnementet du vil kjøpe, på Kjøp tjenester-siden, angi antall brukere som trenger en lisens, og velg deretter Gå til sjekk **nå.** Hvis du vil ha mer informasjon, [kan du se Kjøpe et tillegg.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Hvis du vil tilordne Microsoft Defender for Office 365-lisenser, kan du **gå** til  >  **Faktureringslisenser.** Hvis du vil ha mer informasjon, [kan du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Hvis du vil legge til eller fjerne lisenser fra Microsoft Defender for Office 365, kan du gå til **Fakturering**  >  **for produkter.** Velg abonnementet du vil oppdatere, og velg deretter **Kjøp lisenser** eller **Fjern lisenser.** Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne abonnementslisenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
