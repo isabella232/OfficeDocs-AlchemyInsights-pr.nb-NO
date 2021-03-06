@@ -3,8 +3,8 @@ title: Legge til en global firmasignatur eller ansvarsfraskrivelse for alle bruk
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+ms.date: 02/19/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: ab0d3fc80b41b9017a6917817270438644f770b8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482809"
+ms.locfileid: "50508598"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Legge til en global firmasignatur eller ansvarsfraskrivelse for alle brukere
 
@@ -31,7 +31,7 @@ Tips: En signatur for hele organisasjonen kalles også en ansvarsfraskrivelse, u
 5. Velg Bruk på alle meldinger under **Bruk denne regelen.**
 6. Under Gjør følgende lar du **Tilføy ansvarsfraskrivelsen** være valgt.
 7. Klikk på **Skriv inn tekst for**, og skriv inn ansvarsfraskrivelsen.
-8. Klikk **Velg en,** velg **Bryt som** reservevalg, og klikk deretter **OK.** Dette betyr at hvis ansvarsfraskrivelsen ikke kan legges til på grunn av kryptering eller en annen innstilling for e-post, vil den pakkes inn i en meldingskonvolutt.
+8. Klikk **Velg en,** velg **Bryt som** reservealternativ, og klikk deretter **OK.** Dette betyr at hvis ansvarsfraskrivelsen ikke kan legges til på grunn av kryptering eller en annen innstilling for e-post, vil den pakkes inn i en meldingskonvolutt.
 9. La **Overvåking av denne regelen med** alvorlighetsgrad være valgt. Velg deretter Lav, Middels, eller Høy for bruk i meldingsloggen.
 10. Velg **Gjennomfør** for å slå på ansvarsfraskrivelsen umiddelbart, med mindre du vil teste den først.
 11. Velg **Flere alternativer** for å inkludere flere betingelser eller unntak.
