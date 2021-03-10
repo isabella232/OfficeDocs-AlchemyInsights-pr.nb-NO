@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-- commerce
-ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 85e6105483a6b493753cdea48262d3e3a2141a50
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469563"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601797"
 ---
 # <a name="assign-power-bi-to-users"></a>Tilordne Power BI til brukere
 
@@ -31,4 +30,4 @@ Power BI kan tilordnes til brukere i **administrasjonssenteret for Microsoft 365
 5. Klikk på **Slå apper og tjenester av eller på** for å tilordne eller fjerne.
 6. Klikk på **Tilordne**, og deretter **Lukk**.
 
-Se [Kjøp eller fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe eller fjerne lisenser.
+Se [Kjøp eller fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe flere lisenser eller fjerne dem.
