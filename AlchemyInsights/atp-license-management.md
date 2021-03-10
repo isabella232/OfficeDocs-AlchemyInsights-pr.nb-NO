@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-- commerce
-ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 8bd6b4378c81241839ffe39dd36dc0a66c5c7f06
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469017"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601689"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Lisensbehandling for Microsoft Defender for Office 365
 
 Lisensbehandling for Microsoft Defender for Office 365 kan fullføres i administrasjonssenteret for **Microsoft 365.**
 
 - Slik kjøper du Microsoft Defender for Office 365:
-    1. Gå til   >  [Faktureringskjøpstjenester.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    1. Gå til **Faktureringskjøp-tjenester.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433)
     2. Velg Tillegg nederst på **siden.**
     3. Velg  Microsoft Defender for Office 365-abonnementet du vil kjøpe, på Kjøp tjenester-siden, angi antall brukere som trenger en lisens, og velg deretter Gå til sjekk **nå.** Hvis du vil ha mer informasjon, [kan du se Kjøpe et tillegg.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 - Hvis du vil tilordne Microsoft Defender for Office 365-lisenser, kan du **gå** til  >  **Faktureringslisenser.** Hvis du vil ha mer informasjon, [kan du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

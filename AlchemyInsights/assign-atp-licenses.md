@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469599"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601833"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Tilordne Microsoft Defender for Office 365-lisenser
 
@@ -31,4 +30,4 @@ Microsoft Defender for Office 365 kan tilordnes til brukere i administrasjonssen
 5. Klikk **Slå apper og tjenester på eller av for**  å tilordne eller fjerne.
 6. Klikk **Tilordne** og **Lukk.**
 
-Hvis du vil kjøpe flere eller fjerne lisenser, kan du [se Kjøpe eller fjerne lisenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+Se [Kjøp eller fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe flere lisenser eller fjerne dem.

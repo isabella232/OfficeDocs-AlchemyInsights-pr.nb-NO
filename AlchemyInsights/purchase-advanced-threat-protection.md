@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469815"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602121"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Kjøp Microsoft Defender for Office 365
 
@@ -33,4 +32,4 @@ Microsoft Defender for Office 365 er inkludert i enkelte abonnementer, for eksem
 
 Hvis du vil tilordne lisenser til brukere, kan [du se Tilordne lisenser til brukere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-Hvis du vil kjøpe flere eller fjerne lisenser, kan du [se Kjøpe eller fjerne lisenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+Se [Kjøp eller fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe flere lisenser eller fjerne dem.
