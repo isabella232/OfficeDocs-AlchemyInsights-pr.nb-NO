@@ -1,5 +1,5 @@
 ---
-title: Overføre felles mappe data til Microsoft 365
+title: Overføre data fra fellesmapper til Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,22 +12,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dac268b3371af3a28bf8ef598e3a74d954a595c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674623"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707315"
 ---
-# <a name="migrate-public-folder-data-to-microsoft-365"></a>Overføre felles mappe data til Microsoft 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Overføre data fra fellesmapper til Microsoft 365
 
-Hvis du ikke har mange felles mapper som du kan ta med i Microsoft 365, er den enkleste måten å få dem til å kopiere dataene til. PST-filer og deretter importere dem til Microsoft 365. Hvis du har små mengder data, kan du enkelt dra og slippe en felles mappe til en. PST-filen kan være tilstrekkelig. Hvis du har flere data enn det (opptil 30 GB), har vi [dokumentert en prosess](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) som du kan bruke til å eksportere mapper til PST-filer.
+Hvis du ikke har mange fellesmapper å hente til Microsoft 365 på, er det enklest å kopiere dataene til. PST-filer, og importer dem deretter til Microsoft 365. For små mengder data kan du enkelt dra og slippe fellesmappen til en. PST-filen kan være tilstrekkelig. Hvis du har mer data enn dette (opptil [](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) 30 GB), har vi dokumentert en prosess som du kan bruke til å eksportere mapper til PST-filer.
   
-For større organisasjoner som flytter felles mapper til Microsoft 365, har vi støtte linjer tilgjengelig:
+For større organisasjoner som flytter fellesmapper til Microsoft 365, har vi tilgjengelige veiledninger:
   
-- [Overføre eldre felles mapper](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
+- [Overføre eldre fellesmapper](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Overføre Exchange 2013, Exchange 2016 eller Exchange 2019 Public Folders](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Overføre fellesmapper for Exchange 2013, Exchange 2016 eller Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Du har også muligheten til å [overføre felles mapper til Microsoft 365-grupper](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Du kan også overføre [fellesmapper til Microsoft 365 Grupper.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/migrate-your-public-folders-to-microsoft-365-groups)
   

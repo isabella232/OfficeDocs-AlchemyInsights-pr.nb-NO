@@ -1,8 +1,8 @@
 ---
-title: Begrensning av SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online – begrensning
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773856"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707567"
 ---
 # <a name="sharepoint-online-throttling"></a>Begrensning av SharePoint Online
 
-**Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
+SharePoint Online bruker begrensning til å opprettholde optimal ytelse og pålitelighet for SharePoint Online-tjenesten. Begrensning begrenser antall brukerhandlinger eller samtidige anrop (via skript eller kode) for å hindre overforbruk av ressurser. 
 
-**503 server er opptatt-feil**
+Hvis du vil ha mer informasjon om begrensning, kan du se Unngå å bli begrensning [eller blokkert i SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-Brukere kan få en 503-server er opptatt-feil ved forsøk på å navigere til SharePoint-eller OneDrive-nettsteder. 
+Hvis du mener at denne feilen ikke er relatert til begrensning, kan du kontrollere om det er aktivt vedlikehold som utføres på leieren, ved å gå til [meldingssenteret.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Denne feilen kan være forårsaket av begrensning i SharePoint-tjenesten. SharePoint Online bruker begrensning til å opprettholde optimal ytelse og pålitelighet for SharePoint Online-tjenesten. Begrensning begrenser antall brukerhandlinger eller samtidige anrop (via skript eller kode) for å hindre overforbruk av ressurser. 
-
-Hvis du vil ha mer informasjon om begrensning, kan du [unngå å bli begrenset eller blokkert i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Hvis du tror denne feilen er ikke relatert til begrensning, kan du kontrollere om det er aktivt vedlikehold som oppstår på leieren, ved å navigere til [meldings senteret](https://portal.office.com/adminportal/home#/MessageCenter).
-
- Til slutt må du gå til siden for [tjeneste tilstand](https://portal.office.com/adminportal/home#/servicehealth) for å kontrollere eventuelle rådgivere/hendelser som kan oppstå.
+ Til slutt må du gå til [tjenestetilstandsiden](https://portal.office.com/adminportal/home#/servicehealth) for å se etter eventuelle veiledninger/hendelser som kan oppstå.
 
