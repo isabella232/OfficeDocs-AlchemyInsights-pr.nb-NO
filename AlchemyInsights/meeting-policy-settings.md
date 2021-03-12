@@ -1,5 +1,5 @@
 ---
-title: Innstillinger for møte policy
+title: Policyinnstillinger for møte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794343"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704615"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Behandle møte policyer i Microsoft Teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Administrere møtepolicyer i Microsoft Teams
 
-**Obs! det kan ha opptil 24 timer før policy endringer trer i kraft for brukere.** Det kan hende du ikke kan gjøre endringer i nylig opprettede policyer umiddelbart. Vent 4 timer, og prøv å endre en nylig opprettet policy på nytt.
+**Obs! Det kan ta opptil 24 timer før policyendringer trer i kraft for brukerne.** Du kan kanskje ikke gjøre endringer i nylig opprettede policyer umiddelbart. vent i fire timer og prøv å endre en nylig opprettet policy på nytt.
 
-Møte policyer brukes til å kontrollere funksjonene som er tilgjengelige for møte deltakere for møter som er planlagt av brukere i organisasjonen. Noen funksjoner for møte policyer er kanskje ikke implementert i administrasjons senteret for Teams ennå (disse er merket "kommer snart" i dokumentasjonen). I dette tilfellet, hvis du får en feil melding om at vi ikke kan oppdatere policyen, men prøv den på nytt senere i administrasjons senteret for Microsoft Teams, anbefaler vi at du bruker PowerShell til å opprette eller endre teamets møte retnings linjer. 
+Møtepolicyer brukes til å kontrollere funksjonene som er tilgjengelige for møtedeltakere for møter som planlegges av brukere i organisasjonen. Noen funksjoner i møtepolicyer kan ikke implementeres i administrasjonssenteret for Teams ennå (disse er merket «kommer snart» i dokumentasjonen). I dette tilfellet, eller hvis du får en feilmelding som for eksempel «Vi kan ikke oppdatere policyen akkurat nå, men prøv på nytt senere» i administrasjonssenteret for Microsoft Teams, anbefaler vi at du bruker PowerShell til å opprette eller endre møtepolicyer i Teams. 
 
-Hvis du vil ha mer informasjon om møte policyer, kan du se følgende ressurser:
+Hvis du vil ha mer informasjon om møtepolicyer, kan du se følgende ressurser:
 
-- Hvis du vil lære om hvordan du oppretter policyer, gjør endringer og tilordner brukere til policyen, kan du se [Behandle møte policyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Hvis du vil vite mer om å opprette policyer, gjøre endringer og tilordne brukere til policyen, kan du se [Administrere møtepolicyer i Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Se [Teams PowerShell-oversikt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)for å gjøre policy endringer ved hjelp av PowerShell-cmdleter. 
-    - Du må bruke [Skype for Business PowerShell-modulen](https://www.microsoft.com/download/details.aspx?id=39366) for Teams-policyer. 
-    - Se gjennom [dokumentasjonen for *-CsTeamsMeetingPolicy-cmdleten](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) for mer informasjon.
+- Hvis du vil gjøre policyendringer ved hjelp av PowerShell-cmdleter, kan du se Oversikt over [Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - Du må bruke [Skype for Business PowerShell-modulen](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) for teams møtepolicyer. 
+    - Se gjennom [cmdlet-dokumentasjonen for *-CsTeamsMeetingPolicy-cmdleter](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) for mer informasjon.
 
