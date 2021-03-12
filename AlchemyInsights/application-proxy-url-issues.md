@@ -1,10 +1,10 @@
 ---
-title: Problemer med nettadressen til programproxyen
+title: Problemer med nettadresse for program-proxy
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50036044"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641491"
 ---
-# <a name="application-proxy-url-issues"></a><span data-ttu-id="b5f34-102">Problemer med nettadressen til programproxyen</span><span class="sxs-lookup"><span data-stu-id="b5f34-102">Application proxy URL issues</span></span>
+# <a name="application-proxy-url-issues"></a><span data-ttu-id="82724-102">Problemer med nettadresse for program-proxy</span><span class="sxs-lookup"><span data-stu-id="82724-102">Application proxy URL issues</span></span>
 
-<span data-ttu-id="b5f34-103">Hvis du vil feilsøke problemer relatert til nettadressen til programproxyen, kan du se:</span><span class="sxs-lookup"><span data-stu-id="b5f34-103">To troubleshoot issues related to application proxy URL, see:</span></span>
+<span data-ttu-id="82724-103">For å feilsøke problemer knyttet til nettadresse for program-proxy, se:</span><span class="sxs-lookup"><span data-stu-id="82724-103">To troubleshoot issues related to application proxy URL, see:</span></span>
 
-- <span data-ttu-id="b5f34-104">[Koblinger på siden](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  fungerer ikke for et programproxyprogram – veiledning for å feilsøke hvorfor koblinger i Azure Active Directory (AD)-proxyprogrammet ikke fungerer som de skal.</span><span class="sxs-lookup"><span data-stu-id="b5f34-104">[Links on the page don't work for an Application Proxy application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  - Guidance to troubleshoot why links on your Azure Active Directory (AD) proxy application don't work correctly.</span></span>
+- <span data-ttu-id="82724-104">[Koblinger på siden fungerer ikke for et program-proxy-program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  – Veiledning for å feilsøke hvorfor koblinger på Azure Active Directory (AD)-proxy-programmet ikke fungerer som de skal.</span><span class="sxs-lookup"><span data-stu-id="82724-104">[Links on the page don't work for an Application Proxy application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  - Guidance to troubleshoot why links on your Azure Active Directory (AD) proxy application don't work correctly.</span></span>
 
-- <span data-ttu-id="b5f34-105">[Konfigurere egendefinerte domener med Azure AD-programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – informasjon om hvordan du oppretter en ekstern nettadresse til brukerne.</span><span class="sxs-lookup"><span data-stu-id="b5f34-105">[Configure custom domains with Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - Information on creating an external URL for your users.</span></span>
+- <span data-ttu-id="82724-105">[Konfigurere egendefinerte domener med Azure AD-program-proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – Informasjon om oppretting av en ekstern nettadresse for brukerne.</span><span class="sxs-lookup"><span data-stu-id="82724-105">[Configure custom domains with Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - Information on creating an external URL for your users.</span></span>
 
-- <span data-ttu-id="b5f34-106">[Omdirigere hardkodede koblinger for](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  apper som er publisert med Azure AD-programproxy – informasjon om oversetting av innebygde nettadresser</span><span class="sxs-lookup"><span data-stu-id="b5f34-106">[Redirect hard-coded links for apps published with Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  - Information on translating inline URLs</span></span>
+- <span data-ttu-id="82724-106">[Omdirigere hardkodede koblinger for apper som er publisert med Azure AD-program-proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – Informasjon om oversetting av innebygde nettadresser.</span><span class="sxs-lookup"><span data-stu-id="82724-106">[Redirect hard-coded links for apps published with Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  - Information on translating inline URLs</span></span>
+
+- <span data-ttu-id="82724-107">[Angi en egendefinert hjemmeside for publiserte apper ved å bruke Azure AD-program-proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Når du publiserer en app med program-proxy, angir du en intern nettadresse, men noen ganger er ikke det siden brukerne skal se først.</span><span class="sxs-lookup"><span data-stu-id="82724-107">[Set a custom home page for published apps by using Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - When you publish an app with Application Proxy, you set an internal URL, but sometimes that's not the page users should see first.</span></span> <span data-ttu-id="82724-108">Angi en egendefinert hjemmeside slik at brukerne kommer til riktig side når de åpner appen.</span><span class="sxs-lookup"><span data-stu-id="82724-108">Set a custom home page so that users get to the right page when they access the app.</span></span> <span data-ttu-id="82724-109">Brukerne vil se den egendefinerte hjemmesiden du angir, uavhengig av om de åpner appen fra Mine apper i Azure Active Directory eller startprogrammet for apper for Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="82724-109">Users will see the custom home page that you set, regardless of whether they access the app from the Azure Active Directory My Apps or the Microsoft 365 app launcher.</span></span>
+
+- <span data-ttu-id="82724-110">Har du spørsmål om konfigurasjon av nettadresse for program-proxy?</span><span class="sxs-lookup"><span data-stu-id="82724-110">Have questions on App proxy URL configuration?</span></span> <span data-ttu-id="82724-111">Se [Legg til en lokal app i Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).</span><span class="sxs-lookup"><span data-stu-id="82724-111">See [Add an on-premise app to Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).</span></span>
+ 
 
