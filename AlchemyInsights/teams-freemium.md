@@ -1,5 +1,5 @@
 ---
-title: Teams-Freemium
+title: Teams Freemium
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736549"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708215"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Jeg ønsker å registrere meg for Teams gratis
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Jeg vil registrere meg for Teams gratis
 
-Teams er tilgjengelig gratis gjennom et par forskjellige programmer. Siden du kontakter kunde støtte med denne forespørselen, har du allerede en eksisterende Microsoft 365-leier, noe som betyr at du allerede har Microsoft Teams.
+Teams er tilgjengelig gratis gjennom et par forskjellige programmer. Siden du kontakter kundestøtte med denne forespørselen, har du allerede en eksisterende Microsoft 365-leier, noe som betyr at du allerede har Microsoft Teams.
 
-I de fleste tilfeller er team aktivert som standard for alle brukerne. Når de er slått på, kan brukerne kjøre team, enten ved å installere [skrive bords](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   -og [mobil](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) klienter, eller [fra nett leseren](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)   på <https://teams.microsoft.com.>
+I de fleste tilfeller er Teams aktivert som standard for alle brukere. Når den er aktivert, kan brukerne kjøre Teams, [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)enten ved å installere skrivebords- og    [mobilklienter,](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) eller [fra](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)nettleseren i Microsoft    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-Unntaket til dette er Microsoft Teams for Education (EDU). Hvis du har en EDU-lisens, må du aktivere Microsoft Teams manuelt. Hvis du vil gjøre dette, går du til administrasjons senteret for Microsoft 365 **> tjenester og tillegg > Microsoft Teams**. Hvis du bruker administrasjons senteret for nye Teams, må du deaktivere **Prøv det nye administrasjons senteret**   for å finne **tjenester og**tillegg. VIKTIG: du må kanskje vente opptil 24 timer før endringene trer i kraft.
+Unntaket fra dette er Microsoft Teams for Education (EDU). Hvis du har en EDU-lisens, må du aktivere Microsoft Teams manuelt. Dette gjør du ved å gå til **administrasjonssenteret** for Microsoft 365> tjenester og tillegg > Microsoft Teams. Hvis du bruker det nye administrasjonssenteret for Teams, **** må du slå av Prøv det nye    **administrasjonssenteret** for å finne tjenester og tillegg. VIKTIG: Det kan ta opptil ett døgn før endringene trer i kraft.
 
-Ikke gå glipp av all vår veiledning for å [støtte eksterne arbeidere med team](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Ikke gå glipp av alle veiledningene våre for [å støtte eksterne arbeidere med Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)

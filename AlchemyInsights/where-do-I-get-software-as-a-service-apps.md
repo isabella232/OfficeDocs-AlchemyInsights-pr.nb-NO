@@ -1,5 +1,5 @@
 ---
-title: Hvor får jeg program vare som en tjeneste (SaaS)-apper?
+title: Hvor får jeg apper for programvare som a-tjeneste (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 0018788b28f201bcd050a14ae45c962c1cbf5a5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20914f85e964d5aea0409e70e12fe29416664787
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719170"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708179"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Hvor får jeg program vare som en tjeneste (SaaS)-apper fra Microsoft-partnere?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Hvor får jeg apper for programvare som a-tjeneste (SaaS) fra Microsoft-partnere?
 
-Kunder kan søke etter, undersøke og kjøpe SaaS-apper fra [AppSource](https://www.appsource.com/).
+Kunder kan søke etter, undersøke og kjøpe SaaS-apper fra [AppSource.](https://appsource.microsoft.com)
