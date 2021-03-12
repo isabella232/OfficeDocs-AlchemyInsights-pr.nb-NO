@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708548"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708431"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="2c7a4-102">Finne tapte eller manglende filer i OneDrive eller SharePoint</span><span class="sxs-lookup"><span data-stu-id="2c7a4-102">Find lost or missing files in OneDrive or SharePoint</span></span>
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="f0558-102">Finne tapte eller manglende filer i OneDrive eller SharePoint</span><span class="sxs-lookup"><span data-stu-id="f0558-102">Find lost or missing files in OneDrive or SharePoint</span></span>
 
-- <span data-ttu-id="2c7a4-103">Kontroller papir kurven ved å bla til OneDrive eller SharePoint-nettstedet på nettet, og klikk papir kurv i den venstre ruten.</span><span class="sxs-lookup"><span data-stu-id="2c7a4-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="2c7a4-104">(Hvis papir kurven ikke vises i venstre rute, klikker du innstillinger-ikonet, og deretter velger du **område innhold**.</span><span class="sxs-lookup"><span data-stu-id="2c7a4-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="2c7a4-105">**Papir kurven** er helt til høyre på kommando linjen øverst.)</span><span class="sxs-lookup"><span data-stu-id="2c7a4-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
+- <span data-ttu-id="f0558-103">Se i papirkurven ved å gå til OneDrive eller SharePoint-området på nettet og klikke papirkurven i den venstre ruten.</span><span class="sxs-lookup"><span data-stu-id="f0558-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="f0558-104">(Hvis du ikke ser papirkurven i den venstre ruten, klikker du Innstillinger-ikonet og velger deretter **Områdeinnhold.**</span><span class="sxs-lookup"><span data-stu-id="f0558-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="f0558-105">**Papirkurven** er helt til høyre på kommandolinjen øverst.)</span><span class="sxs-lookup"><span data-stu-id="f0558-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
     
-- <span data-ttu-id="2c7a4-106">Hvis du synkroniserer filene på data maskinen, kan du kontrollere papir kurven på data maskinen.</span><span class="sxs-lookup"><span data-stu-id="2c7a4-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
+- <span data-ttu-id="f0558-106">Hvis du synkroniserer filene på datamaskinen, kan du se i papirkurven på datamaskinen.</span><span class="sxs-lookup"><span data-stu-id="f0558-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
     
-- <span data-ttu-id="2c7a4-107">Hvis du ikke ser elementet du leter etter, og det ble slettet nylig, kan det hende at en administrator for nettsteds samlingen kan gjenopprette det fra papir kurven for nettsteds samlingen.</span><span class="sxs-lookup"><span data-stu-id="2c7a4-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="2c7a4-108">Hvis du er administrator for nettsteds samling, kan du se [gjenopprette slettede elementer fra papir kurven for område samlingen](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="2c7a4-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
+- <span data-ttu-id="f0558-107">Hvis du ikke ser elementet du leter etter, og det nylig ble slettet, kan en administrator for områdesamlingen gjenopprette det fra papirkurven for områdesamlingen.</span><span class="sxs-lookup"><span data-stu-id="f0558-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="f0558-108">Hvis du er administrator for områdesamlingen, kan du se Gjenopprette slettede elementer [fra papirkurven for områdesamlingen.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)</span><span class="sxs-lookup"><span data-stu-id="f0558-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).</span></span>
     
-[<span data-ttu-id="2c7a4-109">Mer hjelp med å gjenopprette slettede filer og mapper i OneDrive</span><span class="sxs-lookup"><span data-stu-id="2c7a4-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
+[<span data-ttu-id="f0558-109">Mer hjelp med gjenoppretting av slettede filer og mapper i OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0558-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
   
 
