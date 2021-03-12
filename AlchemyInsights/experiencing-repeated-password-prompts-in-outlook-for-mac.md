@@ -1,5 +1,5 @@
 ---
-title: Har du gjentatte varsler om passord i Outlook for Mac?
+title: Opplever du gjentatte passordmeldinger i Outlook for Mac?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783020"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708755"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Har du gjentatte varsler om passord i Outlook for Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Opplever du gjentatte passordmeldinger i Outlook for Mac?
 
-Vi kan hjelpe deg med å gi mer spesialisert hjelp for Outlook for Mac direkte fra programmet.
+Vi kan gi spesialisert hjelp for Outlook for Mac direkte fra programmet.
   
-Gå til den berørte brukerens Mac, åpne Outlook, og klikk på **Hjelp** med \> **kontakt kunde støtte**.
+Gå til den aktuelle brukerens Mac, åpne Outlook, og klikk **Hjelp** kontakt \> **kundestøtte.**
   
-Hvis du vil ha mer informasjon om hvordan du bruker Outlook for Mac online kunde støtte, kan du se denne artikkelen: [ny kontakt støtte funksjon i Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Hvis du vil lære mer om hvordan du bruker den appappede kundestøtten for Outlook for Mac, kan du se denne artikkelen: Ny funksjon for å kontakte kundestøtte [i Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

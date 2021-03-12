@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 3d140de70a96864ff0042b3b505335163bf80a2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699384"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709295"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 
-Som en del av prosessen med å flytte det offentlige Microsoft 365-nettstedet til en annen verts leverandør, må du sannsynligvis gjøre endringer i domene postene.
+Som en del av prosessen med å flytte det offentlige nettstedet for Microsoft 365 til en annen vertsleverandør, må du sannsynligvis gjøre endringer i domenepostene.
   
-1. Gå til **Oppsett** domener i administrasjons senteret, \> **Domains** og velg domene navnet du vil endre.
+1. Gå til Setup Domains i  \> **administrasjonssenteret,** og velg domenenavnet du vil endre.
 
-2. Skriv inn informasjonen som er justert til nettstedet med den nye verts leverandøren.
+2. Skriv inn informasjonen som samsvarer med nettstedet hos den nye vertsleverandøren.
 
-Hvis du vil ha mer informasjon, kan du se [oppdatere DNS-poster for å beholde nettstedet hos din nå værende verts leverandør](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provide).
+Hvis du vil ha mer informasjon, kan du se Oppdatere DNS-poster for [å beholde nettstedet hos gjeldende vertsleverandør.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Hvis du vil lære mer om discontinue for det offentlige området, kan du se [SharePoint Online Public-webområder som du vil utløse](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Hvis du vil vite mer om opphør av det offentlige nettstedet, kan du se offentlige nettsteder for [SharePoint Online utgått.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

@@ -1,5 +1,5 @@
 ---
-title: MyApp-problemer med portalen
+title: Problemer med MyApps-portalen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917046"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708575"
 ---
-# <a name="myapps-portal-issues"></a>MyApp-problemer med portalen
+# <a name="myapps-portal-issues"></a>Problemer med MyApps-portalen
 
-Hvis du vil feilsøke problemer som oppstår når du logger deg på eller bruker mine apper-portalen, kan du se [Feilsøke problemer med portalen for min apper](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Hvis du vil feilsøke problemer som du opplever når du logger deg på eller bruker Mine apper-portalen, kan du se Feilsøke problemer [med Mine apper-portalen.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Jeg ser ikke programmene jeg forventer på program tilgangs panelet**
+**Jeg ser ikke programmene jeg forventer på programtilgangspanelet**
 
-For veiledning om hvordan du finner ut hvorfor de forventede programmene ikke vises på tilgangs panelet for programmer, kan du se:
+Hvis du vil ha veiledning i hvordan du finner ut hvorfor programmene du forventer, ikke vises i panelet for programtilgang, kan du se:
 
-- [Jeg vet ikke hvorfor et program jeg har tilordnet, ikke vises i Access-panelet](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Jeg vet ikke hvorfor et program jeg tilordnet, ikke vises i tilgangspanelet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Jeg vet ikke hvorfor et program vises i Access-panelet](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Jeg vet ikke hvorfor et program vises i tilgangspanelet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Jeg har problemer med å logge på program tilgangs panelet**
+**Jeg har problemer med å logge meg på tilgangspanelet til programmet**
 
-Hvis du vil feilsøke problemer med å logge på program tilgangs panelet, kan du se:
+Hvis du vil feilsøke problemer med å logge på tilgangspanelet for programmet, kan du se:
 
-[Jeg kan ikke logge på nettstedet for tilgangs panelet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Jeg kan ikke logge meg på nettstedet til tilgangspanelet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Jeg har problemer med å bruke nett leser utvidelsen for program tilgangs panelet**
+**Jeg har problemer med å bruke nettleserutvidelsen for programtilgangspanelet**
 
-Hvis du vil feilsøke problemer med bruk av nett leser utvidelsen for program tilgangs panelet, kan du se:
+Hvis du vil feilsøke problemer med bruk av programtilgangspanelets nettleserutvidelse, kan du se:
 
-[Jeg så en feil melding når du installerer nett leser utvidelsen for program tilgangs panelet](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Jeg så en feil da jeg installerte programtilgangspanelets nettleserutvidelse](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Jeg har problemer med en funksjon i program tilgangs panelet**
+**Jeg har problemer med en funksjon i programtilgangspanelet**
 
-Hvis du vil feilsøke problemer som gjelder en bestemt funksjon i program tilgangs panelet, kan du se:
+Hvis du vil feilsøke problemer som gjelder for en bestemt funksjon i programtilgangspanelet, kan du se:
 
-- [Jeg vet ikke hvordan jeg bruker selv betjent program tilgang](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Jeg vet ikke hvordan jeg bruker selvbetjent programtilgang](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Jeg støtte på et problem ved bruk av selv betjent program tilgang](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Det oppstod et problem under bruk av tilgang til selvbetjeningsprogram](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Hvis du har problemer med å distribuere eller bruke mine apper-portalen**
+**Hvis du har problemer med å distribuere eller bruke Mine apper-portalen**
 
-Hvis du vil feilsøke problemer som oppstår når du distribuerer eller bruker MyApp-portalen, kan du se:
+Hvis du vil feilsøke problemer som oppstår når du distribuerer eller bruker MyApps-portalen, kan du se:
 
-- [Opprette samlinger på My apps-portalen](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Opprette samlinger i Mine apper-portalen](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Konfigurere selv betjent program tilordning](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Konfigurere selvbetjent apptilordning](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Feilsøke slutt bruker problemer i mine apper-portalen](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Feilsøke sluttbrukerproblemer i Mine apper-portalen](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

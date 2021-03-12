@@ -1,5 +1,5 @@
 ---
-title: Feilsøke problemer med å registrere Windows-enheter i Microsoft Intune
+title: Feilsøke problemer med registrering av Windows-enheter i Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,35 +12,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658887"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708899"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Feilsøke problemer med å registrere Windows-enheter i Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Feilsøke problemer med registrering av Windows-enheter i Microsoft Intune
 
-Se gjennom ressursene som er oppført nedenfor, for å løse problemet nå.
+Se gjennom ressursene som er oppført nedenfor for å løse problemet nå.
   
-Noen vanlige feil meldinger og løsnings trinn:
+Noen vanlige feilmeldinger og løsningstrinn:
   
- **Program varen kan ikke installeres, 0x80cf4017:** Konto sertifikatet er utløpt. Last ned program vare pakken for PC-klienten i administrasjons konsollen for Intune på nytt. Se gjennom denne dokumentasjonen for mer informasjon.
+ **Programvaren kan ikke installeres, 0x80cf4017:** Kontosertifikatet er utløpt. Last ned PC-klientens programvarepakke på nytt i administrasjonskonsollen for Intune. Se gjennom denne dokumentasjonen for mer informasjon.
   
- **Feilkode 0x801c0003:** Feilen kan oppstå i følgende scenarioer:
+ **Feilkode 0x801c0003:** Feilen kan oppstå i følgende scenarier:
   
--  Brukeren har flere enheter som ble registrert enn enhets grensen. Se gjennom disse dokumentene for å [fjerne en enhet](https://docs.microsoft.com/intune/devices-wipe) eller [endre enhets grensen](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Brukeren har flere enheter registrert enn enhetsgrensen. Se gjennom disse dokumentene [for å fjerne en enhet](https://docs.microsoft.com/intune/devices-wipe) eller endre [enhetsgrensen.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
--  «Brukere kan bli med i enheter til Azure AD» er satt til ingen. Angi det til alle eller Velg brukere. Se gjennom [denne dokumentasjonen](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) for mer informasjon.
+-  «Brukere kan bli med i enheter med Azure AD» er satt til «ingen». Angi den til alle, eller velg brukere. Se [gjennom denne dokumentasjonen](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) for mer informasjon.
 
--  Enheten er allerede registrert av en annen bruker. Hvis det er tilfelle, fjerner du enheten fra Azure Intune-konsollen eller avregistrerer enheten manuelt før du prøver på nytt.
+-  Enheten er allerede registrert av en annen bruker. Hvis det er tilfellet, kan du fjerne enheten fra Azure Intune-konsollen eller fjerne registreringen av enheten manuelt før du prøver på nytt.
 
--  Enheten er Windows 10 Home. Bare Windows 10 Pro, Education og Enterprise SKU-er kan bli med i Azure Active Directory.
+-  Enheten er Windows 10 Home. Bare Windows 10 Pro, Education og ENTERPRISESKUs kan bli med i Azure Active Directory.
 
 Flere ressurser som kan hjelpe deg med å løse problemet:
   
--  Bruk [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til å diagnostisere og løse vanlige registrerings feil. Se gjennom [dette dokumentet](https://docs.microsoft.com/intune/help-desk-operators) for mer informasjon.
+-  Bruk [feilsøkingsportalen for Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til å diagnostisere og løse vanlige registreringsfeil. Se [gjennom dette dokumentet](https://docs.microsoft.com/intune/help-desk-operators) for mer informasjon.
 
--  Se gjennom disse dokumentene for en liste over vanlige feil som forhindrer registrering og løsninger på hver av dem: [feil søkings veiledning](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) og [feil søkings dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Se gjennom disse dokumentene for å få en liste over vanlige feil som hindrer registrering og løsninger for hver av [dem:](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) Feilsøkingsveiledning og [Feilsøking av dokumenter.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Lær hvordan du registrerer Windows-enheter i Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Lær hvordan du registrere Windows-enheter i Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)

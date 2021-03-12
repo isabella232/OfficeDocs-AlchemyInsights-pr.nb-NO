@@ -1,5 +1,5 @@
 ---
-title: Informasjon om en rettslig sperre eller i en posisjon
+title: Informasjon om rettslig sperre eller på stedet
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755464"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709331"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Om søksmål-sperringer og lokal sperringer
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om rettslige sperringer og sperringer på stedet
 
-- Hvis du vil bruke en søksmål sperring eller en lokal sperring for en post boks, kreves det en [lisens for Exchange Online-abonnement 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis du har en annen plan, kan du tilordne en separat [Exchange Online arkiverings](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) lisens til kontoen. 
+- Hvis du vil bruke en rettslig sperre eller en sperring på en postboks, kreves en [lisens for Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Hvis du har et annet abonnement, kan du tilordne en separat [lisens for Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     
-- Følg Fremgangs [måten nedenfor for](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) **å aktivere en rettslig sperre** for en enkelt bruker. Når rettslig sperre er aktivert, plasseres alt innhold i post boksen på vent.
+- **Hvis du vil aktivere en rettslig sperre** for én enkelt bruker, følger du fremgangsmåten beskrevet [her.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Når rettslig sperre er aktivert, er alt innhold i postboksen plassert på vent.
     
-- Hvis du vil bruke en **Lokal sperring for enkelt brukere** eller en sperring for **alle post bokser i hele organisasjonen**, kan du bruke oppbevarings policyer i 365 Microsofts sikkerhets-og samsvars senter ved å følge Fremgangs måten [her]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Hvis du vil bruke en sperring på ett sted på enkeltbrukere eller en sperring for alle postbokser i hele **organisasjonen,** kan du bruke oppbevaringspolicyer i **sikkerhets-** og samsvarssenteret for Microsoft 365 ved å følge fremgangsmåten som er beskrevet [her.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Nye brukere blir automatisk lagt til i sperringen for oppbevarings policyer for organisasjonen. 
+    > Nye brukere legges automatisk til i sperringen for oppbevaringspolicyer for hele organisasjonen. 
   
-- Hvis du vil vise eller oppdage post boks innholdet som er satt på vent, bruker du **eDiscovery-søk og Eksporter**. Hvis du vil ha informasjon om hvordan du bruker **eDiscovery-søk og eksport**, følger du Fremgangs måten [her](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Hvis du vil vise eller oppdage postboksinnhold som er plassert på vent, kan du bruke **eDiscovery-søk og -eksport.** Hvis du vil ha informasjon om hvordan du bruker **eDiscovery-søk og -eksport,** følger du fremgangsmåten [beskrevet her.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

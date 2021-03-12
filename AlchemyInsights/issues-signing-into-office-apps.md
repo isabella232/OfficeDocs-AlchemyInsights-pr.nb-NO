@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 57a4df23dc66eaf4c283dde741be6f415939633d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d736c6c687695824f0ab37b8ffdc8456065353b0
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695188"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709115"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Løse Microsoft 365-appene data maskinens klarerte plattform modul fungerer ikke som den skal: melding
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Retting av Microsoft 365-appene « Datamaskinens Klarerte plattform-modul fungerer ikke som den skal»
 
 For å løse denne filen kan du prøve følgende:
 
-- Installer de nyeste oppdateringene for [Windows](https://support.microsoft.com/help/4027667/windows-10-update) og [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Fjern Office-legitimasjon](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) ved hjelp av Windows-legitimasjons behandling.<br/>
-    **Obs!** Register banene for Office 2016 har blitt endret til 16,0. (Eks: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Prøv [bruker gjenopprettings prosessen](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) for å løse problemer med klarert plattform modul (TPM).
-- Angi EnableADAL = 0 ved hjelp av følgende trinn:  
-    1. Høyre klikk Start knappen i Windows, velg **Kjør**, Skriv inn **regedit**, og velg deretter **OK**.
-    2. Velg **Ja** for å tillate register redigering å gjøre endringer på enheten.
-    3. I register redigering legger du til en DWORD-verdi på **EnableADAL** med en innstilling på **0** under HKEY_CURRENT_USER \software\microsoft\office\16.0\common\identity.
+- Installer de nyeste oppdateringene for [Windows](https://support.microsoft.com/help/4027667/windows-10-update) og [Office.](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
+- [Fjern Office-legitimasjon ved](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/another-account-already-signed-in#step-4-clear-cached-credentials-on-the-computer) hjelp av Windows Legitimasjonsbehandling.<br/>
+    **Obs!** Registerbanene for Office 2016 er endret til 16.0. (Eksempel: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Prøv [brukergjenopprettingsprosessen for](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) å løse TPM-feil (Trusted Platform Module).
+- Angi EnableADAL = 0 ved hjelp av følgende fremgangsmåte:  
+    1. Høyreklikk på Start-knappen i Windows, velg **Kjør,** skriv inn **regedit** og velg deretter **OK.**
+    2. Velg **Ja** for å tillate at registerredigering gjør endringer på enheten.
+    3. Legg til en DWORD-verdi for **EnableADAL** i Registerredigering med en innstilling på **0** under HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-Hvis du vil ha mer informasjon, kan du se [tilkoblings problemer i pålogging etter oppdatering til Office 2016 Bygg 16.0.7967 på Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Hvis du vil ha mer informasjon, kan du se Tilkoblingsproblemer ved pålogging etter oppdatering til [Office 2016 bygg 16.0.7967 på Windows 10.](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)

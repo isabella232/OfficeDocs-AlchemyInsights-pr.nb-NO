@@ -1,5 +1,5 @@
 ---
-title: Skjerm deling med Skype-forbruker
+title: Skjermdeling med Skype Consumer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 6c89ea3d599fe9944352d9d65ea172658460efeb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebe07d46aa5c5d63bba0403bf05cf57e613bcd0f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774360"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709403"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>Skjerm deling med Skype forbruker brukere
+# <a name="screen-sharing-with-skype-consumer-users"></a>Skjermdeling med Skype-forbrukerbrukere
 
-Hvis du vil ha generelle instruksjoner om hvordan du deler programmet, kan du se gjennom [dele skjermen i Skype for Business](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)for å lære om begrensninger med deling og for feil søking av ressurser.  
+Hvis du vil ha generelle instruksjoner om hvordan du deler programmet, for å lære om begrensninger med deling og for feilsøkingsressurser, kan du se Del skjermen [din i Skype for Business.](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)  
 
-Skype for Business-brukere kan for øyeblikket ikke få skjerm deling med Skype forbruker-brukere. [Klikk her](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) for å gi tilbake melding om aktivering av skjerm deling med forbruker Skype-brukere. 
+Skype for Business-brukere kan for øyeblikket ikke dele skjermen med Skype-forbrukerbrukere. Klikk [her for](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) å gi tilbakemelding om aktivering av skjermdeling med Skype-brukere for forbrukere. 
