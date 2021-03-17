@@ -1,10 +1,10 @@
 ---
-title: Avbryter du Microsoft 365-abonnementet?
+title: Vil du avbryte Microsoft 365-abonnementet?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757237"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837427"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Avbryter du Microsoft 365-abonnementet?
+# <a name="canceling-your-microsoft-365-subscription"></a>Vil du avbryte Microsoft 365-abonnementet?
 
-Vi beklager å se deg, men her er alternativene for å avbryte abonnementet:
-  
-- **Avhengig av organisasjonens data, tror vi at alle nå værende abonnementer er prøve abonnementer. Det er ikke behov for eksplisitt å avbryte et prøve abonnement fordi prøve abonnementene krever ingen betalinger, og det er ingen forpliktelse etter at prøve perioden er avsluttet.**
+Vi beklager at du er på farten. Her er fremgangsmåten for å avbryte abonnementet:
 
-- Hvis du vil lære mer om hvordan du avbryter et abonnement eller for trinn vise instruksjoner, kan du se denne artikkelen: [avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+1. Gå til Fakturering av produkter-siden i administrasjonssenteret,  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** og velg deretter **Produkter-fanen.**
+2. Finn abonnementet du vil avbryte. Velg **Flere handlinger** (tre prikker), og velg deretter **Avbryt abonnement**.
+3. Velg en **grunn** til at du avbryter, i ruten Avbryt abonnement. Du kan også gi tilbakemelding.
+4. Velg **Lagre**.
+
+Hvis du vil ha mer informasjon om hvordan du avbryter et abonnement eller alternativer, kan du se [Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
