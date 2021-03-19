@@ -1,5 +1,5 @@
 ---
-title: '* domene overføringer i Storbritannia'
+title: .uk domeneoverføringer
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598815"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896660"
 ---
-# <a name="uk-domain-transfers"></a>* domene overføringer i Storbritannia
+# <a name="uk-domain-transfers"></a>.uk domeneoverføringer
 
-Kontakt Microsoft kunde støtte og be om **endring av IPS-kode** for å samsvare med registra ren du vil administrere domenet fremover. Når koden endres, overføres domenet umiddelbart til den nye registra ren. Du må da arbeide med den nye registra ren for å fullføre overføringen, sannsynligvis betalende overførings gebyrer og legge til det overførte domenet på kontoen din med den nye registra ren.
+Kontakt Microsoft Kundestøtte og be om en **IPS-kodeendring** for å samsvare med registratoren du vil administrere domenet i tiden fremover. Når koden endres, overføres domenet umiddelbart til den nye registratoren. Deretter må du samarbeide med den nye registratoren for å fullføre overføringen, sannsynligvis betale overføringsgebyrer og legge til det overførte domenet på kontoen med den nye registratoren.
 
-Hvis du vil ha mer informasjon om domene overføringer, kan du se [overføre et domene fra Microsoft til en annen vert](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Hvis du vil ha mer informasjon om domeneoverføringer, kan du se [Overføre et domene fra Microsoft til en annen vert](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+
+Vær forberedt på å oppgi IPS-koden til den nye registratoren, som du finner på https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
