@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896912"
+ms.locfileid: "50931657"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vil du avbryte Microsoft 365-abonnementet?
 
@@ -30,3 +30,5 @@ Vi beklager at du er på farten. Her er fremgangsmåten for å avbryte abonnemen
 4. Velg **Lagre**.
 
 Hvis du vil ha mer informasjon om hvordan du avbryter et abonnement eller alternativer, kan du se [Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+
+Hvis du vil fortsette å bruke abonnementet så lenge prøveperioden varer, kan du deaktivere regelmessig fakturering for abonnementet. Hvis du vil lære hvordan, kan du se [Fornye Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
