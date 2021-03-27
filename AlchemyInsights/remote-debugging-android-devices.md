@@ -1,5 +1,5 @@
 ---
-title: Bruke Microsoft Edge til å feilsøke en Android-enhet eksternt fra en utviklings data maskin
+title: Bruke Microsoft Edge til å feilsøke en Android-enhet eksternt fra en utviklingsdatamaskin
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583944"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398702"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Bruke Microsoft Edge til å feilsøke en Android-enhet eksternt fra en utviklings data maskin
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Bruke Microsoft Edge til å feilsøke en Android-enhet eksternt fra en utviklingsdatamaskin
 
-Slik feil søker du direkte innhold på en Android-enhet fra data maskinen:
+Slik feilsøker du direkte innhold eksternt på en Android-enhet fra datamaskinen:
 
-1. Konfigurer Android-enheten for ekstern feil søking, og Oppdag den fra utviklings data maskinen.
-2. Undersøk og Feilsøk direkte innhold på Android-enheten fra utviklings data maskinen.
-3. Screencast om direkte innhold fra Android-enheten til en DevTools-forekomst på utviklings data maskinen.
+1. Konfigurer Android-enheten for ekstern feilsøking, og oppdag den fra utviklingsdatamaskinen.
+2. Inspiser og feilsøke direkte innhold på Android-enheten fra utviklingsdatamaskinen.
+3. Screencast direkte innhold fra Android-enheten til en DevTools-forekomst på utviklingsdatamaskinen.

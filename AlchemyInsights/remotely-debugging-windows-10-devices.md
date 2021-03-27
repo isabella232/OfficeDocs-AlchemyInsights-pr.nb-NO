@@ -1,5 +1,5 @@
 ---
-title: Komme i gang med å feilsøke Windows 10-enheter eksternt
+title: Komme i gang med ekstern feilsøking av Windows 10-enheter
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583968"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398573"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komme i gang med å feilsøke Windows 10-enheter eksternt
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komme i gang med ekstern feilsøking av Windows 10-enheter
 
-Slik får du ekstern feil søking i direkte innhold på en Windows 10-enhet fra en Windows-eller macOS-maskin:
+Slik feilsøker du direkte innhold på en Windows 10-enhet eksternt fra en Windows- eller MacOS-datamaskin:
 
-1. Konfigurer Windows 10-enheten for ekstern feil søking, og koble deretter til den fra utviklings maskinen.
-2. Undersøk og Feilsøk direkte innhold på Windows 10-enheten fra utviklings maskinen.
-3. Screencast om innhold fra Windows 10-enheten til en DevTools-forekomst på utviklings maskinen.
+1. Konfigurer Windows 10-enheten for ekstern feilsøking, og koble til den deretter fra utviklingsmaskinen.
+2. Undersøk og feilsøke direkte innhold på Windows 10-enheten fra utviklingsmaskinen.
+3. Screencast-innhold fra Windows 10-enheten til en DevTools-forekomst på utviklingsmaskinen.
 
-Hvis du vil vite mer, kan du se [komme i gang med ekstern feil søking av Windows 10-enheter med Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Hvis du vil ha mer informasjon, kan du se Komme i gang med [ekstern feilsøking av Windows 10-enheter ved hjelp av Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
