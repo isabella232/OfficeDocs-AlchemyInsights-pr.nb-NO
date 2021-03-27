@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677784"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398666"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a><span data-ttu-id="766a2-102">Logge på Microsoft Edge manuelt</span><span class="sxs-lookup"><span data-stu-id="766a2-102">Sign in to Microsoft Edge manually</span></span>
+# <a name="sign-in-to-microsoft-edge-manually"></a><span data-ttu-id="f20d6-102">Logge på Microsoft Edge manuelt</span><span class="sxs-lookup"><span data-stu-id="f20d6-102">Sign in to Microsoft Edge manually</span></span>
 
-<span data-ttu-id="766a2-103">Hvis en bruker ikke automatisk er logget på ved første gangs kjøring, kan brukeren logge på via nett leserens innstillinger eller under meny for identitet manuelt.</span><span class="sxs-lookup"><span data-stu-id="766a2-103">If a user isn't automatically signed in during a first-run experience, the user can manually sign in through the browser's settings or the identity flyout.</span></span> <span data-ttu-id="766a2-104">Hvis du vil administrere pålogging, bruker du følgende policyer:</span><span class="sxs-lookup"><span data-stu-id="766a2-104">To manage sign-in, use the following policies:</span></span>
+<span data-ttu-id="f20d6-103">Hvis en bruker ikke logges på automatisk under en førstekjøringsopplevelse, kan brukeren logge på manuelt via nettleserens innstillinger eller undermenyen for identitet.</span><span class="sxs-lookup"><span data-stu-id="f20d6-103">If a user isn't automatically signed in during a first-run experience, the user can manually sign in through the browser's settings or the identity flyout.</span></span> <span data-ttu-id="f20d6-104">Bruk følgende policyer for å administrere pålogging:</span><span class="sxs-lookup"><span data-stu-id="f20d6-104">To manage sign-in, use the following policies:</span></span>
 
-1. <span data-ttu-id="766a2-105">[NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – for å sikre at en bruker alltid har en arbeids profil i Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="766a2-105">[NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - To ensure that a user always has a work profile in Microsoft Edge.</span></span>
-2. <span data-ttu-id="766a2-106">[RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – for å begrense pålogging til et sett med klarerte kontoer.</span><span class="sxs-lookup"><span data-stu-id="766a2-106">[RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - To restrict sign-in to a set of trusted accounts.</span></span>
-3. <span data-ttu-id="766a2-107">[BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – for å deaktivere pålogging eller for å tvinge brukere til å logge seg på.</span><span class="sxs-lookup"><span data-stu-id="766a2-107">[BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - To disable sign-in or to force users to sign in.</span></span>
+1. <span data-ttu-id="f20d6-105">[NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – For å sikre at en bruker alltid har en arbeidsprofil i Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="f20d6-105">[NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - To ensure that a user always has a work profile in Microsoft Edge.</span></span>
+2. <span data-ttu-id="f20d6-106">[RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Slik begrenser du pålogging til et sett med klarerte kontoer.</span><span class="sxs-lookup"><span data-stu-id="f20d6-106">[RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - To restrict sign-in to a set of trusted accounts.</span></span>
+3. <span data-ttu-id="f20d6-107">[BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Slik deaktiverer du pålogging eller tvinger brukere til å logge på.</span><span class="sxs-lookup"><span data-stu-id="f20d6-107">[BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - To disable sign-in or to force users to sign in.</span></span>
 
