@@ -1,5 +1,5 @@
 ---
-title: Konfigurere policy innstillinger for Microsoft Edge i Windows
+title: Konfigurere policyinnstillinger for Microsoft Edge i Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583739"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402384"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a><span data-ttu-id="46a95-102">Konfigurere policy innstillinger for Microsoft Edge i Windows</span><span class="sxs-lookup"><span data-stu-id="46a95-102">Configure Microsoft Edge policy settings on Windows</span></span>
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a><span data-ttu-id="a597f-102">Konfigurere policyinnstillinger for Microsoft Edge i Windows</span><span class="sxs-lookup"><span data-stu-id="a597f-102">Configure Microsoft Edge policy settings on Windows</span></span>
 
-<span data-ttu-id="46a95-103">Hvis du vil konfigurere policy innstillinger og administrerte oppdateringer for Microsoft Edge, kan du bruke gruppe policy objekter (GPOer).</span><span class="sxs-lookup"><span data-stu-id="46a95-103">To configure policy settings and managed updates for Microsoft Edge, use Group Policy Objects (GPOs).</span></span> <span data-ttu-id="46a95-104">Du kan også klargjøre policy via registret. Dette passer for (1) Windows-enheter som er koblet til et Microsoft Active Directory-domene og for (2) Windows 10 Pro og Enterprise-forekomster registrert for enhets behandling i Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="46a95-104">You can also provision policy through the registry; this would be appropriate for (1) Windows devices joined to a Microsoft Active Directory domain and for (2) Windows 10 Pro and Enterprise instances enrolled for device management in Microsoft Intune.</span></span>
+<span data-ttu-id="a597f-103">Hvis du vil konfigurere policyinnstillinger og administrerte oppdateringer for Microsoft Edge, bruker du gruppepolicyobjekter (GPOer).</span><span class="sxs-lookup"><span data-stu-id="a597f-103">To configure policy settings and managed updates for Microsoft Edge, use Group Policy Objects (GPOs).</span></span> <span data-ttu-id="a597f-104">Du kan også klargjøre policyer gjennom registeret. dette vil være passende for (1) Windows-enheter som er koblet til et Microsoft Active Directory-domene og for (2) Windows 10 Pro- og Enterprise-forekomster registrert for enhetsbehandling i Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="a597f-104">You can also provision policy through the registry; this would be appropriate for (1) Windows devices joined to a Microsoft Active Directory domain and for (2) Windows 10 Pro and Enterprise instances enrolled for device management in Microsoft Intune.</span></span>
 
-<span data-ttu-id="46a95-105">Gjør følgende for å konfigurere Microsoft Edge ved hjelp av GPOer:</span><span class="sxs-lookup"><span data-stu-id="46a95-105">To configure Microsoft Edge by using GPOs, do the following:</span></span>
+<span data-ttu-id="a597f-105">Gjør følgende for å konfigurere Microsoft Edge ved hjelp av gruppepolicyobjekter:</span><span class="sxs-lookup"><span data-stu-id="a597f-105">To configure Microsoft Edge by using GPOs, do the following:</span></span>
 
-1. <span data-ttu-id="46a95-106">Du kan installere alle administrative maler som legger til regler og innstillinger for Microsoft Edge, i et sentral lager for gruppe policy i Active Directory Domain, eller i mappen policy Definition Template på enkelt data maskiner.</span><span class="sxs-lookup"><span data-stu-id="46a95-106">To the Group Policy Central Store in your Active Directory domain, or to the Policy Definition template folder on individual computers, install all administrative templates that add rules and settings for Microsoft Edge.</span></span>
-2. <span data-ttu-id="46a95-107">Konfigurer de bestemte policyene du vil angi.</span><span class="sxs-lookup"><span data-stu-id="46a95-107">Configure the specific policies you want to set.</span></span>
+1. <span data-ttu-id="a597f-106">Gå til sentrallageret for gruppepolicy i Active Directory-domenet, eller til policydefinisjonsmalmappen på individuelle datamaskiner, og installer alle administrative maler som legger til regler og innstillinger for Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="a597f-106">Go to the Group Policy Central Store in your Active Directory domain, or to the Policy Definition template folder on individual computers, install all administrative templates that add rules and settings for Microsoft Edge.</span></span>
+2. <span data-ttu-id="a597f-107">Konfigurer de bestemte policyene du vil angi.</span><span class="sxs-lookup"><span data-stu-id="a597f-107">Configure the specific policies you want to set.</span></span>
 
-<span data-ttu-id="46a95-108">Hvis du vil ha mer informasjon, kan du se [konfigurere policy innstillinger for Microsoft Edge på Windows](https://go.microsoft.com/fwlink/?linkid=2135024).</span><span class="sxs-lookup"><span data-stu-id="46a95-108">To learn more, see [Configure Microsoft Edge policy settings on Windows](https://go.microsoft.com/fwlink/?linkid=2135024).</span></span>
+<span data-ttu-id="a597f-108">Hvis du vil ha mer informasjon, [kan du se Konfigurere policyinnstillinger](https://go.microsoft.com/fwlink/?linkid=2135024)for Microsoft Edge i Windows .</span><span class="sxs-lookup"><span data-stu-id="a597f-108">To learn more, see [Configure Microsoft Edge policy settings on Windows](https://go.microsoft.com/fwlink/?linkid=2135024).</span></span>
