@@ -1,5 +1,5 @@
 ---
-title: Slik deler du SharePoint-filer eller-mapper
+title: Slik deler du SharePoint- eller OneDrive-filer eller -mapper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779024"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408123"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Slik deler du SharePoint-filer eller-mapper
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Slik deler du SharePoint- eller OneDrive-filer eller -mapper
 
-Filene du lagrer på et SharePoint-område, er vanligvis tilgjengelige for alle med tillatelser på området, men du vil kanskje dele bestemte filer eller mapper med personer som ikke har tilgang til området. Når du deler filer og mapper, kan du bestemme om du vil la andre redigere eller vise dem.
+Filene du lagrer på et SharePoint-nettsted, er vanligvis tilgjengelige for alle med tillatelser til nettstedet, men du vil kanskje dele bestemte filer eller mapper med personer som ellers ikke har tilgang til nettstedet. Når du deler filer og mapper, kan du bestemme om du vil la andre redigere eller bare vise dem. Hvis du vil ha mer informasjon, kan du se:
 
-[Dele SharePoint-filer eller-mapper](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Dele SharePoint-filer eller -mapper](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Dele OneDrive-filer og -mapper](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
