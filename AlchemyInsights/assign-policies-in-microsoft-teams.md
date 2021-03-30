@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036031"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401808"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Tilordne policyer i Microsoft Teams
 
-- Teams tilbyr flere måter å tilordne policyer til brukere på for å administrere policyer i organisasjonen på en enkel måte. Tilordne en policy direkte til brukere, enten enkeltvis eller i skala gjennom en gruppetilordning, eller til en gruppe som brukerne er medlemmer av.  Policytilordning til grupper ved hjelp av administrasjonssenteret for Microsoft Teams er for øyeblikket bare tilgjengelig for bestemte policytyper. 
-- En bruker har én effektiv policy for hver policytype. Hvis du vil se gjennom rekkefølgen som policyene brukes i for brukere, kan du se [hvilken policy som har forrang?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Hvis du vil ha mer informasjon, kan du se [Tilordne policyer til brukerne i Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
+- For å enkelt administrere policyer i organisasjonen, tilbyr Teams flere måter å tilordne policyer til brukere på. Tilordne en policy til direkte til brukere, enten individuelt eller i større skala via parti-tilordning, eller til en gruppe som brukerne er medlem av.  For øyeblikket er tilordning av policy til grupper via administrasjonssenter for Microsoft Teams kun tilgjengelig for spesifikke policytyper. 
+- En bruker har én gjeldende policy for hver policytype. Hvis du vil se gjennom hvilken rekkefølge policyene blir brukt på en bruker, kan du se [hvilken policy har forrang?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- For mer informasjon, se [Tilordne policyer til brukere i Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
