@@ -1,0 +1,37 @@
+---
+title: API-tillatelser og samtykkeprosess
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004345"
+- "9200"
+ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
+ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.translationtype: MT
+ms.contentlocale: nb-NO
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51404875"
+---
+# <a name="api-permissions-and-consent-process"></a><span data-ttu-id="e7a21-102">API-tillatelser og samtykkeprosess</span><span class="sxs-lookup"><span data-stu-id="e7a21-102">API Permissions and Consent Process</span></span>
+
+<span data-ttu-id="e7a21-103">For at appen skal få tilgang til data i Microsoft Graph, må brukeren eller administratoren gi den de riktige tillatelsene via en samtykkeprosess.</span><span class="sxs-lookup"><span data-stu-id="e7a21-103">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="e7a21-104">[Referanse for Microsoft Graph-tillatelser](https://docs.microsoft.com/graph/permissions-reference) viser tillatelsene som er knyttet til hvert hovedsett med Microsoft Graph API-er.</span><span class="sxs-lookup"><span data-stu-id="e7a21-104">[Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="e7a21-105">Den gir også veiledning om hvordan du bruker tillatelsene.</span><span class="sxs-lookup"><span data-stu-id="e7a21-105">It also provides guidance about how to use the permissions.</span></span>
+
+<span data-ttu-id="e7a21-106">**Konfigurere eller oppdatere tjenesteprinsipp**</span><span class="sxs-lookup"><span data-stu-id="e7a21-106">**Set up or update service principal**</span></span>
+
+- <span data-ttu-id="e7a21-107">[Opprett serviceprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) – Denne artikkelen viser deg hvordan du oppretter et nytt servicePrincipal-objekt.</span><span class="sxs-lookup"><span data-stu-id="e7a21-107">[Create serviceprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) - This article shows you how to create a new servicePrincipal object.</span></span>
+- <span data-ttu-id="e7a21-108">Opprett en [Azure AD-app](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) &-tjenesteprinsipp i portalen – Denne artikkelen viser deg hvordan du oppretter et nytt Azure Active Directory-program (Azure AD)-program og tjenesteprinsipp som kan brukes med den rollebaserte tilgangskontrollen.</span><span class="sxs-lookup"><span data-stu-id="e7a21-108">[Create an Azure AD app & service principal in the portal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) - This article shows you how to create a new Azure Active Directory (Azure AD) application and service principal that can be used with the role-based access control.</span></span>
+- <span data-ttu-id="e7a21-109">[Apper &](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) tjenesteprinsipper i Azure AD – Denne artikkelen beskriver programregistrering, programobjekter og tjenesteprinsipper i Azure Active Directory: hva de er, hvordan de brukes og hvordan de er relatert til hverandre.</span><span class="sxs-lookup"><span data-stu-id="e7a21-109">[Apps & service principals in Azure AD](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) - This article describes application registration, application objects, and service principals in Azure Active Directory: what they are, how they are used, and how they are related to each other.</span></span>
+
+<span data-ttu-id="e7a21-110">**Legge til eller oppdatere appregistrering og gi administratorsamtykke**</span><span class="sxs-lookup"><span data-stu-id="e7a21-110">**Add or update app registration and provide admin consent**</span></span>
+
+- <span data-ttu-id="e7a21-111">[Opprette en appregistrering](https://docs.microsoft.com/graph/api/application-post-applications) – Denne artikkelen viser deg hvordan du oppretter et nytt programobjekt.</span><span class="sxs-lookup"><span data-stu-id="e7a21-111">[Create an app registration](https://docs.microsoft.com/graph/api/application-post-applications) - This article shows you how to create a new application object.</span></span>
+- <span data-ttu-id="e7a21-112">[Oppdatere en appregistrering – API-tillatelser](https://docs.microsoft.com/graph/api/application-update) – Denne artikkelen viser deg hvordan du oppdaterer egenskapene for et programobjekt.</span><span class="sxs-lookup"><span data-stu-id="e7a21-112">[Update an app registration - API permissions](https://docs.microsoft.com/graph/api/application-update) - This article shows you how to update the properties of an application object.</span></span>
+- <span data-ttu-id="e7a21-113">[Gi administratorsamtykke](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) – For administratorsamtykke og samtykke generelt krever vi at en administrator eksplisitt gir samtykke.</span><span class="sxs-lookup"><span data-stu-id="e7a21-113">[Provide admin consent](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) - For admin consent and consent in general, we require that an admin explicitly grants consent.</span></span>
+- <span data-ttu-id="e7a21-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) – Rollebehandlingsbeholder for enhetlige rolledefinisjoner og rolletilordninger for Microsoft 365 RBAC-leverandører som støtter flere hovedstoler og flere omfang i én enkelt rolletilordning.</span><span class="sxs-lookup"><span data-stu-id="e7a21-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - Role management container for unified role definitions and role assignments for Microsoft 365 RBAC providers that support multiple principals and multiple scopes in a single role assignment.</span></span> <span data-ttu-id="e7a21-115">Dette er forskjellig fra *ressurstypen rbacApplication.*</span><span class="sxs-lookup"><span data-stu-id="e7a21-115">This is different from *rbacApplication* resource type.</span></span> <span data-ttu-id="e7a21-116">Microsoft Intune er et eksempel på en slik RBAC-leverandør.</span><span class="sxs-lookup"><span data-stu-id="e7a21-116">Microsoft Intune is an example of such a RBAC provider.</span></span> <span data-ttu-id="e7a21-117">En rolletilordning i Intune kan ha en matrise med hovedstoler og en rekke omfangsgrupper.</span><span class="sxs-lookup"><span data-stu-id="e7a21-117">A role assignment in Intune can have an array of principals and an array of scope groups.</span></span> <span data-ttu-id="e7a21-118">**Dette er i betaversjon, noe som betyr at det fortsatt er under utvikling og ikke anbefalt for bruk i produksjon.**</span><span class="sxs-lookup"><span data-stu-id="e7a21-118">**This is in beta, meaning that it is still in development and not recommended for use in production.**</span></span>
