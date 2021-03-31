@@ -1,5 +1,5 @@
 ---
-title: finner du ikke 126 som får en post boks feil i OWA?
+title: Finner du ikke feilen 126 Får du en postboks i OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706759"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426671"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Får du feil meldingen finner ikke post boks i Outlook på nettet?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Finner du ikke en postboksfeil i Outlook på nettet?
 
-Hvis du bruker Outlook på nettet og får ikke **funnet en post boks for** feil, har ikke kontoen som du brukte til å koble til Outlook på nettet, en Exchange Online-lisens, og derfor er ingen post boks knyttet til kontoen. Administratoren kan tilordne en lisens til kontoen din ved å følge disse trinnene:
+Hvis du bruker Outlook på nettet og du får en Postboks ble ikke funnet **for** feil, har ikke kontoen som du brukte til å koble til Outlook på nettet, en Exchange Online-lisens, og derfor er ingen postboks knyttet til kontoen. Administratoren kan tilordne en lisens til kontoen din ved å følge disse trinnene:
 
-1. Åpne [administrasjons senteret for Microsoft 365](https://portal.office.com/adminportal/home#/homepage) og gå til **aktive brukere** under **brukere** -delen, og velg brukeren som ser feilen.
+1. Åpne [administrasjonssenteret for Microsoft 365,](https://portal.office.com/adminportal/home#/homepage)  gå til **Aktive** brukere under Brukere-delen, og velg brukeren som ser feilen.
 
-2. I bruker-siden som åpnes, går du til delen **lisenser og apper** , velger riktig **plasserings** verdi og tilordner en lisens som inneholder Exchange Online (Utvid lisensen for å se detaljene). Når du er ferdig, klikker du **Lagre endringer**.
+2. Gå til Lisenser og apper-delen på brukersiden som  åpnes, velg riktig **plasseringsverdi,** og tilordne en lisens som inneholder Exchange Online (utvid lisensen for å se detaljene). Når du er ferdig, klikker du **Lagre endringer**.
+
+I noen tilfeller, hvis lisensen allerede er tilordnet til en brukerkonto, bidrar fjerning og tilordning av lisensen til å løse problemet og få den klargjort på riktig måte i systemet: 
+
+- Kontroller om M365 Exchange Online (og andre, hvis du har noen) abonnementer er oppdaterte og ikke nylig utløpt.
+
+Når du har forsikret deg om at abonnementet ikke er utløpt og en gyldig lisens er tilordnet til brukerkontoen, kan det ta opptil 24 timer før lisensen blir klargjort, så du må kanskje vente på at problemet skal løses. Hvis du vil ha mer informasjon, [kan du se Tilordne og administrere lisenser](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).
