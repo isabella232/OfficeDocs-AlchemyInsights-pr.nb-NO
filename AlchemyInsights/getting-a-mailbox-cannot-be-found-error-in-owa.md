@@ -1,5 +1,5 @@
 ---
-title: finner du ikke 126 som får en post boks feil i OWA?
+title: Finner du ikke feilen 126 Får du en postboks i OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706759"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426671"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="4228f-102">Får du feil meldingen finner ikke post boks i Outlook på nettet?</span><span class="sxs-lookup"><span data-stu-id="4228f-102">Getting a mailbox not found error in Outlook on the web?</span></span>
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="00d28-102">Finner du ikke en postboksfeil i Outlook på nettet?</span><span class="sxs-lookup"><span data-stu-id="00d28-102">Getting a mailbox not found error in Outlook on the web?</span></span>
 
-<span data-ttu-id="4228f-103">Hvis du bruker Outlook på nettet og får ikke **funnet en post boks for** feil, har ikke kontoen som du brukte til å koble til Outlook på nettet, en Exchange Online-lisens, og derfor er ingen post boks knyttet til kontoen.</span><span class="sxs-lookup"><span data-stu-id="4228f-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="4228f-104">Administratoren kan tilordne en lisens til kontoen din ved å følge disse trinnene:</span><span class="sxs-lookup"><span data-stu-id="4228f-104">Your admin can assign a license to your account by following these steps:</span></span>
+<span data-ttu-id="00d28-103">Hvis du bruker Outlook på nettet og du får en Postboks ble ikke funnet **for** feil, har ikke kontoen som du brukte til å koble til Outlook på nettet, en Exchange Online-lisens, og derfor er ingen postboks knyttet til kontoen.</span><span class="sxs-lookup"><span data-stu-id="00d28-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="00d28-104">Administratoren kan tilordne en lisens til kontoen din ved å følge disse trinnene:</span><span class="sxs-lookup"><span data-stu-id="00d28-104">Your admin can assign a license to your account by following these steps:</span></span>
 
-1. <span data-ttu-id="4228f-105">Åpne [administrasjons senteret for Microsoft 365](https://portal.office.com/adminportal/home#/homepage) og gå til **aktive brukere** under **brukere** -delen, og velg brukeren som ser feilen.</span><span class="sxs-lookup"><span data-stu-id="4228f-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
+1. <span data-ttu-id="00d28-105">Åpne [administrasjonssenteret for Microsoft 365,](https://portal.office.com/adminportal/home#/homepage)  gå til **Aktive** brukere under Brukere-delen, og velg brukeren som ser feilen.</span><span class="sxs-lookup"><span data-stu-id="00d28-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
 
-2. <span data-ttu-id="4228f-106">I bruker-siden som åpnes, går du til delen **lisenser og apper** , velger riktig **plasserings** verdi og tilordner en lisens som inneholder Exchange Online (Utvid lisensen for å se detaljene).</span><span class="sxs-lookup"><span data-stu-id="4228f-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="4228f-107">Når du er ferdig, klikker du **Lagre endringer**.</span><span class="sxs-lookup"><span data-stu-id="4228f-107">When you're finished, click **Save changes**.</span></span>
+2. <span data-ttu-id="00d28-106">Gå til Lisenser og apper-delen på brukersiden som  åpnes, velg riktig **plasseringsverdi,** og tilordne en lisens som inneholder Exchange Online (utvid lisensen for å se detaljene).</span><span class="sxs-lookup"><span data-stu-id="00d28-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="00d28-107">Når du er ferdig, klikker du **Lagre endringer**.</span><span class="sxs-lookup"><span data-stu-id="00d28-107">When you're finished, click **Save changes**.</span></span>
+
+<span data-ttu-id="00d28-108">I noen tilfeller, hvis lisensen allerede er tilordnet til en brukerkonto, bidrar fjerning og tilordning av lisensen til å løse problemet og få den klargjort på riktig måte i systemet:</span><span class="sxs-lookup"><span data-stu-id="00d28-108">In some cases, if the license is already assigned to a user account, removing and reassigning the license helps to resolve the issue and get it properly provisioned in the system:</span></span> 
+
+- <span data-ttu-id="00d28-109">Kontroller om M365 Exchange Online (og andre, hvis du har noen) abonnementer er oppdaterte og ikke nylig utløpt.</span><span class="sxs-lookup"><span data-stu-id="00d28-109">Check to see if your M365 Exchange Online (and other, if you have any) subscriptions are current and have not recently expired.</span></span>
+
+<span data-ttu-id="00d28-110">Når du har forsikret deg om at abonnementet ikke er utløpt og en gyldig lisens er tilordnet til brukerkontoen, kan det ta opptil 24 timer før lisensen blir klargjort, så du må kanskje vente på at problemet skal løses.</span><span class="sxs-lookup"><span data-stu-id="00d28-110">Once you have made sure that your subscription has not expired and a valid license has been assigned to the user account, it can take up to 24 hours for license to get provisioned, so you might have to wait for your issue to resolve.</span></span> <span data-ttu-id="00d28-111">Hvis du vil ha mer informasjon, [kan du se Tilordne og administrere lisenser](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).</span><span class="sxs-lookup"><span data-stu-id="00d28-111">For more info, see [Assign and manage licenses](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).</span></span>
