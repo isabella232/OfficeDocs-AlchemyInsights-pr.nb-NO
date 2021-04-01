@@ -1,5 +1,5 @@
 ---
-title: Konfigurere Microsoft Information Protection
+title: Konfigurer Microsofts informasjonsbeskyttelse
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679350"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440938"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Konfigurere Microsoft Information Protection
+# <a name="set-up-microsoft-information-protection"></a>Konfigurer Microsofts informasjonsbeskyttelse
 
-Få en oversikt over hvilke muligheter du kan bruke i strategien for beskyttelse av informasjon, slik at du kan være sikker på at sensitiv informasjon er beskyttet. Bruk en fire trinns livs syklus for å oppdage, klassifisere, beskytte og overvåke sensitiv informasjon. Veiledningen for installasjon av Microsoft Information Protection gir veiledning for å fullføre disse trinnene.
+Få en oversikt over funksjonene du kan bruke på Informasjon Protection-strategien din, slik at du kan være trygg på at den sensitive informasjonen din er beskyttet. Bruk en firetrinns livssyklus der du oppdager, klassifiserer, beskytter og overvåker sensitiv informasjon. [Konfigurasjonsveiledningen for Microsoft-informasjonsbeskyttelse](https://go.microsoft.com/fwlink/?linkid=2146619) gir veiledning for å fullføre hvert av disse trinnene.
