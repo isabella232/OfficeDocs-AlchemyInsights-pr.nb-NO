@@ -1,5 +1,5 @@
 ---
-title: Yammer-Administrer alle firma grupper
+title: Yammer Administrere alle firmagrupper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688847"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505437"
 ---
-# <a name="all-company-group"></a>Alle firma grupper
+# <a name="all-company-group"></a>Alle firmagrupper
 
-**Alle firma** gruppen opprettes automatisk når du oppretter et Yammer-nettverk. Det er en standard system gruppe som ikke kan gis nytt navn eller slettes. Alle kan legge ut i **alle firma** gruppen, men bare Yammer-nettverksadministratorer kan publisere kunngjøringer i gruppen. Bruk **gruppe innsikt**til å vise informasjon om engasjement i gruppen **alle firma** .
+Fellesskapet For hele firmaet støtter nå lignende funksjoner for andre fellesskap i Yammer. Dette omfatter alternativer som forsidebilder og navngivning. Det er også mulig å begrense alle firmainnlegg i Yammer. Hvis du vil ha mer informasjon, [kan du se Hele firmaet fungerer nå som andre Yammer-fellesskap.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 
-Hvis du vil ha mer informasjon, kan du se [administrere en gruppe i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Vanlige problemer og løsninger
+
+- All tilpasnings- eller publiseringsbegrensning for firmaet er ikke tilgjengelig for nettverksadministratorer. Åpne en serviceforespørsel for å aktivere den moderne Gruppen For hele firmaet.
+
+- Fellesskapsinnsikt viser ikke gamle data. Nå som Hele firmaet er et reelt fellesskap, vises ikke de forrige dataene for nettverket.
+
+- Alt firma ser ut til å være slettet. Når fellesskapet er koblet til en Microsoft 365-gruppe, kan denne gruppen slettes. Microsoft 365-gruppen må gjenopprettes i leieren.
+
