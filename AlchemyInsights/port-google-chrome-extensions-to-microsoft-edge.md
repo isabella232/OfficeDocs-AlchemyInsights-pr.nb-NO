@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677875"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505293"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a><span data-ttu-id="81b77-102">Port Google Chrome-utvidelser til Microsoft Edge (Chromium)</span><span class="sxs-lookup"><span data-stu-id="81b77-102">Port Google Chrome extensions to Microsoft Edge (Chromium)</span></span>
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a><span data-ttu-id="94c5c-102">Port Google Chrome-utvidelser til Microsoft Edge (Chromium)</span><span class="sxs-lookup"><span data-stu-id="94c5c-102">Port Google Chrome extensions to Microsoft Edge (Chromium)</span></span>
 
-<span data-ttu-id="81b77-103">Det er enkelt å [havne Google Chrome-utvidelser til Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span><span class="sxs-lookup"><span data-stu-id="81b77-103">It's easy to [port Google Chrome extensions to Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span></span> <span data-ttu-id="81b77-104">I de fleste tilfeller er det bare nødvendig med minimale endringer for å kjøre disse utvidelsene i Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="81b77-104">In most cases, only minimal changes are needed to run these extensions on Microsoft Edge.</span></span>
+<span data-ttu-id="94c5c-103">Det er enkelt å [portere Google Chrome-utvidelser til Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension)</span><span class="sxs-lookup"><span data-stu-id="94c5c-103">It's easy to [port Google Chrome extensions to Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).</span></span> <span data-ttu-id="94c5c-104">I de fleste tilfeller er det bare nødvendig med minimale endringer for å kjøre disse utvidelsene på Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="94c5c-104">In most cases, only minimal changes are needed to run these extensions on Microsoft Edge.</span></span>
 
-<span data-ttu-id="81b77-105">Utvidelses-APIene og manifest nøklene som støttes av Google Chrome, er kode kompatible med Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="81b77-105">The extension APIs and manifest keys supported by Google Chrome are code-compatible with Microsoft Edge.</span></span> <span data-ttu-id="81b77-106">Microsoft Edge støtter imidlertid ikke Utvidelses-APIene Chrome. GCM, Chrome. Identity. getAccounts, Chrome. Identity. getAuthToken og Chrome. instanceID.</span><span class="sxs-lookup"><span data-stu-id="81b77-106">However, Microsoft Edge does not support the extension APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken, and chrome.instanceID.</span></span>
+<span data-ttu-id="94c5c-105">Utvidelses-API-ene og manifestnøklene som støttes av Google Chrome, er kodekompatible med Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="94c5c-105">The extension APIs and manifest keys supported by Google Chrome are code-compatible with Microsoft Edge.</span></span> <span data-ttu-id="94c5c-106">Microsoft Edge støtter imidlertid ikke utvidelsen API-er chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken og chrome.instanceID.</span><span class="sxs-lookup"><span data-stu-id="94c5c-106">However, Microsoft Edge does not support the extension APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken, and chrome.instanceID.</span></span>

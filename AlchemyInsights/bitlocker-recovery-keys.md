@@ -1,5 +1,5 @@
 ---
-title: BitLocker-gjenopprettings nøkler
+title: Bitlocker-gjenopprettingsnøkler
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685895"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505077"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="e5775-102">Få tilgang til BitLocker-gjenopprettings nøklene</span><span class="sxs-lookup"><span data-stu-id="e5775-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="941f8-102">Få tilgang til Bitlocker-gjenopprettingsnøkler</span><span class="sxs-lookup"><span data-stu-id="941f8-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="e5775-103">Når du konfigurerer BitLocker-innstillinger Intune Endpoint Protection-policyen, kan du definere om BitLocker-gjenopprettingsinformasjon skal lagres i Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="e5775-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="941f8-103">Når du konfigurerer Bitlocker-innstillinger Intune Endpoint Protection Policy, er det mulig å definere om Bitlocker-gjenopprettingsinformasjon skal lagres i Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="941f8-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="e5775-104">Hvis denne innstillingen er konfigurert, skal lagrede gjenopprettings data være synlige for en Intune-administrator som en del av enhets post dataene i Intune-enheter blad på to måter:</span><span class="sxs-lookup"><span data-stu-id="e5775-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="941f8-104">Hvis denne innstillingen er konfigurert, skal de lagrede gjenopprettingsdataene være synlige for en Intune-administrator som en del av datainnspillingen for enheten i Intune Devices-bladet på to måter:</span><span class="sxs-lookup"><span data-stu-id="941f8-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="e5775-105">Enheter – Azure AD-enheter – > "enhet" eller enheter-> alle enheter-> "enhet" – > gjenopprettings nøkler</span><span class="sxs-lookup"><span data-stu-id="e5775-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="941f8-105">Enheter – Azure AD-enheter – > «Enhet» ELLER Enheter – > Alle enheter – > «Enhet» -> Gjenopprettingsnøkler</span><span class="sxs-lookup"><span data-stu-id="941f8-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="e5775-106">Hvis det er administrator tilgang til selve enheten, kan du eventuelt se gjenopprettings nøkkelen (passord) ved å kjøre følgende kommando fra en hevet lede tekst:</span><span class="sxs-lookup"><span data-stu-id="e5775-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="941f8-106">Hvis det er administrativ tilgang til selve enheten, kan du eventuelt se gjenopprettingsnøkkelen (Passord) ved å kjøre følgende kommando fra en hevet ledetekst:</span><span class="sxs-lookup"><span data-stu-id="941f8-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="e5775-107">Hvis enheten ble kryptert før enrolment i Intune, kan gjenopprettings nøkkelen ha blitt tilknyttet "Microsoft-kontoen" (MSA) som brukes til å logge på enheten under OOBE-prosessen.</span><span class="sxs-lookup"><span data-stu-id="e5775-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="e5775-108">Hvis dette var tilfelle, kan du få tilgang til  https://onedrive.live.com/recoverykey og logge på med denne MSA for å vise enhetene som gjenopprettings nøklene ble lagret i.</span><span class="sxs-lookup"><span data-stu-id="e5775-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="941f8-107">Hvis enheten ble kryptert før registreringen i Intune, kan gjenopprettingsnøkkelen ha blitt knyttet til Microsoft-kontoen (MSA) som ble brukt til å logge på enheten under OOBE-prosessen.</span><span class="sxs-lookup"><span data-stu-id="941f8-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="941f8-108">Hvis dette var tilfellet, skal tilgang til og pålogging med MSA vise enhetene som  https://onedrive.live.com/recoverykey gjenopprettingsnøklene ble lagret for.</span><span class="sxs-lookup"><span data-stu-id="941f8-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="e5775-109">Hvis enheten ble kryptert som et resultat av konfigurasjon via domene BAS ert gruppe policy, kan gjenopprettings informasjonen være lagret i den lokale Active Directory.</span><span class="sxs-lookup"><span data-stu-id="e5775-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
- 
+<span data-ttu-id="941f8-109">Hvis enheten ble kryptert som et resultat av konfigurasjonen via domenebasert gruppepolicy, kan gjenopprettingsinformasjonen lagres i den lokale Active Directory.</span><span class="sxs-lookup"><span data-stu-id="941f8-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+
+<span data-ttu-id="941f8-110">Hvis du har konfigurert policyen for endepunktbeskyttelse til å lagre gjenopprettingsnøkkelen i Azure Active Directory, men nøkkelen for en bestemt enhet ikke er lastet opp, kan du utløse opplastingen ved å rotere gjenopprettingsnøkkelen for denne enheten fra MEM-konsollen.</span><span class="sxs-lookup"><span data-stu-id="941f8-110">If you have configured Endpoint protection policy to store the recovery key in Azure Active Directory but the key for a specific device has not been uploaded, you can trigger the upload by rotating the recovery key for that device from the MEM console.</span></span> <span data-ttu-id="941f8-111">Hvis du vil ha mer informasjon, kan du se [Roter BitLocker-gjenopprettingsnøkler](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).</span><span class="sxs-lookup"><span data-stu-id="941f8-111">For details, see [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).</span></span>
 
