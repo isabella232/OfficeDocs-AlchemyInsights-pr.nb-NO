@@ -1,5 +1,5 @@
 ---
-title: Sikkerhetsproblemer med Surface-, Xbox- og Microsoft-enheter
+title: Sikkerhetshensyn for Surface-, Xbox- og Microsoft-enheter
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: c0436154860a81ab1628407eaa808c225a790b11
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036302"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505761"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a><span data-ttu-id="95b0b-102">Sikkerhetsproblemer med Surface-, Xbox- og Microsoft-enheter</span><span class="sxs-lookup"><span data-stu-id="95b0b-102">Surface, Xbox, and Microsoft devices safety concerns</span></span>
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a><span data-ttu-id="8f9cc-102">Sikkerhetshensyn for Surface-, Xbox- og Microsoft-enheter</span><span class="sxs-lookup"><span data-stu-id="8f9cc-102">Surface, Xbox, and Microsoft devices safety concerns</span></span>
 
-<span data-ttu-id="95b0b-103">Hvis du vil diskutere et problem med produktsikkerhet (personskade,  skade på eiendom, synlig røyk), velger du Kontakt oss nederst til venstre for å kobles direkte til en assistert støttetalsmann.</span><span class="sxs-lookup"><span data-stu-id="95b0b-103">If you want to discuss a product safety concern (personal injury, property damage, visible smoke), select **Contact Us** in the bottom left corner to be directly connected to an assisted support advocate.</span></span>
+<span data-ttu-id="8f9cc-103">Hvis du vil diskutere en bekymring om produktsikkerhet (personlig skade, skade på eiendom, synlig røyk), velger du **Kontakt oss** eller **Få mer hjelp** nedenfor, for å bli direkte overført til en talsperson for kundestøtte.</span><span class="sxs-lookup"><span data-stu-id="8f9cc-103">If you want to discuss a product safety concern (personal injury, property damage, visible smoke), select **Contact Us** or **Get More Help** below to be directly connected to an assisted support advocate.</span></span>
