@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696298"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645176"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problemer når du installerer Exchange Server-oppdateringer
 
-Før du installerer Exchange Server-oppdateringer, kan du se avsnittet Anbefalte fremgangsmåter i artikkelen Oppgradere [Exchange til den nyeste kumulative oppdateringen.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Det er spesielt viktig å installere oppdateringer ved hjelp av den utvidede CMD-meldingen (med mindre oppdateringer installeres via Microsoft Update). Dette gjelder både kumulative oppdateringer og sikkerhetsoppdateringer!
+Hvis du må oppdatere til den nyeste kumulative oppdateringen (CU) for Exchange Server, kan du bruke til å få et detaljert sett med trinn for å oppdatere fra gjeldende CU til [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) målet CU.
 
-Hvis du ser feil når du installerer sikkerhetsoppdateringer eller etter at oppdateringen ble installert, kan du se [denne artikkelen om feilsøking av mislykkede installasjoner.](https://aka.ms/exupdatefaq)
+Hvis det oppstår feil under eller etter installasjonen av Exchange Server-oppdateringer, kan du se delen Anbefalte fremgangsmåter i artikkelen Oppgradere Exchange til den nyeste [kumulative oppdateringen](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Det er svært viktig å installere sikkerhetsoppdateringer ved hjelp av den forhøyede CMD-ledeteksten (hvis oppdateringer ikke er installert via Microsoft Update).
+
+Hvis du ser feil når du installerer sikkerhetsoppdateringer eller etter at oppdateringen er installert, kan du se Reparere [mislykkede installasjoner av kumulative exchange- og sikkerhetsoppdateringer](https://aka.ms/exupdatefaq).
