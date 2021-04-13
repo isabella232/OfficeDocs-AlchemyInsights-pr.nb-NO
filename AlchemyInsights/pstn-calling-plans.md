@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662514"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692475"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-anropsplaner
 
@@ -28,4 +28,4 @@ Hvis du vil at brukerne dine skal kunne ringe til vanlige telefoner, og du ikke 
 
 - Konfigurer [Kommunikasjonskreditter](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) for å unngå at brukere **går tom for minutter**. Se priser [her](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Hvis du vil ha mer informasjon, se [Telefonsystem og anropsplaner](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) eller [Hva er kommunikasjonskreditter?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Hvis du vil ha mer informasjon, kan du se Anropsplaner for [Microsoft Teams Phone](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) og Microsoft Teams eller Hva er [kommunikasjonskreditt?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
