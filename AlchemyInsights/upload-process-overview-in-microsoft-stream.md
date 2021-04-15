@@ -1,8 +1,8 @@
 ---
-title: Oversikt over opplastings prosessen i Microsoft stream
+title: Oversikt over opplastingsprosessen i Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: b86d899a58279697aab8ca1a6ec4ceba13105df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d290650a1d8766650e6f88e8b0a671d67f2be85d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798601"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782304"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="d04a2-102">Oversikt over opplastings prosessen i Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="d04a2-102">Upload process overview in Microsoft Stream</span></span>
+# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="bbbd3-102">Oversikt over opplastingsprosessen i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="bbbd3-102">Upload process overview in Microsoft Stream</span></span>
 
-<span data-ttu-id="d04a2-103">Når du laster opp en video, koder Microsoft stream automatisk til flere bit hastighet slik at videoen kan direkteavspilles med direkte avspilling av adaptiv bit hastighet.</span><span class="sxs-lookup"><span data-stu-id="d04a2-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="d04a2-104">Microsoft stream optimaliserer bit hastigheten og kvaliteten på spille videoen basert på visnings skjermens tilgjengelige bånd bredde.</span><span class="sxs-lookup"><span data-stu-id="d04a2-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
+<span data-ttu-id="bbbd3-103">Når du laster opp en video, kodes den automatisk inn i flere bithastigheter, slik at videoen kan strømmes ved hjelp av dynamisk bithastighet.</span><span class="sxs-lookup"><span data-stu-id="bbbd3-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="bbbd3-104">Microsoft Stream optimaliserer bithastigheten og kvaliteten på videoen som spilles av, basert på visningsprogrammets tilgjengelige båndbredde.</span><span class="sxs-lookup"><span data-stu-id="bbbd3-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
 
-- [<span data-ttu-id="d04a2-105">Oversikt over opplastings prosessen i Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="d04a2-105">Upload process overview in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/upload-process-overview)
+- [<span data-ttu-id="bbbd3-105">Oversikt over opplastingsprosessen i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="bbbd3-105">Upload process overview in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/upload-process-overview)
