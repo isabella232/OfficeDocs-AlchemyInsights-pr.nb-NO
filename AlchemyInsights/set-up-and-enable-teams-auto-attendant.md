@@ -1,8 +1,8 @@
 ---
-title: Installere og aktivere Teams Auto Svar tjeneste
+title: Konfigurer og aktiver automatisk deltaker for Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801121"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787326"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Konfigurere en sky for automatisk svar tjeneste
+# <a name="set-up-a-cloud-auto-attendant"></a>Konfigurere en automatisk skytjeneste
 
-Automatisk svartjenester har for øyeblikket bestemte lisens krav. Se [Hva er Auto svartjenester for Cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) hvis du vil lære om å opprette og konfigurere Teams Auto svartjenester. 
+Automatiske deltakere har for øyeblikket bestemte lisensieringskrav. Se [Hva er automatiske skytjenestetjenester?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) for å lære om hvordan du oppretter og konfigurerer automatiske Teams-deltakere. 
 
-Hvis du vil ha mer informasjon, kan du ta en titt på:
+Hvis du vil ha mer informasjon, kan du se:
 
-- [Konfigurere en sky for automatisk svar tjeneste](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) med Microsoft Teams. 
-- [Opprett en sky samtale kø](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) med Microsoft Teams. 
-- [Besvar automatiske svar tjenesteer og ringe anrop direkte fra Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Konfigurere en automatisk skybasert deltaker](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) med Microsoft Teams. 
+- [Opprett en skybasert samtalekø](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) med Microsoft Teams. 
+- [Svar automatisk svar og anropskøsamtaler direkte fra Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
