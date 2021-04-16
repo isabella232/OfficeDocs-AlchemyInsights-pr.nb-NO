@@ -1,8 +1,8 @@
 ---
-title: Power BI-oppsamling
+title: Power BI fanger opp alle
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2716"
 - "9000775"
-ms.openlocfilehash: 1ad31a87c1646f8c76b7da6fe32433ef0ff393b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ffa088c6e4c3a777b7eae35bbd17c25b70a865a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741636"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800907"
 ---
-# <a name="power-bi-troubleshooting"></a><span data-ttu-id="4358d-102">Feil søking av Power BI</span><span class="sxs-lookup"><span data-stu-id="4358d-102">Power BI troubleshooting</span></span>
+# <a name="power-bi-troubleshooting"></a><span data-ttu-id="9605a-102">Feilsøking i Power BI</span><span class="sxs-lookup"><span data-stu-id="9605a-102">Power BI troubleshooting</span></span>
 
-<span data-ttu-id="4358d-103">Gå til feil søkings innhold for Power BI https://powerbi.microsoft.com/support/ .</span><span class="sxs-lookup"><span data-stu-id="4358d-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>
+<span data-ttu-id="9605a-103">Gå til for feilsøkingsinnhold for Power https://powerbi.microsoft.com/support/ BI.</span><span class="sxs-lookup"><span data-stu-id="9605a-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>
