@@ -1,8 +1,8 @@
 ---
-title: OneDrive for Business Web OneDrive omdirigeres til Delve
+title: OneDrive for Business Web OneDrive omdirigerer til Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799998"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigert til Delve når du klikker OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigert til Delve etter at du har klikket OneDrive
 
-Se vår detaljerte [veiledning for feil søking](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Se vår detaljerte [feilsøkingsveiledning](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Hvis du vil løse dette problemet, må administratoren gi brukerne rett til å opprette området mitt område. Dette er fordi OneDrive for Business-siden er opprettet på mine områder.
+Hvis du vil løse dette problemet, må administratoren gi brukere rett til å opprette mine nettsteder-nettstedet. Dette er fordi OneDrive for Business-siden er opprettet på Mine nettsteder.
 
-Følg denne Fremgangs måten for å gi denne rettigheten:
+Hvis du vil gi denne rettigheten, følger du disse trinnene:
 
-1. Klikk **bruker profiler**i administrasjons senteret for SharePoint.
+1. Klikk brukerprofiler i administrasjonssenteret for SharePoint.
 
-2. Klikk **Behandle bruker tillatelser**i **personer** -delen.
+2. Klikk **Behandle** brukertillatelser i **Personer-delen.**
 
-3. Legg til brukere som krever tillatelse for å opprette området mitt område. Denne innstillingen er som standard satt til **alle unntatt eksterne brukere**.
+3. Legg til brukere som krever tillatelse til å opprette Mine områder-nettstedet. Som standard er denne innstillingen satt til **Alle unntatt eksterne brukere**.
 
-4. Når du har lagt til brukeren, brukerne eller gruppen, må du kontrollere at brukeren som er lagt til, brukere eller grupper er valgt, bla til **tillatelser** -delen, og merk deretter av for **Opprett personlig område (obligatorisk for personlig lagring, nyhetsfeed og fulgt innhold)**.
+4. Når du har lagt til brukeren, brukerne eller gruppen, må du kontrollere at brukeren, brukerne eller gruppen som er lagt til, er valgt, bla til tillatelsesdelen og deretter merke av for Opprett personlig område (kreves for personlig **lagring, nyhetsfeed** og fulgt innhold). 
 
-5. Klikk **OK**, og la brukeren gå til OneDrive-siden for å opprette området.
+5. Klikk **OK**, og få brukeren til å bla til OneDrive-siden for å opprette nettstedet.
