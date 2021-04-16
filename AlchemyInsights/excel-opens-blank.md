@@ -1,8 +1,8 @@
 ---
-title: Excel åpnes tom
+title: Excel åpnes tomt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783452"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813589"
 ---
-# <a name="excel-opens-blank"></a><span data-ttu-id="36e80-102">Excel åpnes tom</span><span class="sxs-lookup"><span data-stu-id="36e80-102">Excel opens blank</span></span>
+# <a name="excel-opens-blank"></a><span data-ttu-id="83bfa-102">Excel åpnes tomt</span><span class="sxs-lookup"><span data-stu-id="83bfa-102">Excel opens blank</span></span>
 
-<span data-ttu-id="36e80-103">Hvis Excel starter, men viser en tom skjerm der du forventer at filen skal vises, kan du se [Feilsøke Excel-åpning tom når du dobbelt klikker et fil-ikon eller fil navn](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span><span class="sxs-lookup"><span data-stu-id="36e80-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
+<span data-ttu-id="83bfa-103">Hvis Excel starter, men viser et tomt skjermbilde der du forventer at filen skal vises, kan du se Feilsøke at Excel åpnes tomt når du dobbeltklikker et [filikon eller filnavn](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span><span class="sxs-lookup"><span data-stu-id="83bfa-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
