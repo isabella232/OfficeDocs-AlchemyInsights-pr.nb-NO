@@ -1,8 +1,8 @@
 ---
-title: Synkronisere Outlook-kontaktene mine med min adresse bok
+title: Synkronisere Outlook-kontaktene mine med adresseboken min
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737386"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797550"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synkronisere Outlook-kontaktene mine med min adresse bok
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synkronisere Outlook-kontaktene mine med adresseboken min
 
-Outlook lar deg eksportere kontaktene til standard kontakt program på Android. Dette gjør at du kan se navnet på en kontakt når du mottar en anrops-eller tekst melding, og vise all kontakt informasjonen direkte i standard kontakt programmet.
+Med Outlook kan du eksportere kontaktene dine til standardkontaktappen på Android. Dette gjør at du kan se navnet på en kontakt når du mottar et anrop eller en tekstmelding, og vise all kontaktinformasjon direkte i standardkontaktappen.
  
-**Slik aktiverer du denne funksjonen**:
+**Slik aktiverer du denne funksjonen:**
  
-1. Gå til **Innstillinger**på enheten.
+1. Gå til Innstillinger på **enheten.**
 
-2. Trykk kontoen du ønsker å synkronisere kontakter med, under **kontoer**.
+2. Under **Kontoer** trykker du kontoen du vil synkronisere kontakter med.
 
-3. Bytte til Glide bryte ren for **synkroniserings kontakter** .
+3. Bytt **glidebryteren Synkroniser** kontakter på.
  
-To veis kontakt eksport støttes for Microsoft 365, Outlook.com og hybrid moderne godkjenning for lokale post bokser. To-veis støtte sikrer at eventuelle nye kontakter du legger til, eller eksisterende kontakter du redigerer, blir synkronisert mellom enheten og Outlook-kontoene dine.
+Toveis kontakteksport støttes for Microsoft 365, Outlook.com og hybrid moderne godkjenning for lokale postbokser. Toveis kundestøtte sikrer at alle nye kontakter du legger til, eller eksisterende kontakter du redigerer, synkroniseres mellom enheten og Outlook-kontoene dine.
  
-For eldre Exchange-kontoer kan du eksportere kontaktene dine til å bli lagret på enheten. Når **synkroniserings kontakter** er aktivert, lagres nylig tilleggs kontakter og endringer som er gjort i kontakter i Outlook, i kontakter-appen på enheten. Redigeringer som utføres direkte i enhetens kontakter-app, vil imidlertid ikke bli lagret i Outlook. Vær oppmerksom på at vi ikke støtter tillegging/redigering av kontakter fra Outlook for Android for lokale Exchange-kontoer, slik at du må administrere kontaktene dine fra en annen Outlook-klient.
+For eldre Exchange-kontoer kan du eksportere kontaktene som skal lagres på enheten. Når **Synkroniser** kontakter er aktivert, lagres nylig tillagte kontakter og redigeringer i kontaktene i Outlook i Kontakter-appen på enheten. Endringer som gjøres direkte i enhetens Kontakter-app, lagres imidlertid ikke i Outlook. Vær oppmerksom på at vi ikke støtter å legge til/redigere kontakter fra Outlook for Android for lokale exchange-kontoer, så du må administrere kontaktene dine fra en annen Outlook-klient.
  
-For øyeblikket støttes ikke kontakt synkronisering for GMAIL og iCloud.
+Foreløpig støttes ikke kontaktsynkronisering for GMAIL og iCloud.
  
-Hvis du vil fjerne disse synkroniserte kontaktene, kan du når som helst aktivere **synkroniserings kontaktene** , og de blir fjernet fra adresse boken.
+Hvis du vil fjerne disse synkroniserte kontaktene,  kan du når som helst veksle synkroniser kontakter, og de fjernes fra adresseboken.

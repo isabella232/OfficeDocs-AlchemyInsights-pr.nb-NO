@@ -2,9 +2,10 @@
 title: Forstå fakturaen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158408"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796866"
 ---
 # <a name="understand-your-bill"></a>Forstå fakturaen
 
@@ -27,7 +28,7 @@ ms.locfileid: "43158408"
 
 2. Velg et dato intervall fra rullegardinlisten, og velg deretter bestillingen du vil se gjennom, eller klikk på **Last ned faktura PDF-** kobling for å vise en kopi av fakturaen.
 
-Hvis du vil ha mer informasjon, kan du se [Vis regningen eller fakturaen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Hvis du vil ha mer informasjon, kan du se [Vis regningen eller fakturaen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **Forstå regningen/fakturaen**
 
