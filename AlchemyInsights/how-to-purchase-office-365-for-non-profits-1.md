@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 for ideelle fortjeneste-godkjent '
+title: 'Microsoft 365 for ideelle organisasjoner – godkjent '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779822"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810673"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 for ideelle fortjeneste-godkjent
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 for ideelle organisasjoner – godkjent
 
-Statusen din som en Microsoft kvalifisert ideell organisasjon har blitt godkjent. Du kan fullføre kjøpet fra administrasjons senteret for Microsoft 365.
+Statusen din som en Microsoft-kvalifisert ideell organisasjon er godkjent. Du kan fullføre kjøpet fra administrasjonssenteret for Microsoft 365.
 
-1. Gå til siden **for** \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) i administrasjons senteret.
+1. Gå til faktureringskjøpstjenester-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) administrasjonssenteret.
 
-2. Velg fra listen under **ideelle planer**.
+2. Velg fra listen under **Planer for ideelle organisasjoner**.
 
 3. Hold pekeren over abonnementet du vil kjøpe, og velg **Kjøp nå**.
 
-Hvis du vil ha mer informasjon, kan du se [Microsoft 365-ressurser for ideelle organisasjoner](https://www.microsoft.com/nonprofits/microsoft-365) eller [ta kontakt med salg](https://www.microsoft.com/nonprofits/contact-us).
+Hvis du vil ha mer informasjon, kan du se [Microsoft 365-ressurser for ideelle organisasjoner](https://www.microsoft.com/nonprofits/microsoft-365) eller [kontaktsalg.](https://www.microsoft.com/nonprofits/contact-us)

@@ -1,8 +1,8 @@
 ---
-title: Deaktivere lyd forbedring
+title: Slå av lydforbedring
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808764"
 ---
-# <a name="turn-off-audio-enhancement"></a>Deaktivere lyd forbedring
+# <a name="turn-off-audio-enhancement"></a>Slå av lydforbedring
 
 Følg disse trinnene:
 
-1. Gå til **Start**, Skriv inn **lyd**, og velg **lyd kontroll panel** eller **endre system lyder** fra listen over resultater.
+1. Gå til **Start**, skriv **inn Lyd**, og velg Lyd **i kontrollpanelet** eller Endre **systemlyder** fra listen over resultater.
 
-2. Høyre klikk (eller trykk og hold) standarden heten i kategorien **avspilling** , og velg **Egenskaper**.
+2. Høyreklikk **(eller** trykk og hold) standardenheten på Avspilling-fanen, og velg **Egenskaper**.
 
-3. Merk avmerkings boksen **Deaktiver alle lyd effekter** i kategorien **forbedringer** , og prøv å spille av lyden heten. Hvis dette ikke fungerer, velger du **Avbryt** , og deretter velger du en annen standard enhet i kategorien **avspilling** , og deretter merker du av for **Deaktiver alle lyd effekter** , og prøver å spille av lyd på nytt. Gjør dette for hver standarden het.
+3. Merk **av for** Deaktiver  alle lydeffekter på Forbedringer-fanen, og prøv å spille av lydenheten. Hvis dette ikke fungerer, velger du  Avbryt og velger en annen standardenhet (hvis  du har en) på Avspilling-fanen, merker av for Deaktiver alle lydeffekter og prøver å spille av lyd på nytt.  Gjør dette for hver standardenhet.

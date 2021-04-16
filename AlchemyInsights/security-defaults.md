@@ -1,8 +1,8 @@
 ---
-title: Sikkerhets standarder
+title: Sikkerhetsstandarder
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809196"
 ---
-# <a name="security-defaults"></a>Sikkerhets standarder
+# <a name="security-defaults"></a>Sikkerhetsstandarder
 
-Hvis du vil ha informasjon om sikkerhets standarder, kan du se [Hva er sikkerhets standarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Hvis du vil ha informasjon om sikkerhetsstandarder, kan du [se Hva er sikkerhetsstandarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Sikkerhets standarder i Azure Active Directory (Azure AD) gjør det enklere å være sikre og beskytte organisasjonen din. Sikkerhets standarder inneholder forhånds kon figurerte sikkerhets innstillinger for vanlige angrep.
+Sikkerhetsstandarder i Azure Active Directory (Azure AD) gjør det enklere å være sikker og beskytte organisasjonen. Sikkerhetsstandarder inneholder forhåndskonfigurerte sikkerhetsinnstillinger for vanlige angrep.
 
-Microsoft gjør sikkerhets standarder tilgjengelige for alle. Målet er å sikre at alle organisasjoner har et grunnleggende sikkerhets nivå aktivert uten ekstra kostnad. Du aktiverer sikkerhets standarder i Azure-portalen.
+Microsoft gjør sikkerhetsstandarder tilgjengelige for alle. Målet er å sikre at alle organisasjoner har et grunnleggende sikkerhetsnivå aktivert uten ekstra kostnad. Du aktiverer sikkerhetsstandarder i Azure-portalen.
