@@ -2,7 +2,7 @@
 title: En nyere versjon er tilgjengelig
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598993"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804282"
 ---
-# <a name="delete-the-office-document-cache"></a>Slette hurtig bufferen for Office-dokumenter
+# <a name="delete-the-office-document-cache"></a>Slette bufferen for Office-dokument
 
-Hvis du mottok en Excel-melding om at **en nyere versjon av filen er tilgjengelig**, kan du prøve å slette hurtig bufferen for Office-dokument ved å følge instruksjonene i [slette hurtig bufferen for Office-dokumenter](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Prøv deretter å åpne filen på nytt.
+Hvis du fikk en Melding i Excel om at en nyere versjon av filen er **tilgjengelig,** kan du prøve å slette bufferen for Office-dokument ved å følge instruksjonene i Slette bufferen for [Office-dokument](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Prøv deretter å åpne filen på nytt.
