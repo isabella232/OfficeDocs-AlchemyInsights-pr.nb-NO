@@ -1,8 +1,8 @@
 ---
-title: Utsett team oppgradering
+title: Utsette teamsoppgradering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741780"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801240"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Slik utsetter du Microsoft-drevne Teams-oppgraderingen
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Slik utsetter du den Microsoft-drevne Teams-oppgraderingen
 
-**Viktig**: vi kan hjelpe deg med å løse dette for deg med en kunde støtte diagnose, men det ser ut til at du ikke bruker det nye administrasjons senteret. Hvis du vil bruke det nye administrasjons senteret, skyv du veksleknappen øverst til høyre, som sier at det **nye administrasjons senteret** er høyre. Bruk det nye administrasjons senteret, klikk på **trenger hjelp?** kontroll program, Skriv inn "utsett team Upgrade", og følg deretter instruksjonene for å kjøre diagnosen.
+**Viktig:** Vi kan hjelpe deg med å løse dette ved hjelp av en støttediagnose, men det ser ikke ut til at du bruker det nye administrasjonssenteret. Hvis du vil bruke det nye administrasjonssenteret, skyver du veksleknappen øverst til høyre som sier nytt **administrasjonssenter** til høyre. Bruk det nye administrasjonssenteret til å klikke miniprogrammet Trenger du **hjelp?,** skriver inn «Utsett teamsoppgradering», og følg deretter instruksjonene for å kjøre diagnosen.
 
-Hvis du har mottatt kommunikasjon om en Microsoft-drevet automatisert oppgradering fra Skype for Business til Microsoft Teams, og du vil utsette den automatiserte oppgraderingen til en senere dato, kan den globale administratoren logge seg på [Teams admin Portal](https://admin.teams.microsoft.com/dashboard) og etter at du har valgt **Oppdater status** -knappen under Microsoft Teams Upgrade, velger du **Utsett** -knappen. Hvis du vil se den nye datoen for den automatiske oppgraderingen av leieren til Microsoft Teams, oppdaterer du Teams-siden for administratorer.
+Hvis du har mottatt kommunikasjon om en Microsoft-drevet automatisert oppgradering fra Skype for Business til Microsoft Teams, og du ønsker å utsette den automatiserte oppgraderingen til en senere dato, kan den globale administratoren logge på [Administrator-portalen](https://admin.teams.microsoft.com/dashboard) for Teams, og etter at du har valgt Oppdater status-knappen under Oppgradering av Microsoft Teams, velger du  **Utsett-knappen.** Hvis du vil se den nye datoen for leierens automatiserte oppgradering til Microsoft Teams, oppdaterer du administratorportalsiden for Teams.
 
-**Obs!** **Utsett** -knappen vil bare være tilgjengelig hvis du har mottatt meldings senter varselet om den automatiske oppgraderingen. 
+**Obs!** **Utsett-knappen** er bare tilgjengelig hvis du har mottatt meldingssenterets varsel om den automatiserte oppgraderingen. 
 
-Globale administratorer kan også kjøre [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) for å lære mer om den gjeldende oppgraderings statusen.
+Globale administratorer kan også kjøre [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) for å finne ut mer om den gjeldende oppgraderingsstatusen.

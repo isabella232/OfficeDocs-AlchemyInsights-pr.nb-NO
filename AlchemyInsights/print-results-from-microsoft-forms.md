@@ -1,8 +1,8 @@
 ---
-title: Skriv ut resultater fra Microsoft Forms
+title: Skrive ut resultater fra Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801922"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800619"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a>Skrive ut resultater i et sammendrag av svar
+# <a name="print-results-in-a-summary-of-responses"></a>Skriv ut resultater i et sammendrag av svar
 
-Du kan [skrive ut Microsoft Forms-resultater](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) som et sammendrag av svar eller for en enkelt person. 
+Du kan [skrive ut Microsoft Forms-resultater](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) som et sammendrag av svar eller for en enkeltperson. 
 
-Du kan ikke skrive ut skjemaer uten svar, men du kan be om eller svare på denne funksjonen ved å gå til [Microsoft Forms UserVoice-nettstedet](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
+Du kan ikke skrive ut skjemaer uten svar, men du kan be om eller stemme på denne funksjonen ved å gå til [Nettstedet Microsoft Forms UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
