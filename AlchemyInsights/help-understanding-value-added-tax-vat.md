@@ -1,8 +1,8 @@
 ---
-title: Hjelp til å forstå merverdi avgift (mva)
+title: Bidra til å forstå merverdiavgift (MVA)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705502"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811645"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Hjelp til å forstå merverdi avgift (mva)
+# <a name="help-understanding-value-added-tax-vat"></a>Bidra til å forstå merverdiavgift (MVA)
 
-Hvis du er i et land som bruker en merverdi avgift (mva), for eksempel Storbritannia, beregner Microsoft fakturering for deg mva for deg og bruker beløpet på fakturaene.
+Hvis du er i et land som bruker merverdiavgift (MVA), for eksempel Storbritannia, beregner Microsoft Invoicing MVA for deg og bruker beløpet på fakturaene.
   
-For avgifts årsaker må du også angi organisasjons nummeret i innstillingene for fakturering.
+Av avgiftsårsaker må du også angi mva-registreringsnummeret i innstillingene for Fakturering.
   
-Du kan ikke legge til eller fjerne mva-satser, men du kan endre standard mva-sats i innstillinger. Som standard bruker fakturering en tjeneste til å validere avgifts registrerings numre, men vi anbefaler at du leser [vies-fraskrivelsen](https://go.microsoft.com/fwlink/?LinkID=841741) som er publisert av den europeiske provisjonen. Hvis du velger å deaktivere tjenesten, må du bekrefte alle ORGANISASJONs numre.
+Du kan ikke legge til eller fjerne mva-satser, men du kan endre standard mva-sats i Innstillinger. Som standard bruker Invoicing en tjeneste til å validere [](https://go.microsoft.com/fwlink/?LinkID=841741) mva-registreringsnumre, men vi anbefaler at du leser VIES-ansvarsfraskrivelse publisert av EU-kommisjonen. Hvis du velger å deaktivere tjenesten, må du bekrefte alle MVA-registreringsnumre.

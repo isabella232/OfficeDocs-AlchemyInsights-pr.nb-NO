@@ -1,8 +1,8 @@
 ---
-title: Generer automatiske bilde tekster og en utskrift i Microsoft stream
+title: Generere automatiske bildetekster og en utskrift i Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707792"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812418"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generer automatiske bilde tekster og en utskrift i Microsoft stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generere automatiske bildetekster og en utskrift i Microsoft Stream
 
-Data flyten kan automatisk generere bilde tekster ved hjelp av automatisk tale gjenkjennings teknologi, og du kan vise et rullende utskrift-vindu for enkelt å navigere og følge med det talte innholdet i en video.
+Strøm kan automatisk generere bildetekster ved hjelp av automatisk talegjenkjenningsteknologi, og du kan vise et vindu for rullende utskrift for enkelt å navigere og følge med det talte innholdet i en video.
 
-- [Generer automatiske bilde tekster og en utskrift for Microsoft stream-videoene dine](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Generere automatiske bildetekster og en utskrift for Microsoft Stream-videoene dine](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Vise et rullende utskrift-vindu for en video i Microsoft stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Vise et vindu for rullende utskrift for en video i Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

@@ -1,8 +1,8 @@
 ---
-title: Hvordan søker jeg etter en e-post?
+title: Hvordan søker jeg etter en e-postmelding?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811105"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Hvordan søker jeg etter en e-post?
+# <a name="how-do-i-search-for-an-email"></a>Hvordan søker jeg etter en e-postmelding?
 
-Du kan søke etter en e-postmelding ved å slå opp kontakten som sendte deg e-postmeldingen, eller ved å søke etter et nøkkel ord i e-postmeldingen.
+Du kan søke etter en e-postmelding ved å søke etter kontakten som sendte deg e-postmeldingen, eller ved å søke etter et nøkkelord i e-postmeldingen.
 
-Trykk forstørrelses glasset i det nederste navigasjons feltet. Skriv deretter inn søke forespørselen i boksen øverst på skjermen. 
+Trykk forstørrelsesglasset på det nederste navigasjonsfeltet. Skriv deretter inn søkeforespørselen i boksen øverst på skjermen. 
 
-**Tips:** Du kan dobbeltklikke forstørrelses glasset for å flytte fokus til søke boksen. Søke resultatene vises når du skriver inn forespørselen. 
+**Tips:** Du kan dobbelttrykke forstørrelsesglasset for å flytte fokus til søkeboksen. Resultatene vises når du skriver inn forespørselen. 

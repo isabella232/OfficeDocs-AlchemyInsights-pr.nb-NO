@@ -2,28 +2,29 @@
 title: Få støtte for Windows eller Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
-ms.translationtype: MT
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812149"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Få støtte for Windows eller Azure
 
-For Windows eller Azure tilbyr Microsoft en rekke planer for å hjelpe deg med å få den assisterte bedriftsstøtten du trenger, fra premium-støtte tilgjengelig dag og natt, til alternativer for betaling per hendelse. Hvis organisasjonen ikke har en betalt støtteplan, velger du et alternativ nedenfor for å få mer informasjon.
+Microsoft tilbyr en rekke planer for Windows eller Azure, for å hjelpe deg med å få den assisterte bedriftsstøtten du trenger, fra premium støtte som er tilgjengelig dag og natt, til betal per hendelse. Hvis organisasjonen ikke har en betalt støtteplan, velger du et alternativ nedenfor for å få mer informasjon.
 
-- **Microsoft Unified Support** – Microsoft Unified Support endrer fundamentalt kundestøtteopplevelsen for bedrifter, og gir dekning for hele organisasjonen for alle Microsoft-produkter og -tjenester, ekspansive nye funksjoner for å styrke IT-eksperter og utviklere, og en resultatbasert tilnærming for å levere større støtteverdi etter hvert som organisasjonen vokser. Finn ut mer på [webområdet for unified støtte](https://aka.ms/unified-support).
-- **Microsoft Professional Support (pay-per-incident)** – Hvis du trenger umiddelbar teknisk støtte for bedriften din, er profesjonell støtte tilgjengelig som én enkelt pay-per-incident (PPI) eller en 5-pakning med hendelser. Microsoft-eksperter hjelper deg med å feilsøke et bestemt problem, en feilmelding eller en funksjonalitet som ikke fungerer som forventet. Hvis du vil vite mer og kjøpe lønn per hendelsesstøtte, [oppretter du en ny støtteforespørsel](https://support.microsoft.com/supportforbusiness/productselection).
-- **Azure Support** – Fakturerings- og abonnementsstøtte følger med Microsoft Azure-abonnementet, som du kan sende inn via [administrasjonsportalen for Microsoft Azure](https://portal.azure.com/). For teknisk støtte kan du kjøpe [Microsoft Azure-støtteplaner](https://azure.microsoft.com/support/plans/) gjennom volumlisensieringsprogrammer eller direkte fra Microsoft.
+- **Microsoft Unified Support** – Microsoft Unified Support endrer bedriftsstøtteopplevelsen fundamentalt, og tilbyr dekning i hele organisasjonen, for alle Microsoft-produktene og -tjenestene, omfattende nye funksjoner for å styrke IT-ansatte og utviklere, og en resultatbasert tilnærming for å levere bedre støttet verdi etter hvert som organisasjonen vokser. Finn ut mer på [Unified Support-nettstedet](https://aka.ms/unified-support).
+- **Microsoft Professional Support (betal per hendelse)** – Hvis du trenger umiddelbar teknisk støtte for bedriften, er Professional Support tilgjengelig som en enkel betal per hendelse (PPI) eller en 5-pakning med hendelser. Microsoft-eksperter hjelper deg med å feilsøke et bestemt problem, en feilmelding, eller funksjon som ikke fungerer som forventet. Hvis du vil vite mer og kjøpe betal per hendelse-støtte, kan du [opprette en ny støtteforespørsel](https://support.microsoft.com/supportforbusiness/productselection).
+- **Kundestøtte for Azure** – Fakturerings- og abonnementsstøtte er inkludert i Microsoft Azure-abonnementet, som du kan sende inn gjennom [administrasjonsportalen for Azure](https://portal.azure.com/). Hvis du trenger teknisk støtte, kan du kjøpe [Støtteplaner for Microsoft Azure](https://azure.microsoft.com/support/plans/) gjennom volumlisensieringsprogrammer eller direkte fra Microsoft.
 
-Hvis problemet er relatert til Microsoft 365, kan du restate spørringen ved hjelp av bestemte produktnavn og funksjoner.
+Hvis problemet er knyttet til Microsoft 365, omformulerer du problemet ved hjelp av bestemte produktnavn og -funksjoner.

@@ -1,8 +1,8 @@
 ---
-title: Løse problemer med USB-skrivere
+title: Løse problemer med USB-skriveren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677504"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812725"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Løse problemer med tilkobling til USB-skrivere
+# <a name="fix-usb-printer-connection-issues"></a>Løse tilkoblingsproblemer med USB-skriver
 
-Prøv disse **feil søkings trinnene** for å få USB-skriveren til å fungere på nytt:
+Prøv disse **feilsøkingstrinnene** for å få USB-skriveren til å fungere på nytt:
 
-1. Slå av skrive ren, og koble fra USB-kabelen fra både PC-en og skrive ren.
-2. Undersøk kabelen for å forsikre deg om at det ikke er skade.
-3. Koble kabelen tilbake til PC-en og skrive ren.
+1. Slå skriveren av og koble fra USB-kabelen fra både PC-en og skriveren.
+2. Undersøk kabelen for å sikre at det ikke er noen skade.
+3. Koble kabelen tilbake til PC-en og skriveren.
 
-Hvis dette ikke fungerer, kan du prøve **å fjerne og installere USB-skrive ren på nytt**:
+Hvis dette ikke fungerer, kan du prøve **å fjerne og installere USB-skriveren på nytt:**
 
-1. Fjern skrive ren i innstillinger:
-    1. Koble fra skriverens USB-kabel fra PC-en.
-    2. Velg **Start**  >  **Innstillinger**  >  **enheter**for  >  **skrivere & skannere**.
-    3. Velg skrive ren du feil søker under **skrivere & skannere**. Velg **Fjern enhet**. Følg instruksjonene for å fjerne skriveren fullstendig.
-2. Fjern all tredje parts program vare for skriver produsent:
-    1. Velg **Start**  >  **Innstillinger**for  >  **apper**.
-    2. Bla til Finn program vare som er installert fra skriverens produsent (for eksempel HP, Canon eller Epson) under **apper & funksjoner**.
-    3. Velg program varen, og velg **Avinstaller**.
+1. Fjern skriveren i Innstillinger:
+    1. Koble skriverens USB-kabel fra PC-en.
+    2. Velg **Start**  >  **Innstillinger**  >  **Enheter**  >  **Skrivere & skannere**.
+    3. Under **Skrivere & skannere** velger du skriveren du feilsøker. Velg **Fjern enhet**. Følg instruksjonene for å fjerne skriveren fullstendig.
+2. Fjern eventuell tredjeparts programvare for skriverprodusent:
+    1. Velg **Start**  >  **Innstillinger-apper**  >  .
+    2. Rull **& apper** under Apper for å finne programvare som er installert fra produsenten av skriveren (for eksempel HP, Canon eller Epson).
+    3. Velg programvaren, og velg **Avinstaller**.
 3. Slå av og start skriveren på nytt.<br>
-    1. Slå av skriveren, og koble fra strømkabelen. Vent 30 sekunder. Koble skrive ren tilbake.
-    2. Koble USB-kabelen for skrive ren tilbake til PC-en. PC-en skal automatisk registrere at enheten ble plugget inn.
+    1. Slå av skriveren, og koble fra strømkabelen. Vent 30 sekunder. Koble skriveren til igjen.
+    2. Koble skriverens USB-kabel tilbake til PC-en. PC-en skal automatisk registrere at enheten er koblet til.
 4. Prøv å skrive ut på nytt.

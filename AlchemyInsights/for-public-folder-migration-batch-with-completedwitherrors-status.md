@@ -1,8 +1,8 @@
 ---
-title: For masse overføring av felles mappe med CompletedWithErrors-status
+title: For overføringsgruppen for fellesmappe med CompletedWithErrors-status
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744122"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812473"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>For masse overføring av felles mappe med CompletedWithErrors-status
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>For overføringsgruppen for fellesmappe med CompletedWithErrors-status
 
-Følg Fremgangs måten nedenfor for å fullføre den satsvise jobben, og hopp over de store/dårlige elementene: 
-1. Godkjenn de hoppet over elementene på overførings gruppen:
+Bruk følgende fremgangsmåte for å fullføre jobben og hoppe over de store/ugyldige elementene: 
+1. Godkjenn elementene som er hoppet over i overføringsgruppen:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Bruk følgende kommando for å godkjenne de hoppet over elementene på overførings forespørsler som er "synkronisert", men ikke fullført:
+2. Bruk følgende kommando til å godkjenne de hoppede elementene på overføringsforespørsler som er synkronisert, men ikke fullført:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Overførings gruppen og forespørslene skal fortsette og full føres om noen minutter.
+3. Overføringsgruppen og forespørslene skal gjenopptas og fullføres om noen minutter.
 

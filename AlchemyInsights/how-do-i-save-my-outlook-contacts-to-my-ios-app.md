@@ -1,8 +1,8 @@
 ---
-title: Hvordan lagrer jeg Outlook-kontaktene mine i min iOS-kontakt-appen?
+title: Hvordan lagrer jeg Outlook-kontaktene mine i iOS-kontaktappen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811141"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Hvordan lagrer jeg Outlook-kontaktene mine i min iOS-kontakt-appen?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Hvordan lagrer jeg Outlook-kontaktene mine i iOS-kontaktappen?
 
-Lagre Outlook-kontakter i den opprinnelige adresse boken:
+Slik lagrer du Outlook-kontakter i den opprinnelige adresseboken:
  
-1. Gå til **enhets innstillings**  >  **kontakter** og Bekreft at **standard kontoen** er satt til **icloud**. Vær oppmerksom på at denne innstillingen bare er tilgjengelig hvis du har mer enn én konto på enheten. Hvis det ikke er noen konto som er koblet til enheten, lagres Outlook-kontaktene lokalt, men de synkroniseres ikke med andre enheter.
+1. Gå til **Kontakter for**  >  **enhetsinnstillinger,** og bekreft at **standardkontoen** er satt til **iCloud**. Vær oppmerksom på at denne innstillingen bare er tilgjengelig hvis du har lagt til mer enn én konto på enheten. Hvis ingen konto er koblet til enheten, lagres Outlook-kontaktene lokalt, men synkroniseres ikke til andre enheter.
  
-2. Åpne Outlook for iOS, og velg innstillinger i venstre navigasjons rute, velg **Velg kontoen din**, og Aktiver Aktiver/deaktiver **lagring av kontakter** .
+2. Åpne Outlook for iOS, og velg Innstillinger-tannhjulet i navigasjonsruten  til venstre, velg Velg kontoen **din**, og aktiver veksleknappen Lagre kontakter på.
  
-Lagrede kontakter blir lagt til under kontaktene i iCloud-kontoen din. Disse kontaktene vil synkroniseres til alle enheter som er logget på med samme iCloud-konto. Vær oppmerksom på at du bare kan eksportere kontakter fra én enhet om gangen.
+Lagrede kontakter legges til under kontaktene i iCloud-kontoen. Disse kontaktene synkroniseres med alle enheter som er logget på med samme iCloud-konto. Vær oppmerksom på at du bare kan eksportere kontakter fra én enhet om gangen.
  
-Hvis en bruker har kontakt – eksport aktivert, må både iPad og iPhone være deaktivert for å unngå konflikter. Duplikater kan ta opp 24 timer til å bli reconciliatede.
+Hvis en bruker har aktivert kontakteksport, må både iPad og iPhone deaktiveres for å unngå konflikter. Duplikater kan ta opptil 24 timer å bli avstemt.
