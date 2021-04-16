@@ -1,8 +1,8 @@
 ---
-title: Kontroller domenet med 1&1 IONOS
+title: Bekrefte domenet med 1&1 IONOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b01c5647c506086b1ccfa97c13758df1906f1fbd
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 40a5fb44de76ed76b415b909718450c18ea24b50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816334"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808035"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="6f4f4-102">Kontroller domenet med 1&1 IONOS</span><span class="sxs-lookup"><span data-stu-id="6f4f4-102">Verify your domain with 1&1 IONOS</span></span>
+# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="abbb0-102">Bekrefte domenet med 1&1 IONOS</span><span class="sxs-lookup"><span data-stu-id="abbb0-102">Verify your domain with 1&1 IONOS</span></span>
 
-<span data-ttu-id="6f4f4-103">Hvis du vil bekrefte domenet, må du legge til en TXT-post i domene registra ren for å bekrefte at du eier domenet.</span><span class="sxs-lookup"><span data-stu-id="6f4f4-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="abbb0-103">Hvis du vil bekrefte domenet, må du legge til en TXT-post i domeneregistratoren for å bekrefte at du eier domenet.</span><span class="sxs-lookup"><span data-stu-id="abbb0-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="6f4f4-104">Først må du følge [vei viseren for å legge til domene](https://admin.microsoft.com/Adminportal#/Domains) ved å velge **Innstillinger** \> **Domains**og deretter **legge til domene**.</span><span class="sxs-lookup"><span data-stu-id="6f4f4-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="abbb0-104">Først følger du veiviseren [Legg til domene ved](https://admin.microsoft.com/Adminportal#/Domains) å velge **Innstillinger** \> **Domener** og deretter Legg til **domene**.</span><span class="sxs-lookup"><span data-stu-id="abbb0-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="6f4f4-105">Se [opprette DNS-poster på 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for trinn vise instruksjoner.</span><span class="sxs-lookup"><span data-stu-id="6f4f4-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
+<span data-ttu-id="abbb0-105">Se [Opprette DNS-poster på 1&1 IONOS for Microsoft 365 for](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) trinnvise instruksjoner.</span><span class="sxs-lookup"><span data-stu-id="abbb0-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
