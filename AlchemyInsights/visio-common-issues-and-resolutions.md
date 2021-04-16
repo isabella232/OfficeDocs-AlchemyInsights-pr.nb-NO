@@ -2,21 +2,22 @@
 title: Kjente problemer og løsninger for Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722593"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806595"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Kjente problemer og løsninger for Visio
 
@@ -24,13 +25,13 @@ Her er noen de mest etterspurte emnene for Microsoft Visio:
 
 **Alternativer for Visio online**
 
-- Visio selges som et [frittstående program](https://products.office.com/visio/flowchart-software). Administratorer kan kjøpe Visio-abonnementet [fra administrasjonssenteret for Microsoft 365](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription).
+- Visio selges som et [frittstående program](https://products.office.com/visio/flowchart-software). Administratorer kan [Visio-abonnementet](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) fra Administrasjonssenter for Microsoft 365.
 
 - Visio tilbyr [ulike abonnements planer](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Hvis du ikke har en funksjon i Visio, kan du [Sammenligne alternativer for Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) for å lære mer om forskjellene mellom plan 1 og plan 2.  Vær oppmerksom på at Visio online-abonnement 1 ikke inneholder en skrivebordsversjon av Visio.
 
 **Laste ned, installere og aktivere Visio**
 
-- Hvis du vil installere og aktivere skrivebordsversjonen av Visio med Visio online plan 2, må brukeren først ha fått tilordnet en lisens for [Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Hvis du vil installere og aktivere skrivebordsversjonen av Visio med Visio online plan 2, må brukeren først ha fått tilordnet en lisens for [Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Installere Visio fra Min bruker-portalen hvis det ikke allerede er installert. Hvis du vil ha hjelp, kan du se [installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Her er noen de mest etterspurte emnene for Microsoft Visio:
 
 **Visio på en Mac**
 
-Det finnes ingen skrivebordsprogrammer for Visio for Mac. Brukere som har en gyldig [Visio online-lisens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), kan imidlertid [vise, opprette og redigere diagrammer](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) i Visio online i en nettleser.
+Det finnes ingen skrivebordsprogrammer for Visio for Mac. Brukere som har en gyldig [Visio online-lisens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), kan imidlertid [vise, opprette og redigere diagrammer](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) i Visio online i en nettleser.
 
 **Diagrammer, maler, figurer og koblinger**
 

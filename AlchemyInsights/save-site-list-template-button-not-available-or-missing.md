@@ -1,31 +1,32 @@
 ---
-title: Lagre område-/listemalknapp som ikke er tilgjengelig eller mangler
+title: Knappen for å lagre nettsted/liste er ikke tilgjengelig eller mangler
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358066"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789297"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Lagre område-/listemalknapp som ikke er tilgjengelig eller mangler
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Knappen for å lagre nettsted/liste er ikke tilgjengelig eller mangler
 
-Muligheten til å lagre et område som en mal støttes ikke med moderne kommunikasjon eller gruppeområder. Hvis du vil ha mer informasjon om hvordan du bruker maler, kan du se [Lagre, laste ned og laste opp et SharePoint-område som en mal](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Muligheten til å lagre et nettsted som en mal støttes ikke med moderne kommunikasjon eller gruppeområder. For mer informasjon om hvordan du bruker maler, kan du se [Lagre, laste ned og laste opp et SharePoint-nettsted som en mal](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Administratorer må tillate egendefinert skript for å aktivere malfunksjonene. For detaljerte trinn, eksempler og hensyn, se:
+Administratorer må tillate egendefinert skript for å aktivere malfunksjonene. For å se detaljerte trinn, eksempler og vurderinger, kan du se:
 
-- [Tillat eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Tillate eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Kommandoen Lagre område som mal støttes ikke, og kan forårsake problemer på områder som bruker publiseringsinfrastrukturen for SharePoint Server.
+- Kommandoen Lagre område som mal støttes ikke og kan føre til problemer på områder som bruker SharePoint Server-publiseringsinfrastruktur.
 
 

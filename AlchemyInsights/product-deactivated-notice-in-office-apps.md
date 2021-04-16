@@ -1,24 +1,25 @@
 ---
-title: Varsel om at produktet er deaktivert i Office-apper
+title: Varsel om at produktet er deaktivert i Microsoft 365-apper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785384"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800547"
 ---
-# <a name="product-deactivated-notice-in-office-apps"></a>Varsel om at produktet er deaktivert i Office-apper
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Varslet «produktet er deaktivert» i Microsoft 365-apper
 
 - Sjekk [siden for tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for å se om det finnes kjente problemer med tjenesten.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43785384"
 
 - Kjør [feilsøkingsverktøyet for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) og start datamaskinen på nytt.
 
-- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Hvis du vil ha detaljerte instruksjoner, kan du ta en titt på: 
 

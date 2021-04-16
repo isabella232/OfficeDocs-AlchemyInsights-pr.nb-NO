@@ -1,8 +1,8 @@
 ---
-title: 0x8004de40-feil når du starter OneDrive
+title: 0x8004de40 feilmelding når du starter OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823112"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813661"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40-feil når du starter OneDrive
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 feilmelding når du starter OneDrive
 
-Hvis du får en feil melding **0x8004de40** når du logger deg på OneDrive, må du starte data maskinen på nytt mens du er koblet til jobb-eller skole domenet. Hvis du får denne feil meldingen når du starter på nytt, kan du prøve dette mens du er koblet til jobb-eller skole domenet:
+Hvis du får en feilmelding **0x8004de40** logge på OneDrive, starter du datamaskinen på nytt mens du er koblet til jobb- eller skoledomenet. Hvis du får denne feilen etter omstart, kan du prøve dette mens du er koblet til jobb- eller skoledomenet:
 
-1. Klikk Start, **og skriv inn** kommando **linje**  eller lede tekst i søke boksen, høyre klikk på lede tekst appen, og velg  **Kjør som administrator** . Hvis du blir bedt om å oppgi et administrator passord eller en bekreftelse, skriver du inn passordet eller klikker **Tillat** .  
+1. Klikk Start, og skriv **inn cmd** eller **ledetekst**  i søkeboksen, høyreklikk på ledetekstappen, og velg  **Kjør som administrator**. Hvis du blir bedt om et administratorpassord eller en bekreftelse, skriver du inn passordet eller klikker **Tillat**.  
 
-2. Skriv inn **dsregcmd/Leave**  i lede tekst vinduet, og vent til kommandoen er fullført. Skriv deretter inn **dsregcmd/JOIN** , og vent til kommandoen er fullført.
-3. Start data maskinen på nytt.
+2. Skriv inn **dsregcmd /leave**  i ledetekstvinduet, og vent til kommandoen er fullført. Skriv deretter **inn dsregcmd /join,** og vent til kommandoen er fullført.
+3. Start datamaskinen på nytt.

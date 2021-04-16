@@ -2,7 +2,7 @@
 title: Ansatt som forlater
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: f3f30efea393702ec387c50979861e592e9ec454
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: da27ea5fdb0126486de9957bc82ef6e8d4a47d93
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811676"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814345"
 ---
 # <a name="block-access-to-a-former-employee"></a>Blokkere tilgang til en tidligere ansatt
 
-Skal en ansatt forlate og må blokkere tilgang til data og e-post? Gjør følgende:
+Har du en ansatt som forlater og trenger å blokkere tilgang til data og e-post? Gjør følgende.
   
-1. Gå til siden **brukere** \> [aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822) i administrasjons senteret.
+1. Gå til brukeres  \> [aktive](https://go.microsoft.com/fwlink/p/?linkid=834822) brukere-siden i administrasjonssenteret.
 
 2. Velg navnet på brukeren du vil blokkere.
 
-3. Velg **blokker denne brukeren**under navnet på brukeren.
+3. Velg Blokker denne brukeren under brukerens **navn.**
 
-4. Velg **blokker brukeren fra å logge på** \> **Lagre endringer**.
+4. Velg **Blokker brukeren fra å logge på** Lagre \> **endringer**.
 
-**Obs**! det kan hende at du ikke trenger å logge av for enkelte apper. Følg opp med flere handlinger i denne artikkelen: [fjerne en tidligere ansatt](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
+**Obs!** Det kan hende at pålogging for enkelte apper ikke er umiddelbar. Følg opp med flere handlinger i denne artikkelen: [Fjerne en tidligere ansatt](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
