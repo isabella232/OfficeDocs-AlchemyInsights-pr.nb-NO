@@ -1,8 +1,8 @@
 ---
-title: Endre fakturerings adresse eller fakturerings-e-postvarsler
+title: Endre faktureringsadresse eller e-postvarsler for fakturering
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793551"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819197"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Endre fakturerings adresse eller fakturerings-e-postvarsler
+# <a name="change-billing-address-or-billing-email-notifications"></a>Endre faktureringsadresse eller e-postvarsler for fakturering
 
-**Endre faktura til-adressen**
+**Endre Bill-To adresse**
 
-1. Gå til siden ** [betalings måte](https://go.microsoft.com/fwlink/p/?linkid=2018806) for fakturering >** i administrasjons senteret.
+1. Gå til faktureringssiden > **[betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806)** i administrasjonssenteret.
 
-2. Velg kreditt kortet eller bank kontoen du vil endre.
+2. Velg kredittkortet eller bankkontoen du vil endre.
 
-3. Klikk **Rediger**på siden **informasjon om betalings metode** .
+3. Klikk Rediger **på siden Detaljer om** betalingsmåte. 
 
-4. Oppdater fakturerings adressen, og klikk deretter **lagre > utført**.
+4. Oppdater faktureringsadressen, og klikk deretter **Lagre > Fullført**.
 
-**Endre den alternative e-postadressen som fakturerings varsler sendes til** 
+**Endre den alternative e-postadressen som faktureringsvarsler sendes til** 
 
-1. Klikk **bruker ikonet**, og klikk deretter **min konto**.
+1. Klikk **Bruker-ikonet**, og klikk deretter **Min konto**.
 
-2. Klikk **personlige opplysninger**.
+2. Klikk **Personlig informasjon**.
 
-3. Klikk **Rediger**i boksen **kontakt detaljer** .
+3. Klikk Rediger **i** Kontaktdetaljer-boksen. 
 
-4. Skriv inn den alternative e-postadressen du vil bruke, i **alternativ e-post-** boksen, og klikk deretter **Lagre**.
+4. Skriv inn den alternative **e-postadressen** du vil bruke, i Alternativ e-post-boksen, og klikk deretter **Lagre**.
 
-Hvis du vil ha mer informasjon om adresse-og varslings endringer, kan du se [endre fakturerings adressene for Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Hvis du vil ha mer informasjon om adresse- og varselendringer, kan du se Endre [faktureringsadresser for Microsoft 365 for bedrifter.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

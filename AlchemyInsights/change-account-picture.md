@@ -1,8 +1,8 @@
 ---
-title: Endre konto bilde
+title: Endre kontobilde
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734056"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819269"
 ---
-# <a name="change-account-picture"></a>Endre konto bilde
+# <a name="change-account-picture"></a>Endre kontobilde
 
-Hvis du bruker bruker navn og passord til å logge på Windows 10, bruker du en lokal konto. **Slik endrer du det lokale konto bildet**:
+Hvis du bruker et brukernavn og passord til å logge på Windows 10, bruker du en lokal konto. **Slik endrer du det lokale kontobildet:**
 
-1. Gå til **Start**  >  **Innstillinger**  >  **kontoer**  >  **informasjonen**.
-2. Klikk **Bla gjennom for ett**under **Opprett bildet**. Eller hvis enheten har et kamera, klikker du **kamera** og tar en egen. 
-    **Obs**! Windows husker de tre siste bildene du har brukt. Klikk bildet på informasjons siden for å bytte til den.
+1. Gå til **Start**  >  **innstillinger**  >  **Kontoer**  >  **Informasjonen din**.
+2. Klikk **Bla gjennom etter ett** under Opprett **bildet.** Hvis enheten har et kamera, klikker du **kamera** og tar en selfie. 
+    **Obs!** Windows husker de tre siste bildene du har brukt. Klikk bildet på Din informasjon-siden for å bytte til det.
 
-Hvis du bruker en e-postadresse og et passord til å logge på, bruker du en Microsoft-konto. Slik endrer du Microsoft-konto bildet:
+Hvis du bruker en e-postadresse og et passord til å logge på, bruker du en Microsoft-konto. Slik endrer du bildet av Microsoft-kontoen:
 
-1. Logg på **din informasjons** side med Microsoft-kontoen din.
-2. Klikk **Legg til bilde** eller **Endre bilde**, og følg deretter instruksjonene.
+1. Logg på Din **informasjon-siden** med Microsoft-kontoen din.
+2. Klikk **Legg til bilde** eller Endre **bilde**, og følg deretter instruksjonene.
 
-[Få mer hjelp med å konfigurere og administrere Microsoft-kontoen din](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Få mer hjelp til å konfigurere og administrere Microsoft-kontoen din.](https://support.microsoft.com/products/microsoft-account?category=manage-account)

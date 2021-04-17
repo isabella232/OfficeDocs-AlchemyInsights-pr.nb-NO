@@ -1,8 +1,8 @@
 ---
-title: Endre organisasjons profil
+title: Endre organisasjonsprofil
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726403"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818549"
 ---
-# <a name="change-organization-profile"></a>Endre organisasjons profil
+# <a name="change-organization-profile"></a>Endre organisasjonsprofil
 
-Endre firma navn, adresse, teknisk kontakt informasjon og mer i administrasjons senteret i delen innstillinger for   >    >  [organisasjons profil](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
+Endre firmanavn, adresse, teknisk kontaktinformasjon og mer i administrasjonssenteret på fanen Organisasjonsprofil for  >    >  [organisasjonsinnstillinger for](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) organisasjoner.
 
-Pass på at du fyller ut alle obligatoriske felt merket med a * for å aktivere lagring av endringene.
+Pass på at du fyller ut alle obligatoriske felt merket med * for å aktivere lagring av endringene.
 
-[Se mer informasjon om endringer i adresse-eller fakturerings adresse](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Se mer informasjon om adresse- eller faktureringsadresseendringer](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

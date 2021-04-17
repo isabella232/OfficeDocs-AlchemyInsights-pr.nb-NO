@@ -1,8 +1,8 @@
 ---
-title: Kansellere reservasjon
+title: Avbryte reservasjonen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819701"
 ---
-# <a name="cancelling-reservation"></a>Kansellere reservasjon
+# <a name="cancelling-reservation"></a>Avbryte reservasjonen
 
-- **Self-Service:** Du kan avbryte eller utveksle en reservert forekomst selv om du bruker [Azure-portalen](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Velg reservasjonen, og klikk på refusjon eller Exchange. Vær oppmerksom på at du må ha eier tilgang til reservasjons ordren til Exchange eller refusjon. Bare tilgang til reservasjonen vil ikke la deg fortsette med refusjon eller Exchange. Be eieren av reservasjons ordren om å gi deg eier tilgang til reservasjons ordren
-- **Exchange-policy:** Du kan utveksle en reservasjon for en annen reservasjon av samme type – det er **ingen straffer** om reserverings utveksling. Den totale forpliktelsen med ny reservasjon må være større enn summen av beløp som er omsluttet av prochanged reservat ion, og de månedlige betalings betalingene (Hvis dette gjelder)
-- **Refusjons policy:** Summen av refundering og annullerte fremtidige betalinger kan ikke overskride $50 000 KRONER i et rullende vindu på 12 måneder. Vi **lader for øyeblikket ikke noen straffer** på refunderinger, men kan belaste det på fremtidige tilbake betalinger  
-    **Unntak:** Selv betjent Exchange og Cancel-funksjonen er ikke tilgjengelig for amerikanske Enterprise Agreement-kunder
-- Støtte for **API/PS/CLI** er ikke tilgjengelig for annulleringer og refusjoner [selv betjening og refusjon for Azure reserveringer](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Selv betjent Exchange og Cancel-funksjonen er ikke tilgjengelig for amerikanske Enterprise Agreement-kunder. Andre US-myndighets abonnements typer, inkludert Betal etter hvert-og kryptografi tjeneste støttes
+- **Selvbetjening:** Du kan avbryte eller bytte en reservert forekomst selv ved å bruke [Azure-portalen](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Velg reservasjon, og klikk på refundere eller bytte. Vær oppmerksom på at du må ha eiertilgang på reservasjonsordren for å bytte eller refundere. Med tilgang til bare reservasjon kan du ikke gå videre med å refundere eller bytte. Spør eieren av reservasjonsordren om å gi deg eiertilgang til reservasjonsordren
+- **Byttepolicy:** Du kan bytte reservasjon til en annen reservasjon av samme type – det er **ingen avgifter** på bytte av reservasjon. Den totale forpliktelsen med den nye reservasjonen skal være større enn summen av refusjonsbeløpet for byttet reservasjon og fremtidige månedlige betalinger (hvis aktuelt)
+- **Refusjonspolicy:** Summen av refusjonen og de avbrutte fremtidige betalingene kan ikke overskride USD 50 000 i en 12-måneders rullerende vindu. Du må **for øyeblikket ikke betale avgift** på refusjoner, men kanskje på fremtidige refusjoner.  
+    **Unntak:** Selvbetjent funksjon for å bytte og avbryte er ikke tilgjengelig for US Government Foretaksavtale-kunder
+- Støtte for **API / PS / CLI** er ikke tilgjengelig for kansellering og refusjoner [Selvbetjente bytter og refusjoner for Azure-reservasjoner](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Selvbetjent funksjon for å bytte og avbryte er ikke tilgjengelig for US Government Foretaksavtale-kunder. Andre US Government-abonnementstyper, inkludert bruksbasert og CSP, støttes
 
-Finn ut mer: [hvordan retur-og Exchange-transaksjoner behandles](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Finn ut mer: [policyer for Exchange og refusjon](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Andre spørsmål: [gå til reserverte forekomst dokumenter](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Finn ut mer: [Slik behandles retur- og byttetransaksjoner](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Finn ut mer: [Bytte- og refusjonspolicyer](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Andre spørsmål: [Gå til reservert forekomst-dokumenter](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Utveksle en eksisterende reservert forekomst (selv betjening)**
+**Bytte en eksisterende reservert forekomst (selvbetjening)**
 
-Du kan utveksle en reservasjon for en annen reservasjon av samme type. Du kan også refundere en reservasjon på opptil $50 000 KRONER per år hvis du ikke trenger den lenger. Selv betjent Exchange og Cancel-funksjonen er ikke tilgjengelig for amerikanske Enterprise Agreement-kunder. Andre US-offentlige abonnements typer, inkludert Betal etter hvert-og kryptografi tjeneste støttes. Du må ha eier tilgang til reservasjons ordren for å kunne utveksle eller refundere en eksisterende reservasjon.
+Du kan bytte en reservasjon med en annen reservasjon av samme type. DU kan også refundere en reservasjon, opptil USD 50 000 per år, hvis du ikke trenger den lenger. Selvbetjent funksjon for å bytte og avbryte er ikke tilgjengelig for US Government Foretaksavtale-kunder. Andre US Government-abonnementstyper, inkludert bruksbasert og CSP, støttes. Du må ha eiertilgang på reservasjonsordren for å bytte eller refundere en eksisterende reservasjon.
 
-Følgende Fremgangs måte fører til hvordan du kan fullføre transaksjonen
+Følgende trinn veileder deg gjennom prosedyren for å fullføre transaksjonen
 
-1. Logg på Azure- [portalen](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Velg reservasjonene du vil refundere, og klikk på **Exchange**
-2. Velg VM-produktet du vil kjøpe, og skriv inn et antall. Kontroller at det nye kjøps totalen er mer enn den returnerte summen [avgjør riktig størrelse før du kjøper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
-3. Se gjennom og Fullfør transaksjonen
+1. Logg på [Azure-portalen](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Velg reservasjonene du vil refundere, og klikk på **Bytt**
+2. Velg VM-produktet du vil kjøpe, og skriv inn et tall. Sørg for at den nye kjøpesummen er større enn retursummen[Bestem riktig størrelse før du kjøper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3. Gå gjennom og fullfør transaksjonen
 
 **Refusjon for en reservert forekomst**
 
-Hvis du vil refundere en reservasjon, går du til **reservasjons detaljer** og klikker **refusjon**
+Hvis du vil refundere en reservasjon, går du til **Reservasjonsinformasjon** og klikker på **Refusjon**
 
-**Pro-klassifisert for pengene:**
+**Proporsjonal refusjon:**
 
-**Eksempler på forhold og minimums krav for refusjon og utveksling**  
-Forskudds reservasjon, eksempel:
+**Eksempler på proporsjonale og minimumskrav for refusjon og bytte**  
+Eksempel på forskuddsreservasjon:
 
-- Du kjøper en langsiktig RI for $120 på 1. januar
-- I syvende sjuende vil du refundere eller utveksle denne reservasjonen
-- Siden reservasjonen er live i 97 dager, får du (1-97/365) * $120 tilbake. (for eksempel $88,1). Det er for øyeblikket ingen straff for refunderinger
-- Hvis du utveksler, må det nye kjøpet være større enn $88,1
-- Det er ingen straff for påfylling for øyeblikket
+- Du kjøper et RI for en 1-årsperiode for USD 120 1. januar
+- 7. april må du refundere eller bytte denne reservasjonen.
+- Siden reservasjonen har vært tilgjengelig i 97 dager, får du (1-97/365) USD 120 tilbake. (dvs. USD 88,1). Det er for øyeblikket ingen avgifter på refusjoner
+- Hvis du bytter, må det nye kjøpet være på mer enn USD 88,1
+- Det er ingen avgifter på refusjoner for øyeblikket
 
-**Eksempel på reservasjon av fakturerings plan:**
+**Eksempel på faktueringsplanreservasjon:**
 
-- Du kjøper en langsiktig RI for $10 per måned
-- I syvende sjuende vil du refundere eller utveksle denne reservasjonen
-- Siden den siste betalingen skjedde 7 dager, får du (1-7/31) * $10 tilbake. (for eksempel $7,74)
-- Fremtidige betalinger som ble avbrutt er $80. Det er for øyeblikket ingen straff for refunderinger
-- Denne annulleringen vil trekke $87,74 fra deg er grensen på $50 000-refundering
-- Hvis du utveksler, må den totale verdien for nytt Kjøp være større enn $87,74
+- Du kjøper et RI for en 1-årsperiode for USD 10 per måned
+- 7. april må du refundere eller bytte denne reservasjonen.
+- Siden forrige betaling var for 7 dager siden, får du (1-7/31) * USD 10 tilbake. (dvs. USD 7,74).
+- Fremtidige betalinger som er avbrutt er USD 80. Det er for øyeblikket ingen avgifter på refusjoner
+- Denne kanselleringen vil trekke fra USD 87,74 fra refusjonsgrensen på USD 50 000
+- Hvis du bytter, må totalverdien på det nye kjøpet være mer enn USD 87,74
 
 **Anbefalte dokumenter**
 
-- [Slik behandles retur-og Exchange-transaksjoner](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Policyer for Exchange og refusjon](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Slik behandles retur- og byttetransaksjoner](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Bytte- og refusjonspolicyer](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

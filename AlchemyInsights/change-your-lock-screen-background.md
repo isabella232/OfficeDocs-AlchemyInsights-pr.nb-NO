@@ -1,8 +1,8 @@
 ---
-title: Endre låse skjermens bakgrunn
+title: Endre bakgrunnen på låseskjermen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714481"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818117"
 ---
-# <a name="change-your-lock-screen-background"></a>Endre låse skjermens bakgrunn
+# <a name="change-your-lock-screen-background"></a>Endre bakgrunnen på låseskjermen
 
-- Gå til låse skjermen for **Innstillinger**for  >  **personlig tilpasning**  >  **Lock screen**. Eller klikk eller trykk [her](ms-settings:lockscreen?activationSource=GetHelp).
+- Gå til **Låseskjerm**  >  **for tilpassing av**  >  **innstillinger**. Du kan også klikke eller trykke [her](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Hvis du vil angi et egen definert bakgrunns bilde, velger du **bilde** fra rulle gardin listen **bakgrunn** og velger eller **blar** til bildet.
+- Hvis du vil angi et egendefinert  bakgrunnsbilde, velger **du** Bilde fra rullegardinlisten Bakgrunn og velger eller **Bla** til bildet.
 
-  ![Angi et egen definert bakgrunns bilde.](media/set-custom-background-pic.png)
+  ![Angi et egendefinert bakgrunnsbilde.](media/set-custom-background-pic.png)
 
-- Hvis du vil sette opp en lysbilde fremvisning av egen definerte bilder, velger du **lysbilde fremvisning** fra rulle gardin listen **bakgrunn** og velger et album eller legger til en mappe som inneholder bildene for lysbilde fremvisningen.
+- Hvis du vil konfigurere en lysbildefremvisning av  egendefinerte bilder, velger du Lysbildefremvisning fra rullegardinlisten Bakgrunn, og velger et album eller legger til en mappe som inneholder bildene for lysbildefremvisningen. 
 
-  ![Sette opp en lysbilde fremvisning av egen definerte bilder.](media/set-up-slideshow-background.png)
+  ![Konfigurere en lysbildefremvisning av egendefinerte bilder.](media/set-up-slideshow-background.png)

@@ -1,8 +1,8 @@
 ---
-title: Endre skrive bords bakgrunn og farger
+title: Endre skrivebordsbakgrunn og -farger
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818153"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Endre skrive bords bakgrunn og farger
+# <a name="change-your-desktop-background-and-colors"></a>Endre skrivebordsbakgrunn og -farger
 
-Hvis du vil endre farge innstillingen, går **Start**du til  >  **Settings**  >  **tilpasnings**  >  **farger**for start innstillinger og velger deretter din egen farge, eller du kan la Windows trekke en aksent farge fra bakgrunnen.
+Hvis du vil endre fargeinnstillingen, går du til **Start** innstillinger Tilpassingsfarger , og deretter velger du din egen farge eller lar Windows hente en uthevingsfarge  >    >    >  fra bakgrunnen.
 
-![Tilpasse fargene i Windows.](media/windows-personalization-colors.png)
+![Tilpass fargene i Windows.](media/windows-personalization-colors.png)
 
-Hvis du vil endre skrive bords bakgrunnen, går **du til**  >  **Settings**  >  **Personalization**  >  **bakgrunns**innstillinger for tilpasning, og deretter velger du et bilde, en hel dekkende farge eller oppretter en lysbilde fremvisning av bilder. 
+Hvis du vil endre skrivebordsbakgrunnen, går du til **Start**  >  **innstillinger** Tilpassingsbakgrunn , og deretter velger du et bilde, heldekkende farge eller oppretter  >    >  en lysbildefremvisning av bilder. 
 
-![Endre skrive bords bakgrunnen i Windows.](media/windows-desktop-background.png)
+![Endre skrivebordsbakgrunnen for Windows.](media/windows-desktop-background.png)
 
-Vil du ha flere skrive bords bakgrunner og farger? Gå til [Microsoft store](https://www.microsoft.com/store/collections/windowsthemes) for å velge mellom dusinvis av gratis temaer.
+Vil du ha flere skrivebordsbakgrunner og farger? Gå [til Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) for å velge blant dusinvis av gratis temaer.
