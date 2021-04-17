@@ -2,7 +2,7 @@
 title: Overføre til Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: c2b474e2a12b4ad60ad95eab18b7f01d3c1933e1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674515"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831779"
 ---
 # <a name="migrating-to-microsoft-intune"></a>Overføre til Microsoft Intune
 
-Hvis du prøver å overføre til Intune, kan du se gjennom [Intune Migration guide](https://docs.microsoft.com/intune/fundamentals/migration-guide).
+Hvis du prøver å overføre til Intune, kan du se [i intune-overføringsveiledningen](https://docs.microsoft.com/intune/fundamentals/migration-guide).
 
-Hvis du vil ha mer spesifikk veiledning om overføring fra System Center Configuration Manager (og SCCM-hybrid) til Intune, kan du Reivew vår [hybride overførings dokumentasjon](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa). 
+Hvis du vil ha mer spesifikk veiledning om hvordan du overfører fra System Center Configuration Manager (og SCCM Hybrid) til Intune, kan du bruke dokumentasjonen for [hybridoverføring på nytt.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa) 
