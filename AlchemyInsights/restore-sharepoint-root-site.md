@@ -1,8 +1,8 @@
 ---
-title: Gjenopprette rotnettstedet for SharePoint
+title: Gjenopprette SharePoint-rotnettstedet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: 2a2178e704be32eb8cbc35c39e504575b17de371
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835712"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>Gjenopprette rotnettstedet for SharePoint
+# <a name="restore-the-sharepoint-root-site"></a>Gjenopprette SharePoint-rotnettstedet
 
-Gjenopprette det slettede rotområdet fra det nye administrasjonssenteret for SharePoint. Når det er gjenopprettet, erstatter du nettstedet i stedet.
+Gjenopprett det slettede rotnettstedet fra det nye administrasjonssenteret for SharePoint. Når du er gjenopprettet, erstatter du nettstedet i stedet.
 
-1. Gå til [Siden Slettede](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) områder. 
-2. Velg rotnettstedet som skal gjenopprettes.
+1. Gå til [Slettede områder-siden.](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) 
+2. Velg rotnettstedet du vil gjenopprette.
 3. Klikk **Gjenopprett**.
-4. [Erstatte rotnettstedet.](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken)
+4. [Erstatt rotnettstedet](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
 
 Hvis du vil ha mer informasjon, [kan du se Modernisere rotnettstedet.](https://docs.microsoft.com/sharepoint/modern-root-site)
