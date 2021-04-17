@@ -1,8 +1,8 @@
 ---
-title: Kreditt forespørsel på grunn av et tjeneste avbrudd
+title: Kredittforespørsel på grunn av et tjenestebrudd
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726856"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826460"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Kreditt forespørsel på grunn av et tjeneste avbrudd
+# <a name="credit-request-due-to-a-service-outage"></a>Kredittforespørsel på grunn av et tjenestebrudd
 
-Hvis du vil bruke en kreditt forespørsel på grunn av tjeneste avbrudd, kan du åpne en service forespørsel.
+Hvis du vil søke om en kredittforespørsel på grunn av et tjenestebrudd, kan du åpne en serviceforespørsel.
 
-Pass på at du har hendelsen-ID, som du finner på [siden for tjeneste tilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) i administrasjons senteret for Microsoft 365.
+Pass på at du har hendelses-ID-en som du finner på siden for tjenestetilstand [i](https://docs.microsoft.com/office365/enterprise/view-service-health) administrasjonssenteret for Microsoft 365.
 
-Vær oppmerksom på at når forespørselen behandles, vil det gjøre Valide ringer for å observere virkningen av driftsstans.
+Vær oppmerksom på at når forespørselen behandles, gjennomgår den valideringer for å observere virkningen av avbruddet.

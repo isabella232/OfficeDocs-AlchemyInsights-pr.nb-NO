@@ -2,7 +2,7 @@
 title: Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827536"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 
-1. Gå til siden **Konfigurer**domener i administrasjons senteret for Microsoft 365,  >  [Domains](https://admin.microsoft.com/Adminportal#/Domains) og velg domenet du bruker for nettstedet, i listen over domener.
+1. Gå til Konfigurasjonsdomener-siden i   >  [administrasjonssenteret](https://admin.microsoft.com/Adminportal#/Domains) for Microsoft 365, og velg domenet du bruker for nettstedet, i listen over domener.
 
 2. Velg **+ Ny egendefinert post** og angi følgende:
 
   - Angi **A (Adresse)** for **DNS-type**
 
-  - Skriv inn følgende for **verts navn eller alias**: **@**
+  - Skriv inn følgende for Vertsnavn eller **Alias:****@**
 
   - Skriv inn den statiske IP-adressen for nettstedet ditt der den driftes for øyeblikket (for eksempel: 172.16.140.1), for **IP-adresse**
 

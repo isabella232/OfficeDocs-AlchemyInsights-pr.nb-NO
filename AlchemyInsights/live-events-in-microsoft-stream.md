@@ -1,8 +1,8 @@
 ---
-title: Live-hendelser i Microsoft stream
+title: Direktesendte arrangementer i Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675523"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825560"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Live-hendelser i Microsoft stream
+# <a name="live-events-in-microsoft-stream"></a>Direktesendte arrangementer i Microsoft Stream
 
-Du kan opprette direkte hendelser ved hjelp av Microsoft stream på tvers av organisasjonen. Du kan planlegge, produsere og levere direkte arrangementer for en rekke scenarioer, for eksempel globale hendelser, ledelses oppdateringer og mer.
+Du kan opprette direktesendte arrangementer ved hjelp av Microsoft Stream på tvers av organisasjonen. Du kan planlegge, produsere og levere direktesendte arrangementer for en rekke scenarioer, for eksempel arrangementer for hele firmaet, lederskapsoppdateringer og mer.
 
-- [Opprette en direkte hendelse i Microsoft stream](https://docs.microsoft.com/stream/live-create-event)
-- [Komme i gang med Microsoft Teams Live-hendelser](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Konfigurere koder for direkte avspilling i Microsoft stream](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Opprette et direktesendt arrangement i Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
+- [Komme i gang med direktesendte microsoft Teams-arrangementer](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Konfigurere kodere for direkteavspilling i Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

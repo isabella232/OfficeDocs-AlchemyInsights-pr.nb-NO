@@ -2,7 +2,7 @@
 title: Kan ikke angi eller vise AllowSelfServicePurchase-policyen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826100"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan ikke angi eller vise AllowSelfServicePurchase-policyen
 
-Når du prøver å angi eller vise AllowSelfServicePurchase-policyen, får du følgende feil melding:
+Når du prøver å angi eller vise AllowSelfServicePurchase-policyen, får du følgende feilmelding:
 
-*HandleError: kan ikke hente produkt policy med PolicyId ' AllowSelfServicePurchase ', ErrorMessage-den underliggende tilkoblingen ble lukket: Det oppstod en uventet feil under sendingen.*
+*HandleError: Kan ikke hente produktpolicy med PolicyId 'AllowSelfServicePurchase', ErrorMessage – Den underliggende tilkoblingen ble lukket: Det oppstod en uventet feil under sending.*
 
-Dette kan skyldes en eldre versjon av TLS (Transport Layer Security). Hvis du vil koble til MSCommerce-tjenesten, må du bruke TLS 1,2 eller nyere.  
+Dette kan skyldes en eldre versjon av Transport Layer Security (TLS). Hvis du vil koble til MSCommerce-tjenesten, må du bruke TLS 1.2 eller større.  
 
-Prøv følgende trinn for å aktivere/sette TLS-protokollen til 1,2, bekrefte og prøve på nytt.
- 1. I PowerShell-ledeteksten (PS C: \) Angi følgende kommando for å angi TLS-protokollen til versjon 1,2:
+Prøv følgende trinn for å aktivere/sette TLS-protokollen til 1.2, bekrefte og prøve på nytt.
+ 1. I PowerShell-ledeteksten (PS C: skriver du inn følgende kommando for å angi \) TLS-protokollen til versjon 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Kontroller hvilken TLS-protokoll som er i bruk, med følgende kommando:
+2. Bekreft TLS-protokollen(e) som er i bruk, med følgende kommando:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Prøv kommandoene Hent eller oppdater på nytt etter behov.
+3. Forsøk kommandoene Hent eller Oppdater etter behov.
 
