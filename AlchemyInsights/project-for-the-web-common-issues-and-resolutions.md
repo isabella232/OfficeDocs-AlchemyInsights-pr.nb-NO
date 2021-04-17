@@ -2,30 +2,30 @@
 title: Kjente problemer og løsninger for Project for nettet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: 8b7e7968291824becda9a2d1f598e71c2020f752
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: bc36ee72f5242a4db124931be50f2f9e745ca730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812735"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835964"
 ---
-# <a name="project-for-the-web-common-issues-and-resolutions"></a><span data-ttu-id="9d02f-102">Kjente problemer og løsninger for Project for nettet</span><span class="sxs-lookup"><span data-stu-id="9d02f-102">Project for the web common issues and resolutions</span></span>
+# <a name="project-for-the-web-common-issues-and-resolutions"></a><span data-ttu-id="92ff1-102">Kjente problemer og løsninger for Project for nettet</span><span class="sxs-lookup"><span data-stu-id="92ff1-102">Project for the web common issues and resolutions</span></span>
 
-<span data-ttu-id="9d02f-103">Her er noen av de mest etterspurte emnene for Project for nettet:</span><span class="sxs-lookup"><span data-stu-id="9d02f-103">Here are some frequently requested topics on Project for the web:</span></span>
+<span data-ttu-id="92ff1-103">Her er noen av de mest etterspurte emnene for Project for nettet:</span><span class="sxs-lookup"><span data-stu-id="92ff1-103">Here are some frequently requested topics on Project for the web:</span></span>
 
-- <span data-ttu-id="9d02f-104">Lær mer om [Project for](https://support.microsoft.com/nb-NO/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5)for nettet som er tilgjengelig i alle [tre Project-abonnementer](https://products.office.com/project/compare-microsoft-project-management-software).</span><span class="sxs-lookup"><span data-stu-id="9d02f-104">Learn about [Project for the web](https://support.microsoft.com/nb-NO/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), available in all [three Project subscriptions](https://products.office.com/project/compare-microsoft-project-management-software).</span></span>
-- <span data-ttu-id="9d02f-105">Skru Project for nettet eller veikart [av eller på for brukere i organisasjonen](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).</span><span class="sxs-lookup"><span data-stu-id="9d02f-105">Turn Project for the web or Roadmap [on or off for users in your organization](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).</span></span> <span data-ttu-id="9d02f-106">Administratorer kan kontrollere tilgang til Project for nettet gjennom **Project-innstillinger**-siden i Microsoft administrasjonssenteret.</span><span class="sxs-lookup"><span data-stu-id="9d02f-106">Admins can control access to project for the web through the **Project settings** page in the Microsoft Admin center.</span></span>
-- <span data-ttu-id="9d02f-107">Finn ut mer om [hva du kan gjøre](https://support.office.com/article/what-can-you-do-with-project-for-the-web-b30f5442-be5f-43d2-9072-c95bff778ea1) med Project for nettet.</span><span class="sxs-lookup"><span data-stu-id="9d02f-107">Learn more about [what you can do](https://support.office.com/article/what-can-you-do-with-project-for-the-web-b30f5442-be5f-43d2-9072-c95bff778ea1) with Project for the web.</span></span>
-- <span data-ttu-id="9d02f-108">Hjelpe brukere med å opprette og bygge prosjekter med [opplæring i Project for nettet](https://support.office.com/article/get-started-with-project-for-the-web-50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).</span><span class="sxs-lookup"><span data-stu-id="9d02f-108">Help users create and build their projects with [Project for the web training](https://support.office.com/article/get-started-with-project-for-the-web-50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).</span></span>
-- <span data-ttu-id="9d02f-109">Bli kjent med Project for nettet [grenser og begrensninger](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).</span><span class="sxs-lookup"><span data-stu-id="9d02f-109">Become familiar with Project for the web [limits and boundaries](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).</span></span>
-
-<span data-ttu-id="9d02f-110">Hvis du vil ha mer informasjon om Project for nettet, se [Hjelp til Project for nettet for administratorer](https://docs.microsoft.com/project-for-the-web/projectforweb-admin-home).</span><span class="sxs-lookup"><span data-stu-id="9d02f-110">For more information about Project for the web, see [Project for the web admin help](https://docs.microsoft.com/project-for-the-web/projectforweb-admin-home).</span></span>
+- <span data-ttu-id="92ff1-104">Lær om [Project for nettet](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), som er tilgjengelig i alle [tre Project-abonnementer](https://products.office.com/project/compare-microsoft-project-management-software) og i [følgende abonnementer for skrivebeskyttet](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap) tilgang.</span><span class="sxs-lookup"><span data-stu-id="92ff1-104">Learn about [Project for the web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), available in all [three Project subscriptions](https://products.office.com/project/compare-microsoft-project-management-software) and in the [following subscriptions for Read Only](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap) access.</span></span>
+- <span data-ttu-id="92ff1-105">Kontroller at [nødvendige AAD-programmer er aktivert](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) å unngå feil når du åpner eller oppretter et nytt Project- eller Veikart.</span><span class="sxs-lookup"><span data-stu-id="92ff1-105">Verify that [required AAD applications are enabled](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) to avoid errors when opening or creating a new Project or Roadmap.</span></span>
+- <span data-ttu-id="92ff1-106">Skru Project for nettet eller Veikart [av eller på for brukere i organisasjonen](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).</span><span class="sxs-lookup"><span data-stu-id="92ff1-106">Turn Project for the web or Roadmap [on or off for users in your organization](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).</span></span>
+- <span data-ttu-id="92ff1-107">Bruk [Project- eller Veikart-appen i Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).</span><span class="sxs-lookup"><span data-stu-id="92ff1-107">Use the [Project or Roadmap app in Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).</span></span>
+- <span data-ttu-id="92ff1-108">Komme i gang med [opplæring i Project for nettet](https://support.office.com/article/50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).</span><span class="sxs-lookup"><span data-stu-id="92ff1-108">Get started with [Project for the web training](https://support.office.com/article/50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).</span></span>
+- <span data-ttu-id="92ff1-109">Bli kjent med [grenser og begrensninger](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries) for Project for nettet.</span><span class="sxs-lookup"><span data-stu-id="92ff1-109">Project for the web [limits and boundaries](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).</span></span>
