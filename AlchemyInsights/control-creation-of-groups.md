@@ -1,8 +1,8 @@
 ---
-title: Styre opprettelse av grupper
+title: Kontrollere opprettelse av grupper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: fa3dd7798eb41164ca27a2dfe2a036e53bc3db0d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816713"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a><span data-ttu-id="b3236-102">Styre opprettelse av Microsoft 365-grupper</span><span class="sxs-lookup"><span data-stu-id="b3236-102">Control creation of Microsoft 365 Groups</span></span>
+# <a name="control-creation-of-microsoft-365-groups"></a><span data-ttu-id="b6b66-102">Kontrollere opprettelse av Microsoft 365-grupper</span><span class="sxs-lookup"><span data-stu-id="b6b66-102">Control creation of Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="b3236-103">Som standard kan alle brukere i firmaet opprette grupper.</span><span class="sxs-lookup"><span data-stu-id="b3236-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="b3236-104">Hvis det er nødvendig, kan du endre dette, og tilordne retten til å opprette grupper til et sett med personer i firmaet.</span><span class="sxs-lookup"><span data-stu-id="b3236-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="b3236-105">Vær oppmerksom på at dette vil ha innvirkning på opprettelse av grupper fra en hvilken som helst Microsoft 365-tjeneste (for eksempel Outlook, team, Planner og så videre).</span><span class="sxs-lookup"><span data-stu-id="b3236-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
+<span data-ttu-id="b6b66-103">Som standard kan alle brukere i firmaet opprette grupper.</span><span class="sxs-lookup"><span data-stu-id="b6b66-103">By default, all users within the company are able to create groups.</span></span> <span data-ttu-id="b6b66-104">Hvis det er nødvendig, kan du endre dette og tilordne retten til å opprette grupper til et sett med personer i firmaet.</span><span class="sxs-lookup"><span data-stu-id="b6b66-104">If needed, you are able to change this, and assign the right to create groups to a set of people within your company.</span></span> <span data-ttu-id="b6b66-105">Vær oppmerksom på at dette vil påvirke opprettelsen av grupper fra en hvilken som helst Microsoft 365-tjeneste (for eksempel Outlook, Teams, Planner og så videre).</span><span class="sxs-lookup"><span data-stu-id="b6b66-105">Note that this will have impact on creation of groups from any Microsoft 365 service (such as Outlook, Teams, Planner and so on).</span></span>
   
-<span data-ttu-id="b3236-106">Instruksjoner: [administrere hvem som kan opprette Microsoft 365-grupper](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="b3236-106">Instructions: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="b6b66-106">Instruksjoner: [Administrere hvem som kan opprette Microsoft 365-grupper](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="b6b66-106">Instructions: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span></span>
