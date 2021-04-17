@@ -1,8 +1,8 @@
 ---
-title: Enheter som venter på registrerings tilstand
+title: Enheter er i venter på registreringsstatus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730744"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815363"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Enheter er i tilstanden venter på registrering
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Enheter er i statusen Venter på registrering
 
-Skrive bords analyse har ikke diagnose data for denne enheten. 
+Desktop Analytics har ikke diagnosedata for denne enheten. 
 
-Dette problemet kan oppstå fordi du nylig har lagt til enheten i mål samlingen, og den ikke har sendt data ennå. Det kan også bety at enheten ikke kommuniserer på riktig måte med tjenesten, og de nyeste diagnose dataene er mer enn 28 dager gamle.
+Dette problemet kan oppstå fordi du nylig har lagt til enheten i målsamlingen, og den ennå ikke har sendt data. Det kan også bety at enheten ikke kommuniserer med tjenesten på riktig måte, og at de nyeste diagnosedataene er mer enn 28 dager gamle.
 
-Kontroller at enheten kan kommunisere med tjenesten. Hvis du vil ha mer informasjon, kan du se [ende punkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Kontroller at enheten kan kommunisere med tjenesten. Hvis du vil ha mer informasjon, kan [du se Endepunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Hvis du vil ha mer informasjon om statusen for å vente på registrering, kan du se [overvåke tilkoblings tilstand](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Hvis du vil ha mer informasjon om den ventende registreringsstatusen, kan du se [Overvåke tilkoblingstilstand](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

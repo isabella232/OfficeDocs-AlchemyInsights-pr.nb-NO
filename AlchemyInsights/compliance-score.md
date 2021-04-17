@@ -1,8 +1,8 @@
 ---
-title: Samsvars resultat
+title: Samsvarsresultat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785468"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817325"
 ---
-# <a name="compliance-score"></a>Samsvars resultat
+# <a name="compliance-score"></a>Samsvarsresultat
 
-Microsofts Samsvars resultat (forhånds visning) er en funksjon i Microsoft 365 som hjelper deg med å måle organisasjonens samsvar med Posture. Den bruker en risiko BAS ert poengsum basert på frem driften for å implementere samsvars relaterte handlinger.   Samsvars resultat er en forenklet versjon av [samsvars ansvarlig](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) og tilbyr en enklere måte å undersøke samsvars-Stance og implementere handlinger på for å forbedre den. 
+Microsoft Compliance Score (forhåndsvisning) er en funksjon i Microsoft 365 som hjelper deg med å måle organisasjonens samsvarspost. Den bruker en risikobasert poengsum basert på fremdriften din for å implementere samsvarsrelaterte handlinger.   Samsvarsresultater er en forenklet versjon av [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) og gir en enklere måte å undersøke samsvarssyndigheten din på og implementere handlinger for å forbedre den. 
 
-Den globale administratoren må konfigurere de riktige [tillatelsene](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) i Microsofts samsvars senter for å få tilgang til samsvars resultat.  Eventuelle tillatelser som tidligere er konfigurert for Samsvars behandling, vil ikke bli overført til Samsvars resultat.
+Den globale administratoren må konfigurere de riktige tillatelsene [i](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) Microsoft Compliance Center for å få tilgang til samsvarsresultater.  Eventuelle tillatelser som tidligere er konfigurert for Samsvarsbehandling, overføres ikke til samsvarsresultatet.
 
-**Få tilgang til Samsvars resultat**
+**Slik får du tilgang til samsvarsresultater**
 
-1. Gå til samsvars senteret for Microsoft 365, og **Logg på** med den globale administrator kontoen for Microsoft 365.
+1. Gå til Samsvarssenteret for Microsoft 365, og **logg på** med den globale administratorkontoen for Microsoft 365.
 
-2. Velg **samsvars resultat** i den venstre navigasjons ruten. Deretter kan du se [instrument bordet for samsvars poenget med poeng summen](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Velg **Samsvarsresultat** i den venstre navigasjonsruten. Deretter skal du se instrumentbordet [for samsvarsresultater med poengsummen din.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
-**Hvis du vil ha mer informasjon om**:
+**Hvis du vil ha mer informasjon om:**
 
-- Hvis du konfigurerer tilgangs tillatelser for Samsvars resultat, kan du se [gi brukere tilgang til sikkerhets & samsvars sentre for Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Arbeide med forbedrings handlinger i Samsvars resultat, se  [arbeide med samsvars resultat](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Hvordan Samsvars resultat beregnes, kan du se [metoden for samsvars poeng](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Samsvars resultat kontra Samsvars behandling, kan du se [relasjon til samsvars ansvarlig](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Hvis du vil konfigurere tilgangstillatelser for samsvarsresultater, kan du se Gi brukere tilgang til Sikkerhetssenter for [Microsoft 365 & samsvarssentre.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Hvis du arbeider med forbedringshandlinger i samsvarsresultater, kan du se  [Arbeide med samsvarsresultater](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Hvordan samsvarsresultat beregnes, kan du se [Metodikk for samsvarsresultater](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Samsvarsresultater kontra Samsvarsbehandling, se [Relasjon til Samsvarsbehandling.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
 

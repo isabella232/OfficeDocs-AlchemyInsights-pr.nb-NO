@@ -1,8 +1,8 @@
 ---
-title: Konvertering av Microsoft 365-gruppe og delte post bokser
+title: Konvertering av Microsoft 365-grupper og delte postbokser
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 950c162276afb321774b58893271ab9ca654c705
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823135"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816569"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Konvertering av Microsoft 365-gruppe og delte post bokser
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Konvertering av Microsoft 365-grupper og delte postbokser
 
-Det er for øyeblikket ikke mulig å konvertere mellom gruppe post boksen i Microsoft 365 og en delt post boks.
+Det er for øyeblikket ikke mulig å konvertere mellom Microsoft 365-gruppepostboksen og en delt postboks.
 
-Få hjelp til å svare på denne funksjonen [her](https://aka.ms/M365GroupToShared).
+Hjelp til med å stemme på denne funksjonen [her](https://aka.ms/M365GroupToShared).

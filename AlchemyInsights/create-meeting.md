@@ -2,7 +2,7 @@
 title: Planlegge et møte i Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815984"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planlegge et møte i Teams
 
-**Viktig** Hvis du har problemer med å opprette et møte eller ikke finner møte alternativet i Teams, må du sørge for at de berørte brukerne har en aktivert Exchange-postboks i en støttet versjon for Microsoft Teams. Når Exchange Online anbefales, støttes Exchange on-Premises-postbokser på Exchange Server 2016 CU3 eller nyere med OAuth Configured online på nettet og lokalt. Hvis du vil ha mer informasjon, kan du se [opprette bruker post bokser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) og [krav for post bokser som ligger lokalt](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Viktig** Hvis du har problemer med å opprette et møte eller ikke finner møtealternativet i Teams, må du kontrollere at berørte brukere har en aktivert Exchange-postboks på en støttet versjon for Microsoft Teams. Exchange Online anbefales, men lokale Exchange-postbokser støttes på Exchange Server 2016 CU3 eller nyere med OAuth konfigurert mellom Tilkoblet og Lokal. Hvis du vil ha mer informasjon, kan du se Opprette brukerpostbokser [i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) og Krav for [postbokser som driftes lokalt.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
 1. Du kan planlegge et møte ved å velge:
 
-    - **Planlegg et møte** -ikon i en chat under Opprett-boksen for å bestille et møte med personene i chatten.
+    - **Planlegg et møteikon** i en chat under skriveboksen for å reservere et møte med personene i chatten.
 
-    - **Kalender** ikon på venstre side av appen. Velg enten **nytt møte** øverst til høyre, eller velg en tids periode i kalenderen for å åpne et planleggings skjema.
+    - **Kalenderikonet** på venstre side av appen. Velg Enten **Nytt møte** øverst til høyre, eller velg et tidsområde i kalenderen for å åpne et planleggingsskjema.
 
-2. På samme måte som planlegging av et møte i Outlook, kan du gi møtet en tittel, invitere personer og legge til møte detaljer.
+2. På samme måte som når du planlegger et møte i Outlook, gir du møtet en tittel, inviterer personer og legger til møtedetaljer.
 
-3. På høyre side av planleggings skjemaet kan du legge til en kanal eller enkelt personer, eller la begge stå tomme for å planlegge en privat avtale.
+3. På høyre side av planleggingsskjemaet kan du legge til en kanal eller individuelle personer, eller la begge stå tomme for å planlegge en privat avtale.
 
-Hvis du vil ha mer informasjon om hvordan du oppretter og planlegger møter i Microsoft Teams, kan du se [planlegge et møte i Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Hvis du vil ha mer informasjon om hvordan du oppretter og planlegger møter i Microsoft Teams, kan du se [Planlegge et møte i Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
 
-Hvis du vil ha mer informasjon om begrensninger og spesifikasjoner for møter, kan du se [begrensninger og spesifikasjoner for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Hvis du vil ha mer informasjon om grenser og spesifikasjoner for møter, kan du se [Begrensninger og spesifikasjoner for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
-Hvis du trenger hjelp til å feilsøke team og utveksle samhandlinger, spesielt for delegerings planlegging, kan du se Feilsøke problemer med [Microsoft Teams-og Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Hvis du vil ha hjelp til å feilsøke teams- og Exchange-samhandlinger, spesielt for problemer med delegering av planlegging, kan du se Feilsøke samhandlingsproblemer med Microsoft Teams og [Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

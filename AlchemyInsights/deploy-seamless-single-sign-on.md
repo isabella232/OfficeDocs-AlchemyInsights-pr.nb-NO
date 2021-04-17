@@ -1,8 +1,8 @@
 ---
-title: Distribuere sømløs enkel pålogging
+title: Distribuere sømløs enkel Sign-On
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 7060f7fa3d8b259027e17e821c8da736b8526f3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d0567d55232365d7e55ab6744484ba5d3e1eb2c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815408"
 ---
 # <a name="enable-seamless-sso"></a>Aktiver sømløs SSO
 
-Azure Active Directory (Azure AD) sømløs enkel pålogging (sømløs SSO) logger automatisk på brukere når de er på firmaets skrive bord som er koblet til bedrifts nettverket.
+Azure Active Directory (Azure AD) Sømløs enkel Sign-On (sømløs SSO) logger automatisk på brukere når de er på bedriftens stasjonære datamaskiner som er koblet til bedriftsnettverket.
   
-[Følg Fremgangs måten i denne artikkelen for å aktivere sømløs SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Følg fremgangsmåten i denne artikkelen for å aktivere Sømløs SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

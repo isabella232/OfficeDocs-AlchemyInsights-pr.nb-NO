@@ -1,40 +1,41 @@
 ---
-title: Cortana snakker ikke med meg eller kan ikke høre meg
+title: Cortana snakker ikke til meg eller kan ikke høre meg
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
-ms.translationtype: MT
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816533"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana snakker ikke med meg eller kan ikke høre meg
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana snakker ikke til meg eller kan ikke høre meg
 
-Hvis du prøver å bruke funksjonen "Hei Cortana", som lar deg snakke med Cortana uten å velge Cortana-knappen på oppgavelinjen eller mikrofonknappen i Cortana-panelet, må du bekrefte at funksjonen er aktivert:
+Hvis du prøver å bruke “Hei, Cortana”-funksjonen, som gjør at du kan snakke til Cortana uten å velge Cortana-knappen på oppgavelinjen eller mikrofonknappen på Cortana-panelet, må du bekrefte at funksjonen er aktivert:
 
 1. Gå til **Start**, og velg deretter **[Innstillinger > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. Under **Hei Cortana**bytter du **bryteren La Cortana svare på «Hei Cortana»** til **På**.
+2. Sett veksleknappen **La Cortana svare på “Hei, Cortana”** til **På**, under **Hei, Cortana**.
 
-![Hei Cortana](media/hey-cortana.png)
+![Hei, Cortana](media/hey-cortana.png)
 
-**Hindrer personverninnstillingene dine Cortana i å høre deg?**
+**Hindrer personverninnstillingene at Cortana hører deg?**
 
-Personverninnstillingene dine kan hindre Cortana i å svare på stemmen din.
+Personverninnstillingene kan hindre Cortana i å svare stemmen din.
 - Kontroller at elektronisk talegjenkjenning er aktivert:
-    - Gå til **Start**, og klikk deretter **[Innstillinger > Personvern > Tale](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - Under **Elektronisk talegjenkjenning**bytter du innstillingen til **På**.
-- Kontroller at Cortana har tillatelse til å få tilgang til mikrofonen. 
-    - Gå til Start, og klikk deretter **[Innstillinger > Personvern > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - Under **Velg hvilke apper som har tilgang til mikrofonen,** kan du se etter **Cortana** i listen over apper og tjenester, og kontroller at bryteren er vekslet til **På**.
+    - Gå til **Start**, og klikk på **[Innstillinger > Personvern > Tale](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - Endre innstillingen til **På** under **Elektronisk talegjenkjenning**.
+- Kontroller at Cortana har tilgang til mikrofonen. 
+    - Gå til Start, og klikk deretter på **[Innstillinger > Personvern > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - Se etter **Cortana** i listen over apper og tjenester, under **Velg hvilke apper som har tilgang til mikrofonen**, og kontroller at bryteren er satt il **På**.
 
-Videre må du også sørge for at høyttalerne eller mikrofonene dine er oppe og fungerer for å snakke med Cortana.
+Kontroller også at høyttalerne eller mikrofonen er oppe og går, for å kunne snakke til Cortana.

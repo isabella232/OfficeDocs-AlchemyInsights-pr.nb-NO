@@ -1,8 +1,8 @@
 ---
-title: DataProtection-BitLocker
+title: DataProtection – Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778202"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815624"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivere BitLocker-kryptering med Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivere Bitlocker-kryptering med Intune
 
-Policyen for Intune Endpoint Protection kan brukes til å konfigurere BitLocker-krypteringsnøkkel for Windows-enheter. Hvis du vil ha mer informasjon, kan du se [Innstillinger for Windows 10 (og nyere) for å beskytte enheter ved hjelp av Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Intune Endpoint Protection Policy kan brukes til å konfigurere Bitlocker-krypteringsinnstillinger for Windows-enheter. Hvis du vil ha mer informasjon, kan du [se Innstillinger for Windows 10 (og nyere) for å beskytte enheter ved hjelp av Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
 
-I tillegg til policyen for Endpoint Protection finnes det også en krypterings rapport som gir en mer detaljert visning av krypterings statusen for enheter. Denne rapporten kan åpnes fra MEM-portalen under **enheter > skjerm**, og deretter velger du [krypterings rapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)under **konfigurasjon** .
+I tillegg til policyen for endepunktbeskyttelse finnes det også en krypteringsrapport som gir en mer detaljert visning av krypteringsstatusen for enheter. Denne rapporten kan nås fra **MEM-portalen** under Enheter > skjerm , og deretter velger du [Krypteringsrapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)under Konfigurasjon. 
 
-Hvis du finner ut at BitLocker ikke kan aktiveres som forventet, eller at profilen som brukes til å aktivere BitLocker, er i en feil tilstand, kan du se gjennom krypterings rapporten for å få en bedre forståelse av hvorfor det skjer.
+Hvis du finner ut at Bitlocker ikke kan aktiveres som forventet, eller at profilen som brukes til å aktivere Bitlocker, er i en feiltilstand, kan du se gjennom krypteringsrapporten for å få en bedre forståelse av hvorfor virkemåten forekommer.
 
-Hvis du vil finne detaljer om hvordan du tolker rapporten, inkludert de ulike verdiene for krypterings status, kan du se [overvåke enhets kryptering med Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Hvis du vil ha mer informasjon om hvordan du tolker rapporten, inkludert de ulike krypteringsstatusverdiene, kan du se Overvåke enhetskryptering [med Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
 
-Du bør være klar over at mange nyere enheter som kjører Windows 10 støtter automatisk BitLocker-kryptering, som utløses uten program for MDM-policy. Dette kan påvirke bruk av policy hvis ikke-standard innstillinger er konfigurert. Se følgende vanlige spørsmål for mer informasjon.
+Du bør være oppmerksom på at mange nyere enheter som kjører Windows 10, støtter automatisk Bitlocker-kryptering, som utløses uten bruk av MDM-policy. Dette kan påvirke bruken av policyen hvis ikke-standardinnstillinger er konfigurert. Se følgende vanlige spørsmål hvis du vil ha mer informasjon.
 
-Hvis du vil ha informasjon om å feilsøke BitLocker-problemer, kan du se [Feilsøke BitLocker-policyer i Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Hvis du vil ha informasjon om feilsøking av bitlocker-problemer, kan du se [Feilsøke BitLocker-policyer i Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
 **SPØRSMÅL OG SVAR**
 
-Spørsmål: hvilke utgaver av Windows støtter enhets kryptering ved hjelp av policyen for ende punkt beskyttelse?<br>
-Svar: innstillingene i policyer for Intune Endpoint Protection implementeres ved hjelp av [BitLocker-CSPen](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle utgaver eller versjoner av Windows støtter BitLocker-CSPEN. <br><br>
+Sp.: Hvilke versjoner av Windows støtter enhetskryptering ved hjelp av policyen for endepunktbeskyttelse?<br>
+A: Innstillingene i Intune Endpoint Protection Policy implementeres ved hjelp av [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle versjoner eller windowsbygg støtter Bitlocker CSP. <br><br>
 
-Spørsmål: Hvordan kan BitLocker aktiveres på enheter uten å kreve slutt bruker medvirkning?<br>
-A: så lenge de nødvendige forhånds kravene er oppfylt, er det mulig å aktivere BitLocker "stille kryptering" gjennom Intune. Se detaljene om enhetens krav og eksempler på policy innstillinger for å aktivere stille kryptering i følgende dokument: [aktivere BitLocker-kryptering stille](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+Spørsmål: Hvordan kan Bitlocker aktiveres på enheter uten å kreve sluttbrukersamhandling?<br>
+Sv.: Så lenge de nødvendige forutsetningene er oppfylt, er det mulig å aktivere Bitlocker «Stille kryptering» gjennom Intune. Se detaljene for enhetskravene og eksempelpolicyinnstillingene for å aktivere stille kryptering i følgende dokument: [Aktiver Bitlocker-kryptering stille.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
 
-Spørsmål: Hvis en enhet allerede er kryptert med BitLocker ved hjelp av standard innstillingene for krypterings metode og chifferkodestyrke (XTS-AES-128), vil bruk av en policy med ulike innstillinger automatisk utløse rekryptering av stasjonen med de nye innstillingene?<br>
-Sv.: Nei. Hvis du vil bruke de nye Cipher innstillingene, må stasjonen først dekrypteres.<br><br>
-**Obs!** For enheter som blir registrert med automatisk pilot, utløses ikke krypteringen som ville oppstå under OOBE, før Intune-policyen evalueres, slik at de policy-baserte innstillingene kan brukes i stedet for OS-standardene.
+Sp.: Hvis en enhet allerede er kryptert med Bitlocker ved hjelp av standardinnstillingene for operativsystemet for krypteringsmetode og chiffreringsstyrke (XTS-AES-128), vil bruk av en policy med forskjellige innstillinger automatisk utløse ny kryptering av stasjonen med de nye innstillingene?<br>
+Sv.: Nei. Hvis du vil bruke de nye chiffreringsinnstillingene, må stasjonen først dekrypteres.<br><br>
+**Obs!** For enheter som registreres med Autopilot, utløses ikke den automatiske krypteringen som ville skje under OOBE før Intune-policyen evalueres, noe som gjør at de policybaserte innstillingene kan brukes i stedet for OS-standardene.
  
-Spørsmål: Hvis en enhet krypteres som et resultat av appen for Intune-policyen, dekrypteres den når policyen fjernes?<br>
-Svar: fjerning av krypterings relatert policy fører ikke til dekryptering av stasjonene som ble konfigurert.
+Spørsmål: Hvis en enhet krypteres som et resultat av bruken av Intune-policyen, dekrypteres den når policyen fjernes?<br>
+A: Fjerning av krypteringsrelatert policy fører IKKE til dekryptering av stasjonene som ble konfigurert.
  
-Spørsmål: Hvorfor viser Samsvars policyen for Intune at enheten ikke har BitLocker aktivert, selv om den er?<br>
-A: innstillingen BitLocker Enabled i Intune-overholdelses policyen bruker Windows-klienten tilstands attestering (DHA). Denne klienten måler bare enhets tilstanden ved oppstart. Hvis en enhet ikke har blitt startet på nytt etter at BitLocker-kryptering ble fullført, vil ikke tjeneste tjenesten DHA rapportere at BitLocker blir aktivert.
+Sp.: Hvorfor viser Intune Compliance Policy at enheten ikke har Bitlocker aktivert, selv om den er det?<br>
+Sv.: Innstillingen «Bitlocker aktivert» i Intune Compliance Policy bruker DHA-klienten (Windows Device Health Attestation). Denne klienten måler bare enhetstilstanden ved oppstart. Så hvis en enhet ikke har blitt startet på nytt siden Bitlocker-krypteringen ble fullført, vil ikke DHA-klienttjenesten rapportere Bitlocker som aktiv.
  
  

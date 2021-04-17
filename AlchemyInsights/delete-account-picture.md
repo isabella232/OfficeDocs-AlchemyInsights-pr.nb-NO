@@ -1,8 +1,8 @@
 ---
-title: Slett konto bilde
+title: Slett kontobilde
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815552"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Slette et konto bilde i Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Slette et kontobilde i Windows 10
 
-Windows er utformet for å la deg bytte mellom de tre siste bildene. Hvis du må slette et av konto bildene dine:
+Windows er utformet slik at du kan bytte mellom de tre nyeste bildene. Hvis du må slette et av kontobildene dine:
 
-1. Åpne fil Utforsker fra oppgave linjen. Hvis du ikke ser fil Utforsker (mappe ikonet) på oppgave linjen, velger du **Start** og skriver inn **fil Utforsker**.
+1. Åpne Filutforsker fra oppgavelinjen. Hvis du ikke ser Filutforsker (mappeikonet) på oppgavelinjen, velger du **Start** og skriver **inn Filutforsker**.
 
-2. Gå til C:\Brukere \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Erstatt *yourname* med konto navnet ditt.
-    - Hvis du ikke finner AppData-mappen i fil Utforsker, kan det være skjult. Velg **visning** -innstillingen, og Merk av for **skjulte elementer** for å vise alle elementene i en mappe.
+2. Gå til C:\Brukere \\ *dittnavn*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Erstatt *navnet ditt* med kontonavnet ditt.
+    - Hvis du ikke finner AppData-mappen i Filutforsker, kan den være skjult. Velg **Vis-innstillingen,** og merk av **for Skjulte** elementer for å vise alle elementene i en mappe.
 
-3. Slett konto bildet du ikke lenger vil bruke.
+3. Slett kontobildet du ikke lenger vil bruke.
  
  

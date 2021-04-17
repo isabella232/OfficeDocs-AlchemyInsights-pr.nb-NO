@@ -2,9 +2,10 @@
 title: Koble et SharePoint-område til en gruppe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515638"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817073"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Koble et SharePoint-område til en gruppe
 
-Bruk veiviseren for gruppetilkobling til å koble et SharePoint-område til en Microsoft 365-gruppe.
+Bruk gruppetilkoblingsveiviseren for å koble et SharePoint-område til en Microsoft 365-gruppe.
 
-1. Velg **Innstillinger (tannhjulikon) fra**nettstedet du vil koble til en gruppe.
-2. Velg **Koble til ny Microsoft 365-gruppe**.
+1. Velg **Innstillinger (tannhjul-ikon)** fra området der du vil koble til en gruppe.
+2. Velg **Koble til en ny Microsoft 365-gruppe**.
 3. Følg veiviseren for å fullføre tilkoblingen.
 
-**Merk:**  Hvis Koble til nye Microsoft 365-gruppen ikke er tilgjengelig, støtter ikke området en gruppetilkobling.
+**Obs!** Hvis Koble til en ny Microsoft 365-gruppe ikke er tilgjengelig, vil ikke området støtte en gruppetilkobling.
 
 Hvis du vil ha mer informasjon, kan du se [Koble til en Office 365-gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
