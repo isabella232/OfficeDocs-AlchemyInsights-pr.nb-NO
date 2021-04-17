@@ -1,8 +1,8 @@
 ---
-title: 'Tastatur innstillinger i Windows 10 '
+title: 'Tastaturinnstillinger i Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772812"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832976"
 ---
-# <a name="keyboard-settings-in-windows-10"></a><span data-ttu-id="44623-102">Tastatur innstillinger i Windows 10</span><span class="sxs-lookup"><span data-stu-id="44623-102">Keyboard settings in Windows 10</span></span>
+# <a name="keyboard-settings-in-windows-10"></a><span data-ttu-id="b3d93-102">Tastaturinnstillinger i Windows 10</span><span class="sxs-lookup"><span data-stu-id="b3d93-102">Keyboard settings in Windows 10</span></span>
 
-<span data-ttu-id="44623-103">**Type innstillinger**</span><span class="sxs-lookup"><span data-stu-id="44623-103">**Type settings**</span></span>
+<span data-ttu-id="b3d93-103">**Typeinnstillinger**</span><span class="sxs-lookup"><span data-stu-id="b3d93-103">**Type settings**</span></span>
 
-<span data-ttu-id="44623-104">Hvis du vil endre Windows-innstillinger som gjelder stavekontroll, automatisk korrigering, forslag og andre aspekter av maskin varen og berørings tastaturet, går du til **innstillinger > enheter > å skrive**.</span><span class="sxs-lookup"><span data-stu-id="44623-104">To change Windows settings related to spell-checking, auto-correction, suggestions, and other aspects of your hardware and touch keyboard, go to **Settings > Devices > Typing**.</span></span> 
+<span data-ttu-id="b3d93-104">Hvis du vil endre Windows-innstillinger relatert til stavekontroll, automatisk retting, forslag og andre aspekter ved maskinvaren og berøringstastaturet, går du til Innstillinger **> Enheter > Skrive**.</span><span class="sxs-lookup"><span data-stu-id="b3d93-104">To change Windows settings related to spell-checking, auto-correction, suggestions, and other aspects of your hardware and touch keyboard, go to **Settings > Devices > Typing**.</span></span> 
 
-<span data-ttu-id="44623-105">**Språk-og tastatur innstillinger**</span><span class="sxs-lookup"><span data-stu-id="44623-105">**Language and keyboard settings**</span></span>
+<span data-ttu-id="b3d93-105">**Språk- og tastaturinnstillinger**</span><span class="sxs-lookup"><span data-stu-id="b3d93-105">**Language and keyboard settings**</span></span>
 
-<span data-ttu-id="44623-106">Hvis du vil endre innstillingene som gjelder for et tastatur eller en inn data metode for et Windows-språk, går du til **innstillinger > tid & språk > språk**.</span><span class="sxs-lookup"><span data-stu-id="44623-106">To change settings related to which keyboard or input method to use for a Windows language, go to **Settings > Time & Language > Language**.</span></span> <span data-ttu-id="44623-107">Velg språk i listen over **foretrukne språk** , og klikk **Alternativer** for å legge til/fjerne tastatur eller inn data metoder (IME).</span><span class="sxs-lookup"><span data-stu-id="44623-107">Select languages in the **Preferred languages** list and click **Options** to add/remove keyboards or input Methods (IMEs).</span></span>
+<span data-ttu-id="b3d93-106">Hvis du vil endre innstillinger som er relatert til hvilket tastatur eller hvilken inndatametode som skal brukes for et **Windows-språk,** kan du gå til Innstillinger > Tid & språk > språk .</span><span class="sxs-lookup"><span data-stu-id="b3d93-106">To change settings related to which keyboard or input method to use for a Windows language, go to **Settings > Time & Language > Language**.</span></span> <span data-ttu-id="b3d93-107">Velg språk i listen **Foretrukne språk,** og klikk **Alternativer** for å legge til/ fjerne tastaturer eller inndatametoder (IMEer).</span><span class="sxs-lookup"><span data-stu-id="b3d93-107">Select languages in the **Preferred languages** list and click **Options** to add/remove keyboards or input Methods (IMEs).</span></span>

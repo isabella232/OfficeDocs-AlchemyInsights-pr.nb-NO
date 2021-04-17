@@ -2,7 +2,7 @@
 title: Slik avinstallerer du SFB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000741"
 - "2669"
-ms.openlocfilehash: 4988c224ad03ef8c52390108ae8d16a13c266627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efe3a6aa8e7cd362285848fcffbef5dec1a2bb6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832211"
 ---
-# <a name="uninstall-skype-for-business"></a><span data-ttu-id="b63bd-102">Avinstallere Skype for Business</span><span class="sxs-lookup"><span data-stu-id="b63bd-102">Uninstall Skype for Business</span></span>
+# <a name="uninstall-skype-for-business"></a><span data-ttu-id="2f1c9-102">Avinstallere Skype for Business</span><span class="sxs-lookup"><span data-stu-id="2f1c9-102">Uninstall Skype for Business</span></span>
 
-<span data-ttu-id="b63bd-103">Hvis du vil ha informasjon om hvordan du avinstallerer Skype for Business, kan du se følgende artikler:</span><span class="sxs-lookup"><span data-stu-id="b63bd-103">For information about uninstalling Skype for Business, please see the following articles:</span></span>
+<span data-ttu-id="2f1c9-103">Hvis du vil ha informasjon om hvordan du avinstallerer Skype for Business, kan du se følgende artikler:</span><span class="sxs-lookup"><span data-stu-id="2f1c9-103">For information about uninstalling Skype for Business, please see the following articles:</span></span>
 
-- [<span data-ttu-id="b63bd-104">Avinstallere Skype for Business</span><span class="sxs-lookup"><span data-stu-id="b63bd-104">Uninstall Skype for Business</span></span>](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
-- [<span data-ttu-id="b63bd-105">Avinstallere Skype for Business på en mobil enhet</span><span class="sxs-lookup"><span data-stu-id="b63bd-105">Uninstall Skype for Business on a mobile device</span></span>](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
+- [<span data-ttu-id="2f1c9-104">Avinstallere Skype for Business</span><span class="sxs-lookup"><span data-stu-id="2f1c9-104">Uninstall Skype for Business</span></span>](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
+- [<span data-ttu-id="2f1c9-105">Avinstallere Skype for Business på en mobil enhet</span><span class="sxs-lookup"><span data-stu-id="2f1c9-105">Uninstall Skype for Business on a mobile device</span></span>](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
