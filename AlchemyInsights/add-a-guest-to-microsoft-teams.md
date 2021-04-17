@@ -1,8 +1,8 @@
 ---
-title: Legge til en gjest i Microsoft Teams (automatisk forslag)
+title: Legge til en gjest i Microsoft Teams (Automatisk forslag)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697314"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822788"
 ---
 # <a name="add-a-guest-to-microsoft-teams"></a>Legge til en gjest i Microsoft Teams
 
-Noen ganger vil du gjerne samarbeide med personer som ikke er i gruppens organisasjon. Ofte må du gjøre dette i e-post, men hvis du vil samarbeide med dem i Teams, kan du legge dem til som gjester.
+Noen ganger bør du samarbeide med personer som ikke er i teamets organisasjon. Ofte gjør du dette via e-post, men hvis du vil samarbeide med dem i Teams, kan du legge dem til som gjester.
 
-Hvis du vil ha mer informasjon, kan du se [legge til gjester i et team i Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Hvis du vil ha mer informasjon, [kan du se Legge til gjester i et team i Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-**Obs!** Du må være team eier for å legge til en gjest i Teams (også se [Angi gjeste tillatelser](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).
+**Obs!** Du må være teameier for å legge til en gjest i Teams (se også [Angi gjestetillatelser](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).

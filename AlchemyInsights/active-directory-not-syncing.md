@@ -1,8 +1,8 @@
 ---
-title: Active Directory ikke synkronisere
+title: Active Directory synkroniseres ikke
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697638"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822860"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory ikke synkronisere
+# <a name="active-directory-not-syncing"></a>Active Directory synkroniseres ikke
 
-Hvis du får synkroniserings feil, for eksempel «ingen nylig synkronisering», eller Legg merke til at statusen for katalog synkronisering i Office Admin-portalen sier at «sist synkronisert for mer enn 3 dager siden», kan være at AADConnect har feil innstillinger eller utilstrekkelige tillatelser til å utføre en synkronisering.  
+Hvis du mottar synkroniseringsfeil, for eksempel «ingen nylig synkronisering», eller legger merke til at statusen for katalogsynkronisering i administrasjonsportalen for Office sier «Sist synkronisert for mer enn 3 dager siden», kan det være at AADConnect har feil innstillinger eller utilstrekkelige tillatelser til å utføre en synkronisering.  
 
-Å installere AADConnect på nytt ved hjelp av innstillingene for Express kan løse problemet raskt:
+Hvis du installerer AADConnect på nytt ved hjelp av hurtiginnstillinger, kan dette løse problemet raskt:
 
-1. [Last ned den nyeste versjonen av AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Last ned den nyeste versjonen av AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Følg instruksjonene for hurtig installasjon](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Følg instruksjonene for ekspressinstallasjon](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Hvis du vil ha mer informasjon om AADConnect-tjeneste kontoer, kan du se [Azure ad Connect: kontoer og tillatelser](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Hvis du vil ha mer informasjon om AADConnect-tjenestekontoer, kan du se [Azure AD Connect: Kontoer og tillatelser](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

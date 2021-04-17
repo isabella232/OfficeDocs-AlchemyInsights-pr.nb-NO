@@ -2,7 +2,7 @@
 title: Legge til et overlegg i en SharePoint-kalender
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663378"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822068"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Legge til et overlegg i en SharePoint-kalender
 
-SharePoint-kalendere er klassiske liste typer som noen ganger forveksles med gruppe kalendere i Microsoft 365.
+SharePoint-kalendere er klassiske listetyper som noen ganger forveksles med Microsoft 365-gruppekalendere.
  
-Hvis du bruker en SharePoint-kalender på området, kan du overlappe din egen Exchange-kalender på den for å opprette en kombinert Kalender visning. Du kan også overlappe en annen SharePoint-kalender så lenge begge SharePoint-kalendere er i samme nettsteds samling.
+Hvis du bruker en SharePoint-kalender på nettstedet, kan du legge din egen Exchange-kalender over på den for å opprette en kombinert kalendervisning. Alternativt kan du legge en annen SharePoint-kalender over så lenge begge SharePoint-kalenderne er i samme nettstedssamling.
  
-Hvis du vil legge til et overlegg i en klassisk SharePoint-kalender, følger du Fremgangs måten for å [overlappe en SharePoint-kalender med en kalender fra Exchange eller SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Hvis du vil legge til et overlegg i en klassisk SharePoint-kalender, følger du fremgangsmåten i Overlappe en [SharePoint-kalender med en kalender fra Exchange eller SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
