@@ -2,7 +2,7 @@
 title: Be administratoren om å aktivere Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716254"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821195"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du kommer glipp av! Be administratoren om å aktivere Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du går glipp av noe! Be administratoren om å aktivere Microsoft Teams
 
-Hvis du har en EDU-Tenant, må du aktivere Microsoft Teams manuelt. Hvis du vil gjøre dette, går du til administrasjons senteret for Microsoft 365 > **tjenester og tillegg > Microsoft Teams**. Hvis du bruker administrasjons senteret for nye Teams, må du deaktivere **Prøv det nye administrasjons senteret**   for å finne **tjenester og**tillegg. 
+Hvis du har en EDU-Tenant, må du aktivere Microsoft Teams manuelt. Dette gjør du ved å gå til  **administrasjonssenteret** for Microsoft 365 >Tjenester og tillegg > Microsoft Teams . Hvis du bruker det nye administrasjonssenteret for Teams, må du deaktivere **Prøv** det nye    **administrasjonssenteret** for å finne tjenester og tillegg . 
 
-**Viktig**: du må kanskje vente opptil 24 timer før endringene trer i kraft.
+**VIKTIG:** Det kan hende du må vente opptil 24 timer før endringene trer i kraft.

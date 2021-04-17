@@ -1,8 +1,8 @@
 ---
-title: Moderne Azure e-postfakturering
+title: Moderne e-postfakturering i Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922138"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820835"
 ---
 # <a name="email-invoicing-in-azure"></a>E-postfakturering i Azure
 
-Du må ha en eier eller en bidrags yter rolle på fakturerings profilen eller fakturerings kontoen for å kunne oppdatere innstillingen for e-postfakturaene. Når du har valgt – alle brukere med roller for eier, bidrags yter, lesere og faktura behandling på en fakturerings profil, blir fakturaen i e-post.
+Du må ha rollen eier eller bidragsyter på faktureringsprofilen eller faktureringskontoen for å oppdatere innstillingen for e-postfakturering. Når du har aktivert dette, får alle brukere som har rollene eier, bidragsyter, lesere og fakturaansvarlig på en faktureringsprofil, faktura på e-post.
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/).
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg **fakturaer** fra venstre side, og velg deretter **e-faktura** fra toppen av siden.
-4. Hvis du har flere fakturerings profiler, velger du en fakturerings profil og velger deretter Velg **i**.
+1. Logg på [Azure-portalen](https://portal.azure.com/).
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg **Fakturaer** fra venstre side, og velg deretter **E-postfaktura** fra toppen av siden.
+4. Hvis du har flere faktureringsprofiler, velger du en faktureringsprofil og deretter **Aktiver**.
 
 5. Velg **Oppdater**.
-6. Hvis du har flere fakturerings profiler, velger du en fakturerings profil og velger deretter Velg **i**.
+6. Hvis du har flere faktureringsprofiler, velger du en faktureringsprofil og deretter **Aktiver**.
 
-Du gir andre tilgang til å vise, laste ned og betale fakturaer ved å tilordne faktura behandlings rollen til en MCA-eller MPA-fakturerings profil. Hvis du har valgt å få fakturaen i e-post, får brukerne også fakturaene i e-post.
+Du gir andre tilgang til å vise, laste ned og betale fakturaer ved å tilordne dem rollen fakturaansvarlig for en MCA- eller MPA-faktureringsprofil. Hvis du har aktivert å få faktura på e-post, får brukerne også fakturaene på e-post.
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/).
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg **fakturerings profiler** fra venstre side. Velg en fakturerings profil som du vil tilordne en faktura behandlings rolle fra listen fakturerings profiler.
-4. Velg **tilgangs kontroll (iam)** fra venstre side, og velg deretter **Legg til** fra toppen av siden.
+1. Logg på [Azure-portalen](https://portal.azure.com/).
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg **Faktureringsprofiler** fra venstre side. Velg en faktureringsprofil som du vil tilordne rollen fakturaansvarlig, fra listen over faktureringsprofiler.
+4. Velg **Tilgangskontroll (IAM)** fra venstre side, og velg deretter **Legg til** fra toppen av siden.
 
-Velg **faktura behandling** i rulle gardin listen rolle. Skriv inn e-postadressen til brukeren for å gi tilgang. Velg **Lagre** for å tilordne rollen.
+Velg **Fakturaansvarlig** i rullegardinlisten Rolle. Angi e-postadressen til brukeren for å gi tilgang. Velg **Lagre** for å tilordne rollen.

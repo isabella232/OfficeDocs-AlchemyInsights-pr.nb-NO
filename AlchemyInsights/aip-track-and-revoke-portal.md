@@ -1,8 +1,8 @@
 ---
-title: 'Det administrative: spore og oppheve portalen'
+title: 'AIP: Spore og oppheve portalen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663162"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821600"
 ---
-# <a name="aip-track-and-revoke-portal"></a>Det administrative: spore og oppheve portalen
+# <a name="aip-track-and-revoke-portal"></a>AIP: Spore og oppheve portalen
 
-Bruk **dokument sporings området** i Azure-portalen til å spore og oppheve dokumenter ved bruk av Azure Information Protection. Office-programmene (Word, Excel og PowerPoint) og fil Utforsker kan også brukes til å spore og tilbakekalle dokumenter.
+Bruk **dokumentsporingsnettstedet** i Azure Portal til å spore og oppheve dokumenter når du bruker Azure Information Protection. Office-programmene (Word, Excel og PowerPoint) og Filutforsker kan også brukes til å spore og oppheve dokumenter.
 
-1. Klikk **Opphev tilgang**i området for dokument sporing. Hvis du opphever et dokument, fjernes tilgang fra autoriserte brukere. dokumentet slettes ikke.
+1. Klikk Tilbakekall tilgang på **dokumentsporingsnettstedet.** Når du opphever et dokument, fjernes tilgangen fra autoriserte brukere. dokumentet slettes ikke.
 2. I Office-programmet:
     - Åpne det beskyttede dokumentet du vil spore eller oppheve.
-    - Klikk **beskytt > spor og Opphev**i **beskyttelse** -gruppen på **hjem** -fanen.
+    - Klikk **Beskytt** > Spor  og opphev i **Beskyttelse-gruppen på Hjem-fanen.**
 
-- Hvis du vil ha mer informasjon om hvordan du sporer og opphever et dokument, kan du se [spore og oppheve](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Hvis du vil ha mer informasjon om sporing og tilbakekalling av et dokument, kan du se [Spore og oppheve](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-Hvis du vil ha informasjon om hvordan du bruker PowerShell til å administrere området for dokument sporing, logging av informasjon, kan du se følgende:
-- [Bruker veiledning: spore og oppheve dokumenter når du bruker Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Administrator veiledning: konfigurere og bruke dokument sporing for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Bruks lisens for rettighets administrasjon](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Se gjennom abonnementer og funksjoner for Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+Hvis du vil ha informasjon om hvordan du bruker PowerShell til å behandle dokumentsporingsnettstedet, loggingsinformasjon, kan du se følgende:
+- [Brukerveiledning: Spore og oppheve dokumentene dine når du bruker Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Administrasjonsveiledning: Konfigurere og bruke dokumentsporing for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Lisens for Rights Management-bruk](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Se gjennom Azure Information Protection-abonnementer og -funksjoner](https://azure.microsoft.com/pricing/details/information-protection)
 - [Krav for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Hurtigst Art opplæring for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Hurtigstartopplæring for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

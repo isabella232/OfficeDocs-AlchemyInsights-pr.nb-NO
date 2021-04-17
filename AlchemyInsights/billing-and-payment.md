@@ -2,7 +2,7 @@
 title: Fakturering og betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686039"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820403"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
-Du finner regninger på fanen **betalings**  >  [regninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Som standard vises de siste tre månedene av fakturaer.  Hvis du vil vise eldre fakturaer, justerer du filteret.  Klikk koblingen **Last ned faktura PDF** for å vise fakturaen.
+Du finner fakturaene dine på  >  [faktureringsregninger & betalingsfanen.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard vises de siste tre månedene med fakturaer.  Hvis du vil vise eldre fakturaer, justerer du filteret.  Klikk koblingen **Last ned PDF-faktura** for å vise fakturaen.
 
 **Motta fakturaer via e-post**
 
-På siden for **fakturering**av fakturerings  >  [varsler](https://go.microsoft.com/fwlink/p/?linkid=853212) kan du aktivere denne funksjonen **on** og administrere brukerne som skal motta fakturaen som et e-postvedlegg. Fakturaen sendes til e-postadressene til brukerne i listen over varslings mottakere. Listen inkluderer alle fakturerings-og globale administratorer.  Du kan administrere hvem som mottar faktura varsler, ved å endre rollen.  Hvis du fjerner den globale eller fakturerings rollen, fjernes brukeren fra mottaker listen, og hvis du legger til den globale eller fakturerings rollen, legges brukeren til i mottaker listen.
+På **faktureringsvarsler-siden** kan du aktivere denne funksjonen og administrere brukerne som mottar fakturaen  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) som et e-postvedlegg.  Fakturaen sendes til e-postadressene til brukerne i listen over varslingsmottakere. Listen inneholder alle fakturerings- og globale administratorer.  Du kan administrere hvem som får fakturavarslene ved å endre rollen.  Hvis du fjerner rollen som global administrator eller faktureringsadministrator, fjernes brukeren fra mottakerlisten, og når du legger til rollen som global administrator eller faktureringsadministrator, legges brukeren til i mottakerlisten.
 
-**Obs**! du vil motta to separate e-poster: en som lar deg vite at fakturaen er klar, med instruksjoner for å logge seg på administrasjons senteret for å vise den, og en annen e-postmelding som inneholder fakturerings oppgaven som et vedlegg.
+**Obs!** Du mottar to separate e-postmeldinger: én som gir deg beskjed om at fakturaen er klar, med instruksjoner for å logge på administrasjonssenteret for å vise den, og en annen e-postmelding som inneholder fakturautskriften som et vedlegg.
 
-**Kvittering**
+**Betaling**
 
-Hvis du betaler med kreditt kort eller bank konto, belastes betalings metoden som er knyttet til abonnementet/abonnementene i løpet av noen dager etter at fakturaen er opprettet. Oppdater eller endre betalings måten hvis betalingen mislykkes.
+Hvis du betaler med kredittkort eller bankkonto, belastes betalingsmåten som er knyttet til abonnementet(e), innen noen få dager etter at fakturaen er opprettet. Hvis betalingen mislykkes, oppdaterer eller endrer du betalingsmåten.
 
-Hvis du har lagt til et nytt kort, og du fremdeles får en avslag-melding på det gamle kreditt kortet, må du kanskje knytte det nye kortet til abonnementet.
+Hvis du har lagt til et nytt kort og du fremdeles får et avslått varsel på det gamle kredittkortet, må du kanskje knytte det nye kortet til abonnementet.
 
-1. I administrasjons senteret går du til **Billing**  >  siden betalings metoder for fakturering **& betalinger**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. Gå til Faktureringsregninger-siden & betalingsmetoder i   >  **administrasjonssenteret.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. Velg raden for betalings metoden som skal erstattes. Høyre rute viser alle fakturerings profiler og individuelle abonnementer som bruker den valgte betalings metoden.
+2. Velg raden for betalingsmåten som skal erstattes. Ruten til høyre viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
 
-3. Velg **Erstatt betalings måte for alle varer**i ruten til høyre.
+3. Velg Erstatt betalingsmåte for alle elementer i ruten **til høyre.**
 
-4. Hvis du vil bruke en eksisterende betalings metode, velger du en fra rulle gardin listen, og deretter velger du **Erstatt**.
+4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og deretter velger du **Erstatt**.
 
     > [!NOTE]
-    > Hvis du har abonnementer knyttet til en fakturerings profil, kan du bare bruke et kreditt kort eller debetkort til å betale for dem. Hvis du har Bank kontoer som er oppført på siden **betalings metoder** , er de ikke tilgjengelige for å velge i rulle gardin listen.
+    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer  oppført på Betalingsmåter-siden, er de ikke tilgjengelige for valg i rullegardinlisten.
 
-5. Hvis du vil legge til en ny betalings måte, velger du **Legg til betalings måte**.
+5. Hvis du vil legge til en ny betalingsmåte, velger **du Legg til betalingsmåte**.
 
-6. Skriv inn konto informasjonen i ruten **Legg til en betalings metode** , og velg deretter **Lagre**. Du må bruke en betalings metode fra samme land som leieren din.
+6. Skriv inn **kontoinformasjonen i** ruten Legg til en betalingsmåte, og velg deretter **Lagre**. Du må bruke en betalingsmåte fra samme land som leieren.
 
-7. Den nye betalings metoden er allerede valgt i rulle gardin listen. Velg **Erstatt**.
+7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
 
-Hvis du vil ha mer informasjon, kan du se [administrere betalings metoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Hvis du vil ha mer informasjon, [kan du se Administrere betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-**Fakturerings frekvens**
+**Faktureringshyppighet**
 
-Regninger genereres månedlig eller årlig, avhengig av fakturerings frekvensen som er valgt i kassen.  
+Regninger genereres månedlig eller årlig, avhengig av faktureringsfrekvensen som er valgt i kassen.  
 
-**Obs**! ordrer med årlig fakturering kan motta en veksel i midt periode hvis det ble gjort endringer, for eksempel å legge til eller fjerne lisenser. [Endre fakturerings hyppigheten](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Obs!** Bestillinger med årlig fakturering kan motta en faktura midt i perioden hvis det ble gjort endringer, for eksempel å legge til eller fjerne lisenser. [Endre faktureringsfrekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

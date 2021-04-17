@@ -1,8 +1,8 @@
 ---
-title: AntiSpam 5.4.1 DBEB Catch-all
+title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717370"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821456"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Løse leverings problemer for feilkode 550 5.4.1 relé ingen tilgang
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Løse leveringsproblemer for feilkode 550 5.4.1 Videresendingstilgang nektet
 
-Dette problemet oppstår når [du ser etter at en e-postadresse er gyldig for å forhindre bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) når du skriver inn Microsoft-nettverket. Prøv følgende:
+Dette problemet oppstår når [du kontrollerer om en e-postadresse er](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) gyldig for å forhindre returmeldinger når du går inn i Microsoft-nettverket. Prøv følgende:
 
-1. Finn ut om problemet er spesifikt for et helt domene eller én enkelt e-post adresse:
-    - Hele domenet: noen ganger må domenet synkroniseres. Prøv å [Angi domenet til internt, og deretter tilbake til autoritativt](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Enkel e-post adresse: noen ganger må adressen synkroniseres. å endre SMTP-proxy-adressen og deretter endre den tilbake kan hjelpe deg.
-2. Finn ut om problemet er spesifikke for en gruppe eller en felles mappe. For enkelte objekt typer kan det hende at objektene må opprettes manuelt i Azure Active Directory.
+1. Finn ut om problemet er spesifikt for et helt domene eller én enkelt e-postadresse:
+    - Hele domenet: Noen ganger må domenet synkroniseres. prøv [å sette domenet til Internt, og deretter tilbake til Autoritativ](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Enkel e-postadresse: Noen ganger må adressen synkroniseres. Det kan hjelpe å endre smtp-proxy-adressen og deretter endre den tilbake.
+2. Finn ut om problemet er spesifikt for en gruppe eller fellesmappe. For enkelte objekttyper kan det hende at objektene må opprettes manuelt i Azure Active Directory.
 
-Hvis du trenger mer hjelp, kan du åpne en støtte forespørsel og angi omfanget av problemet (inkludert objekt typen du sender til), slik at vi kan hjelpe deg bedre.
+Hvis du trenger mer hjelp, kan du åpne en støtteforespørsel og angi omfanget av problemet (inkludert objekttypen du sender til), slik at vi kan hjelpe deg bedre.

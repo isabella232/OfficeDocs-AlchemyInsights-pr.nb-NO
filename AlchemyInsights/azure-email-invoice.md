@@ -1,8 +1,8 @@
 ---
-title: Azure e-postfakturering
+title: E-postfakturering i Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922135"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820799"
 ---
-# <a name="azure-email-invoicing"></a>Azure e-postfakturering
+# <a name="azure-email-invoicing"></a>E-postfakturering i Azure
 
-Du må ha en konto administrator rolle på et abonnement eller en kunde støtte plan for å kunne velge å motta fakturaen via e-post. E-fakturaer er bare tilgjengelige for abonnementer og støtte planer, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har valgt-i, kan du også legge til flere mottakere, som mottar fakturaen via e-post. Følg disse trinnene.
+Du må ha en kontoadministratorrolle på et abonnement eller en støtteplan for å aktivere å motta faktura på e-post. E-postfakturaer er tilgjengelig bare for abonnement- og støtteplaner, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har aktivert, kan du legge til ekstra mottakere, som også mottar fakturaen på e-post. Følg deretter disse trinnene.
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/).
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg **fakturaer** fra venstre side.
-4. Velg abonnementet på Azure-abonnementet eller kunde støtte planen, og velg deretter **motta faktura via e-post**.
-5. Klikk på **e-faktura** og godta vilkårene.
-6. Fakturaen sendes til din foretrukne kommunikasjons e-post. Velg **Oppdater profil** for å oppdatere e-postmeldingen.  
+1. Logg på [Azure-portalen](https://portal.azure.com/).
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg **Fakturaer** fra venstre side.
+4. Velg Azure-abonnement eller støtteplanabonnement, og velg deretter **Motta faktura på e-post**.
+5. Klikk på **Send faktura på e-post**, og godta vilkårene.
+6. Fakturaen sendes til foretrukket e-post for kommunikasjon. Velg **Oppdater profil** for å oppdatere e-posten.  
 
-    Du vil kanskje dele fakturaene for abonnementet og kunde støtte planen hver måned med regnskaps teamet, eller sende dem til en av de andre e-postadressene.  
+    Du bør dele fakturaene for abonnementet og støtteplanen hver måned med regnskapsteamet eller sende dem til en av de andre e-postadressene dine.  
 
-7. Følg Fremgangs måten ovenfor for først å aktivere faktura via e-post, og velg deretter  **Konfigurer mottakere.**
-8. Skriv inn en e-postadresse, og velg deretter **Legg til mottaker**. Du kan legge til flere e-postadresser.
-9. Når du har lagt til alle e-postadressene, velger du **ferdig** fra bunnen av skjermen.
+7. Følg trinnene over for å først aktivere fakturaen på e-post og deretter velge **Konfigurer mottakere.**
+8. Angi en e-postadresse, og velg deretter **Legg til mottaker**. Du kan legge til flere e-postadresser.
+9. Når du har lagt til alle e-postadressene, velger du **Ferdig** nederst på skjermen.
