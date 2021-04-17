@@ -2,7 +2,7 @@
 title: Aktivere en ny enhet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823292"
 ---
 # <a name="activating-a-new-device-running-windows-10"></a>Aktivere en ny enhet som kjører Windows 10
 
-Hvis du kjøpte en ny enhet som kjører Windows 10, aktiveres den automatisk når du kobler enheten til Internet t. Hvis Aktiveringsserveren er opptatt, må du kanskje vente en stund før Windows aktiveres.
+Hvis du kjøpte en ny enhet som kjører Windows 10, aktiveres den automatisk når du kobler enheten til Internett. Hvis aktiveringsserverne er opptatt, må du kanskje vente litt på at Windows skal aktivere.
 
-Hvis du vil kontrollere aktiverings status, velger du **Start** **Innstillinger**for  >  **oppdatering & sikkerhets**  >  **aktivering**.
+Hvis du vil kontrollere aktiveringsstatusen, velger du **Start** **innstillinger** Oppdater  >  **& sikkerhetsaktivering**  >  .
 
-**Obs!** I noen tilfeller kan det hende du må angi produkt nøkkelen for Windows 10 som fulgte med enhets emballasjen, eller som er inkludert som et kort eller på ekthetsgarantien (COA) som er knyttet til enheten.
+**Obs!** I noen tilfeller må du kanskje angi produktnøkkelen for Windows 10 som fulgte med enhetsemballasjen, eller inkluderes som et kort eller på ekthetsgaranti (COA) som er knyttet til enheten.
 
-[Lær mer om aktivering i Windows 10](https://support.microsoft.com/help/12440)
+[Finn ut mer om aktivering i Windows 10](https://support.microsoft.com/help/12440)

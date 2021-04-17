@@ -1,8 +1,8 @@
 ---
-title: Hvilken versjon av Android støtter appen din?
+title: Hvilken versjon av Android støtter appen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824192"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Hvilken versjon av Android støtter appen din?
+# <a name="what-version-of-android-does-your-app-support"></a>Hvilken versjon av Android støtter appen?
 
-For best ytelse fungerer vår app på alle enheter med Android-versjon 5,0 og nyere.
+Appen vår fungerer på alle enheter med Android versjon 5.0 og nyere for å få best mulig ytelse.
 
-Hvis du er oppdatert på Android OS, men fortsatt mottar varsler om at operativ systemet er inkompatibelt med enheten, kan du prøve å tømme bufferen og dataene i Play store-appen.
+Hvis du er oppdatert på Android OS, men fortsatt mottar varsler om at operativsystemet er inkompatibelt med enheten, kan du prøve å tømme bufferen og dataene i Play Store-appen.
 
 Slik gjør du det: 
 
-1. Åpne **Innstillinger** og deretter **apper** eller **programmer**på en Android-telefon eller et nett brett.
+1. Åpne Innstillinger og deretter Apper eller  Programmer på Android-telefonen eller  **-nettbrettet.**
 
-2. Trykk **mer** (dette kan også være en ellipse eller tre lodd rette prikker) øverst på skjermen, og **Vis deretter system**. 
+2. Trykk Mer øverst på skjermen **(dette** kan også være en ellipse eller tre loddrette prikker) og deretter **Vis system**. 
 
-3. Rull ned og trykk på **Google Play Services**. 
+3. Rull nedover og trykk **Google Play-tjenester.** 
 
-4. Trykk **lagrings plass** , og **Fjern deretter merket for hurtig buffer**. 
+4. Trykk **på Lagringsplass** og deretter Tøm **buffer**. 
 
-5. Trykk på **Behandle Space** , og **Fjern deretter alle dataene**. 
+5. Trykk **Administrer plass,** og fjern **deretter alle data**. 
 
-6. Åpne **Google Play store**. 
+6. Åpne **Google Play Store.** 
 
-7. Vent i 5 minutter, og prøv på nytt. 
+7. Vent i fem minutter, og prøv på nytt. 

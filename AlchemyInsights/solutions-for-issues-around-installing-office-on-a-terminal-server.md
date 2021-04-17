@@ -1,8 +1,8 @@
 ---
-title: Løsninger for problemer som er i ferd med å installere Office på en terminalserver
+title: Løsninger på problemer ved installasjon av Office på en Terminal Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,28 +10,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738466"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823616"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Løsninger for problemer som er i ferd med å installere Office på en terminalserver
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Løsninger på problemer ved installasjon av Office på en Terminal Server
 
-Hvis du vil bruke en delt data maskin aktivering, må du ha et abonnement som inneholder Microsoft 365-apper for Enterprise.
+Hvis du vil bruke aktivering av delt datamaskin, må du ha et abonnement som inkluderer Microsoft 365-apper for bedrifter.
   
-- Kontrollere at aktivering av delt data maskin er aktivert
+- Kontroller at aktivering av delt datamaskin er aktivert
 - Kontroller at aktiveringen var vellykket
-- Se gjennom feil meldinger for en delt data maskin aktivering:
-- "Produktene vi har funnet i kontoen din, kan ikke brukes til å aktivere Office i scenarier med delte data maskiner"
+- Se gjennom feilmeldinger for aktivering av delt datamaskin:
+- «Produktene vi fant i kontoen din, kan ikke brukes til å aktivere Office i scenarioer for delt datamaskin»
   
-Denne feilen betyr at du ikke har et abonnement som inkluderer Microsoft 365-apper for Enterprise.
+Denne feilen betyr at du ikke har et abonnement som inkluderer Microsoft 365-apper for bedrifter.
 
-"Ulisensiert produkt"
+«Ulisensiert produkt»
 
-- Kontroller at brukeren er tilordnet en lisens for Microsoft 365-apper for Enterprise.
-- Kontroller at brukeren logger på med bruker kontoen.
-- Kontroller at det er tilkobling mellom den delte data maskinen og Internet t.
+- Kontroller at brukeren er tilordnet en lisens for Microsoft 365-apper for bedrifter.
+- Kontroller at brukeren logger på med brukerkontoen sin.
+- Kontroller at det er tilkobling mellom den delte datamaskinen og Internett.
 
-For andre feil søkings tips kan du se: [Feilsøke problemer med aktivering av delt data maskin](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Hvis du vil ha andre feilsøkingstips, kan du se: [Feilsøke problemer med aktivering av delt datamaskin](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

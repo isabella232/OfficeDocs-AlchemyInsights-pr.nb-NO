@@ -1,8 +1,8 @@
 ---
-title: Aktivere og tilordne program vare som tjeneste lisenser for apper
+title: Aktivere og tilordne applisenser for programvare som en tjeneste
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823220"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne program vare som tjeneste lisenser for apper 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tilordne applisenser for programvare som en tjeneste 
 
 ## <a name="to-activate-apps"></a>Slik aktiverer du apper
 
-1. Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret, og velg deretter **apper** -fanen.
+1. Gå til Fakturering av produkter-siden i administrasjonssenteret,  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** og velg deretter **Apper-fanen.**
 
 2. Finn og velg appen du vil administrere.
 
-3. Velg **Konfigurer konto**under **lisenser**.  
+3. Velg **Konfigurer** konto under **Lisenser**.  
 
-## <a name="to-assign-app-licenses"></a>Slik tilordner du app-lisenser
+## <a name="to-assign-app-licenses"></a>Slik tilordner du applisenser
 
-1. Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrasjons senteret, og velg deretter **apper** -fanen.
+1. Gå til Fakturering av produkter-siden i administrasjonssenteret,  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** og velg deretter **Apper-fanen.**
 
 2. Finn og velg appen du vil administrere.  
 
-3. Under **innstillinger & handlinger**velger du koblingen du vil **Behandle i Publisher-portalen**.
+3. Under **Innstillinger & handlinger** velger du koblingen til **Behandle i utgiverens portal**.

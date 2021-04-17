@@ -2,7 +2,7 @@
 title: Mover
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: e1c1ca19944c55b055f807107d61b0d077743b68
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49986307"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825308"
 ---
 # <a name="mover"></a>Mover
 
-Hvis du vil ha informasjon om en flytte, kan du se følgende artikler:
+Hvis du vil ha informasjon om Mover, kan du se følgende artikler:
 
-- [Planlegge overføringen med en flytte](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Planlegge overføringen med Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
 - [Behandle koblinger](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
-- [Kjøre flytte overføringen](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
+- [Kjøre Mover-overføringen](https://docs.microsoft.com/sharepointmigration/mover-running-migration)

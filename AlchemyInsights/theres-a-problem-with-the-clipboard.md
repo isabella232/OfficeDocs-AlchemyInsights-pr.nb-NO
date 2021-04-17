@@ -1,8 +1,8 @@
 ---
-title: Det er et problem med utklipp stav len
+title: Det er et problem med utklippstavlen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750280"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824660"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Løse feil i Excel-utklippstavlen
+# <a name="resolving-excel-clipboard-error"></a>Løse utklippstavlefeil i Excel
 
-Hvis du får en feil melding i Excel som sier «det er et problem med utklipp stav len, men du kan fortsatt lime inn innholdet i denne arbeids boken» "Prøv å deaktivere funksjonen for direkte forhånds visning ved å følge disse trinnene:
+Hvis du får en feilmelding i Excel der det står «Det er et problem med utklippstavlen, men du kan fortsatt lime inn innholdet i denne arbeidsboken», kan du prøve å deaktivere funksjonen Direkte forhåndsvisning ved å følge disse trinnene:
 
-1. Klikk **fil**  >  **Alternativer**i Excel.
-3. Velg **Generelt**i dialog boksen **Alternativer for Excel** .
-4. Fjern **Aktiver direkte forhånds visning**under **Alternativer for bruker grensesnitt**.
+1. Klikk Filalternativer **i**  >  Excel.
+3. Velg **Generelt** i dialogboksen Alternativer for **Excel.**
+4. Fjern **merket for Aktiver** direkte forhåndsvisning under Alternativer for **brukergrensesnitt**.
 5. Klikk **OK**.
 6. Start Excel på nytt.
