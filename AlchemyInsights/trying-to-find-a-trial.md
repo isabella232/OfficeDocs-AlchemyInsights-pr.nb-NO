@@ -1,8 +1,8 @@
 ---
-title: Prøver du å finne en prøve versjon?
+title: Prøver du å finne en prøveversjon?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658383"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834704"
 ---
-# <a name="trying-to-find-a-trial"></a>Prøver du å finne en prøve versjon?
+# <a name="trying-to-find-a-trial"></a>Prøver du å finne en prøveversjon?
 
-Hvis du ønsker å prøve en ny tjeneste, kan du finne en liste over abonnementer som er tilgjengelige for prøve versjonen i administrasjons senteret for Microsoft 365.
+Hvis du vil prøve en ny tjeneste, kan du finne en liste over abonnementer som er tilgjengelige for prøveversjon i administrasjonssenteret for Microsoft 365.
   
-1. Gå til siden **for** \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) i administrasjons senteret.
+1. Gå til faktureringskjøpstjenester-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) administrasjonssenteret.
 
-2. Velg abonnementet som oppfyller behovene dine, og velg deretter  **få en gratis prøve periode**.
+2. Velg abonnementet som oppfyller dine behov, og velg deretter  **Få gratis prøveperiode**.
 
     > [!NOTE]
-    > Ikke alle abonnementer er tilgjengelige som en prøve versjon. Hvis du ikke ser knappen **få gratis prøve perioden** når du peker over et abonnement, betyr det at en prøve versjon ikke er tilgjengelig.
+    > Ikke alle abonnementer er tilgjengelige som en prøveversjon. Hvis du ikke ser  Få gratis prøveversjon-knappen når du beveger musen over et abonnement, betyr det at en prøveversjon ikke er tilgjengelig.
   
-3. Du kan bli bedt om å angi et kreditt kort eller en annen betalings metode for å gi ytterligere bekreftelse som et sikkerhets tiltak. Du blir ikke belastet for denne gratis prøve perioden. Vi beholder betalings informasjonen din på fil, og du kan ikke bruke den til noe kjøp uten din godkjenning.
+3. Du kan bli bedt om å angi et kredittkort eller en annen betalingsmåte for å gi ytterligere bekreftelse som et sikkerhetstiltak. Du blir ikke belastet for denne gratis prøveperioden. Vi holder betalingsinformasjonen din arkivert, og vil ikke bruke den til kjøp uten din godkjenning.
 
 4. Velg **Prøv nå**.

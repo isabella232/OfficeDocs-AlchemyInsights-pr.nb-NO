@@ -1,29 +1,30 @@
 ---
-title: Noen har allerede konfigurert Teams for organisasjonsfeilen
+title: Noen har allerede konfigurert Teams for organisasjonsfeilmeldingen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835316"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>"Noen har allerede konfigurert Teams for organisasjonen din" feil
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Feilmeldingen «Noen har allerede konfigurert Teams for organisasjonen»
 
-Hvis du ser feilen "Noen har allerede konfigurert Teams for organisasjonen din", kan dette skyldes:
+Hvis du ser feilmeldingen «Noen har allerede konfigurert Teams for organisasjonen» i Teams, kan dette skyldes:
 
-1. Noen har allerede satt opp Teams for deg. Sjekk e-posten din for invitasjonen, eller prøv å logge på Teams i en privat/inkognitonettleser med domenelegitimasjonen din på [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Noen har allerede konfigurert Teams for deg. Se etter invitasjonen på e-post, eller prøv å logge deg på Teams i en privat/inkognito nettleser med domenelegitimasjonen din [https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Du prøver å registrere deg med e-postadressen din som er knyttet til både en jobb- og personlig konto. Contoso.com brukes for eksempel for både Microsoft-tjenestekontoen (Live ID) og arbeidskontoen (Active Directory). Hvis dette er tilfelle, kan du prøve å opprette Teams i et nytt privat/inkognitonettleservindu og velge «Jobb eller skole»-versjonen av påloggingen din i stedet for personlig. Hvis det ikke fungerer, må du fjerne tilknytningen til disse for å opprette en gratis Teams-konto på riktig måte. For at du skal kunne gjøre dette, følg trinnene under "Jeg vil bruke en annen adresse eller telefonnummer til å logge på" på siden, [Endre e-postadressen eller telefonnummeret for Microsoft-kontoen din](https://support.microsoft.com/help/12407).
+2. Du prøver å registrere deg med e-postadressen som er knyttet til både en jobb- og personlig konto. Contoso.com brukes for eksempel for både Microsoft Service Account (Live ID) og jobbkontoen din (Active Directory). Hvis dette er tilfelle, kan du prøve å opprette Teams i et nytt privat/inkognito nettleservindu og velge versjoen «Jobb eller skole» på påloggingen i stedet for personlig. Hvis dette ikke fungerer, må du koble disse fra slik at de opprettes på riktig måte som en gratis Teams-konto. For at du skal kunne gjøre dette må du følge fremgangsmåten under «Jeg vil bruke en annen adresse eller et annet telefonnummer for å logge på» på siden [Endre e-postadressen eller telefonnummeret for Microsoft-kontoen din](https://support.microsoft.com/help/12407).
 
-3. Du prøver å registrere din nåværende arbeidsadresse til en gratis leietaker. Hvis dette er tilfelle, forventes dette å mislykkes her, og du må bruke organisasjonens leier med denne adressen. Du kan opprette en gratis Teams-konto med en personlig e-postadresse for personlig bruk [her.](https://products.office.com/microsoft-teams/group-chat-software)
+3. Du prøver å registrere den gjeldende jobbadressen til en gratis leier. Hvis dette er tilfelle, er dette forventet å mislykkes her, og du må bruke organisasjonens leier med denne adressen. Du kan opprette en gratis Teams-konto med en personlig e-postadresse for personlig bruk [her](https://products.office.com/microsoft-teams/group-chat-software).

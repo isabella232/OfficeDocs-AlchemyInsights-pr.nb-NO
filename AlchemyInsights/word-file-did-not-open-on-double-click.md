@@ -1,8 +1,8 @@
 ---
-title: Word-fil åpnes ikke ved dobbelt klikk
+title: Word-filen ble ikke åpnet ved dobbeltklikk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794812"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834128"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åpnet i feil app eller ble ikke åpnet
 
@@ -25,26 +25,26 @@ Prøv ett av disse forslagene:
 
 **Velg Word som standard**
 
-- Høyre klikk på dokumentet, velg **Åpne med**, og velg deretter **Word**
+- Høyreklikk dokumentet, velg Åpne **med**, og velg deretter **Word**
 
-**Kjøre en hurtig reparasjon**
+**Kjøre en raskere reparasjon**
 
-1. Gå til **kontroll Panel > programmer > programmer og funksjoner**.
+1. Gå til **Kontrollpanel > programmer > Programmer og funksjoner**.
 
-2. Velg Office-produktet du vil reparere, og velg deretter **endre**.
+2. Velg Office-produktet du vil reparere, og velg deretter **Endre**.
 
-3. Velg **hurtig reparasjons** alternativet, og velg deretter **Reparer**.
+3. Velg alternativet **Raskere reparasjon,** og velg deretter **Reparer**.
 
 **Avinstallere versjoner av Office du ikke bruker**
 
-1. Gå til **kontroll Panel > Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.
+1. Gå til **Kontrollpanel> Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.
 
 2. Klikk **Avinstaller**.
 
-3. Start data maskinen på nytt.
+3. Start datamaskinen på nytt.
 
-**Kjør dette feil søkings programmet for å angi Office-filtyper som skal åpnes i Office**
+**Kjør dette feilsøkingsprogrammet for å angi at Office-filtyper skal åpnes i Office**
 
-1. Kjør dette feil søkings programmet: https://aka.ms/diag_officefile .
+1. Kjør dette feilsøkingsprogrammet: https://aka.ms/diag_officefile .
 
-2. Avhengig av hvilken nett leser du bruker, **åpner** eller **lagrer** du feil søkings verktøyet på skrive bordet, og deretter **kjører** du det.
+2. Avhengig av hvilken nettleser du bruker, **kan du** åpne eller **lagre** feilsøkingsprogrammet på skrivebordet, og deretter **kjøre** det.

@@ -1,8 +1,8 @@
 ---
-title: Ekstern deling av Microsoft stream
+title: Ekstern deling av Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833984"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Ekstern deling av Microsoft stream
+# <a name="microsoft-stream-external-sharing"></a>Ekstern deling av Microsoft Stream
 
-Microsoft stream støtter ennå ikke eksterne Delings scenarioer for gjester eller personer utenfor organisasjonen. Vi vet at disse funksjonene er svært nødvendige, og vi arbeider med planer for hvordan du kan bygge disse funksjonene.
+Microsoft Stream støtter ennå ikke eksterne delingsscenarioer for gjester eller personer utenfor organisasjonen. Vi vet at disse funksjonene er svært nødvendige, og vi arbeider med planer for hvordan du bygger disse funksjonene.
 
-- [Ekstern deling i dataflyt](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Ekstern deling i strøm](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Del videoene dine i Microsoft stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Dele videoer i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

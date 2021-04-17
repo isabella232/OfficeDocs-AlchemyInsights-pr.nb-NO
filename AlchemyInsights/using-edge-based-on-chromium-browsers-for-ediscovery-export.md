@@ -1,8 +1,8 @@
 ---
-title: Bruke Microsoft Edge basert på Chromium-lesere for eDiscovery-eksport
+title: Bruke Microsoft Edge basert på Chromium-nettlesere for Ediscovery-eksport
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834380"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Bruke Microsoft Edge basert på Chromium-lesere for eDiscovery-eksport
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Bruke Microsoft Edge basert på Chromium-nettlesere for Ediscovery-eksport
 
-På grunn av en nylig endring vil ikke Microsoft Edge-lesere lenger ha ClickOnce-støtte aktivert som standard. Hvis du vil fortsette å bruke eksport verktøyet for eDiscovery for Microsoft 365, må du enten bruke Microsoft Internet Explorer eller aktivere ClickOnce-støtte i Microsoft Edge. 
+På grunn av en nylig endring vil ikke Microsoft Edge-nettlesere lenger ha ClickOnce-støtte aktivert som standard. Hvis du vil fortsette å bruke microsoft 365 eDiscovery-eksportverktøyet, må du enten bruke Microsoft Internet Explorer eller aktivere ClickOnce-støtte i Microsoft Edge. 
 
 Slik aktiverer du ClickOnce-støtte i Microsoft Edge basert på Chromium: 
-1. Gå til edge://flags/#edge-Klikk en gang i Microsoft Edge-leseren.
-2. For alternativet ClickOnce-støtte, endrer du verdien fra **standard** eller **deaktivert** til **aktivert**. 
-3. Velg **Start på nytt**nederst i nett leser vinduet. <br>
+1. Gå til Edge://flags/#edge-click-once i Microsoft Edge-nettleseren.
+2. For alternativet ClickOnce Support endrer du verdien fra **Standard** eller **Deaktivert** til **Aktivert**. 
+3. Velg Start på nytt nederst i **nettleservinduet.** <br>
  Endringen trer i kraft etter at du har startet Microsoft Edge på nytt. 
 
-Hvis du vil ha informasjon om dette og trinnene for å installere eksport verktøyet, kan du se [ eksportere innholds søke resultater](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Hvis du vil ha informasjon om dette og fremgangsmåten for å installere eksportverktøyet, kan du se: [ Eksportere søkeresultater for innhold](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

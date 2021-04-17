@@ -1,8 +1,8 @@
 ---
-title: Microsoft stream-lagring
+title: Microsoft Stream Storage
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675307"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833948"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft stream-lagring
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 
-Microsoft stream-leietakere mottar en fast fordeling av 500 GB lagrings plass og en ekstra 0,5 GB lagrings plass per lisensierte bruker.
-Hvis du vil ha mer informasjon om lagrings plass, kan du se:
+Microsoft Stream-leiere mottar en fast tildeling på 500 GB lagringsplass og 0,5 GB ekstra lagringsplass per lisensiert bruker.
+Hvis du vil ha mer informasjon om lagring, kan du se:
 
-- [Oversikt over Microsoft stream-lagring](https://docs.microsoft.com/stream/license-overview#storage)
-- [Legge til lagrings plass i Microsoft stream](https://docs.microsoft.com/stream/storage-add-on)
-- [Kvoter og begrensninger i Microsoft stream](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Oversikt over Microsoft Stream Storage](https://docs.microsoft.com/stream/license-overview#storage)
+- [Legge til lagringsplass i Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
+- [Kvoter og begrensninger i Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

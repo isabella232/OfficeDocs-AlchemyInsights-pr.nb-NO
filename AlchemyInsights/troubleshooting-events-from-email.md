@@ -2,7 +2,7 @@
 title: Feilsøke hendelser fra e-post
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658743"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834848"
 ---
 # <a name="troubleshooting-events-from-email"></a>Feilsøke hendelser fra e-post
 
-1. Kontroller at funksjonen er aktivert for post boksen: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
+1. Kontroller at funksjonen er aktivert for postboksen: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Se deretter på hendelser fra e-postloggene **Eksporter-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Se deretter loggene «Hendelser fra **e-post» Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Finn InternetMessageId som Sams varer med elementet i post boksen, i hendelsene fra e-post-loggene.  
+3. Finn InternetMessageId som samsvarer med elementet i postboksen, i loggene Hendelser fra e-post.  
 
-4. TrustScore bestemmer om elementet skal legges til eller ikke. Hendelser blir bare lagt til hvis TrustScore = «klarert».
+4. TrustScore bestemmer om elementet er lagt til eller ikke. Hendelser legges bare til hvis TrustScore = "Klarert".
 
-TrustScore bestemmes av SPF-, DKIM-eller dMarc-egenskapene, som er i meldings hodet.
+TrustScore bestemmes av SPF-, Dkim- eller Dmarc-egenskapene, som er i meldingshodet.
 
 Slik viser du disse egenskapene:
 
-**Skrive bords Outlook**
+**Skrivebordsversjonen av Outlook**
 
 - Åpne elementet
-- Fil – > egenskaper – > Internett-meldingshoder
+- Fil -> -> Internett-meldingshoder
 
 eller
 
 **MFCMapi**
 
-- Navigere til elementet i innboksen
+- Gå til elementet i innboksen
 - Se etter PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Disse egenskapene bestemmes og registreres under transport og ruting. For videre feil søking må du kanskje følge opp med transport støtte om feilene i SPF, DKIM og. eller DMARC.
+Disse egenskapene bestemmes og registreres under transport og ruting. Hvis du vil ha mer feilsøking, må du kanskje følge opp med transportstøtte om feil i SPF, DKIM og.or DMARC.

@@ -1,8 +1,8 @@
 ---
-title: Konfigurere PSTN for telefon konferanser i Skype for business online
+title: Konfigurere PSTN-innringingslydkonferanser i Skype for Business Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835496"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurere PSTN for telefon konferanser i Skype for business online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurere PSTN-innringingslydkonferanser i Skype for Business Online
 
-Hvis du ønsker å konfigurere lyd konferanser for Skype for Business Online, må du gjøre noen ting. 
+Hvis du vil konfigurere lydkonferanser for Skype for Business Online, må du gjøre et par ting. 
 
-- Finn ut om lyd konferanser er tilgjengelig i landet/regionen din.
+- Finn ut om Lydkonferanser er tilgjengelig i ditt land/område.
 
 - Få og tilordne lisenser til brukerne.
 
-- Få og tilordne tjeneste numre.
+- Få og tilordne tjenestenumre.
 
-- Fullfør sjekk listen i [konfigurere lyd konferanser for Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Fullfør sjekklisten i [Konfigurere lydkonferanser for Skype for Business.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
