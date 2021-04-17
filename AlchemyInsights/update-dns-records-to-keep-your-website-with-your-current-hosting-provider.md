@@ -2,7 +2,7 @@
 title: Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834488"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="85256-102">Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert</span><span class="sxs-lookup"><span data-stu-id="85256-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="f836a-102">Oppdater DNS-poster for å beholde nettstedet hos gjeldende vert</span><span class="sxs-lookup"><span data-stu-id="f836a-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="85256-103">Som en del av prosessen med å flytte det offentlige nettstedet for Microsoft 365 til en annen vertsleverandør, må du sannsynligvis gjøre endringer i domenepostene.</span><span class="sxs-lookup"><span data-stu-id="85256-103">As part of the process of moving your Microsoft 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="f836a-103">Som en del av prosessen med å flytte det offentlige Microsoft 365-nettstedet til en annen vertsleverandør, må du sannsynligvis gjøre endringer i domenepostene.</span><span class="sxs-lookup"><span data-stu-id="f836a-103">As part of the process of moving your Microsoft 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="85256-104">Gå til Setup Domains i  \> **administrasjonssenteret,** og velg domenenavnet du vil endre.</span><span class="sxs-lookup"><span data-stu-id="85256-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
+1. <span data-ttu-id="f836a-104">Gå til Konfigurere domener i  \> **administrasjonssenteret,** og velg domenenavnet du vil endre.</span><span class="sxs-lookup"><span data-stu-id="f836a-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
 
-2. <span data-ttu-id="85256-105">Skriv inn informasjonen som samsvarer med nettstedet hos den nye vertsleverandøren.</span><span class="sxs-lookup"><span data-stu-id="85256-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="f836a-105">Skriv inn informasjonen som tilpasses nettstedet med den nye vertsleverandøren.</span><span class="sxs-lookup"><span data-stu-id="f836a-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
 
-<span data-ttu-id="85256-106">Hvis du vil ha mer informasjon, kan du se Oppdatere DNS-poster for [å beholde nettstedet hos gjeldende vertsleverandør.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="85256-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).</span></span>
+<span data-ttu-id="f836a-106">Hvis du vil ha mer informasjon, kan du se Oppdatere [DNS-poster for å beholde nettstedet hos den gjeldende vertsleverandøren.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f836a-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).</span></span>
   
-<span data-ttu-id="85256-107">Hvis du vil vite mer om opphør av det offentlige nettstedet, kan du se offentlige nettsteder for [SharePoint Online utgått.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)</span><span class="sxs-lookup"><span data-stu-id="85256-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
+<span data-ttu-id="f836a-107">Hvis du vil ha mer informasjon om opphør av det offentlige nettstedet, kan du se [Offentlige sharePoint Online-nettsteder som skal avvikles.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)</span><span class="sxs-lookup"><span data-stu-id="f836a-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
