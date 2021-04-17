@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-apper melding – finner ikke Office-lisenser som er forbundet
+title: Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802786"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836216"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-apper melding – finner ikke Office-lisenser som er forbundet
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Melding om Microsoft 365-apper – Finner ikke tilknyttede Office-lisenser
 
 For å løse denne filen prøver du følgende:
 
@@ -37,12 +37,12 @@ For å løse denne filen prøver du følgende:
 
 Hvis problemet vedvarer, kan du prøve følgende fremgangsmåte:
 
-- Tilbakestill aktiveringsstatusen for Office. Se [Tilbakestille Microsoft 365-apper for tilstand for organisasjonsaktivering](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Tilbakestill aktiveringsstatusen for Office. Se [Tilbakestille Microsoft 365 Apps for enterprise for tilstand for organisasjonsaktivering](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontroller brann muren, antivirus program varen og proxy-innstillingene for å bekrefte at de ikke blokkerer Microsoft 365-apper tilgang til Internet t. 
+- Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Tilgang til Microsoft 365-apper til Internett. 
 
 Hvis du trenger ytterligere feilsøkingsløsninger, kan du se:
 
 [Feil ved ulisensiert produkt og aktivering i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[URL-adresser og IP-adresseområder for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Nettadresser og IP-adresseområder for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

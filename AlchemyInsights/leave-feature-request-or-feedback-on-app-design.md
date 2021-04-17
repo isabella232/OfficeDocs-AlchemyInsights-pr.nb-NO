@@ -1,8 +1,8 @@
 ---
-title: Forlate en funksjons forespørsel eller tilbake melding om utforming av apper
+title: Legg igjen en funksjonsforespørsel eller tilbakemelding om apputforming
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836540"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Forlate en funksjons forespørsel eller tilbake melding om utforming av apper
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Legg igjen en funksjonsforespørsel eller tilbakemelding om apputforming
 
-Vi setter pris på at du deler tankene dine etter hvert som vi fortsetter å arbeide med Outlook. *UserVoice* er et forum der du kan gi tilbake melding og svare på ideer til andre.  
+Vi setter pris på at du deler tankene dine mens vi fortsetter å arbeide med Outlook. *UserVoice* er et forum der du kan gi tilbakemelding og stemme på andres ideer.  
 
-For å gi oss en idé: 
+Slik gir du oss en idé: 
 
-**Innstillinger > hjelp & tilbake melding > foreslå en funksjon > legge ut en idé** 
+**Innstillinger > hjelp & tilbakemelding > Foreslå en funksjon > Legge inn en idé** 
 
-**Bryr deg hvordan navn/e-post vises?**
+**Bryr du deg om hvordan navnet/e-postmeldingen din vises?**
 
-Når du legger til en kommentar i en eksisterende funksjons forespørsel, vil appen automatisk fylle ut enten navnet eller e-postadressen din fra primær kontoen din konfigurert i appen. Hvis du vil velge hvilke navn som skal vises, må du sende inn en **ny** funksjons forespørsel. 
+Når du legger til en kommentar i en eksisterende funksjonsforespørsel, fyller appen automatisk ut navnet ditt eller e-postadressen din fra den primære kontoen som er konfigurert i appen. Hvis du vil velge hvilket navn som skal vises, må du sende inn **en ny funksjonsforespørsel.** 
 
-Det å sende inn en forespørsel er en enkel tre trinns prosess. På den tredje og siste siden vil du se en linje for e-postadressen din (obligatorisk) og en linje for navnet ditt. Her kan du velge hvordan navnet ditt skal vises, eller du kan sende ideen anonymt. 
+Å sende inn en forespørsel er en enkel tretrinns prosess. På den tredje og siste siden ser du en linje for e-postadressen din (obligatorisk) og en linje for navnet ditt. Her kan du velge hvordan navnet ditt skal vises, eller du kan sende inn ideen anonymt. 
 
-**Obs!** Det kan også hende du må endre hvilken e-postadresse som skal fylles ut automatisk på denne siden. Hvis navnet ditt er satt opp på en bestemt måte i innstillingene for e-postklienten, kan det hende at endring av tilbake meldings innsending til anonyme blir overstyrt av innstillingene dine. 
+**Obs!** Du må kanskje også endre hvilken e-postadresse som fylles ut automatisk på denne siden. Hvis navnet ditt er konfigurert på en bestemt måte i innstillingene for e-postklienten, kan det overstyres av innstillingene dine å endre tilbakemeldingsinnsendingen til anonym. 

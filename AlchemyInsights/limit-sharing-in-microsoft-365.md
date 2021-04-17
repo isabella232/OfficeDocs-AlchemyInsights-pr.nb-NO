@@ -1,8 +1,8 @@
 ---
-title: Begrense deling i Microsoft 365
+title: Begrens deling i Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: a569fdb9af1183624d39c4e0244b96480ebaa7d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c374af0bc63133c172cc336bda7781489b93e331
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836432"
 ---
-# <a name="limit-sharing-in-microsoft-365"></a>Begrense deling i Microsoft 365
+# <a name="limit-sharing-in-microsoft-365"></a>Begrens deling i Microsoft 365
 
-Selv om du ikke kan deaktivere intern deling helt eller fjerne del-knappen fra nett steder, finnes det en rekke måter du kan begrense deling i Microsoft 365 på for å møte organisasjonens behov. Hvis du vil ha mer informasjon, kan du se [begrense deling i Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+Selv om du ikke kan deaktivere intern deling helt eller fjerne Del-knappen fra nettsteder, finnes det en rekke måter du kan begrense deling på i Microsoft 365 for å dekke behovene til organisasjonen. Hvis du vil ha mer informasjon, kan [du se Begrense deling i Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).

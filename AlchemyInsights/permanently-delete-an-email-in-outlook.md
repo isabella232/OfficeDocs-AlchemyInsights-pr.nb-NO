@@ -2,7 +2,7 @@
 title: Slette en e-postmelding permanent i Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771694"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836108"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Slette en e-postmelding permanent i Outlook
 
-- I Innboks-visningen, lang Trykk på en melding, og du ser ikonet papir kurv. Trykk dette ikonet for å slette meldingen.
+- Trykk på en melding fra innboksvisningen, så ser du papirkurvikonet. Trykk dette ikonet for å slette meldingen.
 
-- Du kan også angi Slett som et sveip-alternativ (**Innstillinger – > sveipe alternativer**); deretter bruker du fingeren til å sveipe på e-posten du vil slette. 
+- Du kan også angi «slett» som et sveipealternativ (**Innstillinger -> Sveip alternativer**); bruk deretter fingeren til å sveipe på e-postmeldingen du vil slette. 
 
-- Hvis du vil slette en melding fra en åpen e-postvisning, trykker du papir kurv ikonet øverst på skjermen. Slettede meldinger blir flyttet til papir kurv mappen. 
+- Hvis du vil slette en melding fra en åpen e-postvisning, trykker du papirkurvikonet øverst på skjermen. Slettede meldinger flyttes til papirkurvmappen. 
 
 **Slik sletter du en e-postmelding permanent**
 
-- Få tilgang til papir kurv mappen fra e-post-visningen ved å trykke konto ikonet (3 linjer) og trykke papir kurv mappen.
+- Få tilgang til papirkurvmappen fra e-postvisningen, trykk kontoikonet (3 linjer), og trykk papirkurvmappen.
 
-- Slett individuelle e-postmeldinger eller Marker flere e-postmeldinger, og slett dem herfra. de vil slettes permanent.
+- Slett individuelle e-postmeldinger eller merk flere e-postmeldinger og slett dem herfra. de slettes permanent.
