@@ -1,8 +1,8 @@
 ---
-title: Kreditt forespørsel på grunn av et tjeneste avbrudd
+title: Kredittforespørsel på grunn av et tjenestebrudd
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726856"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826460"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="de6ee-102">Kreditt forespørsel på grunn av et tjeneste avbrudd</span><span class="sxs-lookup"><span data-stu-id="de6ee-102">Credit request due to a service outage</span></span>
+# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="a0bdf-102">Kredittforespørsel på grunn av et tjenestebrudd</span><span class="sxs-lookup"><span data-stu-id="a0bdf-102">Credit request due to a service outage</span></span>
 
-<span data-ttu-id="de6ee-103">Hvis du vil bruke en kreditt forespørsel på grunn av tjeneste avbrudd, kan du åpne en service forespørsel.</span><span class="sxs-lookup"><span data-stu-id="de6ee-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
+<span data-ttu-id="a0bdf-103">Hvis du vil søke om en kredittforespørsel på grunn av et tjenestebrudd, kan du åpne en serviceforespørsel.</span><span class="sxs-lookup"><span data-stu-id="a0bdf-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
 
-<span data-ttu-id="de6ee-104">Pass på at du har hendelsen-ID, som du finner på [siden for tjeneste tilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) i administrasjons senteret for Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="de6ee-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="a0bdf-104">Pass på at du har hendelses-ID-en som du finner på siden for tjenestetilstand [i](https://docs.microsoft.com/office365/enterprise/view-service-health) administrasjonssenteret for Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a0bdf-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="de6ee-105">Vær oppmerksom på at når forespørselen behandles, vil det gjøre Valide ringer for å observere virkningen av driftsstans.</span><span class="sxs-lookup"><span data-stu-id="de6ee-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>
+<span data-ttu-id="a0bdf-105">Vær oppmerksom på at når forespørselen behandles, gjennomgår den valideringer for å observere virkningen av avbruddet.</span><span class="sxs-lookup"><span data-stu-id="a0bdf-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>
