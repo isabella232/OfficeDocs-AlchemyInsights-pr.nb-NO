@@ -2,7 +2,7 @@
 title: Installere Skype for Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832067"
 ---
 # <a name="install-skype-for-business"></a>Installere Skype for Business
 
-Du kan installere Skype for Business ved å følge trinnene  [her](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).
+Du kan installere Skype for Business ved å følge fremgangsmåten  [her](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).
 
-Hvis du vil ha informasjon om hvordan du avinstallerer, kan du se [avinstallere Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).
+Hvis du vil ha informasjon om avinstallering, kan [du se Avinstallere Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).

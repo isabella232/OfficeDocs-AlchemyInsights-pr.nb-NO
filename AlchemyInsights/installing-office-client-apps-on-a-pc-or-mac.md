@@ -2,7 +2,7 @@
 title: Installere Office-klientprogrammer på en PC eller MAC
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708359"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831959"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installere Office-klientprogrammer på en PC eller MAC
 
@@ -25,9 +25,9 @@ For å installere Office-klientapper må du sørge for at du har et Office 365- 
 
 **Merk**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) er et [Officeprodukt for hjemmebruk](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), og ikke en del av et bedriftsabonnement. Project Online Essentials inkluderer ikke en skrivebordsversjon av Project, så ingen installasjon er nødvendig. Brukere av Visio-abonnement 1 har tilgang til Visio for nettet ettersom planen ikke inkluderer skrivebordsversjonen av Visio. Project- og Visio-skrivebordsprogrammer er ikke tilgjengelige på Mac.
 
-Hvis du har et abonnement som omfatter Microsoft 365-apper, ser du ikke et alternativ for å installere det med mindre du har en [tilordnet lisens.](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) Hvis du er Office 365-administratoren som er ansvarlig for å tilordne lisenser, kan du se [Tilordne lisenser til brukere](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Du kan også bruke [nedlastingsinnstillinger for Office-programvare](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) til å velge om brukere kan installere Office-apper på sine egne enheter.
+Hvis du har et abonnement som inkluderer Microsoft 365-apper, ser du ikke et alternativ for å installere det med mindre du har en [tilordnet lisens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren som er ansvarlig for å tilordne lisenser, kan du se [Tilordne lisenser til brukere](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Du kan også bruke [nedlastingsinnstillinger for Office-programvare](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) til å velge om brukere kan installere Office-apper på sine egne enheter.
 
-**Obs!** [Office-aktiveringsrapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gir deg oversikt over hvilke brukere som har installert og aktivert Microsoft 365-appene sine på minst én enhet.
+**Obs!** [Office-aktiveringsrapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gir deg en oversikt over hvilke brukere som har installert og aktivert Microsoft 365-appene sine på minst én enhet.
 
 Hver bruker må så gjøre følgende:
 
