@@ -1,8 +1,8 @@
 ---
-title: Automatisk sammendrags e-post for SharePoint
+title: Automatisk sammendrag av e-post for SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831203"
 ---
-# <a name="sharepoint-auto-digest-email"></a><span data-ttu-id="080e1-102">Automatisk sammendrags e-post for SharePoint</span><span class="sxs-lookup"><span data-stu-id="080e1-102">SharePoint Auto Digest Email</span></span>
+# <a name="sharepoint-auto-digest-email"></a><span data-ttu-id="59da3-102">Automatisk sammendrag av e-post for SharePoint</span><span class="sxs-lookup"><span data-stu-id="59da3-102">SharePoint Auto Digest Email</span></span>
 
-<span data-ttu-id="080e1-103">Automatisk nyhets Sammendrag for SharePoint sender automatisert e-post til brukere i firmaet om de siste nyhets innleggene de ikke har lest, som er relevante for dem ennå.</span><span class="sxs-lookup"><span data-stu-id="080e1-103">SharePoint Auto-News Digest sends automated email to users in your company about the latest News posts that they have not yet read that are relevant to them.</span></span>
+<span data-ttu-id="59da3-103">SharePoint Auto-News Digest sender automatisert e-post til brukere i firmaet om de siste nyhetsinnleggene som de ennå ikke har lest som er relevante for dem.</span><span class="sxs-lookup"><span data-stu-id="59da3-103">SharePoint Auto-News Digest sends automated email to users in your company about the latest News posts that they have not yet read that are relevant to them.</span></span>
 
-<span data-ttu-id="080e1-104">Hvis du vil ha mer informasjon, kan du se [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)</span><span class="sxs-lookup"><span data-stu-id="080e1-104">For more information please visit [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)</span></span>
+<span data-ttu-id="59da3-104">Hvis du vil ha mer informasjon, kan du gå til [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)</span><span class="sxs-lookup"><span data-stu-id="59da3-104">For more information please visit [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)</span></span>
 
-- <span data-ttu-id="080e1-105">Vei kart-ID for Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)</span><span class="sxs-lookup"><span data-stu-id="080e1-105">Microsoft 365 Roadmap ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)</span></span>
-- <span data-ttu-id="080e1-106">Tids beregning: målrettede kunder i  **midten av juli (tidligere i juni**  og ferdig for alle kunder fra  **midten – august (tidligere tidlig i august)**.</span><span class="sxs-lookup"><span data-stu-id="080e1-106">Timing: Targeted release customers in  **mid-July (previously June**  and complete for all customers by  **mid-August (previously early August)**.</span></span>
-- <span data-ttu-id="080e1-107">Rulle ut: rulle ut bruker nivå</span><span class="sxs-lookup"><span data-stu-id="080e1-107">Roll-out: User level roll-out</span></span>
-- <span data-ttu-id="080e1-108">Kontroll type: bruker kontroll, \* \* administrasjons kontroll via PowerShell (kommer snart)</span><span class="sxs-lookup"><span data-stu-id="080e1-108">Control Type: User control,  \*\*Admin control via PowerShell (coming soon)</span></span>
+- <span data-ttu-id="59da3-105">Veikart-ID for Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)</span><span class="sxs-lookup"><span data-stu-id="59da3-105">Microsoft 365 Roadmap ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)</span></span>
+- <span data-ttu-id="59da3-106">Tidsberegning: Målrettede lanseringskunder i midten av **juli (tidligere** juni og fullført for alle kunder innen midten **av august (tidligere tidlig i august).**</span><span class="sxs-lookup"><span data-stu-id="59da3-106">Timing: Targeted release customers in  **mid-July (previously June**  and complete for all customers by  **mid-August (previously early August)**.</span></span>
+- <span data-ttu-id="59da3-107">Utrulling: Utrulling av brukernivå</span><span class="sxs-lookup"><span data-stu-id="59da3-107">Roll-out: User level roll-out</span></span>
+- <span data-ttu-id="59da3-108">Kontrolltype: Brukerkontroll, \*\*Administratorkontroll via PowerShell (kommer snart)</span><span class="sxs-lookup"><span data-stu-id="59da3-108">Control Type: User control,  \*\*Admin control via PowerShell (coming soon)</span></span>

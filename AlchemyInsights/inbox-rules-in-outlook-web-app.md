@@ -2,26 +2,27 @@
 title: Innboksregler i Outlook Web App
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800021"
 - "922"
-ms.openlocfilehash: 3fb738f0571d8ae8d5770a1e495897904b9dae46
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 9d9bc9e9bcceace8457ae0d4961a9d7d5eda0cb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005651"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830258"
 ---
-# <a name="inbox-rules-in-outlook-web-app"></a><span data-ttu-id="b3f7d-102">Innboksregler i Outlook Web App</span><span class="sxs-lookup"><span data-stu-id="b3f7d-102">Inbox rules in Outlook Web app</span></span>
+# <a name="inbox-rules-in-outlook-web-app"></a><span data-ttu-id="5e1a8-102">Innboksregler i Outlook Web App</span><span class="sxs-lookup"><span data-stu-id="5e1a8-102">Inbox rules in Outlook Web app</span></span>
 
-1. <span data-ttu-id="b3f7d-103">Logg på Outlook Web App i en nettleser ved hjelp av nettadressen du mottok av personen som administrerer e-post for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="b3f7d-103">In a web browser, sign in to Outlook Web App using the URL provided by the person who manages email for your organization.</span></span> <span data-ttu-id="b3f7d-104">Angi brukernavn og passord, og klikk deretter på **Logg på**.</span><span class="sxs-lookup"><span data-stu-id="b3f7d-104">Enter your user name and password, and then click **Sign in**.</span></span>
-2. <span data-ttu-id="b3f7d-105">Klikk på **Innstillinger > Alternativer** øverst på siden.</span><span class="sxs-lookup"><span data-stu-id="b3f7d-105">At the top of the page, click **Settings > Options**.</span></span>
-3. <span data-ttu-id="b3f7d-106">Klikk på **Organisere e-post > Innboksregler** i **Alternativer**.</span><span class="sxs-lookup"><span data-stu-id="b3f7d-106">In **Options**, click **Organize email > Inbox rules**.</span></span>
+1. <span data-ttu-id="5e1a8-103">Logg på Outlook Web App i en nettleser ved hjelp av nettadressen du mottok av personen som administrerer e-post for organisasjonen.</span><span class="sxs-lookup"><span data-stu-id="5e1a8-103">In a web browser, sign in to Outlook Web App using the URL provided by the person who manages email for your organization.</span></span> <span data-ttu-id="5e1a8-104">Angi brukernavn og passord, og klikk deretter på **Logg på**.</span><span class="sxs-lookup"><span data-stu-id="5e1a8-104">Enter your user name and password, and then click **Sign in**.</span></span>
+2. <span data-ttu-id="5e1a8-105">Klikk på **Innstillinger > Alternativer** øverst på siden.</span><span class="sxs-lookup"><span data-stu-id="5e1a8-105">At the top of the page, click **Settings > Options**.</span></span>
+3. <span data-ttu-id="5e1a8-106">Klikk på **Organisere e-post > Innboksregler** i **Alternativer**.</span><span class="sxs-lookup"><span data-stu-id="5e1a8-106">In **Options**, click **Organize email > Inbox rules**.</span></span>
 
-<span data-ttu-id="b3f7d-107">Hvis du vil ha mer informasjon om hvordan du arbeider med innboksregler, kan du se [Innboksregler i Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).</span><span class="sxs-lookup"><span data-stu-id="b3f7d-107">For additional information on how to work with inbox rules, please see [Inbox rules in Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).</span></span>
+<span data-ttu-id="5e1a8-107">Hvis du vil ha mer informasjon om hvordan du arbeider med innboksregler, kan du se [Innboksregler i Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).</span><span class="sxs-lookup"><span data-stu-id="5e1a8-107">For additional information on how to work with inbox rules, please see [Inbox rules in Outlook Web App](https://support.office.com/article/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622).</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Manglende notat blokk
+title: Manglende notatblokk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667167"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831671"
 ---
-# <a name="recover-missing-notebook"></a><span data-ttu-id="228e0-102">Gjenopprette manglende notat blokk</span><span class="sxs-lookup"><span data-stu-id="228e0-102">Recover Missing Notebook</span></span>
+# <a name="recover-missing-notebook"></a><span data-ttu-id="9ecc3-102">Gjenopprette manglende notatblokk</span><span class="sxs-lookup"><span data-stu-id="9ecc3-102">Recover Missing Notebook</span></span>
 
-<span data-ttu-id="228e0-103">Hvis notat blokken på OneDrive ble slettet ved et uhell, kan du gjenopprette den ved å følge trinnene i [gjenopprette slettede filer eller mapper i OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="228e0-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
+<span data-ttu-id="9ecc3-103">Hvis notatblokken på OneDrive ved et uhell ble slettet, kan du gjenopprette den ved å følge fremgangsmåten i Gjenopprette slettede filer eller [mapper i OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="9ecc3-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
 
-<span data-ttu-id="228e0-104">Du kan gjenopprette notat blokk på en slettet OneDrive i løpet av 30 dager som standard ved å følge Fremgangs måten i [gjenopprette en slettet onedrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="228e0-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
+<span data-ttu-id="9ecc3-104">Du kan gjenopprette notatblokken på en slettet OneDrive innen 30 dager som standard ved å følge fremgangsmåten i [Gjenopprette en slettet OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="9ecc3-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
 
-<span data-ttu-id="228e0-105">OneNote bruker kanskje en annen konto enn forventet.</span><span class="sxs-lookup"><span data-stu-id="228e0-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="228e0-106">Hvis du har en jobb-eller skole konto i tillegg til den personlige Microsoft-kontoen din, må du legge til den andre kontoen for å vise alle notat blokkene (se instruksjoner for hvordan du [legger til konto i OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="228e0-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
+<span data-ttu-id="9ecc3-105">OneNote bruker kanskje en annen konto enn forventet.</span><span class="sxs-lookup"><span data-stu-id="9ecc3-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="9ecc3-106">Hvis du har en jobb- eller skolekonto i tillegg til den personlige Microsoft-kontoen, må du legge til den andre kontoen for å vise alle notatblokkene (se instruksjoner om hvordan du legger til konto [i OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="9ecc3-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
