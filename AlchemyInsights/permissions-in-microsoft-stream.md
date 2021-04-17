@@ -1,8 +1,8 @@
 ---
-title: Tillatelser i Microsoft stream
+title: Tillatelser i Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721420"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829025"
 ---
-# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="e0be1-102">Tillatelser i Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="e0be1-102">Permissions in Microsoft Stream</span></span>
+# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="977e9-102">Tillatelser i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="977e9-102">Permissions in Microsoft Stream</span></span>
 
-<span data-ttu-id="e0be1-103">Når du laster opp en video, blir tillatelsene som standard angitt for at videoen skal være synlig for hele firmaet.</span><span class="sxs-lookup"><span data-stu-id="e0be1-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="e0be1-104">Hvis du vil angi tillatelser for bestemte brukere/grupper, kan du tilpasse video tillatelsene.</span><span class="sxs-lookup"><span data-stu-id="e0be1-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
+<span data-ttu-id="977e9-103">Når du laster opp en video, angis som standard tillatelsene for at videoen skal være synlig for hele firmaet.</span><span class="sxs-lookup"><span data-stu-id="977e9-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="977e9-104">Hvis du vil angi tillatelser til bestemte brukere/grupper, kan du tilpasse videotillatelsene.</span><span class="sxs-lookup"><span data-stu-id="977e9-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
 
-- [<span data-ttu-id="e0be1-105">Tillatelser og personvern i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="e0be1-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
+- [<span data-ttu-id="977e9-105">Tillatelser og personvern i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="977e9-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
 
-- [<span data-ttu-id="e0be1-106">Gruppetillatelser</span><span class="sxs-lookup"><span data-stu-id="e0be1-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [<span data-ttu-id="977e9-106">Gruppetillatelser</span><span class="sxs-lookup"><span data-stu-id="977e9-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [<span data-ttu-id="e0be1-107">Kanaltillatelser</span><span class="sxs-lookup"><span data-stu-id="e0be1-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [<span data-ttu-id="977e9-107">Kanaltillatelser</span><span class="sxs-lookup"><span data-stu-id="977e9-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
