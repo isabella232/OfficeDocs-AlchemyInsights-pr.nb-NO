@@ -2,21 +2,22 @@
 title: Betalingen ble avslått
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161015"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829061"
 ---
 # <a name="your-payment-was-declined"></a>Betalingen ble avslått
 
@@ -24,20 +25,31 @@ Microsoft vil prøve å belaste kortet ditt flere ganger over 3–4 uker etter f
 
 **Viktig**: Hvis du har lagt til et nytt kort og du fremdeles får en melding om avslag på det gamle kredittkortet, må du kanskje knytte det nye kortet til abonnementet.
 
-1. Gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Erstatt betalingsmåte for alle elementer**
 
-2. Velg abonnementet du vil betale med det nye kortet eller den nye bankkontoen. Klikk **Rediger**ved siden av betalingsmåten under **Fakturering**.
+1. I administrasjonssenter går du til siden **Fakturering** > **Fakturaer og betalinger** > [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Klikk **Endre** ved siden av gjeldende betalingsmåte.
+2. Merk raden for betalingsmåten som skal erstattes. Den høyre ruten viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
 
-4. I rullegardinmenyen velger du en alternativ betalingsmåte eller legger til en ny betalingsmåte.
+3. I ruten til høyre velger du **Erstatt betalingsmåte for alle elementer**.
 
-**Oppdater eller legg til en ny betalingsmåte**
+4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og velger deretter **Erstatt**.
 
-1. Gå til **Fakturering > Regninger og betalinger > [Betalingsmåter](https://go.microsoft.com/fwlink/p/?linkid=2018806)**-siden.
+    > [!NOTE]
+    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
 
-2. Klikk **Legg til en betalingsmåte**, velg kortet eller bankkontoen du vil oppdatere, og klikk **Rediger**.
+5. Hvis du vil legge til en ny betalingsmåte, velger du **Legg til betalingsmåte**.
 
-3. Oppdater informasjon om betalingsmåte (navn på kortet eller bankkontoen, faktureringsadressen, telefonnummeret eller utløpsdatoen), og klikk deretter **Lagre**.
+6. I ruten **Legg til en betalingsmetode** skriver du inn kontoinformasjonen og velger deretter **Lagre**. Du må bruke en betalingsmetode fra samme land som leieren.
 
-4. Husk å endre hvordan du betaler for abonnementene til denne nye betalingsmåten. Hvis du vil ha mer informasjon, kan du se [Legge til, oppdatere eller fjerne betalingsmåter](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
+
+**Oppdater betalingsmetodedetaljer**
+
+1. I administrasjonssenter går du til siden **Fakturering** > **Fakturaer og betalinger** > [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Merk raden for betalingsmetoden som skal erstattes. Velg **Rediger** i høyre rute.
+
+3. Oppdater informasjon om betalingsmetode, inkludert navnet på kreditt- eller debetkortet, faktureringsadressen eller utløpsdatoen, og velg deretter **Lagre**.
+
+Se [Administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) hvis du vil ha mer informasjon. 

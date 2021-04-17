@@ -2,9 +2,10 @@
 title: MC207028 - Varsler i Outlook for å få Outlook for iOS og Android på mobile enheter
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 3312b7f1829c8a7036a3a871193fe1e5d83c0b3c
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: f7321067edb3c0ce41dedaa00324dcae42ec7ec9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812630"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830078"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 - Varsler i Outlook for å få Outlook for iOS og Android på mobile enheter
 
@@ -26,6 +27,6 @@ Det er ingenting du behøver å gjøre for å klargjøre for denne endringen. Hv
 
 Anmodninger trer i kraft innen 7 dager. Vi vil ikke sende et varsel om at forespørselen er behandlet. Hvis du fortsatt ser anbefalingene i produktet etter å ha sendt skjemaet og ventet 7 dager, kan du kontakte kundestøtte.
 
-Med dyp integrasjon på tvers av OneDrive, Teams og Office-apper er Outlook den beste måten å få Office 365 på en mobil enhet på. Mange kunder er ikke klar over at de kan få ytterligere funksjonalitet og kommersiell bruksrettigheter til Outlook Mobile som en del av sine Office-365 og Microsoft 365-tjenester uten ekstra kostnader.
+Med dyp integrasjon på tvers av OneDrive, Teams og Microsoft 365-apper er Outlook den beste måten å få Office 365 på en mobil enhet. Mange kunder er ikke klar over at de kan få ytterligere funksjonalitet og kommersiell bruksrettigheter til Outlook Mobile som en del av sine Office-365 og Microsoft 365-tjenester uten ekstra kostnader.
 
 Brukere som bruker Outlook med jobb- eller skole kontoer, men ikke bruker Outlook Mobile, kan snart se en melding om at de kan få Outlook til telefonen. Hvis vedkommende lukker varselet eller begynner å bruke Outlook Mobile, vil ikke varselet vises igjen. De vil få hurtigkobling for å gjøre det enklere å laste ned appen til den mobile enheten de måtte velge.

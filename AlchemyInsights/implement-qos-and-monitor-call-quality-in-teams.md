@@ -1,8 +1,8 @@
 ---
-title: Implementere QoS og overvåke samtale kvalitet i Teams
+title: Implementere QoS og overvåke samtalekvaliteten i Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829241"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementere QoS og overvåke samtale kvalitet i Teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementere QoS og overvåke samtalekvaliteten i Teams
 
-Anrops analyse og instrument bordet for samtale kvalitet kan brukes til å feilsøke problemer med samtale kvaliteten i Microsoft Teams. Hvis du vil lære mer om tjeneste kvalitet (QoS), anrops analyse og instrument bord for samtale kvalitet (CQD), kan du se [implementere QoS og overvåke samtale kvalitet i Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Samtaleanalyse og instrumentbordet for samtalekvalitet kan brukes til å feilsøke problemer med samtalekvalitet i Microsoft Teams. Hvis du vil lære mer om tjenestekvalitet (QoS), samtaleanalyse og instrumentbordet for samtalekvalitet (CQD), kan du se Implementere [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)og overvåke samtalekvalitet i Microsoft Teams . 

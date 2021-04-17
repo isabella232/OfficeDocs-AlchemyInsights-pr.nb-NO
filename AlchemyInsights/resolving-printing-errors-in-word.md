@@ -1,8 +1,8 @@
 ---
-title: Løse utskrifts feil i Word
+title: Løse utskriftsfeil i Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720871"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828701"
 ---
-# <a name="resolving-print-failures-in-word"></a>Løse utskrifts feil i Word
+# <a name="resolving-print-failures-in-word"></a>Løse utskriftsfeil i Word
 
-Hvis du mottar feil meldinger når du skriver ut i Word, kan du prøve å skrive ut fra et nytt test dokument for å finne ut om problemet er relatert til et bestemt dokument.
+Hvis du får feil når du skriver ut i Word, kan du prøve å skrive ut fra et nytt testdokument for å finne ut om problemet er relatert til et bestemt dokument.
 
-- Hvis du kan skrive ut fra test dokumentet, men fremdeles ikke kan skrive ut det opprinnelige dokumentet, kan det opprinnelige dokumentet være skadet. Følg instruksjonene i [hvordan du feil søker skadede dokumenter i Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Hvis du fremdeles ikke kan skrive ut, følger du instruksjonene i [Feilsøke utskrifts feil i Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) for å diagnostisere og løse problemet.
+- Hvis du kan skrive ut fra testdokumentet, men fremdeles ikke kan skrive ut det opprinnelige dokumentet, kan det opprinnelige dokumentet være skadet. Følg instruksjonene i [Feilsøke skadede dokumenter i Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
+- Hvis du fremdeles ikke kan skrive ut, følger du instruksjonene i Feilsøke utskriftsfeil i [Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) for å diagnostisere og løse problemet.
