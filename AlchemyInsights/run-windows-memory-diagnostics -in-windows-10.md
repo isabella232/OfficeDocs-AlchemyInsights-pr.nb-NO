@@ -1,42 +1,43 @@
 ---
-title: Kjøre Windows-minnediagnostikk i Windows 10
+title: Kjøre Windows minnediagnose i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
-ms.translationtype: MT
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357787"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826676"
 ---
-# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Kjøre Windows-minnediagnostikk i Windows 10
+# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Kjøre Windows minnediagnose i Windows 10
 
-Hvis Windows og apper på PCen krasjer, fryser eller opptrer på en ustabil måte, kan du ha et problem med PCens minne (RAM). Du kan kjøre Windows Memory Diagnostic for å se etter problemer med PCens RAM.
+Hvis Windows og apper på PC-en krasjer, fryser eller oppfører seg ustabilt, kan det hende du har et problem med PC-ens minne (RAM). Du kan kjøre Windows minnediagnose for å se etter problemer med PC-ens RAM.
 
-Skriv inn diagnose av **minne**i søkeboksen på oppgavelinjen, og velg deretter **Windows Memory Diagnostic**. 
+Skriv inn **minnediagnose** i søkeboksen på oppgavelinjen, og velg deretter **Windows minnediagnose**. 
 
-For å kjøre diagnose, må PCen starte på nytt. Du har muligheten til å starte på nytt umiddelbart (vennligst lagre arbeidet og lukk åpne dokumenter og e-post først), eller planlegge at diagnoseenheten skal kjøres automatisk neste gang PCen starter på nytt:
+For å kjøre diagnosen må PC-en startes på nytt. Du har muligheten til å starte på nytt umiddelbart (lagre arbeidet, og lukk åpne dokumenter og e-postmeldinger først), eller planlegg at diagnosen skal kjøres automatisk neste gang PC-en startes på nytt:
 
-![Diagnose av Windows-minne](media/windows-memory-diagnostic.png)
+![Windows minnediagnose](media/windows-memory-diagnostic.png)
 
-Når PCen starter på nytt, **kjøres Diagnoseverktøyet for Windows-minne** automatisk. Status og fremdrift vises når diagnostikken kjøres, og du har muligheten til å avbryte diagnostikken ved å trykke **ESC-tasten** på tastaturet.
+Når PC-en startes på nytt, kjøres **Windows Diagnoseverktøy for minne** automatisk. Status og fremdrift vises mens diagnosen kjører, og du har muligheten til å avbryte diagnosen ved å trykke på **ESC**-knappen på tastaturet.
 
-Når diagnostikken er fullført, starter Windows normalt.
-Umiddelbart etter omstart, når skrivebordet vises, vises et varsel (ved siden av **Handlingssenter-ikonet** på oppgavelinjen), for å angi om det ble funnet minnefeil. For eksempel,
+Når diagnosen er fullført, starter Windows normalt.
+Rett etter du har startet på nytt, når skrivebordet vises, vises en varsling (ved siden av **Handlingssenter**-ikonet på oppgavelinjen), for å indikere om minnefeil ble funnet. Eksempel:
 
 Her er Handlingssenter-ikonet: ![Handlingssenter-ikon](media/action-center-icon.png) 
 
-Og et eksempelvarsel: ![Ingen minnefeil](media/no-memory-errors.png)
+Og en eksempelvarsling: ![Ingen minnefeil](media/no-memory-errors.png)
 
-Hvis du har gått glipp av varselet, kan du velge **Handlingssenter-ikonet** på oppgavelinjen for å vise **handlingssenteret** og se en rullbar liste over varsler.
+Hvis du gikk glipp av varslingen, kan du velge **Handlingssenter**-ikonet på oppgavelinjen, for å vise **Handlingssenter** og se en rullbar liste over varslinger.
 
-Hvis du vil se gjennom detaljert informasjon, skriver du inn **hendelse** i søkeboksen på oppgavelinjen, og deretter velger du **Hendelsesliste**. I ruten til venstre for **Hendelsesliste** **navigerer**du til Windows Logger > System . I ruten til høyre skanner du ned listen **Source** mens du ser på Kilde-kolonnen, til du ser hendelser med **minnediagnoseresultater**for kildeverdi . Merk hver slik hendelse, og se resultatinformasjonen i boksen under **Kategorien Generelt** under listen.
+Hvis du vil gå gjennom detaljert informasjon, skriver du inn **hendelse** i søkeboksen på oppgavelinjen, og velger deretter **Hendelsesliste**. Gå til **Windows-logger > System** i ruten til venstre i **Hendelsesliste**. Skann nedover listen i ruten til høyre, mens du ser på **Kilde**-kolonnen, til du ser hendelser med kildeverdien **Minnediagnose-resultater**. Uthev hver hendelse som dette, og se resultatinformasjonen i boksen under **Generell**-fanen under listen.

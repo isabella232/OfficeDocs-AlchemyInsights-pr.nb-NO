@@ -1,47 +1,48 @@
 ---
-title: Opprette et organisasjonsforhold for å tillate brukerne å samarbeide med en annen organisasjon
+title: Opprette en organisasjonsrelasjon for å la brukerne samarbeide med en annen organisasjon
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816137"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Opprette et organisasjonsforhold for å tillate brukerne å samarbeide med en annen organisasjon
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Opprette en organisasjonsrelasjon for å la brukerne samarbeide med en annen organisasjon
 
-1. Gå til **Administrasjonssenter**fra instrumentbordet i administrasjonssenteret for Microsoft 365.  >  **Exchange**
-2. Gå **organization**til  >  **organisasjonsdeling**.
-3. Klikk **Ny** under **Organisasjonsdeling**.
-4. Skriv inn et egendefinert navn for organisasjonsrelasjonen i **Relasjonsnavn-boksen** i **ny organisasjonsrelasjon.**
-5. Skriv inn domenet for den eksterne Office 365- eller Exchange-lokale organisasjonen du vil la, se kalenderne i domains som skal deles **med.** Hvis du trenger å skrive inn mer enn ett domene, skiller du domenenavnene med komma. for eksempel contoso.com, service.contoso.com.
-6. Merk av for **Aktiver informasjonsdeling** for ledige og opptatte tidspunkt for kalender for å aktivere kalenderdeling med domenene du oppførte. Angi delingsnivået for informasjon om ledige og opptatte tidspunkt i kalenderen, og angi hvilke brukere som kan dele informasjon om ledige og opptatte tidspunkt i kalenderen.  
+1. Gå til **Administrator** > **Exchange** fra instrumentbordet i administrasjonssenteret for Microsoft 365.
+2. Gå til **organisasjon** > **deling**.
+3. Klikk på **Ny** under **Organisasjonsdeling**-
+4. Skriv inn et egendefinert navn for organisasjonsrelasjonen i **Relasjonsnavn**-boksen i **ny organisasjonsrelasjon**.
+5. Skriv inn domenet for den eksterne Office 365- eller lokale Exchange-organisasjonen du vil at skal se kalenderne i **Domener å dele med**-boksen. Hvis du trenger å skrive inn mer enn ett domene, skill domenenavnene med et komma. For eksempel contoso.com, service.contoso.com.
+6. Merk av for **Aktiver deling av informasjon om ledig/opptatt i kalenderen** for å slå på kalenderdeling med domenene du har oppført. Angi delingsnivå for informasjon om ledig/opptatt i kalenderen, og angi hvilke brukere som kan dele informasjon om ledig/opptatt i kalenderen.  
 
-Hvis du vil angi tilgangsnivået for ledige og opptatte tidspunkt, velger du ett av følgende:
+For å angi informasjon om ledig/opptatt velger du ett av følgende:
 
 - **Informasjon om ledig/opptatt i kalenderen bare med tidspunkt**
-- **Kalender ledig/opptatt med tid, emne og plassering**  
+- **Ledig/opptatt i kalenderen med tidspunkt, emne og sted**  
 
- Hvis du vil angi hvilke brukere som skal dele informasjon om ledige og opptatte tidspunkt i kalenderen, velger du ett av følgende:
+ For å angi hvilke brukere som skal dele informasjon om ledig/opptatt, velger du ett av følgende:
 
 - **Alle i organisasjonen**
 - **En angitt sikkerhetsgruppe**  
 
-Klikk **Bla gjennom** for å velge sikkerhetsgruppen fra en liste, og klikk deretter **ok**.
+Klikk på **bla gjennom** for å velge sikkerhetsgruppen fra en liste, og klikk deretter på **ok**.
 
-Klikk **lagre** for å opprette organisasjonsrelasjonen.  
+Klikk på **lagre** for å opprette organisasjonsrelasjonen.  
 
-**Merk:** Konfigurasjoner på tvers av leiere støtter ikke personlige kontakter for søk etter ledige og opptatte tidspunkt. Kontakter må inkluderes i den globale adresselisten for at ledige og opptatte oppslag skal fungere.
+**Obs!** Konfigurasjoner på tvers av leiere støtter ikke personlige kontakter for ledig/oppdatt-oppslag. Kontakter må inkluderes i den global adresselisten for ledig/opptatt-oppslag for å fungere.
 
 **For full forståelse av dette emnet kan du lese:**
 
