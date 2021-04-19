@@ -1,28 +1,29 @@
 ---
-title: Trenger du hjelp med e-postsendingsgrenser?
+title: Trenger du hjelp med sendingsgrenser for e-post?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357868"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836288"
 ---
-# <a name="need-help-with-email-sending-limits"></a>Trenger du hjelp med e-postsendingsgrenser?
+# <a name="need-help-with-email-sending-limits"></a>Trenger du hjelp med sendingsgrenser for e-post?
 
-Nedenfor er **by-design sende grenser** håndheves i tjenesten. Mer informasjon om disse grensene er dokumentert [her](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+Nedenfor finner **du grensene for sending av by-design** som er håndhevet i tjenesten. Mer informasjon om disse grensene er [dokumentert her](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
 
-- For å motvirke levering av uønskede massemeldinger, gjelder vi per bruker **mottaker sats grenser for alle utgående og interne meldinger**. På tvers av alle SKU-er er denne grensen **10 000 mottakere per dag**.  Kunder som trenger å sende legitim masse kommersiell e-post (for eksempel kundenyhetsbrev) bør bruke tredjepartsleverandører som spesialiserer seg på disse tjenestene.
-    - **Merk:** Når mottakerhastighetsgrensen er nådd, kan ikke meldinger sendes fra postboksen før antall mottakere som ble sendt meldinger i løpet av de siste 24 timene faller under grensen. Brukeren vil ikke kunne sende meldinger før det punktet.
-- Meldingshastighetsgrense på **30 meldinger per minutt** brukes på tvers av alle SKU-er. Dette bestemmer hvor mange meldinger en bruker kan sende fra Exchange Online-kontoen innen en angitt periode.
-- Maksimalt antall mottakere som er tillatt i feltene **Til, Kopi og Blindkopi** for én enkelt e-postmelding på tvers av alle SKU-er, er **1000 mottakere**. Hvis du vil tilpasse denne grensen, kan du gå [hit](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+- Hvis du vil fraråde levering av uoppfordrede massemeldinger, bruker vi satsegrenser per bruker på alle **utgående og interne meldinger.** På tvers av alle SKUs er denne grensen **10 000 mottakere per dag.**  Kunder som trenger å sende legitime masseutsendelser av kommersiell e-post (for eksempel kundenyhetsbrev), bør bruke tredjepartsleverandører som er spesialister på disse tjenestene.
+    - **Obs!** Når grensen for mottakerfrekvens er nådd, kan ikke meldinger sendes fra postboksen før antall mottakere som ble sendt meldinger i løpet av de siste 24 timene, faller under grensen. Brukeren kan ikke sende meldinger før dette tidspunktet.
+- Grensen for meldingsfrekvens **på 30 meldinger per minutt** brukes på tvers av alle SKUs. Dette bestemmer hvor mange meldinger en bruker kan sende fra Exchange Online-kontoen i løpet av en angitt periode.
+- Maksimalt antall mottakere som er tillatt i Feltene **Til,** Kopi og Blindkopi for én enkelt e-postmelding, på tvers av alle SKUs, er **1000 mottakere.** Hvis du vil tilpasse denne grensen, kan du [gå hit](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).

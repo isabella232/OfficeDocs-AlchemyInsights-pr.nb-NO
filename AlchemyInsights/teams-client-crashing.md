@@ -2,21 +2,22 @@
 title: Krasjer Teams-klienten?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826280"
 ---
 # <a name="teams-client-crashing"></a>Krasjer Teams-klienten?
 
@@ -24,21 +25,21 @@ Hvis Teams-klienten krasjer, kan du prøve følgende:
 
 - Hvis du bruker Teams skrivebordsprogram, [forsikre deg om at appen er oppdatert til siste versjon](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Kontroller at alle [Microsoft 365 URL-adresser og adresseområder er tilgjengelige.](https://docs.microsoft.com/microsoftteams/connectivity-issues)
+- Kontroller at alle Nettadresser og adresseområder for [Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) er tilgjengelige.
 
-- Logg inn med leieradministratorkontoen din, og sjekk instrumentbordet for [tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for å bekrefte at det ikke finnes noe nedetid eller tjenesteforringelse.
+- Logg på med administratorkontoen for [](https://docs.microsoft.com/office365/enterprise/view-service-health) leieren, og kontroller instrumentbordet for tjenestetilstand for å bekrefte at det ikke finnes noen avbrudd eller tjenesteforringelse.
 
-- Avinstallere og installere Teams-programmet på nytt (link)
-    - Bla til mappen %appdata%\Microsoft\teams\ på datamaskinen, og slett alle filene i den mappen.
-    - [Last ned og installer Teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), og installer om mulig Teams som administrator (høyreklikk på Teams-installasjonsprogrammet og velg "Kjør som administrator" hvis tilgjengelig).
+- Avinstallere og installere Teams-programmet på nytt (kobling)
+    - Bla til mappen %appdata%\Microsoft\teams\ på datamaskinen, og slett alle filene i denne katalogen.
+    - [Last ned og installer Teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), og installer om mulig Teams som administrator (høyreklikk på Teams-installasjonsprogrammet, og velg Kjør som administrator hvis tilgjengelig).
 
-Hvis Teams-klienten din fortsatt krasjer, kan du gjenskape problemet? I så fall:
+Hvis Teams-klienten fremdeles krasjer, kan du reprodusere problemet? Hvis det er det:
 
-1. Bruk trinnopptakeren til å ta opp trinnene.
-    - Lukk alle unødvendige eller konfidensielle applikasjoner.
-    - Start steps recorder og reprodusere problemet mens du er logget inn med den berørte brukerkontoen.
-    - [Samle teamloggene som fanger opp de registrerte reprotrinnene](https://docs.microsoft.com/microsoftteams/log-files). **Merk:** Kontroller at du registrerer påloggingsadressen til den berørte brukeren.
-    - Samle dump og / eller Feil bøtte info (Windows). Start Windows Powershell på maskinen der krasjet oppstår, og kjør følgende kommandoer:
+1. Bruk Trinninnspilling til å registrere trinnene.
+    - Lukk ALLE unødvendige eller konfidensielle programmer.
+    - Start Trinninnspilling, og reproduser problemet mens du er logget på med den berørte brukerkontoen.
+    - [Samle inn teamloggene som registrerer de innspilte repro-trinnene.](https://docs.microsoft.com/microsoftteams/log-files) **Obs!** Kontroller at du registrerer påloggingsadressen til den berørte brukeren.
+    - Samle inn informasjon om dumping og/eller feilsamling (Windows). Start Windows Powershell på maskinen der krasjet oppstår, og kjør følgende kommandoer:
 
         `
         PS C:\Users\user01> cd $env:temp

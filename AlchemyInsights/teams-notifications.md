@@ -2,26 +2,30 @@
 title: Teams-varsler
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830987"
 ---
-# <a name="teams-notifications"></a>Teams-varsler
+# <a name="teams-notifications-faq"></a>Vanlige spørsmål om Teams-varslinger
 
-Det finnes flere måter å få tilgang til og behandle varsler på i skrivebordsappen til Teams. Hvis du vil tilpasse varslingsinnstillingene ytterligere, velger du profilbildet ditt øverst til høyre i Teams, og går deretter til **Innstillinger > Aktivitetsvarsler**. Derfra kan du finjustere hvilke varsler du mottar og hvor disse varslene skal vises. 
 
-I iOS-og Android-apper trykker du **Mer > Innstillinger > Varsler** for å tilpasse varsler.
+- Varsler angis [av brukere](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d), og administratorer kan ikke endre varslingsinnstillingene på brukernes vegne. Velg profilbildet øverst til høyre i Teams-skrivebordsappen, og gå deretter til Innstillinger>Aktivitetsvarsler
 
-Hvis du vil ha mer informasjon, kan du se [Seks ting du bør vite om varsler](https://support.microsoft.com/nb-NO/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) og [Administrere varslinger i Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Feilsøke varsler for Teams-mobilapper](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- Du kan motta varsler på fire måter: gjennom aktivitetsfeeden, chatten, bannervarsler og e-post. Den tapte e-posten for aktivitet sendes når du er inaktiv i Teams i en tidsperiode. Se [Seks ting du må vite om varsler](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) hvis du vil ha mer informasjon
+
+Hvis du vil ha mer informasjon om Teams-varsler, kan  [du se Administrere varsler i Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).

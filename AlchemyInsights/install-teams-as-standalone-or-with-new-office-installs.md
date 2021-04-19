@@ -1,23 +1,24 @@
 ---
-title: Installere Teams som frittstående eller med nye kontorinstallasjoner
+title: Installere Teams som frittstående eller med nye office-installasjoner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: d0e0f2ecace065d9f56b8eebc4bc6eb54879cfc5
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832031"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Installere Teams som frittstående eller med nye kontorinstallasjoner
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Installere Teams som frittstående eller med nye office-installasjoner
 
-Se [her](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for informasjon om hvordan du distribuerer teams i organisasjonen.
+Se her [for](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) informasjon om hvordan du distribuerer Teams i organisasjonen.

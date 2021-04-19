@@ -1,24 +1,25 @@
 ---
-title: Melding for Office-apper – En annen konto fra organisasjonen er allerede pålogget
+title: Melding om Microsoft 365-apper – Beklager, en annen konto fra organisasjonen er allerede logget på
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182924"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836252"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Melding for Office-apper – En annen konto fra organisasjonen er allerede pålogget
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Melding om Microsoft 365-apper – Beklager, en annen konto fra organisasjonen er allerede logget på
 
 For å løse denne filen kan du prøve følgende:
 
@@ -31,6 +32,8 @@ For å løse denne filen kan du prøve følgende:
 - Klikk på **+**-ikonet for å legge til eller koble til kontoen. Skriv inn legitimasjonen din, og vent til prosessen er ferdig.
 
 - Start Office-appen og logg på igjen om nødvendig. 
+
+**Tips** På Windows-maskiner kan vi diagnostisere og ordne flere vanlige problemer med pålogging til Office for deg. Last ned og kjør **[assistent for støtte og gjenoppretting](https://aka.ms/SaRA-OfficeSignInScenario)** for å bruke vårt automatiserte verktøy.
 
 Hvis problemet vedvarer, kan du prøve følgende fremgangsmåte: 
 
