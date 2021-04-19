@@ -2,9 +2,10 @@
 title: Vanlige spørsmål om dokumentbibliotek
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 383fa256f9f8b255d618dfee571411dce683944c
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278977"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814931"
 ---
 # <a name="document-library-faq"></a>Vanlige spørsmål om dokumentbibliotek
 
-**Feilsøke problemer med dokumentbiblioteker**:
+**Feilsøke problemer med dokumentbiblioteker:**
 
-Naviger til [Feilsøking for SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/online) og "Filtrer etter tittel" eller drill manuelt ned til artikler under delen "Lister og biblioteker".
+Gå til [Feilsøking i SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/online) og Filtrer etter tittel, eller drill ned til artikler under Delen Lister og biblioteker.
 
-**Slik lærer du om dokumentbiblioteker**:
+**Slik lærer du om dokumentbiblioteker:**
 
 - [Opprette et dokumentbibliotek i SharePoint](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
 - [Laste opp filer til et bibliotek](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
@@ -34,7 +35,7 @@ Naviger til [Feilsøking for SharePoint Online](https://docs.microsoft.com/share
 - [Flytte eller kopiere en mappe, fil eller kobling i et dokumentbibliotek](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 - [Aktivere og konfigurere versjonskontroll for en liste eller et bibliotek](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 - [Administrere store lister og biblioteker i SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-- [Konfigurere et bibliotek for å kreve utsjekking av filer](https://support.microsoft.com/en-us/office/set-up-a-library-to-require-check-out-of-files-0c73792b-f727-4e19-a1f9-3173899e695b)
+- [Konfigurere et bibliotek til å kreve utsjekking av filer](https://support.microsoft.com/en-us/office/set-up-a-library-to-require-check-out-of-files-0c73792b-f727-4e19-a1f9-3173899e695b)
 - [Opprette, endre eller slette en visning av en liste eller et bibliotek](https://support.office.com/article/create-change-or-delete-a-view-of-a-list-or-library-27ae65b8-bc5b-4949-b29b-4ee87144a9c9)
 - [Opprette eller legge til en kolonne i en liste eller et bibliotek](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
-- [Innføring i administrerte metadata](https://docs.microsoft.com/sharepoint/managed-metadata)
+- [Innføring i forvaltede metadata](https://docs.microsoft.com/sharepoint/managed-metadata)
