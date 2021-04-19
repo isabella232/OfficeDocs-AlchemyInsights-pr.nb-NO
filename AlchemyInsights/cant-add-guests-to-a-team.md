@@ -2,7 +2,7 @@
 title: Kan ikke legge til gjester i et team
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364714"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819485"
 ---
 # <a name="cant-add-guests-to-a-team"></a>Kan ikke legge til gjester i et team
 
-Hvis du vil legge til en gjest i et team, må følgende være oppfylt:  
+Hvis du vil legge til en gjest i et team, må følgende være sant:  
 
-- Administratoren har aktivert gjeste tilgang i Teams.
-- Du er eier av teamet.
-- Personen du vil legge til, er utenfor organisasjonen din, for eksempel en partner eller konsulent.
+- Administratoren har aktivert gjestetilgang i Teams.
+- Du er en eier av teamet.
+- Personen du vil legge til, er utenfor organisasjonen, for eksempel en partner eller konsulent.
 
-Hvis du vil ha mer informasjon, kan du se  [hvordan en gjest kobler til et team](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Hvis du vil ha mer informasjon, kan du  [se Hvordan en gjest blir med i et team](https://docs.microsoft.com/MicrosoftTeams/guest-joins).

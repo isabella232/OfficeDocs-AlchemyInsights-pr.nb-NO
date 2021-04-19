@@ -1,30 +1,31 @@
 ---
-title: Endre organisasjonsnavnet for OneDrive-synkroniseringsklienten
+title: Endre organisasjonsnavnet for synkroniseringsklienten for OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818333"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Endre organisasjonsnavnet for OneDrive-synkroniseringsklienten
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Endre organisasjonsnavnet for synkroniseringsklienten for OneDrive
 
-OneDrive bruker organisasjonsnavnet som er angitt av en leieradministrator.  Du kan [endre organisasjonens adresse, teknisk kontakt og mer](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Når denne endringen er utført for leieren, gjenspeiler ikke OneDrive-synkroniseringsklienten det nye navnet før brukere kobler fra og kobler sammen OneDrive-kontoen på nytt.
+OneDrive bruker organisasjonsnavnet som er angitt av en leieradministrator.  Du kan [endre organisasjonens adresse, teknisk kontakt og mer.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Når denne endringen er utført for leieren, gjenspeiler ikke synkroniseringsklienten for OneDrive det nye navnet før brukerne opphever koblingen og kobles til OneDrive-kontoen på nytt.
 
-Slik kobler du fra kontoen:
+Slik fjerner du koblingen til kontoen:
 
-1. Velg det blå OneDrive-skyikonet helt til høyre på oppgavelinjen, og velg deretter **Flere > innstillinger >-konto**.
-2. Finn kontoen du vil koble fra, og velg **Koble fra denne PCen**, og koble deretter **fra kontoen**.
+1. Velg det blå OneDrive-skyikonet helt til høyre på oppgavelinjen, og velg  **deretter > Innstillinger > Konto**.
+2. Finn kontoen du vil koble fra, og velg Koble  **fra denne PC-en**, og deretter  **Koble fra kontoen**.
 
-Hvis du vil koble kontoen på nytt, velger du **Legg til en konto** fra **Konto-fanen** i Innstillinger og logger deg på OneDrive igjen.
+Hvis du vil koble til kontoen på nytt, velger du Legg til en  **konto** fra  **Konto-fanen** i Innstillinger, og logger på OneDrive på nytt.

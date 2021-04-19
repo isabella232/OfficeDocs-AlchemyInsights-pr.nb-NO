@@ -2,21 +2,22 @@
 title: Aktivere Microsoft 365-apper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735221"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823040"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivere Microsoft 365-apper
 
@@ -26,7 +27,7 @@ For å aktivere Office, se:
 
 - [Aktivere Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Merk:**  Kontroller at du har et Office 365- eller Microsoft 365-abonnement som [inkluderer Office-klientapper,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise. I tillegg må du kontrollere at brukerkontoen du bruker til å logge på Office-apper, har [en lisens tilordnet](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Obs!**  Kontroller at du har et Office 365- [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)eller Microsoft 365-abonnement som inneholder Office-klientapper, for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for bedrifter eller Microsoft 365 Apps for enterprise. I tillegg må du kontrollere at brukerkontoen du bruker til å logge på Office-apper, har [en tilordnet lisens.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Hvis du vil løse problemer med å aktivere Office, kan du se:
 
@@ -34,6 +35,8 @@ Hvis du vil løse problemer med å aktivere Office, kan du se:
 - [Feil ved ulisensiert produkt og aktivering i Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Feilsøking hvis du ikke kan installere eller aktivere Office for Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Tips** På Windows-maskiner kan vi diagnostisere og ordne flere vanlige problemer med pålogging til Office for deg. Last ned og kjør **[assistent for støtte og gjenoppretting](https://aka.ms/SaRA-OfficeSignInScenario)** for å bruke vårt automatiserte verktøy.
 
 Hvis du ikke kan logge på Microsoft 365-apper, følger du fremgangsmåten nedenfor:
 

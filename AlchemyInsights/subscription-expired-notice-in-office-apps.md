@@ -1,24 +1,25 @@
 ---
-title: Varsling om utløpt abonnement i Office-apper
+title: Utløpt abonnement-varsel i Microsoft 365-apper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789275"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823580"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>«Abonnementet er utløpt-varsling i Office-apper
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Varsel om at abonnementet er utløpt i Microsoft 365-apper
 
 - Sjekk [siden for tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for å se om det finnes kjente problemer med tjenesten.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789275"
 
 - Kjør [feilsøkingsverktøyet for aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) og start datamaskinen på nytt.
 
-- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- På den aktuelle maskinen, [tilbakestill Office-aktiveringstilstanden](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Hvis du vil ha detaljerte instruksjoner, kan du ta en titt på: 
 
