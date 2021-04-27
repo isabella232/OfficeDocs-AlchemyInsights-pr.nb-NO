@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826172"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059824"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Feilsøke problemer med PST-import
 
-- Hvis du importerer i selve Outlook-klienten, kan du se [Løs problemer med import av en Outlook .pst-fil](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Hvis du importerer i selve Outlook-klienten, kan du se [Løse problemer med å importere en Outlook PST-fil](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- Hvis du bruker importtjenesten og den har stanset opp, må du være oppmerksom på at hver PST-fil som du laster opp til Azure Storage-plasseringen ikke må være større enn 20 GB. PST-filer som er større enn 20 GB, kan påvirke ytelsen til PST-importprosessen.
+- Hvis du bruker Importtjeneste og den står fast, må du være oppmerksom på at hver PST-fil som du laster opp til Azure Storage-plasseringen, ikke skal være større enn 20 GB. PST-filer som er større enn 20 GB, kan påvirke ytelsen til PST-importprosessen. Hvis du vil ha mer informasjon om feilsøking av jobber som står fast, kan [du se Problemer som påvirker PST-importjobber](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
-- Hvis du vil kontrollere statusen for en bestemt importjobb, kan du bruke [Get-MailboxImportRequest-batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Hvis du vil bekrefte statusen for en bestemt importjobb, bruker du [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Hvis du vil ha fullstendig informasjon om importtjenesten, kan du se [Oversikt over hvordan du importerer organisasjonens PST-filer](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Hvis du vil ha mer informasjon om importtjenesten, kan du se Oversikt over [import av organisasjonens PST-filer](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
