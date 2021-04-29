@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: cd72d9e3b783d4a2e17fe5ac971e785824bc1798
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
+ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404907"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079990"
 ---
-# <a name="about-universal-print"></a><span data-ttu-id="b5a9e-102">Om universell utskrift</span><span class="sxs-lookup"><span data-stu-id="b5a9e-102">About Universal Print</span></span>
+# <a name="about-universal-print"></a><span data-ttu-id="421e6-102">Om universell utskrift</span><span class="sxs-lookup"><span data-stu-id="421e6-102">About Universal Print</span></span>
 
-<span data-ttu-id="b5a9e-103">Universal Print er inkludert i kommersielle og utdanningsmessige Microsoft 365- og Windows 10-abonnementer, men kan også kjøpes som et frittstående abonnement.</span><span class="sxs-lookup"><span data-stu-id="b5a9e-103">Universal Print is included with commercial and educational Microsoft 365 and Windows 10 subscriptions, but can also be purchased as a standalone subscription.</span></span>
+<span data-ttu-id="421e6-103">Universal Print er inkludert i kommersielle og utdanningsmessige Microsoft 365- og Windows 10-abonnementer, men kan også kjøpes som et frittstående abonnement.</span><span class="sxs-lookup"><span data-stu-id="421e6-103">Universal Print is included with commercial and educational Microsoft 365 and Windows 10 subscriptions, but can also be purchased as a standalone subscription.</span></span>
 
-<span data-ttu-id="b5a9e-104">Lær hvordan du konfigurerer skrivere, gir brukere tilgang og fullfører den første utskriftsjobben på siden Onboarding to Universal Print.</span><span class="sxs-lookup"><span data-stu-id="b5a9e-104">Learn how to set up printers, give users access, and complete your first print job on the Onboarding to Universal Print page.</span></span>
+<span data-ttu-id="421e6-104">Hvis du vil ha mer informasjon, kan du se [License Universal Print | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).</span><span class="sxs-lookup"><span data-stu-id="421e6-104">For more information, see [License Universal Print | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).</span></span>
 
-<span data-ttu-id="b5a9e-105">Hvis du vil ha mer informasjon, kan du se [License Universal Print | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).</span><span class="sxs-lookup"><span data-stu-id="b5a9e-105">For more information, see [License Universal Print | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).</span></span>
+<span data-ttu-id="421e6-105">**For teknisk støtte for universell utskrift**</span><span class="sxs-lookup"><span data-stu-id="421e6-105">**For Universal Print Technical support**</span></span>
+
+<span data-ttu-id="421e6-106">Azure-abonnenter kan opprette og behandle støtteforespørsler for Universal Print i Azure-portalen.</span><span class="sxs-lookup"><span data-stu-id="421e6-106">Azure subscribers can create and manage support requests for Universal Print in the Azure portal.</span></span> <span data-ttu-id="421e6-107">Støtte er tilgjengelig for Azure-abonnenter med et Azure-støtteabonnement knyttet til abonnementet.  [Logg deg på Azure-portalen for](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) å sende inn en hendelse.</span><span class="sxs-lookup"><span data-stu-id="421e6-107">Support is available for Azure subscribers with an Azure Support Plan associated with their subscription. [Sign into the Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) to submit an incident.</span></span>
