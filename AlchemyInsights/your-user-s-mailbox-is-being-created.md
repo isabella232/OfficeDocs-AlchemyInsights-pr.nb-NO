@@ -1,5 +1,5 @@
 ---
-title: Brukerens post boks opprettes
+title: Brukerens postboks opprettes
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796261"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261817"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Oppretting av bruker post boks tar lang tid
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Oppretting av brukerpostboks tar lang tid
 
-Det kan ha opptil 24 timer før en ny post boks er klar til bruk.
+Det kan ta opptil 24 timer før en ny postboks er klar til bruk.
   
-Hvis brukerens post boks er "forbereder" i mer enn en time, kan du prøve å fjerne Exchange-lisensen fra brukeren og legge den til på nytt, eller [kontakte kunde støtte](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Hvis brukerens postboks har forberedt seg i mer enn en time, kan du prøve å fjerne Exchange-lisensen fra brukeren og legge den til på nytt, eller kontakte [kundestøtte](/microsoft-365/admin/contact-support-for-business-products?tabs=online).

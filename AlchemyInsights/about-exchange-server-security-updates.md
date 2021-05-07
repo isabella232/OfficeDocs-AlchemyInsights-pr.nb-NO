@@ -1,5 +1,5 @@
 ---
-title: Sikkerhetsoppdateringer for Exchange Server
+title: Om Exchange Server oppdateringer
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726536"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233471"
 ---
-# <a name="about-exchange-server-security-updates"></a>Sikkerhetsoppdateringer for Exchange Server
+# <a name="about-exchange-server-updates"></a>Om Exchange Server oppdateringer
 
-Microsoft har utgitt en serie med kritiske sikkerhetsoppdateringer for Exchange Server lokalt. De berørte serverversjonene er alle oppdateringsnivåer for Exchange Server 2010, 2013, 2016 og 2019. Exchange Online påvirkes IKKE, men hvis du har noen lokale Exchange-servere på grunn av hybridkonfigurasjon, er de potensielt sårbare.
+Microsoft lanserer vanligvis Exchange Server oppdateringer på oppdatering tirsdag (sikkerhetsoppdateringer) eller kvartalsvise (kumulative oppdateringer). Hvis du vil se kunngjøringer om de nyeste oppdateringene som er utgitt, kan [du se Exchange teambloggen](https://aka.ms/ehlo).
 
-Se følgende kunngjøring om plasseringen av løsninger: [Utgitt: Sikkerhetsoppdateringer for Exchange Server 2021 mars 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Hvis du vil lage Exchange servere, bruker Exchange Server tilstandskontrollskriptet [(GitHub bruker du den nyeste versjonen).](https://aka.ms/ExchangeHealthChecker) Hvis du kjører dette skriptet, får du vite om noen av Exchange serverne er bak oppdateringer (CUs og SUs).
 
-**Viktige merknader:**
+- Hvis du vil oppdatere til den nyeste kumulative oppdateringen, [kan du Exchange](https://aka.ms/ExchangeUpdateWizard) oppdateringsveiviseren og velge cu og mål-CU. Velg **Fortell meg trinnene for** å få veibeskrivelser for miljøet.
 
-Hvis du installerer oppdateringer manuelt, kan du lese delen «Kjente problemer» i oppdatering av KB-artikler for viktig informasjon. Sikkerhetsoppdateringer MÅ kjøres fra hevet CMD/PowerShell-ledetekst!
-
-Du finner informasjon om oppdatering av [feilsøking her.](https://aka.ms/exupdatefaq)
+- Hvis det oppstår feil under eller etter installasjonen av Exchange Server oppdateringer, kan du se Reparere mislykkede installasjoner av Exchange kumulative oppdateringer [og sikkerhetsoppdateringer](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).
