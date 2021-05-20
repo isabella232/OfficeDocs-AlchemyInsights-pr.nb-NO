@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747021"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569740"
 ---
 # <a name="create-user"></a>Opprette bruker
 
 **KUNNGJØRING:**
 
-- [Avvikling av støtte for WebView-pålogging fra Google fra og med 4. januar 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test om appene kan bli påvirket ved å følge [Googles veiledning](https://go.microsoft.com/fwlink/?linkid=2157323) om testing av kompatibilitet.
-- Kontroller at du bruker systemets nettvisning eller systemleser når du logger på brukerne med forbrukerkontoer fra Google. Hvis du vil ha mer informasjon, kan du se Problemer med å logge [på programmer bare ved hjelp av Chrome-nettleseren.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Avvikling av støtte for WebView-pålogging fra Google fra og med 4. januar 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test om appene kan bli påvirket ved å følge [Googles veiledning](https://go.microsoft.com/fwlink/?linkid=2157323) om testing av kompatibilitet.
+- Kontroller at du bruker systemets nettvisning eller systemleser når du logger på brukerne med forbrukerkontoer fra Google. Hvis du vil ha mer informasjon, kan du se Problemer med å logge [på programmer bare ved hjelp av Chrome-nettleseren.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Jeg kan ikke opprette en ny bruker i Azure AD-katalogen**
 
@@ -37,5 +37,5 @@ ms.locfileid: "50747021"
 1. Se [domenenavnene](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) for Azure AD.
 1. Se [gjennom overvåkingslogger](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) for å se mer detaljert informasjon om en nylig opprettet eller slettet bruker, for eksempel hvem som utførte handlingen og når.
 1. Hvis du vil ha mer informasjon om hvordan du legger til nye brukere, kan du se Bruke [Azure-portalen til å opprette en ny bruker i Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Administrative roller i Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Administratorrolletillatelser i Azure Active Directory
-1. Du kan også [bruke Azure AD PowerShell til å opprette en ny bruker.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. [Administrative roller i Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Administratorrolletillatelser i Azure Active Directory
+1. Du kan også [bruke Azure AD PowerShell til å opprette en ny bruker.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822248"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569696"
 ---
 # <a name="add-a-user"></a>Legge til en bruker
 
@@ -26,6 +26,6 @@ ms.locfileid: "51822248"
 
 2. Klikk på **Legg til en bruker**.
 
-3. Fyll ut informasjon om brukeren. Velg **Fullfør Legg til** når du er ferdig.
+3. Følg veiviseren for å legge til brukerinformasjon, pProduktlisenser, valgfrie roller og profilinformasjon.
 
-Hvis du vil vite mer, se [Legge til brukere enkeltvis eller i grupper](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Hvis du vil vite mer, se [Legge til brukere enkeltvis eller i grupper](/microsoft-365/admin/add-users/add-users).

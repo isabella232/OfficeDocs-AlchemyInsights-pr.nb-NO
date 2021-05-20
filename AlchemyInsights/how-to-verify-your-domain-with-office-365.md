@@ -1,5 +1,5 @@
 ---
-title: 'Slik kontrollerer du domenet '
+title: 'Slik bekrefter du domenet '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683875"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569624"
 ---
-# <a name="how-to-verify-your-domain"></a>Slik kontrollerer du domenet
+# <a name="how-to-verify-your-domain"></a>Slik bekrefter du domenet
 
-Du kan bekrefte et domene ved å følge [vei viseren for å legge til domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)eller gå til **installasjons** domener manuelt ved å  >    >  **legge til domene**.
+Hvis du vil bekrefte et domene, følger du veiviseren legg til [domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)eller går til **Angi**  >  **domener Legg** til domene  >  **manuelt**.
 
-Hvis du vil ha mer informasjon om DNS-endringer som kreves for å bekrefte domenet, kan du se instruksjonene i [legge til DNS-poster for å koble til domenet](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Hvis du vil ha mer informasjon om DNS-endringer som kreves for å bekrefte domenet, kan du se instruksjonene i Legge til [DNS-poster for å koble til domenet](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Hvis du har spørsmål om andre domener, kan du se [vanlige spørsmål om domener](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Hvis du vil ha spørsmål om andre domener, kan du se [Vanlige spørsmål om domener](/microsoft-365/admin/setup/domains-faq).
