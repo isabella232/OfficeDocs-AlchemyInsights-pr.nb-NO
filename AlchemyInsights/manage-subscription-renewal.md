@@ -1,10 +1,11 @@
 ---
 title: Administrere fornyelse av abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195244"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545529"
 ---
 # <a name="manage-subscription-renewal"></a>Administrere fornyelse av abonnement
 
 Hvis du vil administrere månedlig eller årlig fakturering, kan du slå av eller på **gjentakelsesfakturering**.
 
-1. Fra administrasjonssenteret går du til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**-siden.
+1. Gå til Fakturering produkter-siden i   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
+2. Finn **abonnementet du** vil administrere på Produkter-fanen, velg de tre prikkene (flere handlinger), og velg deretter **Rediger regelmessig fakturering**.
+3. Velg **På,** **På, Forny én** gang eller Av i ruten Rediger regelmessig **fakturering.** 
+4. Velg **Lagre**.
 
-2. Velg abonnementet du vil administrere fornyelse for.
+Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-3. Klikk på **Rediger** under **Fakturering**, ved siden av **Fornyes** eller **Utløper**.
-
-4. Velg **Slå AV** for å slå den av i ruten **Innstillinger for regelmessig fakturering**. Hvis regelmessig fakturering allerede er slått av, velger du **månedlig** eller **en gang** for å slå den på.
-
-5. Klikk **Send inn endringer**.
-
-Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

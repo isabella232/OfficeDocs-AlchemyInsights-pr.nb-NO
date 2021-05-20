@@ -1,35 +1,33 @@
 ---
 title: Abonnementet er ikke lenger aktivt
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789239"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544263"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnementet er ikke lenger aktivt
 
-Hvis et [abonnementsvarsel vises når en Microsoft-applikasjon](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) åpnes, må du sannsynligvis aktivere abonnementet på nytt.
+Hvis et [abonnementsvarsel vises](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) når et Microsoft-program åpnes, må du sannsynligvis aktivere abonnementet på nytt.
 
 **Aktivere et abonnement på nytt**
 
-1. Fra administrasjonssenteret går du til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**-siden.
+1. Gå til Fakturering produkter-siden i   >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Finn **abonnementet** du vil aktivere på nytt på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Aktiver dette abonnementet på nytt**.
+3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
+4. Velg **Lagre**.
 
-2. Finn abonnementet du vil aktivere på nytt, på Produkter og tjenester-siden.
-
-3. I Faktureringsdelen velger du **Aktiver på nytt nå**.  Hvis du er i kort-visningen, klikker du ellipsen mellom navnet og det tilgjengelige antallet og velger Aktiver på nytt på menyen. **Merk**: Hvis du ikke ser abonnementet du leter etter, må du kanskje justere filteret for Abonnementsstatus nær toppen av siden, til **Alt**.
-
-4. Angi betalingsinformasjon for å oppdatere eksisterende betalingsinformasjon. Når du er ferdig med å skrive inn betalingsmåten, velger du **Aktiver på nytt**.
-
-For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
