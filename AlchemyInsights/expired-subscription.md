@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416154"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544191"
 ---
 # <a name="expired-subscription"></a>Utløpt abonnement
 
@@ -26,20 +26,20 @@ Det ser ut til at du har ett eller flere utløpte abonnementer. Hvis du vil fort
   
 **Aktivere på nytt**
   
-1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Finn abonnementet du vil aktivere på nytt, i kategorien **produkter** . Velg **flere handlinger** (tre prikker), og velg deretter **Aktiver dette abonnementet**på nytt.
+1. Gå til Fakturering produkter-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Finn **abonnementet** du vil aktivere på nytt på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Aktiver dette abonnementet på nytt**.
     > [!NOTE]
-    > Hvis du ikke ser **Aktiver dette abonnementet**på nytt, kan du ringe kunde støtte.
-3. Velg en betalings måte fra rulle gardin listen i **Aktiver dette abonnement** -ruten, eller velg **Legg til betalings måte**.
+    > Hvis du ikke ser Aktivere dette abonnementet **på nytt,** kan du ringe kundestøtte.
+3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 
-For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Foreta et nytt kjøp**
   
-1. Gå til siden **for** \> [Kjøp av tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) i administrasjons senteret.
+1. Gå til faktureringskjøpstjenester-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) administrasjonssenteret.
 2. Velg abonnementet du vil kjøpe, og velg deretter **Kjøp**.
 3. Angi antall lisenser du trenger, og velg om du vil betale hver måned eller for hele året. Velg om du vil tilordne lisenser automatisk til alle som foreløpig ikke har en lisens. Velg deretter **Sjekk ut nå**.
-4. Følg de gjenværende trinnene for å fullføre utsjekkingen.
+4. Følg resten av trinnene for å fullføre utsjekking.
 
-Hvis du vil ha mer informasjon, kan du se [kjøpe et annet abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Hvis du vil ha mer informasjon, kan [du se Kjøpe et annet abonnement](/microsoft-365/commerce/buy-another-subscription).

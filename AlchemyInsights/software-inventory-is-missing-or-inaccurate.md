@@ -1,5 +1,5 @@
 ---
-title: Program vare beholdning mangler eller er unøyaktig
+title: Programvarelager mangler eller er unøyaktig
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665295"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543973"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Program vare beholdning mangler eller er unøyaktig
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Programvarelager mangler eller er unøyaktig
 
-Program vare beholdningen i Microsoft Defender ATP-tjeneste gir produkt navnet eller leverandøren det nyeste versjons nummeret, og oppdagede svakheter og sikkerhets problemer. Hvis du vil ha mer informasjon, kan du se [program vare beholdning – administrasjon av trusler og sikkerhets problemer](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Programvarebeholdningen i Microsoft Defender ATP-tjenesten gir produktnavnet eller -leverandøren, det nyeste versjonsnummeret og oppdaget svakheter og sårbarheter. Hvis du vil ha mer informasjon, [kan du se Programvarebeholdning – Håndtering av trusler og sikkerhetsproblemer](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Du kan rapportere generell eller ufullstendig informasjon, unøyaktige versjons numre eller utbedret program vare informasjon ved å følge disse trinnene.  
+Du kan rapportere vag eller ufullstendig informasjon, unøyaktige versjonsnumre eller utbedret informasjon om programvarelager ved å følge disse trinnene.  
 
-1. Åpne under menyen for program vare, og Velg programmet på Software inventorys-siden.
-2. Velg **rapporter om nøyaktighet**, og velg en kategori fra rulle gardin menyen fra under meny ruten.
-3. Fyll inn e-postadressen din og detaljene for nøyaktigheten.
+1. Åpne undermenyen for programvaren, og velg programmet på programvarelagersiden.
+2. Velg **Rapport unøyaktighet**, og velg en kategori fra rullegardinmenyen i undermenyruten.
+3. Fyll ut e-postadressen din og detaljene for unøyaktigheten.
 4. Velg **Send**.</br>
-    Din tilbake melding sendes umiddelbart til trussel & eksperter for sikkerhets problemer i ledelsen.
+    Tilbakemeldingen sendes umiddelbart til eksperter på & sikkerhetsproblemer.

@@ -1,5 +1,5 @@
 ---
-title: Stanse et abonnement midlertidig eller stanse det midlertidig
+title: Stoppe eller stanse et abonnement midlertidig
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469095"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544515"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Stanse et abonnement midlertidig eller stanse det midlertidig
+# <a name="suspend-or-pause-a-subscription"></a>Stoppe eller stanse et abonnement midlertidig
 
-Hvis du vil stoppe abonnementet midlertidig eller stoppe det midlertidig, kan du si opp abonnementet i administrasjonssenteret for Microsoft 365.
+Hvis du vil stoppe eller stanse abonnementet midlertidig midlertidig, kan du avbryte abonnementet i Microsoft 365 administrasjonssenteret.
 
-1. Gå til Fakturering for produkter-siden i  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
-2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg **Flere handlinger** (tre prikker), og velg deretter **Avbryt abonnementet.**
-3. Abonnementsstatusen vises **som deaktivert** og viser datoen abonnementet ble kansellert. Abonnementet forblir i en deaktivert tilstand i 90 dager, og har redusert funksjonalitet til det slettes eller [aktiveres på nytt.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+1. Gå til Fakturering produkter-siden i   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
+2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
+3. Abonnementsstatusen vises som **Deaktivert** og viser datoen abonnementet ble avbrutt. Abonnementet forblir deaktivert i 90 dager, og har redusert funksjonalitet til det slettes eller [aktiveres på nytt.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Hvis du vil ha mer informasjon, kan du se Hva [skjer når du avbryter et abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) og lagrer dataene [dine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Hvis du vil ha mer informasjon, kan du se [Hva skjer når du avbryter et abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) og Lagrer dataene [.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

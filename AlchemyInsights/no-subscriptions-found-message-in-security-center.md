@@ -1,5 +1,5 @@
 ---
-title: Melding om at ingen abonnementer blir funnet i sikkerhetssenteret
+title: Finner ingen abonnementer-melding i sikkerhetssenteret
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713960"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544117"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>Melding om at ingen abonnementer blir funnet i sikkerhetssenteret
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>Finner ingen abonnementer-melding i sikkerhetssenteret
 
-Hvis du får meldingen «Ingen abonnementer funnet» når du åpner Microsoft Defender Sikkerhetssenter, betyr det at Azure Active Directory (AAD) som brukes til å logge brukeren på portalen, ikke har en Microsoft Defender ATP-lisens.  
+Hvis du får meldingen «Ingen abonnementer funnet» når du åpner Microsoft Defender Sikkerhetssenter, betyr det at Azure Active Directory (AAD) som brukes til å logge på brukeren til portalen, ikke har en Microsoft Defender ATP lisens.  
 
-Lisensene for Windows E5 og Office E5 er separate lisenser.
+Lisensene Windows E5 og Office E5 er separate lisenser.
 
-Åpne en kundestøttesak hvis lisensen ble kjøpt, men ikke klargjort for denne AAD-forekomsten. Enten har du: <br/>
+Åpne en støttesak hvis lisensen ble kjøpt, men ikke klargjort for denne AAD-forekomsten. Enten har du: <br/>
 -   Et mulig problem med klargjøring av lisens.<br/>
 -   Du klargjorte utilsiktet lisensen til en annen Microsoft AAD enn den som ble brukt for godkjenning i tjenesten.

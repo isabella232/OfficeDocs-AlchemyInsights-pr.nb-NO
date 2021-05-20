@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827765"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544153"
 ---
 # <a name="unlocking-an-account"></a>Låse opp en konto
 
@@ -25,7 +25,7 @@ Det er mulig at brukerne er låst ute av Microsoft 365 på grunn av dårlige pas
 
 **Begrenset e-post**
 
-Hvis en av brukerne er hindret fra å sende en e-postmelding, kan du  [oppheve blokkeringen av kontoen selv](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Brukeren vil kunne sende e-post innen en time etter at begrensningen er fjernet.
+Hvis en av brukerne er hindret fra å sende en e-postmelding, kan du  [oppheve blokkeringen av kontoen selv](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Brukeren vil kunne sende e-post innen en time etter at begrensningen er fjernet.
 
 **Tilbakestille brukerpassordet**
 
@@ -37,8 +37,8 @@ Hvis en av brukerne er hindret fra å sende en e-postmelding, kan du  [oppheve b
 
 1. Gå til **Brukere > [Aktive brukere](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)** i administrasjonssenteret.
 
-2. Velg brukeren, og klikk på **Flere handlinger (...)**, og klikk på **Rediger påloggingsstatus**.
+2. Velg brukeren, og klikk de tre prikkene (flere handlinger), og klikk deretter **Rediger påloggingsstatus**.
 
-Hvis du vil ha mer informasjon om tilbakestilling av passord, inkludert selvbetjent tilbakestilling av passord, kan du se [Tilbakestille Microsoft 365 for flere forsøk og betale på nett instrumentbusiness-passord](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Hvis du vil ha mer informasjon om tilbakestilling av passord, inkludert selvbetjent tilbakestilling av passord, kan du se [Tilbakestille Microsoft 365 for flere forsøk og betale på nett instrumentbusiness-passord](/microsoft-365/admin/add-users/reset-passwords).
 
-Tjenesten hindrer en bruker i å sende e-post etter å ha oppdaget bevis på en kompromittert konto og/eller utgående søppelpost. Følg fremgangsmåten for [Svare på en kompromittert e-postkonto i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)for brukeren, som en forholdsregel.
+Tjenesten hindrer en bruker i å sende e-post etter å ha oppdaget bevis på en kompromittert konto og/eller utgående søppelpost. Følg fremgangsmåten for [Svare på en kompromittert e-postkonto i Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)for brukeren, som en forholdsregel.
