@@ -1,5 +1,5 @@
 ---
-title: Abonnements fornyelse
+title: Fornyelse av abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286859"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539977"
 ---
-# <a name="subscription-recurring-billing"></a>Regelmessig abonnement for abonnementet
+# <a name="subscription-recurring-billing"></a>Regelmessig fakturering av abonnement
 
-Hvis du vil vite når det månedlige eller årlige abonnementet faktureres (Hvis **regelmessig fakturering** er slått på) eller når det utløper (Hvis **regelmessig fakturering** er deaktivert), bruker du følgende Fremgangs måte:
+Hvis du vil vite når det månedlige eller  årlig abonnementet faktureres (hvis Regelmessig  fakturering er slått på) eller når det utløper (hvis Regelmessig fakturering er deaktivert), bruker du følgende fremgangsmåte:
   
-1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Finn abonnementet du vil vite mer om, i kategorien **produkter** . Kolonnen for **abonnements status** viser Fornyelses-eller utløps datoen.
-3. Hvis du vil gjøre en endring, velger du **flere handlinger** (tre prikker), og deretter velger du **Rediger regelmessig fakturering**.
-4. I **Rediger regelmessig fakturering** -ruten velger du **på**, **på, fornyer én gang**eller **av**.
+1. Gå til Fakturering produkter-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Finn **abonnementet** du vil vite mer om, på Produkter-fanen. **Abonnementsstatus-kolonnen** viser fornyelses- eller utløpsdatoen.
+3. Hvis du vil gjøre en endring, velger du de tre prikkene (flere handlinger), og deretter velger du **Rediger regelmessig fakturering**.
+4. Velg **På,** **På, Forny** én gang eller Av i ruten Rediger regelmessig **fakturering.** 
 5. Velg **Lagre**.
 
-Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](/microsoft-365/commerce/subscriptions/renew-your-subscription).

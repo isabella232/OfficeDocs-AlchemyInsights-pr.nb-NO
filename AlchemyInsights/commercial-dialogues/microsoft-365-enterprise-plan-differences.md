@@ -1,5 +1,5 @@
 ---
-title: Forskjeller i Microsoft 365 Enterprise-abonnement
+title: Microsoft 365 Enterprise planforskjeller
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539761"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Forskjeller i Microsoft 365 Enterprise-abonnement
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise planforskjeller
 
-Microsoft 365 Enterprise E5 omfatter alle funksjonene i Microsoft 365 Enterprise E3, i tillegg til avanserte sikkerhetstiltak som:
+Microsoft 365 Enterprise E5 inneholder alle funksjonene i Microsoft 365 Enterprise E3, i tillegg til avanserte sikkerhetstiltak som:
 
-- Advanced Threat Protection (ATP)
+- Trusselbeskyttelse
 - Avansert datastyring
 - Customer Lockbox
 - Microsoft 365 Cloud App Security
@@ -39,7 +39,7 @@ Microsoft 365 Enterprise E5 leveres også med kraftige analyser og talefunksjone
 - Lydkonferanser
 - Nettmøter
 
-Hvis du vil lære mer om Microsoft 365 Enterprise E5 eller registrere deg for et prøveabonnement, kan du se Prøve eller kjøpe et [Microsoft 365-abonnement.](https://go.microsoft.com/fwlink/?linkid=2099673)
+Hvis du vil lære mer Microsoft 365 Enterprise E5 eller registrere deg for et prøveabonnement, kan du se Prøve eller [kjøpe et Microsoft 365 abonnement.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
 Hvis du vil sammenligne funksjoner på tvers av Enterprise-abonnementer, kan [du se Sammenligne virksomhetsplaner](https://go.microsoft.com/fwlink/?linkid=2097200).
 
