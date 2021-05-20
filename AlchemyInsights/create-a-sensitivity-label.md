@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233399"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543658"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Slik oppretter du en følsomhetsetikett
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233399"
 
     Hvis du vil lære mer om automatisk merking, kan du se [Bruke en følsomhetsetikett på innhold automatisk](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Gjenta disse trinnene for å opprette flere etiketter. Hvis du imidlertid vil opprette en underetikett, velger du først den overordnede etiketten, **velger ...** **for** Flere handlinger , og deretter velger du Legg **til underetikett**.
+1. Gjenta disse trinnene for å opprette flere etiketter. Hvis du imidlertid vil opprette en underetikett, velger du først den overordnede etiketten, velger de tre prikkene (flere handlinger), og deretter velger du **Legg til underetikett**.
 
 1. Når du har opprettet alle etikettene du trenger, kan du se gjennom rekkefølgen og om nødvendig flytte dem opp eller ned. 
     
-    Hvis du vil endre rekkefølgen på en etikett, velger **du ...** for **Flere handlinger**, og deretter velger du **Flytt opp** eller **Flytt ned**.
+    Hvis du vil endre rekkefølgen på en etikett, velger du de tre prikkene (flere handlinger), og deretter velger du **Flytt opp** eller **Flytt ned**.

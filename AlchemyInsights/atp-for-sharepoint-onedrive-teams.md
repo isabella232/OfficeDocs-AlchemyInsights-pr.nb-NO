@@ -1,5 +1,5 @@
 ---
-title: ATP for SharePoint, OneDrive og Microsoft Teams
+title: Microsoft Defender for Office 365 for SharePoint, OneDrive og Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715570"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543586"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP for SharePoint, OneDrive og Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender for Office 365 for SharePoint, OneDrive og Microsoft Teams
 
-Følg disse trinnene for å aktivere Advanced Threat Protection:
+Følg disse trinnene for å aktivere Microsoft Defender for Office 365:
 
-1. Gå til [https://protection.office.com](https://protection.office.com) og Logg på med en global administrator-eller sikkerhets administrator konto.
+1. Gå til [https://protection.office.com](https://protection.office.com) og logg på med en global administrator- eller sikkerhetsadministratorkonto.
 
-2. Velg **policy** klarerte vedlegg i den venstre navigasjons ruten under **trussel administrasjon** \> **Safe Attachments**.
+2. Velg Policysikkert vedlegg **i** den venstre navigasjonsruten under Trusselbehandling  \> .
 
-3. Velg **Aktiver ATP for SharePoint, OneDrive og Microsoft Teams**.
+3. Velg **Aktiver Defender for Office 365 for SharePoint, OneDrive og Microsoft Teams**.
 
-4. [Opprette en policy for aktivitets varsel](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) for å motta varsler når vi oppdager skadelige filer.
+4. [Opprett en policy for aktivitetsvarsling](/microsoft-365/compliance/create-activity-alerts) for å motta varsler når vi oppdager skadelige filer.
 
-Hvis du vil ha fullstendige instruksjoner, kan du se dette [emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Hvis du vil ha fullstendige instruksjoner, kan du se slå [på klarerte vedlegg for SharePoint, OneDrive og Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Obs**! ATP kan ikke skanne hver enkelt fil i SharePoint Online, OneDrive for Business eller Microsoft Teams. Filer skannes asynkront av en prosess som bruker Delings aktivitet, gjeste aktivitet og trussel signaler til å identifisere skadelige filer. Hvis du vil ha mer informasjon, kan du se dette [emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Obs!** Microsoft Defender for Office 365 skanner ikke hver enkelt fil i SharePoint Online, OneDrive for Business eller Microsoft Teams. Filer skannes asynkront av en prosess som bruker delingsaktivitet, gjesteaktivitet og trusselsignaler til å identifisere skadelige filer. Hvis du vil ha mer informasjon, kan du [se Klarerte vedlegg for SharePoint, OneDrive og Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

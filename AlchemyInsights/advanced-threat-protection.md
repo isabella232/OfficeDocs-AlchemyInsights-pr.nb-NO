@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801236"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542902"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- Sikre vedlegg, sikre koblinger og anti-phishing er en del av Microsoft Defender for Office 365 (ATP). Enterprise E5, Education a5 og Microsoft 365 Business Premium inkluderer ATP. Alle andre planer krever et ATP-abonnement.
+- Klarerte vedlegg, klarerte koblinger og phishing er en del av Microsoft Defender for Office 365. Enterprise E5, Education A5 og Microsoft 365 Business Premium inkluderer Microsoft Defender for Office 365. Alle andre abonnementer krever et tillegg for Microsoft Defender for Office 365 abonnement.
 
-- Du må tilordne de nødvendige lisensene for å beskytte brukerne av Office 365 ATP. Se [dette emnet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for instruksjoner om hvordan du kan bruke lisenser til brukerne.
+- Du må tilordne de aktuelle lisensene for å beskytte brukerne av Microsoft Defender for Office 365. Se [Legge til brukere og tilordne lisenser](/microsoft-365/admin/add-users/add-users) samtidig for instruksjoner om hvordan du bruker lisenser for flere brukere samtidig.
 
-- Globale administratorer eller sikkerhets administratorer kan få tilgang til Office 365 ATP-funksjoner i sikkerhets &s samsvars senter ved **trussel Managmeent** - \> **policy** .
+- Globale administratorer eller sikkerhetsadministratorer kan få tilgang til Microsoft Defender for Office 365 funksjoner i sikkerhets- & samsvarssenteret på **Policy** for \> **trusselovervendelse.**
 
-- Klarerte vedlegg og policyer for sikker tilkobling kan være omfang for hele organisasjonen, bestemte domener eller mindre bruker grupper.
+- Policyer for klarerte vedlegg og klarerte koblinger kan begrenses til hele organisasjonen, bestemte domener eller mindre grupper med brukere.
 
-- Det finnes ingen standard ATP sikker Vedleggs policy. Du må [opprette en policy](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) og bruke den på brukerne.
+- Det finnes ingen standard policy for sikkert vedlegg. Du må opprette [en policy og](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) bruke den for brukerne.
 
-- Det finnes en standard policy for ATP sikre koblinger som gjelder for alle i organisasjonen. Hvis du vil redigere denne policyen eller opprette egen definerte policyer, kan du se [dette emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Det finnes en standard policy for klarerte koblinger som gjelder for alle i organisasjonen. Hvis du vil redigere denne policyen eller opprette egendefinerte [policyer,](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)kan du se Konfigurere policyer for klarerte koblinger i Microsoft Defender for Office 365 .

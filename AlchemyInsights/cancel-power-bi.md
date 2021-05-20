@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543442"
 ---
 # <a name="cancel-power-bi"></a>Avbryt Power BI
 
-Power BI kan avbrytes i administrasjons senteret for Microsoft 365.
+Power BI kanselleres i Microsoft 365 administrasjonssenteret.
 
-1. Gå til **fakturerings-> [produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) ** -siden i administrasjons senteret.
-2. Finn abonnementet du vil avbryte, på **produkter** -fanen. Velg **flere handlinger** (tre prikker), og velg deretter **Avbryt abonnement**.
-3. Velg en årsak til at du avbryter i ruten **Avbryt abonnement** . Du kan eventuelt gi tilbake melding.
+1. Gå til Fakturering-siden > **[i](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.**
+2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
+3. Velg en **grunn** til at du avbryter, i ruten Avbryt abonnement. Du kan også gi tilbakemelding.
 4. Velg **Lagre**.
 
-**Refusjon: eventuell fordelt kredit blir returnert til deg i den neste fakturerings syklusen.**
+**Refusjon: Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.**
 
 > [!NOTE]
-> Hvis du ikke ser alternativet for å avbryte, velger du abonnementet for å vise detaljer-siden. Velg **Avbryt abonnement**i delen **abonnements-og betalings innstillinger** .
+> Hvis du ikke ser alternativet for å avbryte, velger du abonnementet for å vise detaljsiden. Velg **Avbryt abonnement under** Abonnements- og **betalingsinnstillinger.**
 
-Hvis du vil ha mer informasjon, kan du se [avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

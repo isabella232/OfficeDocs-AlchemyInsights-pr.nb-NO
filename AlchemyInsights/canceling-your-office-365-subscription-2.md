@@ -1,5 +1,5 @@
 ---
-title: Vil du avbryte Microsoft 365-abonnementet?
+title: Vil du avbryte Microsoft 365 abonnementet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232016"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543226"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Vil du avbryte Microsoft 365-abonnementet?
+# <a name="canceling-your-microsoft-365-subscription"></a>Vil du avbryte Microsoft 365 abonnementet?
 
-Det er leit at du blir med!
+Vi beklager at du er på farten!
   
-Basert på organisasjonsdataene mener vi at alle gjeldende abonnementer har mer enn 25 lisenser. Før du kan avbryte:
+Basert på organisasjonsdataene mener vi at alle gjeldende abonnementer har mer enn 25 tilordnede lisenser. Før du kan avbryte:
 
 1. Fjern lisenser fra brukere til du har færre enn 25 lisensierte brukere.
-2. Gå til siden **Fakturering** \> **[for](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
-3. Finn abonnementet **du** vil avbryte, på Produkter-fanen, velg Flere handlinger **(tre** prikker), og velg deretter **Avbryt abonnement.**
+2. Gå til **Fakturering** \> **[av produkter-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Finn **abonnementet** du vil avbryte, på Produkter-fanen, velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
 
-**Refusjon:** Eventuell fortløpende kreditt vil bli returnert til deg innen neste faktureringssyklus.
+**Refusjon:** Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.
 
-Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Avbryt Project-abonnement
+title: Avbryt Project abonnementet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416482"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543406"
 ---
-# <a name="cancel-project-subscription"></a>Avbryt Project-abonnement
+# <a name="cancel-project-subscription"></a>Avbryt Project abonnementet
 
-Administratorer kan avbryte prosjekt abonnementet for organisasjonen i administrasjons senteret for Microsoft 365.
+Administratorer kan avbryte Project for organisasjonen i Microsoft 365 administrasjonssenteret.
 
-1. Gå til siden **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Finn prosjekt abonnementet du vil avbryte, på **produkter** -fanen. Velg **flere handlinger** (tre prikker), og velg deretter **Avbryt abonnement**.
-3. Velg en årsak til at du avbryter i ruten **Avbryt abonnement** . Du kan eventuelt gi tilbake melding.
+1. Gå til **Fakturering** \> [av produkter-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Finn **abonnementet** Project du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
+3. Velg en **grunn** til at du avbryter, i ruten Avbryt abonnement. Du kan også gi tilbakemelding.
 4. Velg **Lagre**.
 
-**Refusjon:** Eventuell fordelt kredit blir tilbake til deg i den neste fakturerings syklusen.
+**Refusjon:** Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.
 
-Hvis du vil ha mer informasjon, kan du se [avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
