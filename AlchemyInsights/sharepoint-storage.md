@@ -1,5 +1,5 @@
 ---
-title: SharePoint-lagring
+title: Administrere SharePoint online-lagringsplass
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773748"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689867"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="404be-102">Administrere SharePoint Online-lagring</span><span class="sxs-lookup"><span data-stu-id="404be-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="ef6c2-102">Administrere SharePoint online-lagringsplass</span><span class="sxs-lookup"><span data-stu-id="ef6c2-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="404be-103">Lær hvordan du [kan beregne leier lagring](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) basert på planen din.</span><span class="sxs-lookup"><span data-stu-id="404be-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="ef6c2-103">For de fleste organisasjoner administreres SharePoint automatisk, slik at du ikke trenger å angi grenser per nettstedssamling.</span><span class="sxs-lookup"><span data-stu-id="ef6c2-103">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span> <span data-ttu-id="ef6c2-104">Hvis du vil ha mer informasjon om hvordan leierlagring beregnes basert på planen din, kan du se [Grenser etter plan](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span><span class="sxs-lookup"><span data-stu-id="ef6c2-104">For more information about how tenant storage is calculated based on your your plan, see [Limits by plan](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span></span>
 
-<span data-ttu-id="404be-104">For de fleste organisasjoner administreres SharePoint-lagring automatisk, slik at du ikke trenger å angi begrensninger per nettsteds samling.</span><span class="sxs-lookup"><span data-stu-id="404be-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="ef6c2-105">Hvis du vil ha mer informasjon, kan du se:</span><span class="sxs-lookup"><span data-stu-id="ef6c2-105">For more information, see:</span></span>
 
-<span data-ttu-id="404be-105">Lær hvordan du [viser totalt og tilgjengelig lagrings plass for organisasjonen](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="404be-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+- [<span data-ttu-id="ef6c2-106">Administrere lagringsgrenser for nettsted</span><span class="sxs-lookup"><span data-stu-id="ef6c2-106">Manage site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits)
 
-<span data-ttu-id="404be-106">Lær hvordan du [administrerer individuelle lagrings grenser for område samlinger](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="404be-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+- [<span data-ttu-id="ef6c2-107">Administrere individuelle lagringsgrenser for nettsted</span><span class="sxs-lookup"><span data-stu-id="ef6c2-107">Manage individual site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-<span data-ttu-id="404be-107">Hvis området er tomt for lagrings plass eller du vil lære hvilket bibliotek eller liste som bruker plassen, går du til **Innstillinger for område**for nettsteds  >  **Storage Metrics** samling (administrator tillatelser kreves).</span><span class="sxs-lookup"><span data-stu-id="404be-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="ef6c2-108">Hvis området er for lite plass eller du vil finne ut hvilket bibliotek eller hvilken liste som bruker plassen, kan du gå til **Nettstedsdata Innstillinger** Storage Metrikk (administratortillatelser for  >  **nettstedssamling** kreves).</span><span class="sxs-lookup"><span data-stu-id="ef6c2-108">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="404be-108">Lær hvordan du [overvåker lagrings grenser for området ved hjelp av PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="404be-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="ef6c2-109">Hvis du vil ha mer informasjon, kan du se:</span><span class="sxs-lookup"><span data-stu-id="ef6c2-109">For more information, see:</span></span>
 
-<span data-ttu-id="404be-109">Finn ut hvordan du kan [kjøpe ekstra lagrings plass](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="404be-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
+- [<span data-ttu-id="ef6c2-110">Overvåk lagringsgrenser for nettstedet ved hjelp av PowerShell</span><span class="sxs-lookup"><span data-stu-id="ef6c2-110">Monitor site storage limits by using PowerShell</span></span>](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [<span data-ttu-id="ef6c2-111">Lagt til lagringsplass for abonnementet</span><span class="sxs-lookup"><span data-stu-id="ef6c2-111">Addd storage space for your subscription</span></span>](/microsoft-365/commerce/add-storage-space) 
   
