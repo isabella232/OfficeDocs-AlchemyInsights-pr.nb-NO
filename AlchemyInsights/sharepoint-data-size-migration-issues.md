@@ -1,5 +1,5 @@
 ---
-title: Problemer med å overføre data til SharePoint Online
+title: Problemer under overføring av data til SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700896"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694785"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer med å overføre data til SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer under overføring av data til SharePoint Online
 
-**Overføre over 100TB av data**
+**Overføre over 100 TB med data**
 
-Det ser ut til at du overfører over 100TB med data til SharePoint Online. Følg Fremgangs måten nedenfor, slik at vi kan hjelpe deg så raskt som mulig. 
+Det ser ut til at du overfører over 100 TB med data til SharePoint Online. Følg fremgangsmåten nedenfor, slik at vi kan hjelpe deg så snart som mulig. 
 
-1. Velg **ny service forespørsel**, og deretter **ny service forespørsel**. 
-2. Gå ut av tittelen og beskrivelsen som **SharePoint-overføring over 100TB**.
-3. Når billetten er sendt, må du oppdatere den med følgende informasjon: 
+1. Velg **Kontakt kundestøtte** og deretter Ny **serviceforespørsel**. 
+2. La tittelen og beskrivelsen være SharePoint **overføring over 100 TB**.
+3. Når billetten er sendt inn, kan du oppdatere den med følgende informasjon: 
 
-    - Beregnet størrelse på overføringen.
-    - Et overslag over når du vil starte og fullføre overføringen.
-    - Beskriv hvor du overfører innholdet fra, for eksempel SharePoint Server, boks, GDrive, delte fil ressurser og så videre.
+    - Estimert størrelse på overføringen.
+    - Et anslag over når du vil starte og fullføre overføringen.
+    - Beskriv hvor du overfører innholdet fra, for eksempel SharePoint Server, Box, GDrive, Fildelinger og så videre.
