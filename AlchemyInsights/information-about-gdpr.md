@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755674"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853878"
 ---
 # <a name="information-about-gdpr"></a>Informasjon om GDPR
 
-- Kom i gang med [tjeneste klarerings portalen.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GDPR forenklet: En veiledning for småbedrifter](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Se gjennom for noe som er relatert til **data behandlings avtalen** (DPA):
+- Kom i gang med [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Data beskyttelses ressurser](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- For alt som er relatert til **databehandlingsavtalen** (DPA), kan du se:
 
-  - [Overvåkings rapporter](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Databeskyttelsesressurser](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-- Informasjon om **data emne forespørsler** (DSR)-Discover, Access, løse, Begrens, Slett, Eksporter er [her.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+  - [Overvåkingsrapporter](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informasjon om **varsling om data brudd** er [her.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informasjon om **dataemneforespørsler** (DSR) – oppdag, få tilgang til, rette opp, begrense, slette, eksportere er [her.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informasjon om **data plasseringer** er [her.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informasjon om **varsel om databrudd** er [her.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+
+- Her finner du informasjon om [dataplasseringer.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All) 
