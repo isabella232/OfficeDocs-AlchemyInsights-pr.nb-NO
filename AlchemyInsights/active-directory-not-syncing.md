@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822860"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930984"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory synkroniseres ikke
 
-Hvis du mottar synkroniseringsfeil, for eksempel «ingen nylig synkronisering», eller legger merke til at statusen for katalogsynkronisering i administrasjonsportalen for Office sier «Sist synkronisert for mer enn 3 dager siden», kan det være at AADConnect har feil innstillinger eller utilstrekkelige tillatelser til å utføre en synkronisering.  
+Hvis du mottar synkroniseringsfeil, for eksempel «ingen nylig synkronisering», eller legger merke til katalogsynkroniseringsstatusen i Office-administrasjonsportalen, sier «Sist synkronisert for mer enn 3 dager siden», kan det være at AADConnect har feil innstillinger eller utilstrekkelige tillatelser til å utføre en synkronisering.  
 
-Hvis du installerer AADConnect på nytt ved hjelp av hurtiginnstillinger, kan dette løse problemet raskt:
+Hvis du installerer AADConnect på nytt ved hjelp av hurtiginnstillinger, kan problemet løses raskt:
 
 1. [Last ned den nyeste versjonen av AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Følg instruksjonene for ekspressinstallasjon](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Følg instruksjonene for ekspressinstallasjon](/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Hvis du vil ha mer informasjon om AADConnect-tjenestekontoer, kan du se [Azure AD Connect: Kontoer og tillatelser](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Azure AD Connect må installeres på Windows-2012 eller nyere. Denne serveren må være domene-tilkoblet og være en domenekontroller eller en medlemsserver. Hvis du vil ha en fullstendig liste over Azure AD Koble til krav og forhåndskrav, kan du se gjennom Forutsetninger [for Azure AD Koble til.](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+
+Hvis du vil ha mer informasjon om AADConnect-tjenestekontoer, [kan du se Azure AD Koble til: Kontoer og tillatelser](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
