@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53005061"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023148"
 ---
-# <a name="get-business-assist"></a><span data-ttu-id="7174d-102">Få Business Assist</span><span class="sxs-lookup"><span data-stu-id="7174d-102">Get Business Assist</span></span>
+# <a name="get-business-assist"></a><span data-ttu-id="3cfa2-102">Få Business Assist</span><span class="sxs-lookup"><span data-stu-id="3cfa2-102">Get Business Assist</span></span>
 
-1. <span data-ttu-id="7174d-103">Gå til Abonnementer Business Assist i **administrasjonssenteret** for Microsoft 365.  >  </span><span class="sxs-lookup"><span data-stu-id="7174d-103">In the Microsoft 365 admin center, go to **Subscriptions** > **Business Assist**.</span></span>
+1. <span data-ttu-id="3cfa2-103">Gå til Business Assist for Microsoft 365-siden i administrasjonssenteret [for Microsoft 365,](https://go.microsoft.com/fwlink/p/?linkid=2158423)velg en faktureringshyppighet, og velg deretter **Kjøp**.</span><span class="sxs-lookup"><span data-stu-id="3cfa2-103">In the Microsoft 365 admin center, go to the [Business Assist for Microsoft 365 page](https://go.microsoft.com/fwlink/p/?linkid=2158423), select a billing frequency, and then select **Buy**.</span></span>
+2. <span data-ttu-id="3cfa2-104">Følg fremgangsmåten for å sjekke ut.</span><span class="sxs-lookup"><span data-stu-id="3cfa2-104">Follow the steps to check out.</span></span>
 
-1. <span data-ttu-id="7174d-104">Velg **Business Assist**  >  **Buy**, og følg veiviseren for å kjøpe Business Assist.</span><span class="sxs-lookup"><span data-stu-id="7174d-104">Select **Business Assist** > **Buy**, and follow the wizard to purchase Business Assist.</span></span>
-
-<span data-ttu-id="7174d-105">Hvis du vil ha mer informasjon, [kan du se Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="7174d-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
+<span data-ttu-id="3cfa2-105">Hvis du vil ha mer informasjon, [kan du se Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="3cfa2-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
