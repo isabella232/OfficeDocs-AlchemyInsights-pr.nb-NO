@@ -1,5 +1,5 @@
 ---
-title: Veiledning for Team oppgradering
+title: Teams veiledning for oppgradering
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333937"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095409"
 ---
-# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="4f730-102">Microsoft Teams-oppgradering</span><span class="sxs-lookup"><span data-stu-id="4f730-102">Microsoft Teams upgrade</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="9186f-102">Microsoft Teams oppgradering</span><span class="sxs-lookup"><span data-stu-id="9186f-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="4f730-103">**Viktig**: Hvis du har oppgradert fra Skype for business online til Microsoft Teams i modus for bare team, men finner ut at du ikke er klar ennå, kan vi hjelpe deg med å løse dette for deg ved hjelp av en kunde støtte diagnose.</span><span class="sxs-lookup"><span data-stu-id="4f730-103">**Important**: If you have been upgraded from Skype for Business Online to Microsoft Teams in Teams Only mode, but find you aren’t ready yet, we can help fix this for you using a support diagnostic.</span></span> <span data-ttu-id="4f730-104">Kontroller at du bruker det nye administrasjons senteret ved å skyve veksleknappen øverst til høyre, som sier at det **nye administrasjons senteret**er riktig.</span><span class="sxs-lookup"><span data-stu-id="4f730-104">Make sure you are using the new Admin Center by sliding the toggle in the top right that says **new Admin Center**to the right.</span></span> <span data-ttu-id="4f730-105">Bruk det nye administrasjons senteret, klikk på **trenger hjelp?** kontroll program, Skriv inn**team oppgradering**, og følg deretter instruksjonene for å kjøre diagnosen.</span><span class="sxs-lookup"><span data-stu-id="4f730-105">Using the new Admin Center, click the **Need Help?** widget, type "**Teams Upgrade**", then follow the prompts to run the diagnostic.</span></span>
+<span data-ttu-id="9186f-103">Enten du akkurat har kommet i gang med Teams, allerede bruker Teams sammen med Skype for Business eller klar til å oppgradere, ønsker vi å sikre at du har alt du trenger for å navigere en vellykket reise til Teams.</span><span class="sxs-lookup"><span data-stu-id="9186f-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="9186f-104">Hvis du vil ha mer informasjon, kan du gå til koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="9186f-104">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="4f730-106">Enten du bare har kommet i gang med Teams, bruker du Teams sammen med Skype for Business, eller er klar til å oppgradere, vil vi sikre at du har alt du trenger for å navigere i en vellykket reise til Teams.</span><span class="sxs-lookup"><span data-stu-id="4f730-106">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="4f730-107">Hvis du vil ha mer informasjon, kan du se koblingene nedenfor.</span><span class="sxs-lookup"><span data-stu-id="4f730-107">For more information please visit the links below.</span></span>
+[<span data-ttu-id="9186f-105">Komme i gang med Microsoft Teams oppgraderingen</span><span class="sxs-lookup"><span data-stu-id="9186f-105">Getting started with your Microsoft Teams upgrade</span></span>](/MicrosoftTeams/upgrade-start-here)
 
-[<span data-ttu-id="4f730-108">Komme i gang med Microsoft Teams-oppgraderingen</span><span class="sxs-lookup"><span data-stu-id="4f730-108">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[<span data-ttu-id="9186f-106">Planlegg oppgraderingen</span><span class="sxs-lookup"><span data-stu-id="9186f-106">Plan for your upgrade</span></span>](/MicrosoftTeams/upgrade-plan-journey)
 
-[<span data-ttu-id="4f730-109">Planlegge for oppgraderingen</span><span class="sxs-lookup"><span data-stu-id="4f730-109">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[<span data-ttu-id="9186f-107">Forstå Microsoft Teams og Skype for Business sameksistens</span><span class="sxs-lookup"><span data-stu-id="9186f-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[<span data-ttu-id="4f730-110">Forstå Microsoft Teams og et sameksistens i Skype for Business</span><span class="sxs-lookup"><span data-stu-id="4f730-110">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[<span data-ttu-id="9186f-108">Utføre oppgraderingen fra Skype for Business Online til Teams</span><span class="sxs-lookup"><span data-stu-id="9186f-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[<span data-ttu-id="4f730-111">Utføre oppgraderingen fra Skype for business online til Teams</span><span class="sxs-lookup"><span data-stu-id="4f730-111">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[<span data-ttu-id="4f730-112">Utføre oppgraderingen fra Skype for Business lokalt til Teams</span><span class="sxs-lookup"><span data-stu-id="4f730-112">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="9186f-109">Utføre oppgraderingen fra Skype for Business lokalt til Teams</span><span class="sxs-lookup"><span data-stu-id="9186f-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[<span data-ttu-id="4f730-113">Kontrollere statusen for Skype for business online til Teams-oppgradering med PowerShell</span><span class="sxs-lookup"><span data-stu-id="4f730-113">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[<span data-ttu-id="9186f-110">Kontroller statusen for Skype for Business Online for Teams oppgradering med PowerShell</span><span class="sxs-lookup"><span data-stu-id="9186f-110">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
