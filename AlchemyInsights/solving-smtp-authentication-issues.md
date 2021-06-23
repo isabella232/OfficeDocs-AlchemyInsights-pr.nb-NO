@@ -1,5 +1,5 @@
 ---
-title: Løse problemer med SMTP-godkjenning
+title: Aktivere SMTP-godkjenning og feilsøking
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826424"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077660"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Løse problemer med SMTP-godkjenning
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivere SMTP-godkjenning og feilsøking
 
-Hvis du får feil 5.7.57 eller 5.7.3 når du prøver å sende SMTP-e-post og godkjenne med en klient eller et program, er det et par ting du bør kontrollere:
+Hvis du vil aktivere SMTP-godkjenning for en postboks eller får feilmeldingen «Klient ikke godkjent», «Godkjenning mislyktes» eller «SmtpClientAuthentication» med kode 5.7.57 eller 5.7.3 eller 5.7.139 når du prøver å videresende e-post ved å godkjenne en enhet eller et program med Microsoft 365, utfører du disse tre handlingene for å løse problemet:
 
-- Godkjent SMTP-innsending kan være deaktivert i leieren eller på postboksen du prøver å bruke (kontroller begge innstillingene). Hvis du vil lese mer, kan du se [Aktivere eller deaktivere smtp-innsending av godkjent klient.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Deaktiver [sikkerhetsstandardene for Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) ved å slå **Aktiver sikkerhetsstandarder** til **Nei**.
 
-- Kontroller om [Azure-sikkerhetsstandarder](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) er aktivert for leieren. hvis aktivert, vil SMTP-godkjenning ved hjelp av enkel godkjenning (også kjent som eldre, dette bruke brukernavn og passord) mislykkes.
+    a. Logg deg på Azure-portalen som sikkerhetsadministrator, betinget tilgangsadministrator eller global administrator.<BR/>
+    b. Bla til Azure Active Directory > **egenskaper**.<BR/>
+    c. Velg **Behandle sikkerhetsstandarder**.<BR/>
+    d. Angi **Aktiver sikkerhetsstandarder** til **Nei**.<BR/>
+    e. Velg **Lagre**.
+
+2. [Aktiver SMTP-klientinnsending](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) på den lisensierte postboksen.
+
+    a. Fra Administrasjonssenter for Microsoft 365 går du til **Aktive brukere**, og velger brukeren.<BR/>
+    b. Gå til E-post-fanen, og velg Behandle **e-postapper** under E-postapper . <BR/>
+    d. Kontroller at **Godkjent SMTP er** avmerket (aktivert).<BR/>
+    e. Velg **Lagre endringer**.<BR/>
+
+3. [Deaktiver godkjenning med flere faktorer (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) på den lisensierte postboksen.
+
+    a. Gå til Administrasjonssenter for Microsoft 365, og velg Brukere aktive brukere i navigasjonsmenyen  >  **til venstre.**<BR/>
+    b. Velg **Godkjenning med flere faktorer**.<BR/>
+    c. Velg brukeren, og deaktiver **godkjenning med flere faktorer**.<BR/>
