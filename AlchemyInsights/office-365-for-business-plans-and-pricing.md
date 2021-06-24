@@ -1,5 +1,5 @@
 ---
-title: Abonnementer og priser for Microsoft 365 for bedrifter
+title: Sammenligne Microsoft 365 for bedrifter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790809"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104575"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Sammenligne Microsoft 365 for bedrifter
 
-Det finnes tre forskjellige abonnementer som er tilgjengelige med Microsoft 365 for bedrifter. [Sammenlign Abonnementer og priser for Microsoft 365 for bedrifter.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  
+Det finnes ulike abonnementer som er tilgjengelige Microsoft 365 for bedrifter. Hvis du vil ha informasjon om funksjoner og priser, [kan du se Sammenligne Microsoft 365 for bedriftsabonnementer](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).  
