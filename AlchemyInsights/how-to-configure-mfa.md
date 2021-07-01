@@ -1,5 +1,5 @@
 ---
-title: 955 slik konfigurerer du MFA
+title: 955 Slik konfigurerer du MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704462"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218783"
 ---
 # <a name="configure-multi-factor-authentication"></a>Konfigurere godkjenning med flere faktorer
 
-Hvis du vil konfigurere MFA, kan du se [konfigurere godkjenning med flere faktorer](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Hvis du vil konfigurere MFA, [kan du se Konfigurere godkjenning](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) med flere faktorer eller bruke Administrasjonssenter for Microsoft 365 [installasjonsveiledningen](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:).
 
-Vær oppmerksom på at du må være en global administrator for å kunne aktivere og konfigurere MFA.
+**Obs!** Du må være global administrator for å aktivere og konfigurere MFA.
