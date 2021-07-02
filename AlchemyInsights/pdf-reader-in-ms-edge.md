@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679086"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255900"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>PDF-leser i Microsoft Edge
 
-Populariteten til PDF-filer uthever behovet for en pålitelig, sikker og kraftig PDF-leser som kan brukes av bedrifts selskaper. Funksjonen for rik PDF-leser som er innebygd i Microsoft Edge (versjon 77 og nyere), er bare en slik app. Det fungerer i Windows og macOS, og den kan brukes til å åpne og legge til merknader i PDF-filer som er lokalt, tilkoblet eller innebygd på Netts IDer.
+Populariteten til PDF-filer fremhever behovet for en pålitelig, sikker og kraftig PDF-leser som kan tas i bruk av bedriftsselskaper. Den funksjonsrike PDF-leseren som er innebygd Microsoft Edge (versjon 77 og nyere) er bare en slik app. Det fungerer i Windows macOS, og den kan brukes til å åpne og kommentere PDF-filer som er lokale, nettbaserte eller innebygde på nettsider.
 
-Hvis du vil ha mer informasjon, kan du se [PDF-leser i Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Hvis du vil ha mer informasjon, [kan du se PDF-leser i Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
