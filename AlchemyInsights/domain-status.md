@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125675"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389190"
 ---
 # <a name="domain-status---no-services-selected"></a>Domenestatus – Ingen tjenester er valgt
 
-En status for domenetilstand er tilgjengelig når du kobler domenet direkte til Microsoft 365 tjenester som Exchange. Dette gjør du ved å gå til Microsoft 365 administrasjonssenteret og velge **DNS-poster**  >  **Behandle DNS**.
+ Ingen tjenester valgt betyr at du ikke har valgt noen Microsoft 365-tjenester, for eksempel Exchange Online, Skype for Business eller Intune, og Administrasjon av mobilenheter for Microsoft 365 å bruke med det egendefinerte domenet. Hvis du bruker Exchange Hybrid (Exchange lokalt med Exchange Online) eller ekstern søppelpostfiltrering med Exchange og ingen andre Microsoft-tjenester, kan du ignorere denne meldingen. Status for domenetilstand er bare tilgjengelig for domener som er koblet direkte til tjenesten.
 
-Hvis du ikke kan koble domenet direkte til Microsoft 365 tjenester, er ikke tilstandsstatusen for domenet tilgjengelig. Når du for eksempel bruker egendefinert DNS-ruting for e-post, eksterne filtreringstjenester for søppelpost, eller du bruker både Exchange lokalt og Exchange Online (også kalt en hybriddistribusjon).
+Slik velger du tjenester for domenet:
+
+1. Merk **Innstillinger** av for domenet med statusmeldingen Ingen tjenester valgt fra Innstillinger  >  [](https://admin.microsoft.com/Adminportal/Home) **Domener**.
+1. Velg **Administrer DNS for** å starte veiviseren for domeneoppsett.
+    - Hvis du velger **Legg til dine egne DNS-poster**, må du passe på å velge en tjeneste når du blir bedt om det. Flere tjenester kan være tilgjengelige under **Avanserte alternativer**.
+    - Hvis du velger La Microsoft  **legge til DNS-postene** eller Flere alternativer Konfigurer nettjenestene for meg, foreslås alle tilgjengelige tjenester og  >   velges automatisk.
+1. Fortsett gjennom veiviseren for å fullføre DNS-konfigurasjonen og tjenestevalgene.
+ 
+Hvis du vil ha mer hjelp til å konfigurere domenet, kan du se Legge til [DNS-poster for å koble til domenet.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
