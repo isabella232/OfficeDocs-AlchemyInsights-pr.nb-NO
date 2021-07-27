@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "6450"
-ms.openlocfilehash: 1443213e1d7c38f83098b6539b2fae6d387aad16
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b8b91b7d0286514a8943d56fd47954cf147d22b
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829817"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586907"
 ---
 # <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Overføre fra Microsoft Stream (klassisk) til den nye Microsoft Stream
 
-Hvis du vil ha mer informasjon om overføring fra klassisk strøm til ny strøm, kan du se Overføre fra [Microsoft Stream (klassisk) til den nye Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+Hvis du vil ha mer informasjon om overføring fra klassisk strøm til den nye strømmen, kan du se Oversikt over overføring fra [Microsoft Stream (klassisk) til Stream (innebygd i SharePoint).](/stream/streamnew/stream-classic-to-new-migration-overview)

@@ -1,5 +1,5 @@
 ---
-title: Slett gruppe nettsted
+title: Slett gruppeområde
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745831"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532120"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Slette et SharePoint-område som tilhører en Microsoft 365-gruppe
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Slette et SharePoint som tilhører en Microsoft 365 gruppe
 
-Når du sletter et gruppe tilkoblet nettsted, slettes gruppen og alle ressursene, inkludert Outlook-postboksen og-kalenderen, og alle team kanaler.
+Hvis du sletter et gruppekoblet nettsted, slettes gruppen og alle ressursene, inkludert Outlook postboksen og kalenderen og eventuelle Teams kanaler.
   
-Viktig
+Viktig:
 
-- Du kan gjenopprette slettede nett steder for 93 dager. Slettede grupper må gjenopprettes innen 30 dager. [Vise og gjenopprette slettede nett steder](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) direkte fra administrasjons senteret for SharePoint. Hvis du vil [vise og gjenopprette **Slettede grupper**](https://outlook.office.com/people/group/deleted), velger du **Behandle grupper**og velger deretter **Slett**.
-- Hvis nettstedet er en del av en oppbevarings policy, kan det hende at du ikke kan slette det før området er fjernet fra [sikkerhets & Overholdelses administrasjons senter](https://protection.office.com/?rfr=AdminCenter#/retention). Hvis du vil ha mer informasjon, kan du se [Oversikt over oppbevarings policyer](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Du kan gjenopprette slettede nettsteder i 93 dager. Slettede grupper må gjenopprettes innen 30 dager. [Vis og gjenopprett slettede nettsteder](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) direkte fra SharePoint administrasjonssenteret. Hvis [du vil vise og gjenopprette **slettede grupper**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups), velger du Behandle **grupper** og deretter **Slettet**.
+- Hvis nettstedet er en del av en oppbevaringspolicy, kan det hende du ikke kan slette det før nettstedet er fjernet fra administrasjonssenteret for sikkerhet [&](https://protection.office.com/?rfr=AdminCenter#/retention)samsvar. Hvis du vil ha mer informasjon, kan [du se Oversikt over oppbevaringspolicyer](/microsoft-365/compliance/retention-policies).
   
-Hvis du vil ha mer informasjon, kan du se [administrere områder i det nye administrasjons senteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Hvis du vil ha mer informasjon, kan du se Administrere [områder i det nye SharePoint administrasjonssenteret](/sharepoint/manage-sites-in-new-admin-center).

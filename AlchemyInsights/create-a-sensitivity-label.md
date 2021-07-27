@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543658"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532192"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Slik oppretter du en følsomhetsetikett
 
-1. Gå til Office 365 sikkerhets- & samsvarssenter > Klassifiseringsfølsomhetsetiketter  >  .
+1. Gå til Microsoft 365 samsvarssenteret > **Etiketter for informasjonsbeskyttelse**  >  .
 
 1. Velg **+ Opprett en etikett for** å starte veiviseren for ny følsomhetsetikett.
 

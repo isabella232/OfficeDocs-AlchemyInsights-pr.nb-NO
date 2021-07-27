@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539653"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532264"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Slik publiserer du en følsomhetsetikett
 
-1. Gå til Office 365 sikkerhets- & samsvarssenter > Klassifiseringsfølsomhetsetiketter  >  .
+1. Gå til Microsoft 365 samsvarssenteret > **policyer for** etiketter for  >  **informasjonsbeskyttelse**.
 
-1. Velg Etikettpolicyer-fanen på  siden Følsomhetsetiketter, og velg deretter **Publiser etiketter**.
+1. Velg **+ Publiser etikett for** å starte veiviseren for ny følsomhetsetikett.
 
 1. Velg **Velg følsomhetsetiketter som skal publiseres.** Velg etikettene du vil gjøre tilgjengelige i apper og tjenester, og velg deretter **Legg til**.
 

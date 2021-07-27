@@ -1,42 +1,41 @@
 ---
-title: Synkronisere en brukers profil bilde
+title: Synkronisere en brukers profilbilde
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673795"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532156"
 ---
-# <a name="sync-a-users-profile-picture"></a>Synkronisere en brukers profil bilde
+# <a name="sync-a-users-profile-picture"></a>Synkronisere en brukers profilbilde
 
-Du kan legge til eller endre profil bildet i Microsoft 365 fra Office.com, eller mens du bruker Microsoft-programmer på data maskinen eller i en nett leser på telefonen. Bildet vises overalt der det finnes en bilde sirkel for profil i Microsoft 365.
+Du kan legge til eller endre profilbildet ditt i Microsoft 365 fra Office.com, eller når du bruker Microsoft-programmer på datamaskinen eller i en nettleser på telefonen. Bildet ditt vises overalt der det er en profilbildesirkel i Microsoft 365.
 
-Slik legger du til profil bildet ditt i Microsoft 365 for bedrifter:
+Slik legger du til profilbildet i Microsoft 365 for bedrifter:
 
-1. Finn et bilde du vil bruke, og lagre det på data maskinen, OneDrive eller en annen plassering du kan komme til.
+1. Finn et bilde du vil bruke, og lagre det på datamaskinen, OneDrive eller en annen plassering du kan få tilgang til.
 
-2. Logg på Microsoft 365 med jobb-eller skole kontoen på [Office.com](https://www.office.com).
+2. Logg på Microsoft 365 med jobb- eller skolekontoen på [office.com](https://www.office.com).
 
-3. Velg sirkelen øverst til høyre på siden, som viser initialene dine eller et ikon for en person.
+3. Merk sirkelen øverst til høyre på siden som viser initialene dine eller et ikon for en person.
 
-4. I min kontoer-ruten velger du sirkelen som viser dine initialer eller et ikon for en person. Endre bildet i popup-vinduet som vises.
+4. Velg sirkelen som viser initialene dine eller et ikon for en person, i Mine kontoer-ruten. Endre bildet i popup-vinduet som vises.
 
-**Obs!** Hvis du allerede har lastet opp et bilde, kan det hende du vil prøve å velge SharePoint-eller OneDrive-flisen for å synkronisere bildet på nytt.
+**Obs!** Hvis et brukerprofilbilde vises forskjellig i SharePoint sammenlignet med andre Microsoft-programmer, må brukeren utføre disse trinnene:
 
-Hvis et bruker profil bilde ser annerledes ut i SharePoint sammenlignet med andre Microsoft-programmer, har brukeren fullført disse trinnene:
+1. Åpne en privat (InPrivate/inkognito) nettleserøkt.
+1. Gå til [Microsoft Office 365](https://www.office.com).
+1. Velg SharePoint ikonet.
+1. Bla til et nettsted eller en side der bildet ikke er oppdatert, eller en side der brukeren er inkludert i en personwebdel.
 
-1. Åpne en privat nett leser økt (InPrivate/inkognito).
-2. Gå til [https://www.office.com](https://www.office.com/).
-3. Velg SharePoint-ikonet.
-4. Bla til et nettsted eller en side der bildet ikke er oppdatert, eller en side der brukeren er inkludert i en nett del for personer.
-
-Hvis du vil ha mer informasjon, kan du se [informasjon om profil bilde synkronisering i Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Hvis du vil ha mer informasjon, [kan du se Informasjon om profilbildesynkronisering i Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 
