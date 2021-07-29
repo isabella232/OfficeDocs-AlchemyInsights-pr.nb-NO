@@ -1,5 +1,5 @@
 ---
-title: 1488 – Utfør-eDiscovery-og-Content-søk
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668523"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630222"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innholds søk og eDiscovery-søk
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innholdssøk og eDiscovery-søk
 
-**Slik utfører du et innholds søk**:
+**Slik utfører du et innholdssøk:**
 
-1. Gå til [sikkerhets & samsvars senter](https://protection.office.com) , og Logg på.
-2. Klikk **søk > innholds søk**.
-3. Klikk **nytt søk** for å opprette et nytt søk.
-4. Angi de nødvendige søke vilkårene, inkludert nøkkel ord og innholds plasseringer.
-5. Klikk **lagre & Kjør** for å gi navn til søket, start det, og forhånds Vis deretter resultatene.
+1. Gå til Microsoft 365 samsvarssenteret, og logg på.
+2. Velg **Søk > innholdssøk**.
+3. Velg **Nytt søk for** å opprette et nytt søk.
+4. Skriv inn de nødvendige søkebetingelsene, inkludert nøkkelord og innholdsplasseringer.
+5. Velg **Lagre & kjøre** for å gi navn til søket, starte det og deretter forhåndsvise resultatene.
 
 > [!NOTE]
-> I **M365-samsvars senteret**, under **løsninger**, velger du Utvid **eDiscovery** og velger ønsket eDiscovery-verktøy.
+> Utvid **Microsoft 365**  >   **eDiscovery** i Microsoft 365, og velg ønsket eDiscovery-verktøy.
 
-Hvis du vil ha detaljerte instruksjoner om innholds søk, eksport av resultater og oppretting av eDiscovery-saker for å lagre data, kan du se [innholds søk](https://docs.microsoft.com/microsoft-365/compliance/content-search) og [eDiscovery-saker](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Hvis du vil ha detaljerte instruksjoner om innholdssøk, eksportering [](/microsoft-365/compliance/content-search) av resultater og oppretting av eDiscovery-saker som skal inneholde data, kan du se Innholdssøk og [eDiscovery-saker](/microsoft-365/compliance/ediscovery-cases).
 
-**Mer informasjon**:
+**Mer informasjon:**
 
-- Hvis du vil ha mer informasjon om eDiscovery-verktøy i Microsoft 365, kan du se [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Lær om tillatelsene, kravene og begrensningene som kreves for å utføre eDiscovery-søk fra [tillatelser som kreves for eDiscovery-søk](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) og [krav og begrensninger](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Hvis du feil søker eDiscovery-problemer, kan du se [feil søking av vanlige problemer](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) og [undersøke delvis indekserte elementer](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Hvis du vil ha mer informasjon om eDiscovery-verktøy i Microsoft 365, kan du se [eDiscovery](/microsoft-365/compliance/ediscovery).
+- Lær om tillatelsene, kravene og begrensningene som kreves for å utføre eDiscovery-søk fra tillatelser som kreves [for eDiscovery-søk](/microsoft-365/compliance/assign-ediscovery-permissions) [og -krav og -grenser.](/microsoft-365/compliance/limits-for-content-search)
+- Hvis du feilsøker eDiscovery-problemer, kan du se [eDiscovery Feilsøke](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) vanlige problemer og undersøke [delvis indekserte elementer](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

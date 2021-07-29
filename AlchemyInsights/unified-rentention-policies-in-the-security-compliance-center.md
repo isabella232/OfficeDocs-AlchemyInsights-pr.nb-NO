@@ -1,5 +1,5 @@
 ---
-title: Enhetlige oppbevarings policyer i sikkerhets & Samsvars senteret
+title: Enhetlige oppbevaringspolicyer i sikkerhets- & samsvarssenteret
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669220"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630150"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Enhetlige oppbevarings policyer i sikkerhets & Samsvars senteret
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Enhetlige oppbevaringspolicyer i sikkerhets- & samsvarssenteret
 
-Oppbevarings policyer lar deg administrere organisasjonens innhold ved hjelp av oppbevaring og slettings innstillinger. Du kan opprette enhetlige oppbevarings policyer i sikkerhets & Samsvars senteret for Office 365 eller i Samsvars senteret til Microsoft 365. 
+Med oppbevaringspolicyer kan du administrere organisasjonens innhold ved hjelp av innstillinger for oppbevaring og sletting. Du kan opprette enhetlige oppbevaringspolicyer i Office 365 sikkerhets- & samsvarssenteret eller i Microsoft 365 samsvarssenteret. 
 
-1. Velg **informasjons Styrings**bevaring + Opprett i [sikkerhets & samsvars senteret](https://go.microsoft.com/fwlink/p/?linkid=2077143)  >  **Retention**  >  **+Create**. <br/>
-    I [samsvars senteret for Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)velger du **policy**  >  **data > oppbevaring > + ny oppbevarings policy.**
-2. Legg til **navn**, **Innstillinger**og **Velg plasseringer**.
-3. Se gjennom innstillingene, og velg deretter **Opprett denne policyen** eller **Lagre for senere**.  
+1. Velg [Oppbevaring av &](https://go.microsoft.com/fwlink/p/?linkid=2077143) **Informasjonsstyring**+Opprett i Sikkerhets- &  >    >  **samsvarssenteret**. <br/>
+    I [samsvarssenteret Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)velger du Policydata  >  **> oppbevaringspolicy > + Ny oppbevaringspolicy.**
+2. Legg **til navn,** **Innstillinger** og **Velg plasseringer**.
+3. Se gjennom innstillingene, og velg deretter **Opprett denne policyen** eller **Lagre til senere**.  
       
-Hvis du vil ha mer informasjon om oppbevarings policyer for innhold som Exchange-e-post, OneDrive, SharePoint og Teams-innhold, kan du se [Oversikt over oppbevarings policyer](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Hvis du vil ha mer informasjon om oppbevaringspolicyer for innhold som Exchange, OneDrive, SharePoint og Teams innhold, kan du se Oversikt over [oppbevaringspolicyer](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Hvis du bruker oppbevarings policyer side ved side i administrasjons senteret for Exchange og sikkerhets & Samsvars senteret, kan du se denne anbefalingen for å [bruke en oppbevarings policy i stedet for eldre funksjoner](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Hvis du bruker oppbevaringspolicyer side ved side i administrasjonssenteret for Exchange og sikkerhetssenteret &, kan du se denne anbefalingen om å bruke en oppbevaringspolicy i stedet for [eldre funksjoner](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Hvis du vil ha spesifikk informasjon om team oppbevaring, kan du se [oppbevarings policyer i Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Hvis du vil ha spesifikk Teams oppbevaring, kan du se [Oppbevaringspolicyer i Teams](/microsoftteams/retention-policies).
