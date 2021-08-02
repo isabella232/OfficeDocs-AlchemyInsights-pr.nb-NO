@@ -4,6 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: fdeb916ca8d3e9d949dbdad7560679f2c92c1289
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ca35096b112b55227edca68384e66b58b87bdae9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810601"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680667"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Vil du kjøpe et nytt abonnement?
 
-Hvis du allerede har et abonnement på Microsoft 365 for bedrifter og  du vil kjøpe et annet abonnement for organisasjonen, kan du gå til siden Tjenester for faktureringskjøp for å se en liste over abonnementer som er tilgjengelige for \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) organisasjonen.
+Hvis du allerede har et abonnement Microsoft 365 for bedrifter, og du vil kjøpe  et annet abonnement for organisasjonen, kan du gå til siden Tjenester for faktureringskjøp for å se en liste over abonnementer som er tilgjengelige \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) for organisasjonen.
  
 1. Velg abonnementet du vil bruke, og velg deretter **Kjøp**.
 
@@ -32,8 +33,8 @@ Hvis du allerede har et abonnement på Microsoft 365 for bedrifter og  du vil kj
 
  **Flere ressurser:**
   
-- [Tilordne lisenser til brukere i Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Tilordne lisenser til brukere i Microsoft 365 for bedrifter](/microsoft-365/admin/add-users/add-users)
     
-- [Avbryte abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Avbryte abonnementet](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Hvis du er interessert i å bytte abonnementer, kan du se Bytte til et annet [Abonnement for Microsoft 365 for bedrifter.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Hvis du er interessert i å bytte abonnementer, kan du se Bytte til en annen Microsoft 365 [for business-plan.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
