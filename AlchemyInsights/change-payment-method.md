@@ -3,36 +3,39 @@ title: Endre betalingsmetode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601160"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685311"
 ---
 # <a name="change-payment-method"></a>Endre betalingsmetode
 
-Du kan endre betalingsmåten fra administrasjonssenteret **for Microsoft 365.**
+Du kan endre betalingsmåten fra **Administrasjonssenter for Microsoft 365**.
   
-1. Gå til faktureringsregninger og betalingsmetoder-siden  >  **& administrasjonssenteret.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Velg raden for betalingsmåten som skal erstattes. Ruten til høyre viser alle fakturaprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
-3. Velg Erstatt betalingsmåte for alle varer i ruten **til høyre.**
-4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og deretter velger du **Erstatt.**
+1. I administrasjonssenter går du til siden **Fakturering** > **Fakturaer og betalinger** > [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+2. Merk raden for betalingsmåten som skal erstattes. Den høyre ruten viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
+3. I ruten til høyre velger du **Erstatt betalingsmåte for alle elementer**.
+4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og velger deretter **Erstatt**.
     > [!NOTE]
-    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmåter,** kan du ikke velge dem i rullegardinlisten.
-5. Hvis du vil legge til en ny betalingsmåte, **velger du Legg til betalingsmåte.**
-6. Skriv inn **kontoinformasjonen i** ruten Legg til en betalingsmåte, og velg deretter **Lagre.** Du må bruke en betalingsmåte fra samme land som leieren din.
-7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt.**
+    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
+5. Hvis du vil legge til en ny betalingsmåte, velger du **Legg til betalingsmåte**.
+6. I ruten **Legg til en betalingsmetode** skriver du inn kontoinformasjonen og velger deretter **Lagre**. Du må bruke en betalingsmetode fra samme land som leieren.
+7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
 
-Hvis du vil lære hvordan du legger til, oppdaterer, erstatter eller sletter betalingsmåter, kan du se [Behandle betalingsmåter.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Hvis du vil lære hvordan du legger til, oppdaterer, erstatter eller sletter betalingsmåter, kan du se [Administrere betalingsmåter](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Hvis du vil lære hvordan du bytter mellom betalingsmåter, kan du se [Hvordan betale for abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Hvis du vil lære hvordan du endrer mellom betalingsmåter, kan du se [Slik betaler du for abonnementet.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

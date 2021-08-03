@@ -3,6 +3,7 @@ title: Stoppe eller stanse et abonnement midlertidig
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: ae36b1500e48e9a12547daa27d5b1d035d8b2ba5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544515"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687723"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Stoppe eller stanse et abonnement midlertidig
 
-Hvis du vil stoppe eller stanse abonnementet midlertidig midlertidig, kan du avbryte abonnementet i Microsoft 365 administrasjonssenteret.
+Hvis du vil stanse eller stanse abonnementet midlertidig midlertidig, kan du avbryte abonnementet i Administrasjonssenter for Microsoft 365.
 
 1. Gå til Fakturering produkter-siden i   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
 2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.

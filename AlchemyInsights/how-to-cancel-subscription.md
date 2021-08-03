@@ -1,8 +1,9 @@
 ---
-title: Slik avbryter du et abonnement
+title: Slik avslutter du et abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,28 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088793"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689127"
 ---
-# <a name="how-to-cancel-a-subscription"></a>Slik avbryter du et abonnement
+# <a name="how-to-cancel-a-subscription"></a>Slik avslutter du et abonnement
 
-Du kan bare avbryte et Azure-abonnement i Azure-portalen hvis du er konto administrator eller abonnementet. Følg Fremgangs måten nedenfor.
+Du kan bare avbryte et Azure-abonnement i Azure-portalen hvis du er kontoadministrator eller abonnementet. Følg fremgangsmåten nedenfor.
 
-1. Velg abonnementet ditt fra [abonnementer-siden i Azure-portalen](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Velg abonnementet du vil avbryte.
+1. Velg abonnement fra [Abonnementer-siden i Azure-portalen](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Velg abonnementet du avbryte.
 3. Velg **Oversikt**, og velg deretter **Avbryt abonnement**.
 
-**Hva skjer etter at jeg har avbrutt abonnementet?**
+**Hva skjer når jeg avbryter abonnementet mitt?**
 
-Når du har avbrutt abonnementet, stoppes fakturering umiddelbart. Det kan imidlertid ha opptil 10 minutter før annulleringen vises i portalen. Hvis du avbryter abonnementet midt i en fakturerings periode, sender vi den endelige fakturaen på den vanlige faktura datoen etter at perioden er utløpt.
+Når du avslutter abonnementet, stoppes faktureringen umiddelbart. Det kan imidlertid ta opptil 10 minutter før kanselleringen vises i portalen. Hvis du avbryter abonnementet midt i en faktureringsperiode, sender vi den endelige fakturaen på den vanlige fakturadatoen etter perioden utløper.
 
-Når du har avbrutt, deaktiveres tjenestene dine. Det betyr at de virtuelle maskinene er avtilordnet, midlertidige IP-adresser er frigjort, og at lagrings plass er skrivebeskyttet.
+Etter at du har kansellert, deaktiveres tjenestene. Dette betyr at de virtuelle maskinene tildeles på nytt, midlertidige IP-adresser frigjøres, og lagringsplassen er skrivebeskyttet.
 
-Når abonnementet er avlyst, venter Microsoft på 30-90 dager før du sletter dataene i tilfelle du trenger å få tilgang til dem, eller du ombestemmer deg. Vi belaster deg ikke til å beholde dataene. Hvis du vil ha mer informasjon, kan du se [Microsoft Trust Center – hvordan vi administrerer dataene dine](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Når abonnementet er avbrutt, venter Microsoft i 30–90 dager før du sletter dataene permanent i tilfelle du trenger tilgang til dem eller du ombestemmer deg. Vi tar ikke betalt for å oppbevare dataene. Hvis du vil ha mer informasjon, kan du se [Microsoft Klareringssenter – Hvordan vi administrerer dataene dine](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

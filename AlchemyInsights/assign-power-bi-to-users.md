@@ -3,6 +3,8 @@ title: Tilordne Power BI til brukere
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: 85e6105483a6b493753cdea48262d3e3a2141a50
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: c14734e848ebd381d76a985d93d04a7be4b51e45
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601797"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688191"
 ---
 # <a name="assign-power-bi-to-users"></a>Tilordne Power BI til brukere
 
@@ -30,4 +33,4 @@ Power BI kan tilordnes til brukere i **administrasjonssenteret for Microsoft 365
 5. Klikk på **Slå apper og tjenester av eller på** for å tilordne eller fjerne.
 6. Klikk på **Tilordne**, og deretter **Lukk**.
 
-Se [Kjøp eller fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe flere lisenser eller fjerne dem.
+Se [Kjøp eller fjern lisenser](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) for å kjøpe flere lisenser eller fjerne dem.
