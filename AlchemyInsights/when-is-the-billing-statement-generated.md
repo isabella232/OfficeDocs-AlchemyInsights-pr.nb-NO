@@ -1,9 +1,10 @@
 ---
-title: Når blir fakturerings oppgaven generert?
+title: Når genereres fakturautdraget?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719206"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685167"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Når er fakturerings oppgaven generert
+# <a name="when-is-the-billing-statement-generated"></a>Når genereres fakturautdraget
 
-Konto utdrags datoen er satt til dag i måneden etter at kontoen ble opprettet. Hvis du for eksempel opprettet kontoen på 20th i januar, settes konto utdrags datoen til 21 for hver påfølgende måned.
+Kontoutskriftsdatoen er satt til dagen i måneden etter at kontoen ble opprettet. Hvis du for eksempel opprettet kontoen den 20. januar, er utdragsdatoen satt til 21. for hver etterfølgende måned.
 
-Tilleggs kostnader som oppstår under en aktiv fakturerings syklus, er inkludert i fakturaen for følgende måned. Start-og slutt datoene for fakturerings syklusen for hver faktura er oppført i **fakturerings sammendraget** for fakturaen.
+Tilleggskostnader som forekommer i løpet av en aktiv faktureringssyklus, er inkludert i fakturaen for neste måned. Start- og sluttdatoene for faktureringssyklusen for hver faktura er oppført i **faktureringssammendraget** for fakturaen.
 
-Kreditt kort og/eller bank konto (der det gjelder) betalinger er utlignet dagen etter **faktura datoen**.
+Kredittkort- og/eller bankkontobetalinger (der det er aktuelt) avregnes dagen etter **fakturadatoen**.
   
-Hvis du vil ha mer informasjon, kan du se [forstå fakturaen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Hvis du vil ha mer informasjon, [kan du se Forstå fakturaen](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

@@ -3,6 +3,8 @@ title: Fakturering og betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820403"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686895"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
@@ -35,27 +38,27 @@ Hvis du betaler med kredittkort eller bankkonto, belastes betalingsmåten som er
 
 Hvis du har lagt til et nytt kort og du fremdeles får et avslått varsel på det gamle kredittkortet, må du kanskje knytte det nye kortet til abonnementet.
 
-1. Gå til Faktureringsregninger-siden & betalingsmetoder i   >  **administrasjonssenteret.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. I administrasjonssenter går du til siden **Fakturering** > **Fakturaer og betalinger** > [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Velg raden for betalingsmåten som skal erstattes. Ruten til høyre viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
+2. Merk raden for betalingsmåten som skal erstattes. Den høyre ruten viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
 
-3. Velg Erstatt betalingsmåte for alle elementer i ruten **til høyre.**
+3. I ruten til høyre velger du **Erstatt betalingsmåte for alle elementer**.
 
-4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og deretter velger du **Erstatt**.
+4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og velger deretter **Erstatt**.
 
     > [!NOTE]
-    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer  oppført på Betalingsmåter-siden, er de ikke tilgjengelige for valg i rullegardinlisten.
+    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
 
-5. Hvis du vil legge til en ny betalingsmåte, velger **du Legg til betalingsmåte**.
+5. Hvis du vil legge til en ny betalingsmåte, velger du **Legg til betalingsmåte**.
 
-6. Skriv inn **kontoinformasjonen i** ruten Legg til en betalingsmåte, og velg deretter **Lagre**. Du må bruke en betalingsmåte fra samme land som leieren.
+6. I ruten **Legg til en betalingsmetode** skriver du inn kontoinformasjonen og velger deretter **Lagre**. Du må bruke en betalingsmetode fra samme land som leieren.
 
 7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
 
-Hvis du vil ha mer informasjon, [kan du se Administrere betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Se [Administrere betalingsmetoder](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) hvis du vil ha mer informasjon. 
 
 **Faktureringshyppighet**
 
 Regninger genereres månedlig eller årlig, avhengig av faktureringsfrekvensen som er valgt i kassen.  
 
-**Obs!** Bestillinger med årlig fakturering kan motta en faktura midt i perioden hvis det ble gjort endringer, for eksempel å legge til eller fjerne lisenser. [Endre faktureringsfrekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Obs!** Bestillinger med årlig fakturering kan motta en faktura midt i perioden hvis det ble gjort endringer, for eksempel å legge til eller fjerne lisenser. [Endre faktureringsfrekvensen](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

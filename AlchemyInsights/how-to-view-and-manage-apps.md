@@ -1,8 +1,9 @@
 ---
-title: Slik viser og behandler du apper
+title: Slik viser og administrerer du apper
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489106"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686571"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Slik viser og behandler du apper
+# <a name="how-to-view-and-manage-apps"></a>Slik viser og administrerer du apper
 
-Du kan vise appene dine i administrasjons senteret for Microsoft 365.
+Du kan vise appene dine i Administrasjonssenter for Microsoft 365.
 
-1. Gå til siden for **fakturering**  >  [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Rull ned til **apper** -delen på **produkter** -fanen.
+1. Gå til Fakturering produkter-siden i   >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Rull **ned** til Apper-delen på **Produkter-fanen.**
 3. Hvis du vil administrere en app, velger du den du vil administrere.

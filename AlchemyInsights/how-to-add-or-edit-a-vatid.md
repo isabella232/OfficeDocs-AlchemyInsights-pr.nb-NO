@@ -4,32 +4,34 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489070"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686319"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Slik legger du til eller redigerer en VatID
 
 > [!NOTE]
-> Hvis du er i et land som bruker en merverdi avgift (mva), for eksempel Storbritannia, beregner Microsoft fakturering for deg mva for deg og bruker beløpet på fakturaene. Hvis du vil ha mer informasjon, kan du se [vies-fraskrivelsen](https://go.microsoft.com/fwlink/p/?LinkID=841741) som er publisert av European Commission.
+> Hvis du er i et land som bruker merverdiavgift (MVA), for eksempel Storbritannia, beregner Microsoft Invoicing MVA for deg og bruker beløpet på fakturaene. Hvis du vil ha mer informasjon, kan du se [VIES-ansvarsfraskrivelse](https://go.microsoft.com/fwlink/p/?LinkID=841741) publisert av Europakommisjonen.
 
 **Legge til eller redigere en VatID**
 
-1. Gå til siden for **fakturering** \> [av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjons senteret.
-2. Velg abonnementet du vil oppdatere, i kategorien **produkter** .
-3. På siden abonnements detaljer, i delen **tjeneste bruks adresse** , velger du **Rediger adresse for tjeneste bruk**.
-4. Skriv inn mva-ID-en i **Mva-nummer** -boksen i ruten **Rediger tjeneste bruks adresse** , og velg deretter **Lagre**. Når du har gjort dette, belastes ikke mva på neste regning.
+1. Gå til Fakturering produkter-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
+2. Velg **abonnementet** du vil oppdatere, på Produkter-fanen.
+3. Velg Rediger adresse for tjenestebruk i delen **Tjenestebruksadresse** på **abonnementsdetaljer-siden.**
+4. Skriv inn **MVA-ID-en** i MVA-nummer-boksen i ruten Rediger adresse for  **tjenestebruk,** og velg deretter Lagre . Når du har gjort dette, blir ikke MVA belastet neste faktura.
 
-Hvis du vil ha mer informasjon, kan du se [hvilken avgift vil jeg bli belastet for Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Hvis du vil ha mer informasjon, kan du se Hvilken [avgift blir jeg belastet for Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

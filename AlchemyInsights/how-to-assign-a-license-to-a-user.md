@@ -1,8 +1,10 @@
 ---
-title: Tilordne eller oppheve lisenser for brukere
+title: Tilordne eller oppheve lisenser til brukere
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781148"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685851"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Tilordne eller oppheve lisenser for brukere
+# <a name="assign-or-unassign-licenses-to-users"></a>Tilordne eller oppheve lisenser til brukere
 
-En bruker trenger en lisens for å få tilgang til tjenester. Her er en Fremgangs måte for å tilordne en lisens til eller oppheve tilordningen av en lisens fra en bruker.
+En bruker trenger en lisens for å ha tilgang til tjenester. Her er fremgangsmåten for å tilordne en lisens til eller oppheve tilordningen av en lisens fra en bruker.
   
-1. Gå til **brukere** som er \> [aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822)i administrasjons senteret.
-2. Velg raden for brukeren du vil tilordne en lisens til.
+1. Gå til Brukere aktive  brukere i \> [administrasjonssenteret.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+2. Merk raden til brukeren du vil tilordne en lisens til.
 3. Velg **Lisenser og apper** i høyre rute.
-4. Utvid **lisenser** -delen, Merk av for eller fjern merket for lisensene du vil tilordne eller Tildel, og velg deretter **Lagre endringer**.
+4. Utvid **Lisenser-delen,** merk av for eller fjern merket for lisensene du vil tilordne eller oppheve tilordningen av, og velg **deretter Lagre endringer**.
 
-Hvis du vil ha mer informasjon, kan du se [Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users), og [oppheve tildeling av lisenser fra brukere](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Hvis du vil ha mer informasjon, kan du se Tilordne [lisenser til brukere](/microsoft-365/admin/manage/assign-licenses-to-users)og [Oppheve tilordning av lisenser fra brukere](/microsoft-365/admin/manage/remove-licenses-from-users).
