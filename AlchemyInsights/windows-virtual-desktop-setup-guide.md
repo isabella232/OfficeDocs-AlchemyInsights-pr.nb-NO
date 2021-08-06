@@ -1,5 +1,5 @@
 ---
-title: Konfigurere Windows virtuelt skrive bord
+title: Konfigurere Windows virtuelt skrivebord
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036645"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Konfigurere Windows virtuelt skrive bord
+# <a name="set-up-windows-virtual-desktop"></a>Konfigurere Windows virtuelt skrivebord
 
-Windows Virtual Desktop er en omfattende data maskin-og app-virtualisering som kjører i skyen. Det er den eneste virtuelle skrive bords infrastrukturen (VDI) som gir forenklet administrasjon, fler økts Windows 10, optimering for Microsoft 365-apper og støtte for Remote Desktop Services (RDS)-miljøer. Distribuer og Skaler Windows-datamaskiner og-apper til Azure i minutter og få innebygde funksjoner for sikkerhet og samsvar.
+Windows Virtuelt skrivebord er en omfattende skrivebords- og app-virtualiseringstjeneste som kjører i skyen. Det er den eneste virtuelle skrivebordsinfrastrukturen (VDI) som leverer forenklet administrasjon, flerøkts Windows 10, optimaliseringer for Microsoft 365 Apps og støtte for RDS-miljøer (Remote Desktop Services). Distribuer og skaler Windows skrivebord og apper til Azure på få minutter, og få innebygde sikkerhets- og samsvarsfunksjoner.
 
-[Veiledningen for oppsett av Windows virtuelt skrive bord](https://go.microsoft.com/fwlink/?linkid=2146236) gir administratorer en planleggings ressurs og forutsetningene for distribusjon, oppsett veiledning og andre ressurser.
+Den [Windows installasjonsveiledningen](https://go.microsoft.com/fwlink/?linkid=2146236) for virtuelt skrivebord gir administratorer planleggingsressurser og forutsetningene for distribusjon, installasjonsveiledning og flere ressurser.

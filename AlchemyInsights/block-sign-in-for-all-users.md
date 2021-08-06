@@ -1,5 +1,5 @@
 ---
-title: Blokker pålogging for alle brukere
+title: Blokkere pålogging for alle brukere
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019265"
 ---
-# <a name="block-sign-in-for-all-users"></a>Blokker pålogging for alle brukere
+# <a name="block-sign-in-for-all-users"></a>Blokkere pålogging for alle brukere
 
-Følg denne Fremgangs måten for å blokkere alle fra å logge på Office:
+Hvis du vil blokkere alle fra å logge på Office, følger du disse trinnene:
 
-1. Gå til brukere som er [ **Users**  >  **aktive brukere**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)i administrasjons senteret.
-2. Velg alle brukere ved å klikke merket ved siden av **visnings navn** . Pass på at du fjerner merket for administrator kontoen du er logget på med.
-3. Klikk **«...»** ved siden av **Eksporter brukere**  >  **Rediger påloggings status** , og velg deretter **blokker brukere fra å logge seg på** . Nye påloggings moduler blokkeres umiddelbart. Hvis en bruker allerede er logget på, blir brukeren automatisk logget av alle Microsoft-tjenester innen 60 minutter.
+1. Gå til Brukere aktive brukere i [   >  **administrasjonssenteret.**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Merk alle brukere ved å klikke merket ved siden av **Visningsnavn**. Kontroller at du fjerner merket for administratorkontoen du er logget på med.
+3. Klikk **...ved siden** av **Eksporter** brukere  >  **Rediger påloggingsstatus**, og velg deretter **Blokker brukere fra å logge på**. De nye påloggingene blokkeres umiddelbart. Hvis en bruker allerede er logget på, blir brukeren automatisk logget av alle Microsoft-tjenester innen 60 minutter.

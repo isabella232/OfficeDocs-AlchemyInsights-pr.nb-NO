@@ -1,5 +1,5 @@
 ---
-title: Abonnements behandling – sikkerhets-og samsvars forespørsler – Accreditation for Azure bransje samsvar
+title: Abonnementsadministrasjon – sikkerhets- og samsvarsforespørsler – akkreditering av azure-bransjesamsvar
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998952"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnements behandling – sikkerhets-og samsvars forespørsler – Accreditation for Azure bransje samsvar
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnementsadministrasjon – sikkerhets- og samsvarsforespørsler – akkreditering av azure-bransjesamsvar
 
-Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
+Basert på beskrivelsen av problemet har vi funnet en løsning for deg. De fleste kunder kunne løse problemet på egen hånd etter å ha fulgt dokumentasjonen vår.
 
-- **Policy**: Hvis du vil ha spørsmål om Microsofts samsvars dokument, kan du se [overholdelse av Azure Trust Center](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Policy:** Hvis du vil ha spørsmål om Microsoft Compliance-dokument, kan du se [Samsvar med Azure Trust Center](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA og HITECH Act**: se Windows Azure HIPAA guide hvis du er interessert i HIPAA og HITECH Act, for å forstå de relevante funksjonene i Windows Azure.
+- **HIPAA og HITECH-loven:** Se Windows Azure HIPAA-veiledningen hvis du er interessert i HIPAA og HITECH-loven, for å forstå de relevante funksjonene i Azure Windows Azure.
 
-- **FedRamp-sertifisering**: Hvis du vil ha informasjon om FedRamp-sertifisering, kan du se FedRamp Marketplace.
+- **FedRamp-sertifisering:** Hvis du vil ha informasjon om FedRamp-sertifisering, kan du se FedRamp Marketplace.
 
-- **Azure PCI DSS-samsvar**: de nødvendige Azure-relaterte dokumentene for å oppnå bransje samsvar for betalings kort er "attestering av samsvar" og "ansvars mat Riser", som begge er tilgjengelige i Azure Trust Center. Kontroller om du har disse dokumentene. Hvis du har disse dokumentene, men trenger mer bevis på Microsoft Azure PCI Data Security standard-samsvar, kan du se [Microsoft og PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure PCI DSS-samsvar:** De nødvendige Azure-relaterte dokumentene for å oppnå samsvar med betalingskortbransjen er samsvarsforskriftene «Attestation of Compliance» og «Ansvarsmatrise», som begge er tilgjengelige i Azure Trust Center. Kontroller om du har disse dokumentene. Hvis du har disse dokumentene, men trenger ytterligere bevis Microsoft Azure standard samsvar for PCI-datasikkerhet, kan du se [Microsoft og PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **Azure Operations/Security/inkompatibilitet**: Hvis du har generelle sikkerhetsrelaterte spørsmål om Azure, kan du se standard svar på forespørsel om informasjon Microsoft Azure-sikkerhet, person vern og samsvar hvis du har samsvar mellom relaterte spørsmål, kan du se: vanlige spørsmål om samsvar med overholdelse og tjeneste klarerings portalen i Microsoft STP.
+- **Azure Operations/Security/Compliance**: Hvis du har generelle sikkerhetsrelaterte spørsmål om Azure, kan du se Microsoft Azure Vanlige spørsmål om sikkerhet, personvern og samsvar hvis du har spørsmål om samsvar, kan du se: Vanlige spørsmål om Microsoft STP – Compliance and Service Trust Portal.
 
-Hvis du har samsvars relaterte spørsmål, kan du se vanlige spørsmål om [Microsofts STP-samsvar](https://www.microsoft.com/trust-center/compliance/compliance-overview) og tjeneste klarerings Portal.
+Hvis du har samsvarsrelaterte spørsmål, kan du se Vanlige spørsmål om [Microsoft STP – Vanlige](https://www.microsoft.com/trust-center/compliance/compliance-overview) spørsmål om samsvar og tjenesteklareringsportal.
 
-- **GDPR-kompatibilitet**: Hvis du har spørsmål om data behandlings avtalen, kan du se «data beskyttelses vilkår» som starter på side 7 i vilkårene for Internett-tjenester. OST-filen inneholder de primære data behandlings vilkårene, men innlemmes i den standard kommersielle kontrakten. Det gir deg blant annet en contractual forpliktelse om våre GDPR forpliktelser. I tillegg kan du se GDPR-spesifikke vilkår på slutten av kontrakten i «vedlegg 4», som starter på side 42. Disse inndelingene dekker Microsoft GDPR-forpliktelsene som data prosessor og som en under prosessor til en annen data prosessor.
-
-> [!NOTE]
-> Det anbefales på det sterkeste å bruke Adobe Acrobat Reader til å åpne PDF-dokumenter, da problemer med andre PDF-visninger er registrert. Det anbefales også å laste ned filen lokalt i stedet for å åpne den i et nett leser vindu, slik at det kan oppstå feil.
-
-- **HDS-kompatibilitet**: Azure er nå "tilstands data vert", sertifisert i samsvar med franske krav. Hvis du vil ha mer informasjon, kan du se "Microsoft Azure er nå sertifisert til å være vert for sensitive helse data i Frankrike".
-
-- **Inntrengnings-testing**: hele prosessen for innsending av inntrengnings test forespørsel er kunden en selv betjent prosess på "pentest".
-
-Hvis du vil ha mer informasjon om inntrengnings-testing, kan du se [Inntrengnings testing](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Kunde varsler for del prosess endringer**: du kan velge å motta varslinger om endringer i listen over Microsoft Personlige data under prosesser.
+- **GDPR-samsvar:** Hvis du har spørsmål om databehandlingsavtale, kan du se «Vilkår for databeskyttelse» som starter på side 7 i vilkårene for nettbaserte tjenester. OST inkluderer de primære databehandlingsvilkårene, men er innlemmet i standard kommersiell kontrakt. Det gir blant annet en kontraktsmessig forpliktelse når det gjelder våre GDPR-forpliktelser. I tillegg kan du se de GDPR-spesifikke vilkårene på slutten av kontrakten i Vedlegg 4, som starter på side 42. Disse avsnittene dekker Microsofts GDPR-forpliktelser som databehandler og som underbehandler til en annen databehandler.
 
 > [!NOTE]
-> E-posttjenester for kunde data og personlig data liste varsler fullt ut automatisk. Hvis du vil ha mer informasjon, kan du se Microsoft Data Protection-ressurser.
+> Det anbefales på det sterkeste å bruke Adobe Acrobat Reader til å åpne PDF-dokumenter, siden det er blitt notert problemer med andre PDF-visningsprogram. Det anbefales også å laste ned filen lokalt i stedet for å åpne den i et nettleservindu, da dette kan føre til feil.
+
+- **HDS-samsvar:** Azure er nå «Helsedatavert», sertifisert i samsvar med franske krav. Hvis du vil ha mer informasjon, kan du se Microsoft Azure er nå sertifisert til å være vert for sensitive helsedata i Frankrike.
+
+- **Penetration Testing**: Hele prosessen for innsending av innsending av penetrasjonstest er en selvbetjent prosess på «pentest».
+
+Hvis du vil ha mer informasjon om penetrasjonstesting, kan du se [Penetration Testing](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+
+- **Kundevarsler for underprosessorendringer: Du** kan melde deg på for å motta varsler om endringer i microsofts liste over underprosessorer for personlige data.
+
+> [!NOTE]
+> Kundedata for nettjenester og varsling om personopplysninger er fullstendig automatisert. Hvis du vil ha mer informasjon, kan du se Microsofts databeskyttelsesressurser.
 
 **Anbefalte dokumenter**
 
 - [Eksportere eller slette innstillinger i Azure-portalen](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Finne aktivitets rapporter i Azure-portalen](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Azure Active Directory-risiko hendelser](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Brukere i fare sonen](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Risikabelt Sign-Modular](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Hva er Azure Active Directory-rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Finne aktivitetsrapporter i Azure-portalen](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory risikohendelser](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Brukere i faresonen](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Risikofylte pålogginger](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Hva er Azure Active Directory rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 - [Microsoft og HIPAA og HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [OSS-DoD for klar gjøring av beskyttelses tillatelse på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Den amerikanske forsvarsdepartementet (DoD) Midlertidig godkjenningsdokumentasjon på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

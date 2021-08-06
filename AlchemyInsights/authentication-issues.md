@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019517"
 ---
 # <a name="authentication-issues"></a>Godkjenningsproblemer
 
@@ -75,14 +75,14 @@ Hvis du vil ha mer informasjon om betinget tilgang, kan du se:
 - [Håndtere utfordringer med betinget tilgang med MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Utviklerveiledning for betinget tilgang for Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Avvikling av kundestøtte for godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph-API-en (AAD Graph)_* _
+***Slutt på støtte for Azure Active Directory autentiseringsbibliotek (ADAL) og Azure AD Graph API (AAD Graph)***
 
 - Fra og med 30. juni 2020 kommer vi ikke til å legge til nye funksjoner i godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph-API-en (AAD Graph). Vi vil fortsette å tilby teknisk støtte og sikkerhetsoppdateringer, men vi vil ikke lenger tilby funksjonsoppdateringer.
 - Fra og med 30. juni 2022 vil vi avvikle støtten for ADAL og AAD Graph og vil ikke lenger tilby teknisk støtte eller sikkerhetsoppdateringer.
     - Apper som bruker ADAL på eksisterende operativsystemversjoner, vil fortsette å fungere etter dette tidspunktet, men vil ikke få teknisk støtte eller sikkerhetsoppdateringer.
     - Apper som bruker AAD Graph etter dette tidspunktet, vil ikke lenger motta svar fra AAD Graph-endepunktet.
 
-_ *ADAL-overføring**
+**ADAL-overføring**
 
 Vi anbefaler at du oppdaterer til [Microsofts godkjenningbibliotek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funksjonene og sikkerhetsoppdateringene. Denne anbefalingen gis i forbindelse med at Microsoft overfører programmene sine til MSAL innen fristen for avvikling av kundestøtte. Målet med overføringen av Microsoft-apper til MSAL er å sikre at appene drar nytte av MSALs pågående sikkerhets- og funksjonsforbedringer.
 

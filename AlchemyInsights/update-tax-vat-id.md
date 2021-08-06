@@ -1,5 +1,5 @@
 ---
-title: Oppdater mva/mva-ID
+title: Oppdater mva/MVA-ID
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908467"
 ---
-# <a name="update-taxvat-id"></a>Oppdater mva/mva-ID
+# <a name="update-taxvat-id"></a>Oppdater mva/MVA-ID
 
-Hvis du har problemer relatert til mva/mva-nummeret, kan du kontakte Microsoft Licensing partner (partner eller program vare rådgiver). De kontakter regionale operasjons Senter (ROC) for spørsmål om mva/mva-ID-en din. 
+Hvis du har problemer relatert til MVA/MVA-ID-en, kan du kontakte Microsoft Licensing Partner (partner eller programvarerådgiver). De kontakter Det regionale driftssenteret (ROC) for spørsmål om MVA/MVA-ID-en din. 

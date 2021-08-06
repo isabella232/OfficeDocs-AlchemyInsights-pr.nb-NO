@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036573"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åpnet i feil app eller ble ikke åpnet
 
@@ -31,11 +31,11 @@ Prøv ett av disse forslagene:
 
 1. Gå til **Kontrollpanel > programmer > Programmer og funksjoner**.
 
-2. Velg Office-produktet du vil reparere, og velg deretter **Endre**.
+2. Velg Office produktet du vil reparere, og velg deretter **Endre**.
 
 3. Velg alternativet **Raskere reparasjon,** og velg deretter **Reparer**.
 
-**Avinstallere versjoner av Office du ikke bruker**
+**Avinstallere versjoner Office du ikke bruker**
 
 1. Gå til **Kontrollpanel> Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.
 
@@ -43,7 +43,7 @@ Prøv ett av disse forslagene:
 
 3. Start datamaskinen på nytt.
 
-**Kjør dette feilsøkingsprogrammet for å angi at Office-filtyper skal åpnes i Office**
+**Kjør dette feilsøkingsprogrammet for å Office filtyper som skal åpnes i Office**
 
 1. Kjør dette feilsøkingsprogrammet: https://aka.ms/diag_officefile .
 

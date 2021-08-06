@@ -1,5 +1,5 @@
 ---
-title: Oppdater BESTILLINGs nummer-eldre EA-anbefalte trinn
+title: Oppdater bestillingsnummer – eldre EA – anbefalte trinn
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,31 +13,31 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ef1e5f52cb26542892199694309fb2b0df551997
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7c3ee469107e9ab85dcf56450167cc2e47b2c8b79253d45b1a362959a869ba24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908503"
 ---
-# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Oppdater bestillings nummer-eldre Enterprise-anbefalte trinn
+# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Oppdater innkjøpsordrenummer – eldre EA – anbefalte trinn
 
-Endringer i bestillings nummeret (PO) vil gjelde for den neste fakturaen. Hvis du vil endre BESTILLINGs nummeret på en faktura som allerede er generert, kan du åpne en støtte forespørsel. 
+Endringer i innkjøpsordrenummeret trer i kraft på neste faktura. Hvis du vil endre bestillingsnummeret på en faktura som allerede er generert, åpner du en støtteforespørsel. 
 
-Azure EA-portalen genererer automatisk et standard BESTILLINGs nummer med mindre EA admin angir én før faktura datoen. Som en EA-administrator (direkte registrering)/partner administrator (indirekte registrering) kan du oppdatere BESTILLINGs nummeret i Azure EA-portalen. Slik oppdaterer du BESTILLINGs nummeret:
+Azure EA-portalen genererer automatisk et standard po-nummer med mindre EA-administratoren angir et før fakturadatoen. Som EA-administrator (direkte registrering) / Partneradministrator (indirekte registrering) kan du oppdatere po-nummeret i Azure EA-portalen. Slik oppdaterer du bestillingsnummeret:
 
-1. Logg på EA Portal.
-2. Klikk **rapporter** på venstre side.
-3. Klikk **bruks Sammendrag** øverst på siden.
-4. Velg den aktuelle perioden fra rulle gardin listen.
-5. Klikk **Vis/Rediger bestillings numre**.
-6. Skriv inn det nye BESTILLINGs nummeret, og klikk **Lagre**.
+1. Logg på EA-portalen.
+2. Klikk **Rapporter** på venstre side.
+3. Klikk **Brukssammendrag** øverst på siden.
+4. Velg den relevante perioden fra rullegardinlisten.
+5. Klikk **Vis/rediger bestillingsnumre**.
+6. Skriv inn det nye bestillingsnummeret, og klikk **Lagre**.
 
-Du kan når som helst oppdatere BESTILLINGs nummeret før fakturaen er generert for den gjeldende fakturerings perioden, og opptil sju dager etter at du har mottatt den automatiske e-postmeldingen med faktura varsel. 
+Du kan oppdatere bestillingsnummeret når som helst før fakturaen genereres for den gjeldende faktureringsperioden, og opptil sju dager etter at du har mottatt e-postmeldingen om automatisk faktura. 
 
 **Anbefalte dokumenter**
 
-- [Fakturaer for Azure Enterprise-registrering](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
-- [Forstå regningen i Azure Enterprise-avtalen din](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
+- [Registreringsfakturaer for Azure-virksomheter](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
+- [Forstå Azure Microsoft Foretaksavtale-fakturaen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
 - [Forstå Azure Enterprise-roller](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
-- [Opprette en annen organisasjons administrator (EA admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)
+- [Opprette en annen bedriftsadministrator (EA-administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

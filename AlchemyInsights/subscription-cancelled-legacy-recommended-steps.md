@@ -1,5 +1,5 @@
 ---
-title: Abonnementet ble avbrutt – eldre anbefalte trinn
+title: Abonnementet er avbrutt – eldre – anbefalte trinn
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999069"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonnementet ble avbrutt – eldre anbefalte trinn
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonnementet er avbrutt – eldre – anbefalte trinn
 
-Vår post indikerer at abonnementet ble annullert av en bruker med eier rettigheter. Finn Fremgangs måten nedenfor for å aktivere abonnementet på nytt.
+Posten vår indikerer at abonnementet ble avbrutt av en bruker med eierrettigheter. Finn fremgangsmåten nedenfor for å aktivere abonnementet på nytt.
 
-[Konto administratoren](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan aktivere et avbrutt betalings-og-svar-abonnement i konto senteret på nytt.
+[Kontoadministratoren](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan aktivere et kansellert Pay-As-You-Go-abonnement på nytt i kontosenteret.
 
-1. Logg deg på [konto senteret](https://account.azure.com/Subscriptions).
-2. Velg det annullerte abonnementet, og klikk på **Aktiver** på nytt.
+1. Logg på [Kontosenter](https://account.azure.com/Subscriptions).
+2. Velg det avbrutte abonnementet, og klikk **Aktiver på nytt**.
 
-[Kontakt kunde støtte](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) for å aktivere abonnementet på nytt for andre abonnements typer.
+Kontakt kundestøtte for [](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) å få abonnementet aktivert på nytt for andre abonnementstyper.

@@ -1,5 +1,5 @@
 ---
-title: Abonnement avbrutt-grensen for eldre utgifter
+title: Abonnementet er avbrutt – eldre – forbruksgrense
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999033"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Abonnement avbrutt-grensen for eldre utgifter
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Abonnementet er avbrutt – eldre – forbruksgrense
 
-Våre registreringer indikerer at du har en forbruks grense angitt for abonnementet, og forbruket har overskredet forbruks grensen. Derfor er abonnementet deaktivert.
+Våre poster indikerer at du har en forbruksgrense angitt for abonnementet, og at bruken har overskredet forbruksgrensen. Abonnementet er derfor deaktivert.
 
-**Forbruks grensen for abonnementet er nådd**
+**Forbruksgrensen for abonnementet er nådd**
 
-Azure-abonnementer med kreditter har forbruks begrensninger. Dette betyr at du bare kan bruke tjenester opp til den inkluderte kreditten. Når forbruket når forbruks grensen, deaktiverer Azure abonnementet for resten av fakturerings perioden. Abonnementet ditt er deaktivert for å beskytte deg mot utilsiktet påløpende kostnader for bruk utover kredittene som er inkludert i abonnementet. Hvis du vil fjerne forbruks grensen, kan du se [fjerne forbruks grensen i konto senteret](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Azure-abonnementer med kreditter har forbruksgrenser på dem. Dette betyr at du bare kan bruke tjenester opp til den inkluderte kreditten. Når bruken når forbruksgrensen, deaktiverer Azure abonnementet for resten av denne faktureringsperioden. Abonnementet er deaktivert for å beskytte deg mot utilsiktede belastninger for bruk utover kreditten som følger med abonnementet. Hvis du vil fjerne forbruksgrensen, kan [du se Fjerne forbruksgrensen i Kontosenter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
 
-Følg Fremgangs måten nedenfor for å fjerne forbruks grensen og aktivere abonnementet på nytt:
+Utfør følgende trinn for å fjerne forbruksgrensen og aktivere abonnementet på nytt:
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/) som administrator for kontoen.
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg et gratis prøve-/konto abonnement i **mine abonnementer** -listen.
-4. I abonnements oversikten klikker du det oransje banneret for å fjerne forbruks grensen.
-5. Velg om du vil fjerne forbruks grensen på ubestemt tid eller bare for den gjeldende fakturerings perioden.
-6. Klikk **Velg betalings måte** for å velge en betalings metode for abonnementet. Dette blir den aktive betalings måten for abonnementet ditt.
+1. Logg på [Azure-portalen](https://portal.azure.com/) som kontoadministrator.
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg gratis prøveabonnement/kontoabonnement i Listen Mine abonnementer. 
+4. Klikk det oransje banneret i Abonnement-oversikten for å fjerne forbruksgrensen.
+5. Velg om du vil fjerne forbruksgrensen på ubestemt tid eller bare for den gjeldende faktureringsperioden.
+6. Klikk **Velg betalingsmåte for** å velge en betalingsmåte for abonnementet. Dette blir den aktive betalingsmåten for abonnementet.
 7. Klikk **Fullfør**.
