@@ -1,5 +1,5 @@
 ---
-title: Teams-kalender mangler
+title: Teams kalenderen mangler
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 996f11a9917c09b19e20e5bc54d3ad22a3fe5f48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fc10c6b9a959adb8dd90c710859e82bd086493bd76ef30a9f6239713ec32109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909034"
 ---
-# <a name="teams-calendar-is-missing"></a>Teams-kalender mangler
+# <a name="teams-calendar-is-missing"></a>Teams kalenderen mangler
 
-Teams-administratoren har kanskje deaktivert kalenderen, så først må du kontrollere at den er tilgjengelig for deg.
+Systemansvarlig Teams kanskje har deaktivert kalenderen, så først må du kontrollere at den er tilgjengelig for deg.
 
-Hvis den er tilgjengelig, kan du prøve å bytte versjonen av Teams.
+Hvis den er tilgjengelig, kan du prøve å bytte din versjon av Teams.
 
-- Hvis du bruker Web versjonen, bytter du til den installerte versjonen.
-- Hvis du bruker den installerte versjonen, kan du prøve Teams på nettet.
+- Hvis du bruker nettversjonen, bytter du til den installerte versjonen.
+- Hvis du bruker den installerte versjonen, kan du Teams på nettet.

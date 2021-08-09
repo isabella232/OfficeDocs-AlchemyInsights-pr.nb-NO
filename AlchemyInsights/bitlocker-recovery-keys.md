@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060073"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Få tilgang til Bitlocker-gjenopprettingsnøkler
 
-Når du konfigurerer Bitlocker-innstillinger Intune Endpoint Protection Policy, er det mulig å definere om Bitlocker-gjenopprettingsinformasjon skal lagres i Azure Active Directory.
+Når du konfigurerer Bitlocker-innstillinger Intune Endpoint Protection policy, er det mulig å definere om Bitlocker-gjenopprettingsinformasjon skal lagres i Azure Active Directory.
 
 Hvis denne innstillingen er konfigurert, skal de lagrede gjenopprettingsdataene være synlige for en Intune-administrator som en del av datainnspillingen for enheten i Intune Devices-bladet på to måter:
 

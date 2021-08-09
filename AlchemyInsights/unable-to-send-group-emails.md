@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060577"
 ---
 # <a name="unable-to-send-group-emails"></a>Kan ikke sende gruppe-e-postmeldinger
 
-Hvis du ikke kan sende e-post til kontakt lister eller kontakt grupper i Outlook.com, kan du prøve følgende:
+Hvis du ikke kan sende e-post til kontaktlister eller kontaktgrupper i Outlook.com, kan du prøve følgende:
   
-1. Bruk Outlook.com beta. Hvis du vil ha mer informasjon, kan [du lære om beta versjonen av Outlook.com](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Bruk Outlook.com beta. Hvis du vil ha mer informasjon, kan du [lære om betaversjonen Outlook.com](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Hvis du fremdeles har problemer med å skrive en e-post til gruppen, kan du gå til [personer](https://outlook.live.com/people/), velge kontakt listen eller gruppen og deretter velge **Send e-post**.
+2. Hvis du fremdeles har problemer med å skrive en e-post til gruppen, kan du gå til [Personer,](https://outlook.live.com/people/)velge kontaktlisten eller gruppen og deretter **velge Send e-post**.
     
  **Merknader:**
   
-1. Kontroller at du ikke har popup-vinduer blokkert: Hvis du sender e-post fra kontakt listes IDen, åpnes et nytt vindu.
+1. Kontroller at popup-vinduer ikke er blokkert: Sending av e-post fra kontaktlistesiden åpner et nytt vindu.
     
-2. Send e-post fra kontakt listen plasserer listen automatisk i **til** -feltet. Hvis du vil skjule kontakt liste informasjonen, klikker du **blind kopi** i øvre høyre hjørne, og deretter kopierer og limer du inn kontakt listen i **Blindkopi** -feltet og sletter **til** -oppføringen. 
+2. Send e-post fra kontaktlisten plasserer automatisk listen i **TIL-linjen.** Hvis du vil skjule kontaktlistedetaljene, klikker du **Blindkopi** øverst til høyre, kopierer og limer deretter inn kontaktlisten i **Blindkopi** og sletter **TIL-oppføringen.** 
     
-3. Når du bruker **blind kopi**, er det god praksis at du alltid har noe i **til** -linjen, for eksempel din egen fra-adresse. 
+3. Når du **bruker Blindkopi**, er det lurt å alltid ha noe i **TIL-linjen,** for eksempel din egen «fra»-adresse. 
     
 
