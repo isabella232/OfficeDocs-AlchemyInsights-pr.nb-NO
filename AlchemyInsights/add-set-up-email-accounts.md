@@ -1,5 +1,5 @@
 ---
-title: 1800018 legge til/konfigurere e-postkontoer
+title: 1800018 Legge til/ konfigurere e-postkontoer
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935562"
 ---
 # <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemer med å konfigurere en e-postkonto i Outlook
 
-Hvis du har problemer med å konfigurere en Exchange-konto i Outlook, kan du kjøre [verktøyet for installasjon av Outlook-konto](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskinen. Det vil utføre ulike kontroller og gi mulige løsninger på problemer med konto oppsettet.
+Hvis du har problemer med å konfigurere en Exchange-konto i Outlook, kan du kjøre Outlook-verktøyet [for](https://aka.ms/SaRA-OutlookSetupProfile) konfigurasjon av kontoen på den berørte maskinen. Den utfører ulike kontroller og gir mulige løsninger på problemet med kontooppsettet.
   
-Hvis du fremdeles har problemer, kan du se [Outlook kan ikke konfigurere en ny profil ved hjelp av Exchange Autosøk for en Exchange Online-postboks](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Hvis du fremdeles har problemer, kan du Outlook kan ikke konfigurere en ny profil ved å bruke Exchange [Autosøk for](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)en Exchange Online postboks .
   

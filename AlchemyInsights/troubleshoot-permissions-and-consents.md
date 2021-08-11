@@ -1,5 +1,5 @@
 ---
-title: Feilsøke tillatelser og presentatører
+title: Feilsøke tillatelser og samtykker
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092995"
 ---
-# <a name="troubleshoot-permissions-and-consents"></a>Feilsøke tillatelser og presentatører
+# <a name="troubleshoot-permissions-and-consents"></a>Feilsøke tillatelser og samtykker
 
-1. Les denne artikkelen for å forstå [rammeverket for Azure Active Directory-samtykke](https://docs.microsoft.com/azure/active-directory/develop/consent-framework).
-1. [Tillatelser og samtykke i Microsoft Identity Platform Endpoint](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) dekker de grunnleggende konseptene til denne Autorisasjons modellen, inkludert omfang, tillatelser og samtykke.
-1. Lær hvordan du administrerer og evaluerer samtykker: [administrere samtykke til programmer og evaluere forespørsler om samtykke](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
-1. [Forstå samtykke opplevelse for Azure ad-søknad](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience): Lær mer om bruker opplevelsen for Azure Active Directory (Azure ad) program samtykke.
-1. Feilsøk [uventede feil når du utfører samtykke til et program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Les denne artikkelen for å forstå [rammeverket Azure Active Directory samtykke.](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)
+1. [Tillatelser og samtykke i](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) Microsofts identitetsplattform endepunktet dekker de grunnleggende konseptene i denne godkjenningsmodellen, inkludert omfang, tillatelser og samtykke.
+1. Lær hvordan du administrerer og evaluerer samtykke: Administrere samtykke til programmer [og evaluere forespørsler om samtykke.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. [Forstå samtykkeopplevelser for Azure](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)AD-programmer: Finn ut mer om brukeropplevelsen for Azure Active Directory (Azure AD) programsamtykke.
+1. Feilsøke [uventede feil når du gir samtykke til et program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).

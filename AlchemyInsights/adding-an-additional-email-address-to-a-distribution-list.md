@@ -1,5 +1,5 @@
 ---
-title: 713 legge til en ekstra e-postadresse i en distribusjons liste
+title: 713 Legge til en ekstra e-postadresse i en distribusjonsliste
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 57adf32faba3399fbbf08c9cfed267a2fc75b05a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad46b9ca5df6b050f1d5cdaa897be528aafcb14c11568049aa512c4f65645392
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934986"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Legge til en e-postadresse for en distribusjons gruppe
+# <a name="add-an-email-address-for-a-distribution-group"></a>Legge til en e-postadresse for en distribusjonsgruppe
 
-Følg disse trinnene for å legge til e-postadresser for en eksisterende distribusjons gruppe:
+Følg disse trinnene for å legge til e-postadresser for en eksisterende distribusjonsgruppe:
 
-1. Gå til **mottakere** -grupper i [administrasjons senteret for Exchange](https://outlook.office365.com/ecp/) \> **Groups**.
+1. Gå [Exchange i](https://outlook.office365.com/ecp/) **administrasjonssenteret** for \> **mottakere**.
 
-2. Velg distribusjons gruppen du vil endre, og klikk deretter **Rediger**.
+2. Velg distribusjonsgruppen du vil endre, og klikk deretter **Rediger**.
 
-3. Gå til fanen alternativer for e-post i egenskaper **-** gruppen for å legge til e-postadresser. 
+3. Gå til Fanen Alternativer for e-post i egenskapene for gruppen **for** å legge til e-postadresser. 
 
-Hvis du vil ha mer informasjon, se [Alternativer for e-post](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Hvis du vil ha mer informasjon, kan du se [E-postalternativer](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

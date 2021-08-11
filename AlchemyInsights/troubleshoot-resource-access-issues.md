@@ -1,5 +1,5 @@
 ---
-title: Feilsøke problemer med ressurs tilgang
+title: Feilsøke problemer med ressurstilgang
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093031"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>Feilsøke problemer med ressurs tilgang
+# <a name="troubleshoot-resource-access-issues"></a>Feilsøke problemer med ressurstilgang
 
-Hvis du vil ha informasjon om profil typer som Intune støtter for å aktivere tilgang for brukere til infrastruktur og ressurser i bedriften, kan du se:
+Hvis du vil ha informasjon om profiltypene Intune støtter for å aktivere tilgang for brukere til bedriftens infrastruktur og ressurser, kan du se:
 
-- [Legge til e-postinnstillinger i enheter ved hjelp av Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Opprette VPN-profiler for å koble til VPN-servere i Intune](https://docs.microsoft.com/intune/vpn-settings-configure)
-- [Legge til og bruke Wi-Fi-innstillinger på enhetene i Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Bruke sertifikater til godkjenning i Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
+- [Legge til e-postinnstillinger på enheter ved hjelp av Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [Opprette VPN-profiler for å koble til VPN-servere i Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Legge til og Wi-Fi på enhetene dine i Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Bruk sertifikater for godkjenning i Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Hvis du vil ha mer informasjon om enhets profiler for Intune, kan du se [vanlige spørsmål og svar med enhets policyer og-profiler i Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Hvis du vil ha mer informasjon om Intune-enhetsprofiler, kan du se Vanlige spørsmål og svar med enhetspolicyer og profiler [i Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Hvis du vil ha mer feil søkings informasjon om ressurs tilgangs profiler, kan du se [vanlige feil koder og beskrivelser i Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Hvis du vil ha mer informasjon om feilsøking av ressurstilgangsprofiler, kan du se Vanlige feilkoder og [beskrivelser i Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
