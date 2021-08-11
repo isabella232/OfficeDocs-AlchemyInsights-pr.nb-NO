@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 1df8b7ef04d57c0cf8ac76385363175ac46d062b
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 4982ba5bf5edd402041b90f397dc5b971d15af6334d3a9882b59de182fec8c7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909763"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til å løse ulisensiert produkt-feil
 
-Kontroller at du har et abonnement som tillater klientlisenser, for eksempel Microsoft 365-apper for bedrifter eller Microsoft 365 Business Standard, og sikre at brukeren har tilordnet [en lisens.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [Deaktiver en installasjon](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) for å kontrollere om du har overskredet antall installasjoner som støttes av abonnementet.
+Kontroller at du har et abonnement som tillater klientlisenser, for eksempel Microsoft 365 Apps for business eller Microsoft 365 Business Standard, og kontroller at brukeren har [en tilordnet lisens.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [Deaktiver en installasjon](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) for å kontrollere om du har overskredet antall installasjoner som støttes av abonnementet.
   
 Kontroller at brukeren logger på med den samme kontoen som har lisensen tilordnet.
   

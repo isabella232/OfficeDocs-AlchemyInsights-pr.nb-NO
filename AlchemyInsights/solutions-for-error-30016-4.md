@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909943"
 ---
 # <a name="solutions-for-error-30016-4"></a>Løsninger for feil 30016-4
 
-Når du prøver å avinstallere Microsoft 365-apper for Enterprise fra en data maskin, og du får feil meldingen, **noe gikk galt 30016-4**, betyr det at **% temp%** -stasjonen er tilordnet en annen stasjon enn **% ProgramFiles%**.
+Når du prøver å avinstallere Microsoft 365 Apps for enterprise fra en datamaskin, og du får feilmeldingen Noe gikk galt **30016-4,** betyr det at **stasjonen %temp%** er tilordnet til en annen stasjon enn **%ProgramFiles%**.
   
-Slik reparerer, laster du ned og installerer [assistenten for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Last ned og installer [](https://aka.ms/SARA-OfficeUninstall-Alchemy) assistent for støtte og gjenoppretting
   
-1. Når den åpnes, velger du versjonen du vil avinstallere, fra **Avinstaller Office-produkter** , og deretter velger du **neste**.
+1. Når den åpnes, velger **Office du** versjonen du vil avinstallere, fra Avinstallere produkter, og velger **Neste**.
 
 2. Fortsett å gå gjennom skjermer, og start datamaskinen på nytt når du blir bedt om det.
 
-    Når du har startet på nytt, åpnes vei viseren for støtte og gjenoppretting automatisk på nytt for å fullføre avinstallasjonsprosessen.
+    Når du starter på nytt, åpnes assistent for støtte og gjenoppretting automatisk på nytt for å fullføre avinstallasjonsprosessen.
 
-3. Følg de gjenværende spørsmålene, og [Installer Office på nytt](https://portal.office.com/OLS/MySoftware.aspx) eller Lukk hjelperen.
+3. Følg resten av instruksjonene, og installer [Office](https://portal.office.com/OLS/MySoftware.aspx) eller lukk assistenten.

@@ -1,5 +1,5 @@
 ---
-title: Alchemy – feil søkings trinn for krasj i Outlook
+title: Alchemy – Outlook feilsøkingstrinn for krasj
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933690"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Feilsøkingstrinn ved Outlook-krasj
 
-Hvis du har problemer med skrive bords krasj i Outlook, starter du ved å følge de tre trinnene nedenfor, som alle er oppført i detalj i denne artikkelen: [slik feil søker du problemer som fører til at Outlook krasjer eller slutter å svare.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Hvis du har Outlook krasjproblemer på skrivebordet, begynner du med å følge de tre trinnene nedenfor, som alle er oppført i detalj i denne artikkelen: Slik feilsøker du problemer som fører til Outlook krasjer eller slutter å [svare.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Trinn 1: Undersøk mulige problemer med tillegg.
   
-Trinn 2: reparere Outlook og kjøre [assistent verktøyet for støtte og gjenoppretting](https://aka.ms/SaRA-OutlookWontStart) for å feilsøke oppstarts feil i Outlook på den berørte data maskinen.
+Trinn 2: Reparer Outlook og kjør assistent for støtte og gjenoppretting [for](https://aka.ms/SaRA-OutlookWontStart) å feilsøke Outlook oppstartsfeil på den berørte maskinen.
   
-Trinn 3: Opprett en ny Outlook-profil, eller Kjør [Outlook Profile-verktøyet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskinen.
+Trinn 3: Opprett en Outlook profil, eller kjør Outlook [profilverktøyet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskinen.
   
-Hvis problemet oppstod etter en oppdatering og trinnene ovenfor ikke fungerer, må du kanskje gå tilbake til en tidligere versjon.  Se [hvordan du går tilbake til en tidligere versjon av Office 2016 Klikk og bruk](https://support.microsoft.com/help/2770432).
+Hvis problemet oppstod etter en oppdatering og trinnene ovenfor ikke fungerer, må du kanskje gå tilbake til en tidligere versjon.  Se [Slik går du tilbake til en tidligere versjon av Office 2016 Klikk og bruk](https://support.microsoft.com/help/2770432).
   
