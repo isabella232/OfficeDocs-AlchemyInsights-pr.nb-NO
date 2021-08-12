@@ -1,5 +1,5 @@
 ---
-title: CTRL + H viser Finn, ikke Erstatt i Excel 2016
+title: CTRL+H viser Søk, ikke Erstatt i Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914733"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H viser Finn, ikke Erstatt i Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H viser Søk, ikke Erstatt i Excel
 
-I Excel 2016 trykker du CTRL + H åpner dialog boksen Søk og erstatt og viser fanen søk i stedet for Erstatt-fanen. Når du klikker Erstatt på hjem-fanen, gjør du det samme. Dette problemet ble løst i versjon 1708 (8431,2094). Du kan løse dette ved å oppdatere til den nyeste versjonen av Office. Velg **File** \> **Account** \> **oppdaterings alternativer** for fil kontoer \> **Oppdater nå**.
+I Excel 2016 trykker du CTRL+H åpner dialogboksen Søk og erstatt og viser Søk-fanen i stedet for Erstatt-fanen. Når du klikker Erstatt på Hjem-fanen, gjør dette det samme. Dette problemet ble løst i versjon 1708 (8431.2094). Oppdater til den nyeste versjonen av Office for å løse dette problemet. Velg  \> **Oppdateringsalternativer** \> **for** \> **filkonto Oppdater nå**.
   

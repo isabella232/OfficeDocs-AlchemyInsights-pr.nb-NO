@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948100"
 ---
 # <a name="deploy-office-to-your-users-guide"></a>Distribuere Office til brukerveiledningen
 
-Distribuer Office-apper fra skyen med muligheten til å tilpasse installasjonen ved hjelp av Distribusjonsverktøy for Office.
+Distribuer Office fra skyen med muligheten til å tilpasse installasjonen ved hjelp av Office distribusjonsverktøyet.
 
-Veiledningen [Distribuer Office](https://go.microsoft.com/fwlink/?linkid=2146451) til brukerne hjelper deg med å opprette en tilpasset Office-konfigurasjon med avanserte innstillinger, eller du kan bruke en forhåndsbygd anbefalt konfigurasjon. Uansett om brukerne foretar en egen installasjon eller du distribuerer til brukerne enkeltvis eller flere om gangen, får du trinnvise instruksjoner i denne avanserte veiviseren for å gi brukerne en Office-installasjon som er skreddersydd for organisasjonen.
+[Distribuer Office](https://go.microsoft.com/fwlink/?linkid=2146451) til brukerveiledningen hjelper deg med å opprette en tilpasset Office konfigurasjon med avanserte innstillinger, eller du kan bruke en forhåndsbygd anbefalt konfigurasjon. Uansett om brukerne utfører en selvinstallering eller du distribuerer til brukerne enkeltvis eller samtidig, gir denne avanserte veiviseren deg trinnvise instruksjoner for å gi brukerne en Office installasjon som er skreddersydd for organisasjonen.
