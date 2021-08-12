@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966586"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Hva skjer med meldinger i karantene?
 
-Hvis du velger å ikke gjøre noe, slettes meldingen automatisk av Office 365 når den utløper. Vær oppmerksom på følgende:
+Hvis du velger å ikke gjøre noe, slettes meldingen ved Office 365 automatisk ved utløp. Vær oppmerksom på følgende:
 
 1. Som standard holdes søppelpost, masseutsendelse, skadelig programvare og phishing-meldinger i karantene i 15 dager.
 2. En melding i karantene som samsvarer med en e-postflytregel, holdes i karantene i sju dager (du kan ikke tilpasse dette).
