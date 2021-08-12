@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920872"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Feilsøking av problemstillinger Sign-On enkel
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Feilsøke sømløse Sign-On problemer
 
-1. Spør eller søk etter svar på spørsmålene du har om [Microsoft Q&A.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
-1. Se følgende veiledninger for feilsøking av problemet for vanlige problemer med enkel pålogging (SSO):
+1. Spør eller søk etter svar på spørsmålene du har på [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
+1. Hvis du vil ha vanlige problemer med Sømløs enkel pålogging (SSO), kan du se gjennom følgende veiledninger for å feilsøke problemet:
     - [Feilsøke tillegging av apper](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
     - [Feilsøke passordbasert enkel pålogging i Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
-    - [Feilsøke SAML-basert enkel pålogging i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
-    - [Feilsøke SAML-basert enkel pålogging for programmer i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
+    - [Feilsøke SAML-basert enkel pålogging Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Feilsøke SAML-baserte enkel pålogging til programmer i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
     - Video: [Anbefalte fremgangsmåter for enkel pålogging for Azure Active Directory- og Microsoft-kontoer](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
-    - [Finne aktivitetsrapporter i Azure Portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
+    - [Finne aktivitetsrapporter i Azure-portalen](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)

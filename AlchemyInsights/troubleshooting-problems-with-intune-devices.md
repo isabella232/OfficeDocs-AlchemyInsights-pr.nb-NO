@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920908"
 ---
 # <a name="troubleshooting-problems-with-intune-devices"></a>Feilsøke problemer med Intune-enheter
 
-Hvis en Intune-enhet har problemer, kan du først se gjennom [administrasjons enhetene med Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) -dokumentasjonen for å bekrefte den grunnleggende konfigurasjonen og kontrollere enhets statusen.
+Hvis en Intune-administrert enhet har problemer, må du først se gjennom dokumentasjonen For å administrere enheter med [Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) for å bekrefte grunnleggende konfigurasjon og bekrefte enhetsstatus.
 
-Problemer som manglende eller forsinkede policyer, feil policyer, uventet tilgang eller manglende tilgang, kan skyldes at enheten ikke synkroniseres med Intune. Se gjennom dokumentasjonen for [enhets synkronisering](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) for mer informasjon.
+Problemer som manglende eller forsinkede policyer, feil policyer, uventet tilgang eller mangel på tilgang kan være forårsaket av at enheten ikke synkroniseres med Intune. Se gjennom [dokumentasjonen for enhetssynkronisering](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) for mer informasjon.
 
-Vanlige problemer relatert til enhets innsjekking, policy synkronisering og enhets konfigurasjon finnes i [vanlige spørsmål og svar](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) -eller [feil søkings policy](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) dokumentasjon.
+Vanlige problemer relatert til innsjekking av enheter, policysynkronisering og enhetskonfigurasjon finner du i Vanlige spørsmål og svar [eller](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) Dokumentasjon [for feilsøkingspolicy.](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
