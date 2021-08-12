@@ -12,32 +12,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910375"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Løse problemer med å dele SharePoint-innhold med eksterne brukere
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Løse problemer med deling SharePoint innhold med eksterne brukere
 
-Kontroller at ekstern deling er aktivert for organisasjonen din:
+Kontroller at ekstern deling er aktivert for organisasjonen:
   
-1. Gå til [siden tjenester &amp; -tillegg i administrasjons senteret for Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), og klikk **områder**.
+1. Gå til [ &amp; Tjenester-tillegg-siden i Administrasjonssenter for Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), og klikk **Nettsteder**.
     
-2. Kontroller at innstillingen er slått på. Hvis det er merket av for bare eksisterende eksterne brukere, må du kontrollere at den eksterne brukeren er oppført i administrasjons senteret for Microsoft 365.
+2. Kontroller at innstillingen er slått til På. Hvis Bare eksisterende eksterne brukere er valgt, må du kontrollere at den eksterne brukeren er oppført i Administrasjonssenter for Microsoft 365.
     
-Kontroller at ekstern deling den er slått på for området. For en klassisk område samling:
+Kontroller at ekstern deling er aktivert for nettstedet. For en klassisk nettstedssamling:
   
-1. Klikk **områder**i den venstre ruten i det nye administrasjons senteret for SharePoint.
+1. Klikk områder SharePoint i den venstre ruten i det nye **administrasjonssenteret.**
     
-2. Velg nettstedet eller nett stedene, og klikk **deling**på båndet.
+2. Velg nettstedet eller nettstedene, og klikk Deling på **båndet.**
     
-For et gruppe nettsted som tilhører en Microsoft 365-gruppe eller et kommunikasjons område:
+For et gruppenettsted som tilhører en Microsoft 365 gruppe eller et kommunikasjonsnettsted:
   
-- Disse nye område typene har samme Delings innstilling som hele organisasjonen, med mindre innstillingen for hele organisasjonen tillater deling av filer ved hjelp av koblinger som ikke krever pålogging. I dette tilfellet tillater områdene deling med nye og eksisterende eksterne brukere som logger seg på. Hvis du vil endre innstillingen for bestemte nett steder, bruker du det nye administrasjons senteret for SharePoint eller PowerShell. [Finn ut mer](https://go.microsoft.com/fwlink/?linkid=871863).
+- Disse nye nettstedstypene har samme delingsinnstilling som innstillingen for hele organisasjonen, med mindre innstillingen for hele organisasjonen tillater deling av filer ved hjelp av koblinger som ikke krever pålogging. I dette tilfellet tillater nettstedene deling med nye og eksisterende eksterne brukere som logger på. Hvis du vil endre innstillingen for bestemte nettsteder, bruker du det nye SharePoint eller PowerShell. [Finn ut mer](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Innstillingen for ekstern deling for et nettsted kan være mer begrenset enn organisasjonens omfattende innstilling, men ikke mer tolerant enn innstillingen for hele organisasjonen. 
+> Innstillingen for ekstern deling for alle områder kan være mer restriktiv enn innstillingen for hele organisasjonen, men ikke mer tillatt enn innstillingen for hele organisasjonen. 
   
 

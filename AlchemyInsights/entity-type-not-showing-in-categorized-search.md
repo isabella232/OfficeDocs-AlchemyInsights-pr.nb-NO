@@ -1,5 +1,5 @@
 ---
-title: Enhets type som ikke vises i kategoriserte eller relevante søke resultater i Dynamics 365 Unified Interface
+title: Enhetstype vises ikke i kategoriserte eller relevanssøkresultater i Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946738"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Enhets type som ikke vises i søke resultatene
+# <a name="entity-type-not-showing-in-search-results"></a>Enhetstype vises ikke i søkeresultater
 
-For en enhets type som skal vises i kategoriserte søk eller relevans-søk i Dynamics 365 Unified Interface, må det først legges til i app-modulen.
+For at en enhetstype skal vises i kategorisert søk eller relevanssøk i Dynamics 365 Unified Interface, må den først legges til i appmodulen.
 
-Obs! når du søker etter vedlegg i relevanss søk, må Vedleggs enheten legges til i app-modulen selv om den overordnede posten er det som vises i resultatene.
+Obs! Når du søker etter vedlegg i relevanssøk, må vedleggsenheten legges til i appmodulen selv om den overordnede oppføringen er det som vises i resultatene.

@@ -1,5 +1,5 @@
 ---
-title: Klar gjørings forsinkelse for post boks
+title: Klargjøringsforsinkelse for postboks
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912463"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Brukerens post boks opprettes
+# <a name="your-users-mailbox-is-being-created"></a>Brukerens postboks opprettes
 
-Det kan ha opptil en time før en ny post boks er klar til bruk.
+Det kan ta opptil en time før en ny postboks er klar til bruk.
   
-Hvis en brukers post boks er "forbereder" i mer enn en time, kan du prøve å slette og deretter opprette brukeren på nytt, eller bruke alternativet «la oss ringe deg» for å snakke med en kunde støtte tekniker.
+Hvis en brukers postboks har forberedt seg i mer enn en time, kan du prøve å slette og deretter opprette brukeren på nytt, eller bruke alternativet La oss ringe deg for å snakke med en kundestøttetekniker.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Angi Bing.com standard startside
+title: Gjør Bing.com til standard startside
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912427"
 ---
-# <a name="make-bingcom-the-default-home-page"></a>Angi Bing.com standard startside
+# <a name="make-bingcom-the-default-home-page"></a>Gjør Bing.com til standard startside
 
-Hvis du vil gjøre Bing til standard startside i Microsoft Edge, Google Chrome og Internet Explorer, følger du instruksjonene i Bing.com [standard startside](https://go.microsoft.com/fwlink/?linkid=2149816).
+Hvis du Bing standard startside i Microsoft Edge, Google Chrome og Internet Explorer, følger du instruksjonene i Gjøre [Bing.com](https://go.microsoft.com/fwlink/?linkid=2149816)til standard startside .
