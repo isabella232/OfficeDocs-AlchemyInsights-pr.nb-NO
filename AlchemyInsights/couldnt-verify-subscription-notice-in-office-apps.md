@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c1f53154421592bd39a132671adab0b1b920b5480c9d027dd5f46b7e9b9139cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929422"
 ---
-# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Varsel om «Kan ikke bekrefte abonnementet» i Microsoft 365-apper
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Varselet «Kan ikke bekrefte abonnementet» i Microsoft 365 apper
 
 - Kontroller at [abonnementsstatusen](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) er gyldig, at den aktuelle brukeren har en [gyldig tilordnet lisens](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), og er koblet til internett.
 

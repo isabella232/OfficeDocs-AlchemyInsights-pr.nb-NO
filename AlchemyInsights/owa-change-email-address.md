@@ -1,5 +1,5 @@
 ---
-title: Endre e-postadressen i Outlook på nettet
+title: Endre e-postadresse i Outlook på nettet
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961384"
 ---
 # <a name="change-your-email-address"></a>Endre e-postadressen din 
 
-Hvis du vil endre e-postadressen din, må du ha administrator rettigheter.
+Hvis du vil endre e-postadressen, trenger du administratorrettigheter.
   
-Følg instruksjonene i [endre et bruker navn og e-postadresse i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Følg instruksjonene i [Endre et brukernavn og en e-postadresse i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
