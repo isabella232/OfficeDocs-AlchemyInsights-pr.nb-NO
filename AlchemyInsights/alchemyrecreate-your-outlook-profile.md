@@ -1,5 +1,5 @@
 ---
-title: Alchemy – Opprett Outlook-profilen på nytt
+title: Alchemy – Opprett Outlook profil på nytt
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933546"
 ---
-# <a name="create-an-outlook-profile"></a>Opprette en Outlook-profil
+# <a name="create-an-outlook-profile"></a>Opprette en Outlook profil
 
-Hvis du vil opprette eller gjenopprette Outlook-profilen, kan du kjøre [Outlook profil-verktøyet](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) på den berørte maskinen.
+Hvis du vil opprette eller opprette Outlook profilen på nytt, kan du kjøre [Outlook profilverktøyet](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) på den berørte maskinen.
 
-Verktøyet vil utføre ulike kontroller, og når du er klar, oppretter du en Outlook-profil med e-postadressen din.
+Verktøyet utfører ulike kontroller, og når du er klar, opprettes en Outlook profil med e-postadressen din.

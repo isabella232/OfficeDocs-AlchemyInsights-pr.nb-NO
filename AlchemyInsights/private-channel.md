@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e2b7ec560d92c7a74437723f0c33da9009624c7aabb5bb4cf4b3906d916051a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944176"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Private kanaler i Microsoft Teams
 
-Private kanaler i Microsoft Teams oppretter fokuserte områder for samarbeid i teamene dine. Bare brukere på teamet som er eiere eller medlemmer av den private kanalen, har tilgang til kanalen. Alle, inkludert gjester, kan legges til som medlem i en privat kanal, så lenge de allerede er medlemmer av teamet.
+Private kanaler i Microsoft Teams opprette fokuserte områder for samarbeid i teamene dine. Bare brukere på teamet som er eiere eller medlemmer av den private kanalen, har tilgang til kanalen. Alle, inkludert gjester, kan legges til som medlem i en privat kanal, så lenge de allerede er medlemmer av teamet.
 
-Hvis du vil ha mer informasjon, kan du starte [med private kanaler i Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Dette omfatter informasjon som [oppretting av private kanaler og medlemskap](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) og private [SharePoint-kanaler.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+Hvis du vil ha mer informasjon, kan du starte [med private kanaler i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dette omfatter informasjon som [oppretting av private](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) kanaler og medlemskap og [private SharePoint nettsteder.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Trenger du en ny teameier?**
 
