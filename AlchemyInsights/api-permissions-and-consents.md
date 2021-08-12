@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932106"
 ---
 # <a name="api-permissions-and-consent"></a>API-tillatelser og samtykke
 
-Programmer som integreres med Microsoft Identity Platform, følger en Autorisasjons modell som gir brukere og administratorer kontroll over hvordan data kan nås. Implementeringen av Autorisasjons modellen er oppdatert på Microsoft Identity Platform Endpoint. Den endrer hvordan en app må samhandle med Microsoft Identity Platform. [Tillatelser og samtykke i Microsoft Identity Platform Endpoint](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) dekker de grunnleggende konseptene til denne Autorisasjons modellen, inkludert omfang, tillatelser og samtykke.
+Programmer som integreres med Microsofts identitetsplattform, følger en autorisasjonsmodell som gir brukere og administratorer kontroll over hvordan data kan nås. Implementeringen av autorisasjonsmodellen er oppdatert på Microsofts identitetsplattform endepunktet. Den endrer hvordan en app må samhandle med Microsofts identitetsplattform. [Tillatelser og samtykke i](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) Microsofts identitetsplattform endepunktet dekker de grunnleggende konseptene i denne godkjenningsmodellen, inkludert omfang, tillatelser og samtykke.
 
-[Azure Active Directory (Azure ad) samtykke rammeverk](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) gjør det enkelt å utvikle nett og opprinnelige klient programmer med flere Tenant. Disse programmene tillater pålogging av bruker kontoer fra en Azure AD-leier som er forskjellig fra den som programmet er registrert i. Det kan også hende at de trenger tilgang til nett-APIer, for eksempel Microsoft Graph API (for å få tilgang til Azure AD, Intune og tjenester i Microsoft 365) og andre Microsoft Services-APIer, i tillegg til dine egne nett BAS-APIer.
+Det [Azure Active Directory samtykkerammeverket (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) gjør det enkelt å utvikle nettbaserte og opprinnelige klientprogrammer for flere leiere. Disse programmene tillater pålogging av brukerkontoer fra en Azure AD-leier som er forskjellig fra den der programmet er registrert. De må kanskje også få tilgang til nett-API-er, for eksempel Microsoft Graph API (for å få tilgang til Azure AD, Intune og tjenester i Microsoft 365) og andre Microsoft-tjenester API-er, i tillegg til dine egne api-er på nettet.
 
