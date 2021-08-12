@@ -1,5 +1,5 @@
 ---
-title: Slå av tekst prognoser
+title: Deaktivere tekstforutsigelser
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920260"
 ---
-# <a name="turn-off-text-predictions"></a>Slå av tekst prognoser
+# <a name="turn-off-text-predictions"></a>Deaktivere tekstforutsigelser
 
-1. Velg **innstillinger > vise alle Outlook-innstillinger > e-post > skrive og svare**.
-2. Fjern merket **for foreslå ord av uttrykk mens jeg skriver**, under **tekst prognoser**.
+1. Velg **Innstillinger > Vis alle Outlook innstillinger > E-> Skriv og svar**.
+2. Fjern **merket for** Foreslå ord med uttrykk mens jeg skriver under Tekstforutsigelser . 
 
-Hvis du vil ha mer informasjon, kan du se [bruke intelligent teknologi i Outlook på nettet og Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Hvis du vil ha mer informasjon, kan du se Bruke intelligent teknologi [i Outlook på nettet og Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).

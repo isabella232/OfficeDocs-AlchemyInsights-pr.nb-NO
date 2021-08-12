@@ -1,5 +1,5 @@
 ---
-title: Teams tillater eller deaktiverer IP-video
+title: Teams tillate eller deaktivere IP-video
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940648"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams tillater eller deaktiverer IP-video
+# <a name="teams-allow-or-disable-ip-video"></a>Teams tillate eller deaktivere IP-video
 
 **Endre eller opprette en møtepolicy**
 
-Hvis du vil endre eller opprette en møtepolicy, kan du gå til administrasjonssenteret **for Microsoft Teams > Møter > møtepolicyer**. Velg en policy fra listen, eller tryk på **Legg til**. Hvis du oppretter en ny policy, legger du til navn og beskrivelse. Navnet kan ikke inneholde spesialtegn eller være lenger enn 64 tegn. Velg innstillinger, og klikk deretter på **Lagre**.
+Hvis du vil endre eller opprette en møtepolicy, **går du til Microsoft Teams administrasjonssenteret > Møter > Møtepolicyer**. Velg en policy fra listen, eller tryk på **Legg til**. Hvis du oppretter en ny policy, legger du til navn og beskrivelse. Navnet kan ikke inneholde spesialtegn eller være lenger enn 64 tegn. Velg innstillinger, og klikk deretter på **Lagre**.
 
 La oss for eksempel si at du har mange brukere, og at du vil begrense hvor mye båndbredde møtet vil kreve. Opprett en ny egendefinert policy som heter «Begrenset båndbredde», og deaktiver disse innstillingene:
 
