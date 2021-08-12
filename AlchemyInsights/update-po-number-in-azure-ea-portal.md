@@ -1,5 +1,5 @@
 ---
-title: Oppdater post nummeret i Azure EA Portal – anbefalte trinn
+title: Oppdater po-nummer i Azure EA-portalen – anbefalte trinn
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007187"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Oppdater post nummeret i Azure EA Portal – anbefalte trinn
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Oppdater po-nummer i Azure EA-portalen – anbefalte trinn
 
-Endringer i mva/mva-ID-en eller bestillings nummeret (bestillingen) vil gjelde for den neste fakturaen. Hvis du vil endre mva/mva-ID-en eller BESTILLINGs nummeret til en faktura som allerede er generert, kan du åpne en støtte forespørsel. Hvis du har problemer relatert til mva/mva-ID-en, kan du kontakte Microsoft Licensing-partneren (partner eller en program vare rådgiver). De kontakter det regionale operasjons senteret (ROC) for spørsmål vedrørende mva/AVGIFTs-IDen din. 
+Endringer i MVA/MVA-ID-en eller innkjøpsordrenummeret trer i kraft på neste faktura. Hvis du vil endre MVA/MVA-ID-en eller bestillingsnummeret til en faktura som allerede er generert, åpner du en støtteforespørsel. Hvis du har problemer relatert til MVA/MVA-ID-en, kan du ta kontakt med Microsoft Licensing Partner (partner eller programvarerådgiver). De kontakter det regionale driftssenteret (ROC) for spørsmål om MVA/MVA-ID-en. 
 
-Azure EA-portalen genererer automatisk et standard BESTILLINGs nummer med mindre EA admin angir én før faktura datoen. Som en EA-administrator (direkte registrering)/partner administrator (indirekte registrering) kan du oppdatere BESTILLINGs nummeret i Azure EA-portalen. Du kan når som helst oppdatere BESTILLINGs nummeret før fakturaen er generert for den gjeldende fakturerings perioden og opptil sju dager etter at du mottar e-post for automatisk faktura varsling.    
+Azure EA-portalen genererer automatisk et standard po-nummer med mindre EA-administratoren angir et før fakturadatoen. Som EA-administrator (direkte registrering) / Partneradministrator (indirekte registrering) kan du oppdatere po-nummeret i Azure EA-portalen. Du kan oppdatere bestillingsnummeret når som helst før fakturaen genereres for den gjeldende faktureringsperioden og opptil sju dager etter at du har mottatt e-postmeldingen om automatisk faktura.    
 
-Slik oppdaterer du BESTILLINGs nummeret:
+Slik oppdaterer du bestillingsnummeret:
 
-1. Logg på [EA Portal](https://ea.azure.com/).
-1. Klikk **rapporter** i ruten til venstre.
-1. Klikk **Bruk Sammendrag** øverst på siden, og Velg Velg den aktuelle perioden fra rulle gardin listen.
-1. Klikk **Vis/Rediger bestillings numre**.
-1. Skriv inn det nye BESTILLINGs nummeret, og klikk **Lagre**.
+1. Logg på [EA-portalen](https://ea.azure.com/).
+1. Klikk Rapporter i den venstre **ruten.**
+1. Klikk Brukssammendrag øverst  på siden, og velg den relevante perioden fra rullegardinlisten.
+1. Klikk **Vis/rediger bestillingsnumre**.
+1. Skriv inn det nye bestillingsnummeret, og klikk **Lagre**.
 
 **Anbefalte dokumenter** 
 
-- [Fakturaer for Azure Enterprise-registrering](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Forstå regningen i Azure Enterprise-avtalen din](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Registreringsfakturaer for Azure-virksomheter](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Forstå Azure Microsoft Foretaksavtale-fakturaen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - [Forstå Azure Enterprise-roller](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Opprette en annen organisasjons administrator (EA admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Opprette en annen bedriftsadministrator (EA-administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

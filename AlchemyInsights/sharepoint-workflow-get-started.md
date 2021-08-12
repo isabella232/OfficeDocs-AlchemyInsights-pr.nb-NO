@@ -1,5 +1,5 @@
 ---
-title: Komme i gang med SharePoint Online
+title: Kom i gang med SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910411"
 ---
-# <a name="workflows-in-sharepoint"></a>Arbeids flyter i SharePoint
+# <a name="workflows-in-sharepoint"></a>Arbeidsflyter i SharePoint
 
-Arbeids flyter i SharePoint lar deg modellere og automatisere forretnings prosesser. SharePoint støtter to primære arbeids flyt utviklings miljøer for redigerings arbeids flyter: SharePoint Designer og Visual Studio. 
+Arbeidsflyter i SharePoint gjør det mulig å modellere og automatisere forretningsprosesser. SharePoint støtter to primære arbeidsflytutviklingsmiljøer for redigering av arbeidsflyter: SharePoint Designer og Visual Studio. 
 
-Se [utvikle SharePoint-arbeidsflyter i SharePoint Designer og Visio,](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) eller [utvikle SharePoint-arbeidsflyter ved hjelp av Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) for å evaluere fordelene og ulempene ved hver av dem. 
+Se [Utvikle SharePoint arbeidsflyter i SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) og Visio eller Utvikle SharePoint-arbeidsflyter ved hjelp av [Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) til å evaluere fordelene og ulempene ved hver av dem. 
 
-Hvis du prøver å finne ut om arbeids flyter er en løsning som skal brukes i SharePoint-miljøet eller leter etter generell informasjon om komme i gang, kan du se [Oversikt over arbeids flyter i SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Hvis du prøver å finne ut om arbeidsflyter er en løsning å bruke i SharePoint-miljøet eller leter etter generell informasjon om å komme i gang, kan du se Oversikt over arbeidsflyter [i SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

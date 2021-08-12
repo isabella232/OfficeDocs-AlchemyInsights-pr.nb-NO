@@ -1,5 +1,5 @@
 ---
-title: Konfigurere abonnementet for Business Essentials for O365
+title: Konfigurere O365 Business Essentials-abonnementet
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910627"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurere abonnementet for Business Essentials for O365
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurere O365 Business Essentials-abonnementet
 
-Opprette Microsoft 365-kontoer og legge til domenet
+Opprette Microsoft 365 kontoer og legge til domenet
   
-- I dette trinnet bruker du installasjons vei viseren til å opprette Microsoft 365-kontoer for brukerne og legge til ditt eget domene. Med vei viseren kan du tilpasse alles bruker-ID og e-post for bedriften, for eksempel [Rob@contoso.com](mailto:rob@contoso.com).
+- I dette trinnet bruker du installasjonsveiviseren til å opprette Microsoft 365 kontoer for brukerne og legge til ditt eget domene. Veiviseren lar deg tilpasse alles bruker-ID og e-post for bedriften, for [eksempel rob@contoso.com](mailto:rob@contoso.com).
     
-- Gå til [administrasjons senteret for Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Gå til [Administrasjonssenter for Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- For å starte veiviseren, kan du velge **Gå til konfigurasjon**. Hvis du vil ha mer informasjon, kan du se [legge til et domene i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- For å starte veiviseren, kan du velge **Gå til konfigurasjon**. Hvis du vil ha mer informasjon, [kan du se Legge til et domene Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Importer E-post
   
-- Flytt eksisterende e-post og kontakter fra andre e-postsystemer til Microsoft 365-postboksen, slik at du kan se alt på ett sted. For overførings alternativer kan [du overføre e-post og kontakter til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
+- Flytt eksisterende e-post og kontakter fra andre e-postsystemer til Microsoft 365 postboksen, slik at du kan se alt på ett sted. For overføringsalternativer overfører [du e-post og kontakter til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Koble til e-postkontoer
     
-  - I tillegg til å administrere e-post i Outlook, kan du koble andre e-postkontoer til Outlook også, for eksempel Gmail-og Yahoo-kontoer. Dette gjør at du kan administrere e-posten din på ett sted. Du kan koble til opptil fem e-postkontoer i Outlook. Se [Koble til e-postkontoer i Outlook på nettet (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) for mer informasjon. 
+  - I tillegg til å administrere e-post i Outlook, kan du også koble andre e-postkontoer til Outlook, for eksempel Gmail- og Yahoo-kontoene. Dette gjør at du kan administrere e-posten din på ett sted. Du kan koble til opptil fem e-postkontoer i Outlook. Se [Koble til e-postkontoer i Outlook på nettet (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) for mer informasjon. 
     
 Installere Skype for Business
   
@@ -40,8 +40,8 @@ Installere Skype for Business
     
 Lagre filer på nettet
   
-- Se [hvor du kan lagre filer i Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)for å finne ut hvilke lagrings plasseringer som er best for bedriften din. Alle får en lagrings plass i **OneDrive** -skyen automatisk når du oppretter Microsoft 365-kontoer for dem. Med OneDrive har du tilgang til filer på tvers av datamaskiner, telefoner og nettbrett. 
+- Hvis du vil finne ut hvilke lagringsplassesteder som er best for bedriften, kan du se [Hvor du kan lagre filer i Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Alle får automatisk **OneDrive** lagringsplass i skyen når du oppretter Microsoft 365 kontoer for dem. Med OneDrive har du tilgang til filer på tvers av datamaskiner, telefoner og nettbrett. 
     
-Du finner detaljerte trinn for oppsettet i [denne artikkelen](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Du finner detaljerte trinn for konfigurasjonen i [denne artikkelen](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 
