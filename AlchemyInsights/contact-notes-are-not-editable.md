@@ -1,5 +1,5 @@
 ---
-title: Kontakt notater kan ikke redigeres
+title: Kontaktnotater kan ikke redigeres
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915344"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Kan ikke redigere notater-feltet for en kontakt i Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Kan ikke redigere notatfeltet for en kontakt i Outlook
 
-Dette er et kjent problem. Vi arbeider med å løse problemet, og du kan se den nyeste statusen på [kan ikke redigere notater-feltet for en kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Dette er et kjent problem. Vi arbeider med å løse problemet, og du kan se den nyeste statusen på Kan ikke redigere [notatfeltet for en kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Løsning**: Hvis du bruker en Microsoft-365 eller en Outlook.com-konto, kan du redigere kontaktene dine ved hjelp av nettet. Hvis du bruker en IMAP-eller POP-konto, er det ingen løsning tilgjengelig for øyeblikket.
+**Løsning:** Hvis du bruker en Microsoft 365 eller en Outlook.com-konto, kan du redigere kontaktene dine ved hjelp av nettet. Hvis du bruker en IMAP- eller POP-konto, er ingen løsning tilgjengelig for øyeblikket.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 5020dde481bb2e2c9a00ed8050937a0e8cf520f8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 54a671586a48b03c1bb98224e284bf725b78c8659cd6cdc428218cde5d99b841
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093752"
 ---
 # <a name="sharepoint-online-backup-information"></a>Informasjon om sikkerhetskopiering for SharePoint Online
 
-Hvis du vil ha mer informasjon om Robusthet for SharePoint og OneDrive, kan du se:
+Hvis du vil ha mer SharePoint og OneDrive robusthet, kan du se:
 
 - [SharePoint og OneDrive data robusthet i Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
