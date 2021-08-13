@@ -1,5 +1,5 @@
 ---
-title: Legge til kontakter for hurtig oppringing
+title: Legge til kontakter i hurtigoppringing
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954562"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Legge til kontakter for hurtig oppringing
+# <a name="add-contacts-to-speed-dial"></a>Legge til kontakter i hurtigoppringing
 
-1. Gå til **kontakter**i **samtaler**.
-2. Hvis du ser et kort for personen du vil legge til i hurtig tast, velger du  **flere alternativer**  (tre prikker) på kortet, og velger  **Legg til i hurtig tast**.
+1. Gå  **til Kontakter** i  **Anrop**.
+2. Hvis du ser et kort for personen du vil legge til i hurtigoppringing, velger du Flere alternativer  **(tre**  prikker) på kortet og velger Legg til i  **hurtigoppringing**.
 
-Hvis du ikke ser personen, velger du  **Legg til hurtig tast**  øverst til høyre på skjermen, begynner å skrive inn navnet, velger personen og velger deretter  **Legg til**.
+Hvis du ikke ser personen,  velger du Legg til hurtigoppringing øverst til høyre på skjermen, begynner å skrive inn navnet, velger personen og velger deretter **Legg til**.

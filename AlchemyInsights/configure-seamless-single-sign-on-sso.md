@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966046"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Konfigurere sømløs enkel pålogging (SSO)
 
@@ -38,11 +38,11 @@ For appene i galleriet finner du detaljerte, trinnvise instruksjoner. Hvis du vi
 
 **Konfigurere SAML-basert SSO**
 
-1. [Hurtigstart: Konfigurere SAML-basert enkel pålogging (SSO) for et program i Azure Active Directory (Azure AD)-leieren.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
+1. [Hurtigstart: Konfigurere SAML-basert](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)enkel pålogging (SSO) for et program i Azure Active Directory (Azure AD) tenant.
 2. Hvis du vil lære mer om det SAML-baserte alternativet for enkel pålogging, kan du se [Forstå SAML-basert enkel pålogging](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
 3. Hvis du vil lære om SAML 2.0-godkjenningsforespørsler og svar som Azure Active Directory (Azure AD) støtter for Enkel Sign-On (SSO), kan du se [Enkel Sign-On SAML-protokoll](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
 4. Hvis du vil lære hvordan du oppretter og konfigurerer en SAML-basert enkel pålogging (SSO) for programmet i Azure Active Directory (Azure AD) ved hjelp av Microsoft Graph API, kan du se Konfigurere [SAML-basert](https://docs.microsoft.com/graph/application-saml-sso-configure-api)enkel pålogging for programmet ved hjelp av Microsoft Graph API .
-5. Hvis du vil lære hvordan Azure AD bruker SAML-protokollen, kan du se [Hvordan Microsoft-identitetsplattformen bruker SAML-protokollen](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+5. Hvis du vil lære hvordan Azure AD bruker SAML-protokollen, kan du se Hvordan Microsofts identitetsplattform [bruker SAML-protokollen](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
 
 **Konfigurere tokener og krav**
 
@@ -50,10 +50,10 @@ For appene i galleriet finner du detaljerte, trinnvise instruksjoner. Hvis du vi
 2. Hvis du vil lære hvordan du konfigurerer krav ved hjelp av PowerShell, kan du se Slik tilpasser du krav som sendes inn i tokener for en bestemt app i en [leier (forhåndsvisning).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
 3. Hvis du vil lære hvordan du konfigurerer valgfrie krav, kan du se Slik gjør du [det: Oppgi valgfrie krav til appen](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
 4. Hvis du vil lære hvordan du bruker attributter for katalogskjemautvidelse til å sende brukerdata til programmer i tokenkrav, kan du se Bruke attributter for [katalogskjemautvidelse i krav](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Hvis du vil lære hvordan du konfigurerer levetid for tokener, kan du se Konfigurerbar levetid for token i [Microsoft-identitetsplattformen (forhåndsvisning).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+5. Hvis du vil lære hvordan du konfigurerer levetid for tokener, kan du se Konfigurerbar levetid for token i Microsofts identitetsplattform [(forhåndsvisning).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 6. [Konfigurere policyer for levetid for token (forhåndsvisning)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – I denne artikkelen går vi gjennom et vanlig policyscenario som kan hjelpe deg med å innføre nye regler for tokenlevetid. I eksemplet lærer du hvordan du oppretter en policy som krever at brukere godkjennes oftere i nettappen.
 
 **Feilsøke SSO-konfigurasjon**
 
-- Hvis du vil ha vanlige spørsmål om Azure Active Directory Seamless Single Sign-On (Sømløs SSO), kan du se [Azure Active Directory Seamless Single Sign-On: Vanlige spørsmål](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
-- Hvis du vil ha informasjon om feilsøking av vanlige problemer med Azure Active Directory (Azure AD) Sømløs enkel Sign-On (sømløs SSO), kan du se Feilsøke Sømløs enkel pålogging for [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- Hvis du vil ha vanlige spørsmål om Azure Active Directory Sømløs enkel Sign-On (sømløs SSO), kan du [Azure Active Directory Problemfri](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)enkel pålogging: Vanlige spørsmål .
+- Hvis du vil ha informasjon om feilsøking av vanlige problemer med Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO), kan du se Feilsøke Azure Active Directory [Sømløs enkel pålogging](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).

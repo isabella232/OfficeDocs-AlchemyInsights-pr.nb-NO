@@ -1,5 +1,5 @@
 ---
-title: Legg til en annen virksomhets administrator – anbefalte trinn
+title: Legge til en annen bedriftsadministrator – anbefalte trinn
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954700"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Legg til en annen virksomhets administrator – anbefalte trinn
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Legge til en annen bedriftsadministrator – anbefalte trinn
 
-Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
+Basert på beskrivelsen av problemet har vi funnet en løsning for deg. De fleste kunder kunne løse problemet på egen hånd etter å ha fulgt dokumentasjonen vår.
 
-Du kan ha flere bedrifts administratorer i en bedrifts registrering.
+Du kan ha flere bedriftsadministratorer i en bedriftsregistrering.
 
-**Slik legger du til en annen organisasjons administrator:**
+**Slik legger du til en annen bedriftsadministrator:**
 
-1. Logg deg på [Azure Enterprise Portal](https://ea.azure.com/).
-1. Gå til **Administrer**  >  **registrerings detaljer**.
+1. Logg på [Azure Enterprise-portalen.](https://ea.azure.com/)
+1. Gå til **Behandle**  >  **registreringsdetaljer**.
 1. Klikk **+ Legg til administrator** øverst til høyre.
-1. For skrivebeskyttet tilgang angir du Read-Only-alternativet til **Ja** , og deretter velger du **Legg til**.
+1. Hvis du vil ha skrivebeskyttet tilgang, Read-Only alternativet **til** Ja, og velg deretter **Legg til**.
 
-Kontroller at du har brukerens e-postadresse og foretrukket godkjennings metode, for eksempel en jobb-, skole-eller Microsoft-konto. Hvis du ikke er organisasjons administrator, kontakter du en organisasjons administrator for å be om at de legger deg til en registrering. Nye administratorer legges bare til av eksisterende administratorer. Når du har lagt til en registrering, får du en e-postmelding om aktivering.
+Kontroller at du har brukerens e-postadresse og foretrukket godkjenningsmetode, for eksempel en jobb-, skole- eller Microsoft-konto. Hvis du ikke er bedriftsadministrator, kan du kontakte en bedriftsadministrator for å be om at de legger deg til i en registrering. Nye administratorer legges bare til av eksisterende administratorer. Når du er lagt til i en registrering, mottar du en aktiverings-e-post.
 
-**Slik legger du til en avdelings administrator:**
+**Slik legger du til en avdelingsadministrator:**
 
-Når en Azure EA-administrator oppretter en avdeling, kan Azure Enterprise-administratoren legge til avdelings administratorer og knytte hver av dem til en avdeling. Du kan ha flere avdelings administratorer for hver bedrifts registrering.
+Når en Azure EA-administrator har opprettet en avdeling, kan Azure Enterprise-administratoren legge til avdelingsadministratorer og knytte hver av dem til en avdeling. Du kan ha flere avdelingsadministratorer for hver bedriftsregistrering.
 
-1. Logg deg på [Azure Enterprise Portal](https://ea.azure.com/).
-1. Naviger til **Behandle**  >  **avdeling** -fanen, og velg deretter avdelingen.
-1. Velg **+ Legg til administrator** , og Legg til den nødvendige informasjonen.
-1. For skrivebeskyttet tilgang angir du Read-Only-alternativet til **Ja** , og deretter velger du **Legg til**.
+1. Logg på [Azure Enterprise-portalen.](https://ea.azure.com/)
+1. Gå til **Administrer**  >  **avdeling-fanen,** og velg deretter avdelingen.
+1. Velg **+ Legg til administrator,** og legg til den nødvendige informasjonen.
+1. Hvis du vil ha skrivebeskyttet tilgang, Read-Only alternativet **til** Ja, og velg deretter **Legg til**.
 
 **Slik oppdaterer/fjerner du en administrator:**
 
-1. Hold pekeren over EA-administratoren for å bli fjernet, og klikk på det blå **X** -ikonet.
+1. Hold pekeren over EA-administratoren som skal fjernes, og klikk på det blå **X-ikonet.**
 1. Bekreft at den ønskede administratoren er valgt, og klikk **Ja**.
 
 **Anbefalte dokumenter**
 
-- [Forstå administrative roller for Azure Enterprise Agreement i Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Azure EA Portal-administrasjon](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Forstå Azure Microsoft Foretaksavtale administrative roller i Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Azure EA-portaladministrasjon](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
