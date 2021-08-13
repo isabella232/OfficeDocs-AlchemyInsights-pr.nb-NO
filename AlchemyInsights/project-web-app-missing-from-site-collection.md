@@ -1,5 +1,5 @@
 ---
-title: Project Web App mangler fra SharePoint-nettsteds samling
+title: Project Web App mangler i SharePoint nettstedssamlingen
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973094"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App mangler fra SharePoint-nettsteds samlingen
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App mangler i SharePoint nettstedssamlingen
 
-Project Web App kan mangle fra SharePoint-nettområde samlingen av følgende årsaker:
+Project Web App kan mangle fra SharePoint nettstedssamlingen av følgende årsaker:
 
-1. Organisasjoner har bare en Project online Essentials-lisens (er). Administratorer må legge til en Project online Professional og/eller Premium-lisens. Området vil bare være skrivebeskyttet på det tidspunktet. Hvis du vil ha mer informasjon, kan du se [sammenligne prosjekt Styrings løsninger](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Leieren har oppdaget et klar gjørings problem der klar gjøring av Project Web App-nettstedet er forsinket. Hvis det har gått mer enn 24 timer og du fremdeles opplever problemet, kan du logge en støtte forespørsel. Vi forstår at 24 timer kan virke som lang tid. I mange tilfeller arbeider vi allerede med en løsning. Gi oss minst 24 timer til å fullføre en løsning.
+1. Organisasjoner har bare Project Online Essentials lisens(er). Administratorer må legge til en Project Online Professional og/eller Premium lisens. Nettstedet vil komme ut av skrivebeskyttet på det tidspunktet. Hvis du vil ha mer informasjon, [kan du se Sammenligne Project Administrasjonsløsninger](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Leieren har støtt på et klargjøringsproblem der klargjøringen Project Web App forsinket. Hvis det har gått mer enn 24 timer og du fremdeles opplever problemet, logger du en støtteforespørsel. Vi forstår at 24 timer kan virke som en lang tid. I mange tilfeller arbeider vi allerede med en løsning. Gi oss minst 24 timer for å fullføre en løsning.

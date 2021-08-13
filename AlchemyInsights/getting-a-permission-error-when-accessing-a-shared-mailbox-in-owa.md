@@ -1,5 +1,5 @@
 ---
-title: 124 får du en tillatelses feil når du åpner en delt post boks i OWA?
+title: 124 Får du en tillatelsesfeil når du åpner en delt postboks i OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913508"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Får du en tillatelses feil når du åpner en delt post boks i Outlook på nettet?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Får du en tillatelsesfeil når du åpner en delt postboks Outlook på nettet?
 
-Hvis du får feilen **noe gikk galt. Du har ikke tillatelse til å åpne denne post boksen.** Når du prøver å åpne en delt post boks i Outlook på nettet, kan det hende at kontoen din ikke har tillatelse til å få tilgang til den delte post boksen. Organisasjons administratoren kan tilordne konto tillatelsene til den delte post boksen ved å følge instruksjonene i emnet [opprette en delt post boks](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Hvis du får feilmeldingen **Noe gikk galt. Du har ikke tillatelse til å åpne denne postboksen.** Når du prøver å åpne en delt postboks i Outlook på nettet, kan det hende at kontoen din ikke har tillatelse til å få tilgang til den delte postboksen. Organisasjonsadministratoren kan tilordne kontotillatelsene dine til den delte postboksen ved å følge instruksjonene i emnet [Opprette en delt postboks](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   
