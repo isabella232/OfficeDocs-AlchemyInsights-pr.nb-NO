@@ -1,5 +1,5 @@
 ---
-title: Forstå faktureringsbeløp
+title: Forstå faktureringbesløp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919648"
 ---
-# <a name="understand-billing-amount"></a>Forstå faktureringsbeløp
+# <a name="understand-billing-amount"></a>Forstå faktureringbesløp
 
 **Kunde led (WD):**
 
 - Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Opplæring: Se gjennom din individuelle Azure Bill](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene på fakturaen: Forklaring av [vilkår for Azure-faktura](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene for Azure-brukskostnader: [Forklaring av bruksvilkår](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Hvis du vil ha en PDF-fil av fakturaen og en kopi av den detaljerte daglige bruksfilen (. CSV): [Få faktura- og bruksdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Få en PDF-fil av fakturaen og en kopi av den detaljerte daglige bruksfilen (.CSV): Få faktura- og [bruksdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Obs!** Hvis du avbryter abonnementet/ressursen midt i faktureringssyklusen, kan det hende du fremdeles ser en belastning som vil være for eventuell bruk i forrige måned. Hvis faktureringssyklusen for eksempel var fra 26. i hver måned til den 25. i neste måned & suspenderte du abonnementet den 23., som er 28 dager inn i faktureringssyklusen for juni, kan det hende du ser en belastning for de 28 dagene du bruker. Hvis du ser en belastning på tross av at du kansellerer et abonnement, må du passe på at du ikke har andre støtteplaner som forårsaker belastningen. Hvis du gjør det, kan du avbryte planen.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827873"
 - Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Veiledning: Se gjennom fakturaen for Microsoft-partneravtalen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene på fakturaen: [Forklarte vilkår i Fakturaen for Microsoft-partneravtalen](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Enterprise Agreement (EA)**
+**Microsoft Foretaksavtale (EA)**
 
-- Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Forstå fakturaen for Azure Enterprise Agreement](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Hvis du er en Azure-kunde med en Enterprise Agreement (EA-kunde), kan du ikke laste ned organisasjonens fakturaer. Fakturaer sendes til den som er konfigurert til å motta fakturaer for registreringen, og du kan laste ned bruk i [Azure-portalen.](https://portal.azure.com/)
+- Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Forstå Azure Microsoft Foretaksavtale-fakturaen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hvis du er en Azure-kunde med Microsoft Foretaksavtale (EA-kunde), kan du ikke laste ned organisasjonens fakturaer. Fakturaer sendes til den som er konfigurert til å motta fakturaer for registreringen, og du kan laste ned bruk i [Azure-portalen.](https://portal.azure.com/)
 
 Se gjennom faktura for overtidstjeneste:
 
@@ -71,7 +71,7 @@ Sammenlign azure Marketplace-totalen på rapporter > sammendrag av bruk i Enterp
 
 **Leverandør av skyløsninger (CSP)**
 
-- Finn ut mer om hvordan fakturering fungerer i Azure Cloud Solution Provider (Azure CSP)-program: [Azure CSP Billing](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Finn ut mer om hvordan fakturering fungerer i Azure Leverandør av skyløsninger (Azure CSP)-program: [Azure CSP Billing](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Lær om lesing og forståelse av CSP-fakturaen: [Azure CSP-faktura](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Anbefalte dokumenter**
@@ -81,4 +81,4 @@ Sammenlign azure Marketplace-totalen på rapporter > sammendrag av bruk i Enterp
 - [Forstå Azures forbruksgrense](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå Azure-faktureringen for eksterne tjenestekostnader: [Hvordan eksterne tjenester faktureres](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Vanlige spørsmål om Azure Free Account](https://azure.microsoft.com/free/free-account-faq/)
-- [Forstå administrative roller i Azure Enterprise Agreement i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Forstå Azure Microsoft Foretaksavtale administrative roller i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

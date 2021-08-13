@@ -1,5 +1,5 @@
 ---
-title: Kommentarer om liste elementer
+title: Kommentarer på listeelementer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995496"
 ---
-# <a name="comments-on-list-items"></a>Kommentarer om liste elementer
+# <a name="comments-on-list-items"></a>Kommentarer på listeelementer
 
-Brukere kan vise alle kommentarer i et liste element og filtrere mellom visninger som viser kommentarer eller aktivitet som er relatert til et element.
+Brukere kan vise alle kommentarer på et listeelement og filtrere mellom visninger som viser kommentarer eller aktivitet relatert til et element.
 
-Brukere må merke av nedenfor før de kan legge til og slette kommentarer:
+Brukere må merke seg følgende før de kan legge til og slette kommentarer:
 
-- Kommentarer følger tillatelses innstillingene i SharePoint.
-- Klassiske lister som ennå ikke er bygget for å vises i moderne bruker grensesnitt, for eksempel oppgave lister, vil ikke ha denne kommenterings funksjonen.
-- Kommentering på lister i Teams er ikke tilgjengelig i denne versjonen.
-- Kommentarer er ikke indeksert av søk.
+- Kommentarer følger tillatelsesinnstillingene som ligger i SharePoint.
+- Klassiske lister som ennå ikke er bygd for å vises i moderne brukergrensesnitt, for eksempel oppgavelister, vil ikke ha denne kommenteringsfunksjonen.
+- Å kommentere lister i Teams er ikke tilgjengelig med denne versjonen.
+- Kommentarer indekseres ikke av Søk.
 
-Administratorer kan deaktivere denne funksjonen på organisasjons nivå ved å endre **CommentsOnListItemsDisabled** -parameteren i **Set-SPOTenant PowerShell-** cmdleten.
+Administratorer kan deaktivere denne funksjonen på organisasjonsnivå ved å endre **CommentsOnListItemsDisabled-parameteren** i **Cmdleten Set-SPOTenant** PowerShell.
 
-Det er for øyeblikket ikke mulig å deaktivere kommentering på område-eller liste nivå. Vi håper at du har disse kontrollene i en senere oppdatering, sannsynligvis i den første kvartal 2021.
+Det er for øyeblikket ikke mulig å deaktivere kommentering på nettsteds- eller listenivå. Vi håper å ha disse kontrollene i en senere oppdatering, sannsynligvis i første kvartal 2021.
