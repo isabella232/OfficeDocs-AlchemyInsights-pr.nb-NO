@@ -1,5 +1,5 @@
 ---
-title: Program registrering
+title: Programregistrering
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969620"
 ---
-# <a name="application-registration"></a>Program registrering
+# <a name="application-registration"></a>Programregistrering
 
-1. [Registrer en app med Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): denne opplæringen beskriver hvordan du registrerer et program med Azure Active Directory, noe som gjør at en bruker med Power apps-bruker kan koble seg til Microsofts Dataverse-miljø fra eksterne klient programmer ved hjelp av OAuth-godkjenning.
-1. [Registrer et program med Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): i denne hurtigst Art kassen registrerer du en app i Azure-portalen, slik at Microsoft Identity Platform kan tilby godkjennings-og godkjennings tjenester for programmet og brukerne.
+1. Registrer en [app med Azure Active Directory:](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)Denne opplæringen beskriver hvordan du registrerer et program med Azure Active Directory, noe som gjør det mulig for en bruker med Power Apps-brukerkonto å koble seg til Microsoft Dataverse-miljøet fra eksterne klientprogrammer ved hjelp av OAuth-godkjenning.
+1. [Registrer et program](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)med Microsofts identitetsplattform: I denne hurtigstarten registrerer du en app i Azure-portalen, slik at Microsofts identitetsplattform kan gi godkjennings- og autorisasjonstjenester for programmet og brukerne.

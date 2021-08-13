@@ -1,5 +1,5 @@
 ---
-title: 9001220 avanserte tilpassede gjenkjenninger for jakt
+title: 9001220 avanserte søk etter egendefinerte gjenkjenninger
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952294"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Avanserte tilpassede gjenkjenninger for jakt
 
