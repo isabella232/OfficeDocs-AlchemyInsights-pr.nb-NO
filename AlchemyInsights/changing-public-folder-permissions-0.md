@@ -1,5 +1,5 @@
 ---
-title: Endre tillatelser for felles mapper
+title: Endre tillatelser for fellesmapper
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950197"
 ---
-# <a name="changing-public-folder-permissions"></a>Endre tillatelser for felles mapper
+# <a name="changing-public-folder-permissions"></a>Endre tillatelser for fellesmapper
 
-Tillatelser for felles mapper kan endres av brukere og administratorer i Outlook. Administratorer kan også styre tillatelser fra Exchange admin Center (EAC), ved å gjøre følgende:
+Tillatelser for fellesmapper kan endres av brukere og administratorer i Outlook. Administratorer kan også kontrollere tillatelser fra Exchange administrasjonssenteret (EAC), ved å gjøre følgende:
   
-1. I administrasjons senteret for Microsoft 365 går du til **administrasjons sentre** \> **Exchange**.
+1. Gå til Administrasjonssenter for Microsoft 365 i Exchange  \> .
 
-2. Velg **felles mapper**.
+2. Velg **Fellesmapper**.
 
-3. Derfra kan du endre tillatelser for individuelle felles mapper ved å tilordne sikkerhets grupper til tillatelser. Brukeren må ha eier rettigheter på mappen for at en slutt bruker skal kunne endre tillatelser for felles mapper.
+3. Derfra kan du endre tillatelser for individuelle fellesmapper ved å tilordne sikkerhetsgrupper til tillatelser. For at en sluttbruker skal kunne endre tillatelser for fellesmapper, må brukeren ha eierrettigheter for mappen.
 
-Følg Fremgangs måten beskrevet i [hvordan du diagnostiserer og løser tillatelses problemer](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) med felles mapper for å feilsøke tillatelses problemer med felles mapper.
+Følg fremgangsmåten som er beskrevet i [Slik diagnostiserer](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) og løser du problemer med tillatelse til fellesmapper for å feilsøke problemer med tilgang til fellesmapper.
 
-**Obs**! det finnes flere kjente problemer som kan oppstå når du prøver å endre tillatelser i felles mapper. Se følgende artikler for mer informasjon.
+**Obs!** Det er flere kjente problemer du kan støte på når du prøver å endre tillatelser for fellesmapper. Se følgende artikler for mer informasjon.
 
-- [Kan ikke bruke tillatelser på under mapper i felles mapper i EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Kan ikke bruke tillatelser på undermapper for fellesmapper i EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Feil meldingen «post boksen finnes ikke i den lokale skogen» når du får tilgang til felles mapper](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Feilmeldingen «Finner ikke postboksen i den lokale skogen» når du får tilgang til fellesmapper](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

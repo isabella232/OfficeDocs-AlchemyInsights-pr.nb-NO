@@ -14,16 +14,16 @@ ms.custom:
 - "9140"
 - "11087"
 - "9006490"
-ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: e215528904a0e1176b02069a86d47884d17b1e2b04ca4f90d5deedbeb82f5dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960700"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planlegge distribusjonen av Microsoft Edge
 
-Det kan føles skremmende å distribuere en ny nettleser til en rekke brukere. Vi kan hjelpe deg med å dele det opp i trinn og hjelpe deg gjennom hver enkelt. Hvis du følger disse sju trinnene, har du en vellykket Microsoft Edge-distribusjon med minimal bruker frustrasjon:
+Det kan føles skremmende å distribuere en ny nettleser til en rekke brukere. Vi kan hjelpe deg med å dele det opp i trinn og hjelpe deg gjennom hver enkelt. Hvis du følger disse sju trinnene, har du en vellykket Microsoft Edge distribusjon med minimal bruker frustrasjon:
 
 1. Evaluer eksisterende nettlesermiljø og -behov.
 2. Bestem distribusjonsmetoden.
@@ -33,4 +33,4 @@ Det kan føles skremmende å distribuere en ny nettleser til en rekke brukere. V
 6. Gjør testing av appkompatibilitet.
 7. Distribuer Microsoft Edge til en pilotgruppe og valider den.
 
-Hvis du vil gå gjennom disse trinnene på egen hånd, kan du [se Planlegge distribusjonen av Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
+Hvis du vil arbeide deg gjennom disse trinnene på egen hånd, kan du se [Planlegge distribusjon av Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).

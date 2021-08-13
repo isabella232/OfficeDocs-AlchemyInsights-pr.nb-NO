@@ -1,5 +1,5 @@
 ---
-title: Slik kontrollerer du statusen for passord synkronisering
+title: Slik kontrollerer du synkroniseringsstatusen for passord
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960880"
 ---
-# <a name="enable-password-sync"></a>Aktivere passord synkronisering
+# <a name="enable-password-sync"></a>Aktiver passordsynkronisering
 
-1.  Velg **DirSync-status** på hjemme siden for administrasjons senteret for Microsoft 365. 
+1.  Velg **DirSync-status** på Administrasjonssenter for Microsoft 365 startsiden. 
     
-     *Alternativt kan du gå til **brukere** \> **aktive brukere**og velge **mer** \> **katalog synkronisering** på aktive brukere-siden.* 
+     *Alternativt kan du gå til **Brukere** aktive brukere , og velge Mer katalogsynkronisering på Aktive \>   \> **brukere-siden.*** 
     
-2. Velg **gå til DirSync Management**i ruten for katalog synkronisering. 
+2. Velg Gå til **DirSync-behandling** i katalogsynkroniseringsruten. 
     
 3. Nå ser du statusen din og gjør endringer:
     
-    **Passord synkronisering aktivert:** (sann eller USANN). Angir om du har aktivert passord synkronisering mellom lokale og leier. 
+    **Passordsynkronisering aktivert:** (Sann eller Usann). Angir om passordsynkronisering er aktivert mellom lokalt og leieren. 
     
-    **Siste passord synkronisering:** (siste gang passord synkronisering ble kjørt). Dette vil vise en advarsel og en kobling til et feil søkings verktøy hvis den siste synkroniseringen var mer enn tre dager siden. 
+    **Siste passordsynkronisering:** (Forrige gang passordsynkronisering kjørte). Dette viser en advarsel og en kobling til et feilsøkingsverktøy hvis den siste synkroniseringen for mer enn tre dager siden. 
     
 

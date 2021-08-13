@@ -1,5 +1,5 @@
 ---
-title: 1800014 ved hjelp av en delt post boks på en mobil enhet
+title: 1800014 Bruke en delt postboks på en mobil enhet
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -16,16 +16,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e8f34bc41e2c60aba32e6fc6f71138042ba7e949df6293c7407452d5e33a680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980222"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Bruke en delt post boks på en mobil enhet
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Bruke en delt postboks på en mobil enhet
 
-Hvis du vil bruke en delt post boks på den mobile enheten, må du [laste ned Outlook Mobile](https://products.office.com/outlook-mobile-for-android-and-ios) og deretter [legge til en delt post boks i Outlook Mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
+Hvis du vil bruke en delt postboks på mobilenheten, må du laste ned Outlook [mobil](https://products.office.com/outlook-mobile-for-android-and-ios) og deretter Legge til en delt postboks [på Outlook mobil](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Få hjelp: få hjelp med [appen for Outlook for IOS og Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Få hjelp: Få hjelp i appen for Outlook [for iOS og Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
