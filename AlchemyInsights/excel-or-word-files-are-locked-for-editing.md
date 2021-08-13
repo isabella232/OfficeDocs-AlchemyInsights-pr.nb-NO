@@ -1,5 +1,5 @@
 ---
-title: Excel- eller Word-filer er låst for redigering
+title: Excel eller Word-filer er låst for redigering
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 6f9d66dc2f4ec4e23972289765abd54888f397cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 42b484c54815df013c292483859e6dcdc20c4fac752f38c5a2820332a5c990ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978062"
 ---
-# <a name="excel-or-word-files-are-locked-for-editing"></a>Excel- eller Word-filer er låst for redigering
+# <a name="excel-or-word-files-are-locked-for-editing"></a>Excel eller Word-filer er låst for redigering
 
 Hvis du vil ha mer informasjon om låste filer for Word eller Excel, kan du se:
 
-- [Jeg fikk feilmeldingen «Opplasting mislyktes» eller «Kan ikke lagre automatisk» mens jeg redigerer en Office-fil](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Jeg fikk feilmeldingen «Upload mislyktes» eller «Kan ikke lagre automatisk» mens jeg redigerer en Office fil](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Excel-filen er låst for redigering av en annen bruker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel er låst for redigering av en annen bruker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
 - [Word-filen er låst for redigering av en annen bruker](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

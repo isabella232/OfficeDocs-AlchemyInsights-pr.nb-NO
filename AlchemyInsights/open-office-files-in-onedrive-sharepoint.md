@@ -1,5 +1,5 @@
 ---
-title: Problemer med å åpne filer fra SharePoint eller OneDrive
+title: Problemer med å åpne filer fra Sharepoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 1cb86975327c76ffa184c0652c97ff2463a840f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26581af10790f2835b77ec08c9651d694523f686c9ed9f0cd3330b631cde4dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944644"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemer med å åpne filer fra SharePoint eller OneDrive 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemer med å åpne filer fra Sharepoint eller OneDrive 
 
 
-Hvis du har problemer med å åpne Office-filer og dokumenter fra SharePoint-eller OneDrive-dokumentbiblioteker, finner du noen forslag som kan hjelpe deg med å løse dem.
+Hvis du har problemer med å Office filer og dokumenter fra SharePoint eller OneDrive dokumentbiblioteker, kan du se noen forslag for å hjelpe deg med å løse dem.
 
-- [Kontroller fil begrensninger for å sikre at filen støttes](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Kontroller filbegrensninger for å sikre at filen støttes](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [Last ned og se etter fil skaden på den lokale maskinen](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [Last ned og kontroller om filen er skadet på den lokale maskinen](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [Slette hurtig bufferen for Office-dokumenter](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Slette bufferen for Office-dokumenter](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [Kjøre en reparasjon på Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Kjør en reparasjon på Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Hvis du vil ha mer informasjon eller detaljer, kan du se artikkelen [løse problemer med å åpne dokumenter i SharePoint-biblioteker](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Hvis du vil ha mer informasjon eller mer informasjon, kan du se artikkelen Løse problemer med å åpne [dokumenter SharePoint biblioteker](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
