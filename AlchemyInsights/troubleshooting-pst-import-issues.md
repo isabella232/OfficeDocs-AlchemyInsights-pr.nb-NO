@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972428"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Feilsøke problemer med PST-import
 
-- Hvis du importerer i selve Outlook-klienten, kan du se [Løse problemer med å importere en Outlook PST-fil](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Hvis du importerer i selve Outlook-klienten, kan du se Løse problemer med å importere en [Outlook PST-fil](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- Hvis du bruker Importtjeneste og den står fast, må du være oppmerksom på at hver PST-fil som du laster opp til Azure Storage-plasseringen, ikke skal være større enn 20 GB. PST-filer som er større enn 20 GB, kan påvirke ytelsen til PST-importprosessen. Hvis du vil ha mer informasjon om feilsøking av jobber som står fast, kan [du se Problemer som påvirker PST-importjobber](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+- Hvis du bruker Importtjeneste og den står fast, må du være oppmerksom på at hver PST-fil som du laster opp Azure Storage plasseringen, ikke skal være større enn 20 GB. PST-filer som er større enn 20 GB, kan påvirke ytelsen til PST-importprosessen. Hvis du vil ha mer informasjon om feilsøking av jobber som står fast, kan [du se Problemer som påvirker PST-importjobber](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
 - Hvis du vil bekrefte statusen for en bestemt importjobb, bruker du [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 

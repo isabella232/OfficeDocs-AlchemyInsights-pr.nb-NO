@@ -1,5 +1,5 @@
 ---
-title: 'Feilsøke talepost '
+title: 'Feilsøke telefonsvarer '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972392"
 ---
-# <a name="troubleshooting-voicemail"></a>Feilsøke talepost
+# <a name="troubleshooting-voicemail"></a>Feilsøke telefonsvarer
 
-Kontroller at funksjonen opptatt på opptatt er bevisst.
+Kontroller at opptatt ved opptatt-funksjonen er tilsiktet.
 
-Hvis denne funksjonen ikke er nødvendig på denne brukeren:
+Hvis denne funksjonen ikke er nødvendig for denne brukeren:
 
-1. Gå til [administrasjons senteret for Teams](https://admin.teams.microsoft.com/policies/calling).
-1. Gå til venstre tog, og  >  **Ring retnings linjer** for samtaler  >  **Behandle policyer** i **anrops policyen**.
+1. Gå til [Teams administrasjonssenteret](https://admin.teams.microsoft.com/policies/calling).
+1. Gå til venstre for å navigere **i policyer**  >  **for taleanrop** Behandle  >  **policyer** på **anropspolicyen**.
 1. Velg **Behandle brukere**.
-1. Søk etter bruker og endre anrops policyen til en som har vært **opptatt er tilgjengelig når du er i en samtale** . 
+1. Søk etter bruker, og endre anropspolicyen til en som har Opptatt på **opptatt,** er tilgjengelig når du er i et anrop til **Av**.
 1. Klikk på **Bruk**.
 > [!NOTE]
-> Endringer i policyer kan ha opptil 24 timer å replisere.
+> Endringer i policyer kan ta opptil 24 timer å replikere.
 
-Hvis du vil ha mer informasjon om denne funksjonen, kan du se: [opptatt på opptatt er tilgjengelig når du er i en samtale](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Hvis du vil ha mer informasjon om denne funksjonen, kan du se: Opptatt er [tilgjengelig mens du er i en samtale.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

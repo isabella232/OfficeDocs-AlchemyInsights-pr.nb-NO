@@ -1,5 +1,5 @@
 ---
-title: Prøve versjon av Microsoft 365-Tenant blokkert av Spamhaus
+title: Prøveversjon Microsoft 365 tenant blokkert av Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940096"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Feil melding når en Microsoft 365-prøve bruker sender e-post: klient vert blokkert ved hjelp av Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Feil når en Microsoft 365 sender e-post: Klientvert blokkert ved hjelp av Spamhaus
 
-Det ser ut til at du sender e-post fra en ny Microsoft 365-prøve organisasjon. For å forhindre misbruk blokkerer vi IP-adresser som er kjent for tidligere å være kompromittert. Denne bestemte kontrollen håndheves ikke lenger etter at du har begynt å bruke betalte lisenser. Du kan få midlertidig oppløselse ved å be om en ny IP-adresse fra Internett-leverandøren, eller ved å fjerne blokkeringen fra [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) -nettstedet.
+Det ser ut til at du sender e-post fra en ny Microsoft 365 prøveorganisasjon. For å forhindre misbruk blokkerer vi IP-adresser som er kjent for å ha blitt kompromittert tidligere. Denne bestemte kontrollen håndheves ikke lenger når du begynner å bruke betalte lisenser. Du kan kanskje få midlertidig lindring ved å be om en ny IP-adresse fra Internett-leverandøren eller ved å fjerne blokkeringen fra [Spamhaus-nettstedet.](https://go.microsoft.com/fwlink/p/?linkid=123245)
