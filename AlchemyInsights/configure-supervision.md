@@ -1,5 +1,5 @@
 ---
-title: Konfigurere en overvåking
+title: Konfigurere overvåking
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915452"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurere policyer for syns visjoner
+# <a name="configure-supervision-policies"></a>Konfigurere overvåkingspolicyer
 
-Policyer for tilsyn i Microsoft 365 lar deg overvåke Exchange-e-post, Skype for Business Online, Microsoft Teams og tredje parts kommunikasjon som sendes i og utenfor organisasjonen. Utpekte korrektur lesere kan undersøke overvåkede meldinger for å sikre at de er kompatible med organisasjonens policyer, risiko styring og forskriftsmessige samsvars standarder og løse dem med en klassifiserings type.
+Overvåkingspolicyer i Microsoft 365 lar deg overvåke Exchange e-post, Skype for Business Online, Microsoft Teams og tredjepartskommunikasjon som sendes i og utenfor organisasjonen. Angitte korrekturlesere kan undersøke overvåkede meldinger for å sikre at de overholder organisasjonens policyer, risikostyring og forskriftsmessige samsvarsstandarder og løser dem med en klassifiseringstype.
 
-Hvis du vil bruke policyer for syns visjoner i organisasjonen, må du:
+Hvis du vil bruke overvåkingspolicyer i organisasjonen, må du:
 
-- Fastslå kommunikasjonen som skal overvåkes.
-- Bestem hvem som skal utføre kommunikasjons gjennomgang.
-- Konfigurere policyer for påvisjon
+- Bestem kommunikasjonen du vil overvåke.
+- Bestem hvem som skal utføre kommunikasjonsgjennomgangen.
+- Policyer for oppsettsovervåkning
 
-få mer informasjon:
+Finn ut mer:
 
-- [Oversikt over policyer for syns visjoner](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurere policyer for syns visjoner](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Oversikt over overvåkingspolicyer](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurere overvåkingspolicyer](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

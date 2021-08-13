@@ -1,5 +1,5 @@
 ---
-title: Nye SharePoint-funksjoner annonsert
+title: SharePoint nye funksjoner kunngjort
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093928"
 ---
-# <a name="sharepoint-new-features-announced"></a>Nye SharePoint-funksjoner annonsert
+# <a name="sharepoint-new-features-announced"></a>SharePoint nye funksjoner kunngjort
 
-På Ignite 2018-konferansen har Microsoft annonsert nye innovasjoner for SharePoint, inkludert nye funksjoner for moderne portaler, nye nett deler, en rekke forbedringer til hub-områder, nyhets gruppe, mål gruppe angivelse, tilgjengelighet av nye Mobilapper, forbindelse med Teams og mer...
+På Ignite 2018-konferansen kunngjorde Microsoft nye innovasjoner for SharePoint, inkludert nye funksjoner for moderne portaler, nye nettdeler, en rekke forbedringer for hubområder, nyhetskobling, målgruppemålretting, tilgjengelighet av nye mobilapper, tilkobling til Teams og mer ...
   
-Hvis du vil ha mer informasjon om disse funksjonene, kan du se bloggen legge inn [nye innovasjoner i SharePoint &amp; Microsoft 365 gi Power og enkelhet for innholds samarbeid.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Hvis du vil ha mer informasjon om disse funksjonene, kan du se blogginnlegget Nye innovasjoner i SharePoint Microsoft 365 levere kraft og [ &amp; brukervennlighet for innholdssamarbeid.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Organisasjonen kan bli med i det målrettede Utgivelses programmet for å få tidlig tilgang til nye funksjoner. Se [konfigurere standard-eller mål Utgivelses alternativene i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Organisasjonen kan bli med i Målrettet utgivelse-programmet for å få tidlig tilgang til nye funksjoner. Se [Konfigurere alternativene for standard eller målrettet utgivelse i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
