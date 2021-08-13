@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965398"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Opprette eller redigere en Outlook-profil
+# <a name="create-or-edit-an-outlook-profile"></a>Opprette eller redigere en Outlook profil
 
-Bruk følgende Fremgangs måte for å opprette en ny Outlook-profil, redigere en profil eller gi nytt navn til en profil.
+Hvis du vil opprette Outlook en ny profil, redigere en profil eller gi nytt navn til en profil, bruker du fremgangsmåten nedenfor.
   
-1. Velg innstillinger for **fil** konto i Outlook for å \> **Account Settings** \> **administrere profiler**.
+1. I Outlook velger du  \> **Filkonto Innstillinger** Behandle \> **profiler**.
     
-2. Velg **Vis profiler**fra dialog boksen for **Oppsett av e-post** .
+2. Velg Vis **profiler i** dialogboksen Oppsett av **e-post.**
     
 3. Gjør ett av følgende:
     
@@ -33,6 +33,6 @@ Bruk følgende Fremgangs måte for å opprette en ny Outlook-profil, redigere en
     
   - Hvis du vil redigere eller gi nytt navn til en profil, velger du **Egenskaper**.
     
-Hvis du har problemer med å opprette eller redigere en Outlook-profil, kan du kjøre [Outlook profil-verktøyet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskinen. Det vil utføre noen kontroller, og når du er klar, oppretter du en Outlook-profil med e-postadressen din. 
+Hvis du har problemer med å opprette eller redigere en Outlook profil, kan du kjøre Outlook [profilverktøyet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskinen. Det vil utføre noen kontroller, og når du er klar, opprettes en Outlook profil med e-postadressen din. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Spesial støtte for Microsoft flyt
+title: Microsoft Flow Spesialisert støtte
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975938"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Spesial støtte for Microsoft flyt
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Spesialisert støtte
 
-For spesialisert støtte for Microsoft-flyt kan du gå til det nye [administrasjons senteret for Power Platform](https://aka.ms/flowadminsupport). Den nye portalen gir en mer direkte bane til assistert støtte som er optimalisert for Microsoft Flow og andre Power Platform-produkter.
+Hvis du vil Microsoft Flow kundestøtte, kan du gå til det nye [administrasjonssenteret for Power-plattformen.](https://aka.ms/flowadminsupport) Den nye portalen gir en mer direkte bane til assistert støtte som er optimalisert for Microsoft Flow og andre Power-plattformprodukter.
 
-få mer informasjon:
-- [Informasjon om gratis lisenser for Microsoft-flyt](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Gå til vanlige spørsmål om organisasjonen](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft 365-og Dynamics 365-planer som inkluderer Microsoft flyt](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Spørsmål om Microsoft Flow-fakturering og-måling](https://go.microsoft.com/fwlink/?linkid=2072612)
+Finn ut mer:
+- [Informasjon om Microsoft Flow gratislisenser](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow i organisasjonens vanlige spørsmål](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 og Dynamics 365-abonnementer som inkluderer Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow spørsmål om fakturering og forbruksmåling](https://go.microsoft.com/fwlink/?linkid=2072612)

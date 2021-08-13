@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette et slettet OneDrive-område
+title: Gjenopprette et slettet OneDrive nettsted
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991292"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Gjenopprette et slettet OneDrive-område
+# <a name="restore-a-deleted-onedrive-site"></a>Gjenopprette et slettet OneDrive nettsted
 
-Når du sletter en bruker i administrasjons senteret for Microsoft 365 (eller når en bruker er fjernet via Active Directory-synkronisering), beholdes brukerens OneDrive for det antallet dager du angir i administrasjons senteret for OneDrive. (Hvis du vil ha mer informasjon, kan du se [Angi standard fil oppbevaring for slettede OneDrive-brukere](https://docs.microsoft.com/onedrive/set-retention).)
+Når du sletter en bruker i Administrasjonssenter for Microsoft 365 (eller når en bruker fjernes via Active Directory-synkronisering), beholdes brukerens OneDrive i antall dager du angir i administrasjonssenteret for OneDrive. (Hvis du vil ha informasjon, kan du [se Angi standard filoppbevaring for OneDrive brukere](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Gjenopprette et slettet OneDrive-område](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Gjenopprette et slettet OneDrive nettsted](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Hvis mange av OneDrive-filene blir slettet, overskrevet, skadet eller infisert av skadelig program vare, kan du gjenopprette hele OneDrive til et tidligere tidspunkt.
+Hvis mange av OneDrive blir slettet, overskrevet, skadet eller infisert av skadelig programvare, kan du gjenopprette hele OneDrive til et tidligere tidspunkt.
 
 * [Gjenopprette OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
