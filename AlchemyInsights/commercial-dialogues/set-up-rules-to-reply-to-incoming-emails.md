@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 49b8aafe77aa6e31f8d724046c6fc0996294cc5d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3164959f33a42e518002e4c222a344d4f638d17a32a4959db2f903ce5cb14d81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915632"
 ---
 # <a name="set-up-rules-to-reply-to-incoming-emails"></a>Konfigurere regler for å svare på innkommende e-postmeldinger
 
 Bruk følgende fremgangsmåte for å opprette en mal for å svare på meldinger, og konfigurer deretter Outlook til å svare på hver melding du mottar.
 
-1. Opprett en ny e-postmelding i Outlook, og skriv inn et emne og meldingstekst for den fraværende malen.
+1. I Outlook oppretter du en ny e-postmelding og skriver inn et emne og meldingstekst for den fraværende malen.
 2. Velg **Fil > Lagre som**.
-3. Velg **Outlook-mal** **(*.oft)** fra filtype-rullegardinlisten i dialogboksen Lagre som.  Gi det et passende navn, og klikk deretter **Lagre**.
+3. Velg **Lagre som-rullegardinlisten**  i dialogboksen Lagre som, og **velg Outlook mal (*.oft).** Gi det et passende navn, og klikk deretter **Lagre**.
 4. Velg Fil **behandle**  >  **regler & varsler**.
 5. Klikk Ny **regel** på **E-postregler-fanen** i dialogboksen **Regler og varsler.**
 6. Velg Bruk **regel** på meldinger jeg mottar under **Start** fra en tom regel i dialogboksen Regelveiviser, og klikk deretter **Neste**. 

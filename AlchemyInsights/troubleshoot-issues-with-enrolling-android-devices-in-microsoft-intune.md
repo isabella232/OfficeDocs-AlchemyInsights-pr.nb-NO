@@ -1,5 +1,5 @@
 ---
-title: Feilsøke problemer med registrering av Android-enheter i Microsoft Intune
+title: Feilsøke problemer med å registrere Android-enheter i Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,30 +13,30 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0ae926e6b31493e7359981c621fd27e8f53d49a17bdf107173b087fe6cc688fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008087"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Feilsøke problemer med registrering av Android-enheter i Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Feilsøke problemer med å registrere Android-enheter i Microsoft Intune
 
 Se gjennom ressursene som er oppført nedenfor, for å løse problemet nå.
   
 Noen vanlige problemer og løsningstrinn:
   
- **Enhetsfeil ikke kryptert i firmaportalen:** Nyere versjoner av Android, spesielt fra og med v7.0, krever et oppstartspassord for å sikre at enheten er fullstendig kryptert. Vanlige løsninger er å aktivere en oppstartsstift eller kryptere enheten fullstendig. Se [gjennom dette dokumentet](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for mer informasjon.
+ **Enhetsfeil ikke kryptert i firmaportal:** Nyere versjoner av Android, spesielt fra og med v7.0, krever et oppstartspassord for å sikre at enheten er fullstendig kryptert. Vanlige løsninger er å aktivere en oppstartsstift eller kryptere enheten fullstendig. Se [gjennom dette dokumentet](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for mer informasjon.
   
  **Enheter kan ikke sjekke inn med Intune-tjenesten eller vise den som «Usunn» i Administrasjonskonsollen for Intune:** Enkelte Samsung 4.4- og 5.5-enheter sjekker kanskje ikke inn tjenesten. Det finnes tre mulige løsninger på dette problemet:
   
-1. Åpne Intune Company Portal-appen manuelt, som automatisk starter en enhetssynkronisering.
+1. Åpne appen Intune firmaportal manuelt, som automatisk starter en enhetssynkronisering.
 
 2. Oppdater enheten til Android 6.0 eller nyere.
 
-3. Deaktiver Samsung Smart Manager fra å administrere Intune Company Portal. Se [gjennom dette dokumentet](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for mer informasjon om disse problemene og løsningene.
+3. Deaktiver Samsung Smart Manager fra å administrere Intune firmaportal. Se [gjennom dette dokumentet](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for mer informasjon om disse problemene og løsningene.
 
- **Feil med brukerlisenstypen Ugyldig** eller Brukernavn gjenkjennes **ikke:** Brukeren må tilordnes en Intune- eller EMS-lisens. Se gjennom disse dokumentene for å tilordne en lisens gjennom: Administrasjonssenter for Office eller Azure-portalen.
+ **Feil med brukerlisenstypen Ugyldig** eller Brukernavn gjenkjennes **ikke:** Brukeren må tilordnes en Intune- eller EMS-lisens. Se gjennom disse dokumentene for å tilordne en lisens gjennom: Office administrasjonssenteret eller Azure-portalen.
   
 Flere ressurser for å løse problemet:
   

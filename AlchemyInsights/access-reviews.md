@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938632"
 ---
 # <a name="access-reviews"></a>Access-gjennomganger
 
-1. **Aktivere tilgangs gjennomganger**: du kan aktivere gjennomganger når du oppretter en ny Access-pakke eller redigerer en eksisterende Access-pakke. [Opprette en Access-gjennomgang av en Access-pakke i Azure-administrasjon av reklame](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) beskriver hvordan du aktiverer tilgangs vurderinger av Access-pakker.
+1. **Aktivere tilgangsanmeldelser:** Du kan aktivere gjennomganger når du oppretter en ny tilgangspakke eller redigerer en eksisterende tilgangspakke. [Opprett en tilgangsgjennomgang av en tilgangspakke](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) i Azure AD-rettighetsadministrasjon beskriver hvordan du aktiverer tilgangsvurderinger av tilgangspakker.
 
-1. **Se gjennom tilgang**: Azure ad-rettighets administrasjon forenkler hvordan virksomheter administrerer tilgang til grupper, programmer og SharePoint-nettsteder. [Se gjennom tilgang til en Access-pakke i Azure-administrasjon av reklame](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) beskriver hvordan du utfører tilgangs gjennomgang for andre brukere som er tilordnet en Access-pakke som en angitt korrektur leser.
+1. **Se gjennom Tilgang:** Azure AD-rettighetsadministrasjon forenkler hvordan virksomheter administrerer tilgang til grupper, programmer og SharePoint nettsteder. [Se gjennom tilgang til](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) en tilgangspakke i Azure AD-rettighetsbehandling beskriver hvordan du utfører tilgangsvurderinger for andre brukere som er tilordnet til en tilgangspakke som en angitt korrekturleser.
 
-1. **Se gjennom tilgang for deg selv**: [selv gjennomsyn av en Access-pakke i Azure-administrasjon av reklame](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) , beskriver hvordan en bruker utfører en selv gjennomgang av de tildelte Access-pakkene.
+1. **Se gjennom Tilgang for** deg selv: Selvgjennomgang av en tilgangspakke i Azure AD-rettighetsbehandling beskriver hvordan en bruker gjør en egen gjennomgang av de tilordnede tilgangspakkene. [](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review)
 
-1. I de fleste tilfeller vil slutt brukere finne en gjennomgang som venter på svar i **Access-panelet**. Dette gjelder bare gjennomgang av grupper og programmer, ikke roller. For alle tilgangs gjennomganger av roller, må slutt brukere navigere til Azure AD Privileged Identity Management (PIM) for å fullføre gjennomgangen.
+1. I de fleste tilfeller finner sluttbrukerne en gjennomgang i påvente av svar i **Access-panelet.** Dette gjelder bare for gjennomganger av grupper og programmer, ikke roller. Sluttbrukere må gå til Azure AD Privileged Identity Management (PIM) for alle tilgangsanmeldelser av roller for å fullføre gjennomgangen.
 
-    1. Logg på Azure-portalen.
+    1. Pålogging til Azure-portalen.
     2. Gå til Azure AD PIM.
-    3. Velg **oppgaver** i navigasjons ruten til venstre for  >  **å se gjennom tilgang**.
+    3. Velg Oppgavegjennomgangstilgang i den venstre  >  **navigasjonsruten.**
     
 Hvis du vil ha mer informasjon, kan du se:
 
-- [Utføre en Access-gjennomgang av mine Azure AD Directory-roller i PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Utføre en Access-gjennomgang av mine Azure-ressurser i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Utføre en tilgangsgjennomgang av Azure AD-katalogrollene mine i PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Utføre en tilgangsgjennomgang av Azure-ressursrollene mine i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
