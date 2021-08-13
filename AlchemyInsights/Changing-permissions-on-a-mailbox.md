@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 0c15f7f3771c6abd69f3489d46910f43f6afb904
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb645d58f41e095def09dbbe61bd6264f621b82c0f42c428a5a88e702c0c950b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918584"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Endre tillatelser for en postboks
 
@@ -26,5 +26,5 @@ Hvis brukere trenger tilgang til andre postbokser enn sine egne, må de få till
     
 - En delt postboks – se [Konfigurere innstillinger for delt postboks](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Hvis tillatelser ikke fungerer som de skal etter at du har gjort trinnene ovenfor, går du til [administrasjonssenteret for](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)Exchange og prøver å angi tillatelsene derfra (se Behandle tillatelser for mottakere ).
+Hvis tillatelser ikke fungerer riktig etter at du har gjort trinnene ovenfor, går du til administrasjonssenteret Exchange og prøver å angi tillatelsene derfra (se Behandle tillatelser [for mottakere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

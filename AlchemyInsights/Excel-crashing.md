@@ -1,5 +1,5 @@
 ---
-title: Krasjer Excel?
+title: Excel krasjer?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918476"
 ---
-# <a name="frequent-excel-crashes"></a>Krasjer Excel ofte?
+# <a name="frequent-excel-crashes"></a>Hyppige Excel krasjer?
 
-Hyppige krasj i Excel kan være forårsaket av et defekt tillegg. Du kan deaktivere et Excel-tillegg ved å følge disse instruksjonene:
+Hyppige krasj i Excel kan være forårsaket av et defekt tillegg. Du kan deaktivere Excel ved å følge disse instruksjonene:
   
 1. Velg  \> **Filalternativer**, \> **Tillegg**.
 
@@ -29,7 +29,7 @@ Hyppige krasj i Excel kan være forårsaket av et defekt tillegg. Du kan deaktiv
 3. Fjern merket Add-Ins tillegget du vil deaktivere, i boksen Add-Ins, og klikk deretter **OK**.
 
 > [!NOTE]
-> Hvis Excel krasjer under lanseringen, kan du starte det i sikkermodus ved å trykke og holde nede CTRL mens du starter programmet.
+> Hvis Excel krasjer under lanseringen, kan du starte det i Safe ved å trykke og holde nede CTRL mens du starter programmet.
   
 Hvis du fremdeles har problemer, kan du se følgende artikler:
   

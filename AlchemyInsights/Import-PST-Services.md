@@ -14,14 +14,14 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918440"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Importer tjeneste
 
 Slik får du tilgang til importtjenesten og starter importprosessen:
 
@@ -31,11 +31,11 @@ Slik får du tilgang til importtjenesten og starter importprosessen:
 
 1. Velg Ny **importjobb** på **Importer-siden.** Skriv inn et jobbnavn, og velg **Neste**.
 
-1. Velg **Last opp dataene for** å bruke alternativet for nettverksopplasting for **Importer jobbtype**. Hvis du vil ha detaljerte trinn, kan du se Bruke nettverksopplasting til [å importere organisasjonens PST-filer til Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Velg **Upload dataene for** å bruke alternativet for nettverksopplasting for **Importer jobbtype**. Hvis du vil ha detaljerte trinn, kan du se Bruke [nettverksopplasting](/compliance/use-network-upload-to-import-pst-files)til å importere organisasjonens PST-filer til Microsoft 365 .
 
 Hvis du vil ha tilgang til Importer-siden, må du kontrollere at du har fått de riktige tillatelsene.  Hvis du vil ha mer informasjon, kan du [se Bruke nettverksopplasting til å importere PST-filer](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
-Hvis du vil importere en PST-fil til postboksen, kan du se Importere e-post, kontakter og [kalender fra en Outlook PST-fil](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Hvis du vil importere en PST-fil til postboksen, kan du se Importere e-post, kontakter og kalender fra en OUTLOOK [PST-fil](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
 
 Hvis du har et problem med en import, kan du se [Problemer som påvirker PST-importjobber](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
