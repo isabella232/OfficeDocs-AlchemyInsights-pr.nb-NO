@@ -1,5 +1,5 @@
 ---
-title: 1489 – tillatelser – obligatorisk-for-eDiscovery-søk
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973850"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Tillatelser kreves for eDiscovery-søk
+# <a name="permissions-required-for-ediscovery-searches"></a>Tillatelser som kreves for eDiscovery-søk
 
-Hvis du vil utføre innholds søk i sikkerhets & Samsvars senteret, må en bruker minst være medlem av rolle gruppen eDiscovery Manager, noe som gjør at de kan utføre søk og steder som inneholder post bokser, SharePoint-nettsteder og OneDrive-plasseringer. Medlemmer kan også opprette og behandle eDiscovery-saker, legge til og fjerne medlemmer i en sak, opprette og redigere innholds søk, og få tilgang til saks data i avansert eDiscovery.
+Hvis du vil utføre innholdssøk i sikkerhets- &-samsvarssenteret, må en bruker minst være medlem av rollegruppen eDiscovery Manager, slik at vedkommende kan utføre søk og plassere sperringer på postbokser, SharePoint nettsteder og OneDrive plasseringer. Medlemmer kan også opprette og behandle eDiscovery-saker, legge til og fjerne medlemmer i en sak, opprette og redigere innholdssøk og få tilgang til saksdata i Advanced eDiscovery.
 
-Hvis du vil utføre eDiscovery-søk i Exchange admin Center (EAC), må brukeren være medlem av rolle gruppen for søke behandling i Exchange Online.
+Hvis du In-Place utføre eDiscovery-søk i Exchange administrasjonssenteret (EAC), må brukeren være medlem av rollegruppen discovery Management i Exchange Online.
 
 Hvis du vil ha mer informasjon om eDiscovery-tillatelser, kan du se: 
 
-- [Tilordne eDiscovery-tillatelser i sikkerhets & Samsvars senter](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Tilordne eDiscovery-tillatelser i sikkerhetssenteret & samsvarssenteret](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Tilordne eDiscovery-tillatelser i Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Obs!** når du har tilordnet eDiscovery-tillatelser, kan det hende du må vente noen minutter før tillatelsene overføres.
+**Obs!** Når du har tilordnet eDiscovery-tillatelser, må du kanskje vente noen minutter på at tillatelsene skal overføres.

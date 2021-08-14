@@ -1,5 +1,5 @@
 ---
-title: Business-regler for Dynamics 365-skjemaer – forretnings regel som ikke starter for et skjema
+title: Forretningsregler for Dynamics 365 Forms – forretningsregelen blir ikke utsett for et skjema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947236"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Forretnings regel som ikke starter for et skjema
+# <a name="business-rule-not-firing-for-a-form"></a>Forretningsregelen avsendes ikke for et skjema
 
-En forretnings regel kan ikke utføres fordi feltet som det refereres til i forretnings regelen, ikke er inkludert i skjemaet. Hvis du vil ha mer informasjon, kan du se [er ikke forretnings regelen som starter for et skjema?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+En forretningsregel kjører kanskje ikke fordi feltet det refereres til i forretningsregelen, ikke er inkludert i skjemaet. Hvis du vil ha mer informasjon, kan du se Er forretningsregelen din ikke [utsett for et skjema?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

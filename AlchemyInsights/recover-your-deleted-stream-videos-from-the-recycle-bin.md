@@ -1,5 +1,5 @@
 ---
-title: Gjenopprette slettede Stream-videoer fra papirkurven
+title: Gjenopprette de slettede Stream-videoene fra papirkurven
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959440"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Gjenopprette slettede Stream-videoer fra papirkurven
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Gjenopprette de slettede Stream-videoene fra papirkurven
 
-Når videoer slettes i Microsoft Stream, går de til en 30-dagers papirkurv.
+Når videoer slettes i Microsoft Stream, går de inn i en 30-dagers papirkurv.
 
-Med videokurven kan du gjenopprette videoer hvis de utilsiktet ble slettet eller slette videoer som allerede finnes i papirkurven, før grensen på 30 dager.
+Med papirkurven for videoen kan du gjenopprette videoer hvis de ble slettet ved et uhell eller slette videoer som allerede finnes i papirkurven, før grensen på 30 dager.
 
 Hvis du vil ha mer informasjon, kan du se:
 
-- [Gjenopprette slettede videoer fra papirkurven](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Video-papirkurv for Stream-administrator](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Gjenopprette de slettede videoene fra papirkurven](https://docs.microsoft.com/stream/portal-my-recycle-bin)
+- [Video papirkurv for Stream-administrator](https://docs.microsoft.com/stream/admin-recycle-bin)

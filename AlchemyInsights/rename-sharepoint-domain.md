@@ -1,5 +1,5 @@
 ---
-title: Gi nytt navn til SharePoint-domenet
+title: Gi nytt navn SharePoint domenet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11680"
 - "5300028"
-ms.openlocfilehash: fc80a6ac234f2998e0620ac79e43a3d46aeee9c9
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: bdd0fa5e1b556ffa7975f75b03350acb76d6bb631b9796fc7a92a12ff50c92a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52993597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991683"
 ---
-# <a name="rename-your-sharepoint-domain"></a>Gi nytt navn til SharePoint-domenet
+# <a name="rename-your-sharepoint-domain"></a>Gi nytt navn SharePoint domenet
 
-Det finnes for øyeblikket en privat forhåndsvisning for muligheten til å gi nytt navn til SharePoint-domenet.
+Det finnes for øyeblikket en privat forhåndsvisning for muligheten til å gi nytt navn SharePoint domenet.
 
 Hvis du vil ha mer informasjon om prosessen med å gi nytt navn og begrensninger, kan du gå [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename) til .
 

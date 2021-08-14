@@ -1,5 +1,5 @@
 ---
-title: Løse problemer med installasjon av DKIM
+title: Løse installasjonsproblemer med DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945940"
 ---
-# <a name="fix-dkim-setup-issues"></a>Løse problemer med installasjon av DKIM
+# <a name="fix-dkim-setup-issues"></a>Løse installasjonsproblemer med DKIM
 
-Hvis du får problemer med å aktivere DKIM for det egen definerte domenet, bruker du følgende Fremgangs måte:
+Hvis du opplever problemer med å aktivere DKIM for det egendefinerte domenet, bruker du følgende fremgangsmåte:
 
-- De fleste installasjons problemene for DKIM er relatert til feil DNS-poster. Kontroller at DKIM CNAME-posten (**ikke** en TXT-post) er riktig formatert. Hvis du vil ha mer informasjon, kan du se dette [emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- De fleste installasjonsproblemer med DKIM er relatert til feil DNS-poster. Kontroller at DKIM CNAME-posten **(ikke** en TXT-post) er riktig formatert. Hvis du vil ha mer informasjon, kan du se dette [emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-- Når du har opprettet eller oppdatert DNS-postene for DKIM hos DNS-verten for domenet (vanligvis domene registreren), venter du til DNS-postene skal overføres.
+- Når du har opprettet eller oppdatert DKIM DNS-postene hos DNS-vertstjenesten for domenet (vanligvis domeneregistratoren), venter du på at DNS-postene skal overføres.
 
-- Hvis du ikke kan opprette DKIM DNS-poster i administrasjons senteret, kan du erstatte \<CustomDomain\> med det egen definerte domenet (for eksempel contoso.com) og kjøre denne kommandoen i [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Hvis du ikke kan opprette DKIM DNS-postene i administrasjonssenteret, kan du erstatte med det egendefinerte domenet (for eksempel contoso.com) og kjøre denne kommandoen \<CustomDomain\> [i Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
