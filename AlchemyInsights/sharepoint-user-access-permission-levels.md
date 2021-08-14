@@ -1,5 +1,5 @@
 ---
-title: Bruker tillatelser
+title: Brukertillatelser
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7dc21b2ae82809e02fe46d3f2410498b0ef3b6c6d75baaae1361b29a4d387d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022775"
 ---
-# <a name="user-permissions-in-sharepoint"></a>Bruker tillatelser i SharePoint
+# <a name="user-permissions-in-sharepoint"></a>Brukertillatelser i SharePoint
 
-Når du har opprettet et SharePoint-område, vil du kanskje gi eller begrense bruker tilgangen til nettstedet eller innholdet. Den enkleste måten å arbeide med tillatelser på, er å bruke [standard gruppene](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) og tilgangs nivåene som leveres, som dekker de fleste vanlige scenarier. Men hvis du trenger det, kan du angi mer spesifiserte tillatelser utenfor standard nivåene. Hvis du vil ha mer informasjon, kan du se [forstå tillatelses nivåer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Når du har opprettet et SharePoint nettsted, kan det være lurt å gi eller begrense brukertilgang til nettstedet eller innholdet. Den enkleste måten å arbeide med tillatelser på, er å bruke de [angitte standardgruppene](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) og tillatelsesnivåene, som dekker de fleste vanlige scenarier. Men hvis du trenger det, kan du angi mer finkornede tillatelser utover standardnivåene. Hvis du vil ha mer informasjon, kan du [se Forstå tilgangsnivåer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-Hvis du vil ha mer informasjon om behandling av bestemte tillatelses nivåer, kan du gå til følgende koblinger:
+Hvis du vil ha mer informasjon om administrasjon av bestemte tilgangsnivåer, kan du gå til koblingene nedenfor:
 
-- [Redigere og behandle tillatelser for SharePoint-lister eller-biblioteker](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Redigere og behandle tillatelser for en SharePoint liste eller bibliotek](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Opprette og administrere SharePoint-grupper](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Opprette og administrere SharePoint grupper](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Slik oppretter og redigerer du tillatelses nivåer](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+- [Slik oppretter og redigerer du tilgangsnivåer](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 
-- [Konfigurere og behandle tilgangs forespørsler](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+- [Konfigurere og behandle tilgangsforespørsler](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-- [Endre tillatelsene for en under mappe](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
+- [Endre tillatelsene for en undermappe](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [Dele SharePoint-filer eller-mapper i Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Dele SharePoint filer eller mapper i Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Dele et område](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [Dele et nettsted](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

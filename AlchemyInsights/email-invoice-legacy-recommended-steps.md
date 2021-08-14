@@ -1,5 +1,5 @@
 ---
-title: E-post faktura-eldre
+title: E-postfaktura – eldre
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003633"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-post faktura-eldre
+# <a name="e-mail-invoice---legacy"></a>E-postfaktura – eldre
 
-**Velge å motta abonnements fakturaer via e-post**
+**Meld deg på for å motta abonnementsfakturaer via e-post**
 
-Du må ha en konto administrator rolle på et abonnement eller en kunde støtte plan for å kunne velge å motta fakturaen via e-post. E-fakturaer er bare tilgjengelige for abonnementer og støtte planer, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har valgt inn, kan du legge til flere mottakere, som også vil motta fakturaen via e-post.
+Du må ha en kontoadministratorrolle på et abonnement eller en støtteplan for å aktivere å motta faktura på e-post. E-postfakturaer er tilgjengelig bare for abonnement- og støtteplaner, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har valgt å delta, kan du legge til flere mottakere, som også mottar fakturaen via e-post.
 
-Følg disse trinnene for å få abonnements fakturaene via e-post:
+Følg disse trinnene for å få abonnementsfakturaene via e-post:
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/).
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg **fakturaer** fra alternativene til venstre.
-4. Velg abonnementet på Azure-abonnementet eller kunde støtte planen, og velg deretter **motta faktura via e-post**.
-5. Klikk på **e-faktura** og godta vilkårene.
-6. Fakturaen sendes til din foretrukne kommunikasjons e-post. Velg **Oppdater profil** for å oppdatere e-postmeldingen.
+1. Logg på [Azure-portalen](https://portal.azure.com/).
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg **Fakturaer** fra alternativene til venstre.
+4. Velg Azure-abonnement eller støtteplanabonnement, og velg deretter **Motta faktura på e-post**.
+5. Klikk på **Send faktura på e-post**, og godta vilkårene.
+6. Fakturaen sendes til foretrukket e-post for kommunikasjon. Velg **Oppdater profil** for å oppdatere e-posten.
 
 **Legge til flere mottakere for å motta fakturaer**
 
-Hvis du vil dele fakturaene for abonnementet og støtte planen hver måned med regnskaps teamet, eller sende dem til en av de andre e-postadressene:
+Slik deler du fakturaene for abonnementet og støtteabonnementet hver måned med regnskapsteamet eller sender dem til en av de andre e-postadressene dine:
 
-1. Følg Fremgangs måten ovenfor for først å aktivere faktura via e-post, og velg deretter **Konfigurer mottakere.**
-2. Skriv inn en e-postadresse, og velg deretter **Legg til mottaker**. Du kan legge til flere e-postadresser.
-3. Når du har lagt til alle e-postadressene, velger du **ferdig** fra bunnen av skjermen.
+1. Følg fremgangsmåten ovenfor for først å aktivere faktura via e-post, og velg deretter **Konfigurer mottakere.**
+2. Angi en e-postadresse, og velg deretter **Legg til mottaker**. Du kan legge til flere e-postadresser.
+3. Når du har lagt til alle e-postadressene, velger du **Ferdig** nederst på skjermen.
 
-**Tillat andre å laste ned abonnements fakturaen**
+**La andre laste ned abonnementsfakturaen**
 
-Slik gir du brukere/grupper tilgang til å laste ned fakturaen på abonnements nivå:
+Slik lar du brukere/grupper med tilgang på abonnementsnivå laste ned fakturaen:
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/) som konto administrator for abonnementet.
-2. Søke etter **kostnads administrasjon + fakturering**.
-3. Velg **fakturaer** fra alternativene til venstre.
-4. Velg Azure-abonnementet, og klikk deretter **Tillat andre å laste ned fakturaen**.
-5. Velg **på** , og deretter **Lagre** øverst på siden.
+1. Logg på [Azure-portalen](https://portal.azure.com/) som kontoadministrator for abonnementet.
+2. Søk etter **Kostnadsadministrasjon + fakturering**.
+3. Velg **Fakturaer** fra alternativene til venstre.
+4. Velg Azure-abonnementet ditt, og klikk deretter **Tillat andre å laste ned faktura**.
+5. Velg **På** og **deretter** Lagre øverst på siden.
 
 > [!NOTE]
-Hvis du ikke er konto administrator, kontakter du konto administratoren for å følge instruksjonene for å velge i, legge til mottakere eller tillate at andre brukere kan laste ned fakturaen.
+Hvis du ikke er kontoadministrator, kan du kontakte kontoadministratoren for å følge instruksjonene ovenfor for å melde deg på, legge til mottakere eller la andre brukere laste ned fakturaen.
