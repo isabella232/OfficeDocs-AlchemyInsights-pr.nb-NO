@@ -1,5 +1,5 @@
 ---
-title: 1049 AntiSpam 4.5.3 for mange mottakere (AS780090)
+title: 1049 AntiSpam 4.5.3 For mange mottakere (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: deb57e6e872ce5769a339c7d130a63a8e90ab4c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f187674294a8fd64b164697946ac0366b41f30894478fba3f37843730f445d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932721"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 for mange mottakere (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 For mange mottakere (AS780090)
 
-Denne feilen oppstår når volumet for e-posttrafikk fra kilde-IP-adressen overskrider grensen basert på ryktet (eller mangelen på ryktet) til kilde-IP-adresse.
+Denne feilen oppstår når volumet på e-posttrafikken fra kilde-IP-adressen overskrider grensen basert på omdømmet (eller mangelen på omdømme) til kilde-IP-adressen.
 
-Blokkering av e-post fra kilde-IP-adressen utløper om i løpet av en time. Hvis kilde-IP-adressen er en lokal e-postserver som tilhører deg, må du kontrollere konfigurasjonen av e-postflyt-koblingen. Hvis atferden fortsetter i mer enn en time, kan du kontakte kunde støtte for å be om et unntak for kilde-IP-adressen.
+Blokkering av e-post fra kilde-IP-adressen utløper innen en time. Hvis kilde-IP-adressen er en lokal e-postserver som tilhører deg, kontrollerer du konfigurasjonen av e-postflytkoblingen. Hvis virkemåten vedvarer i mer enn en time, kan du kontakte kundestøtte for å be om et unntak for kildens IP-adresse.
