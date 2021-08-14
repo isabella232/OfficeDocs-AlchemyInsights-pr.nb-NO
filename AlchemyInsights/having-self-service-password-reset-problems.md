@@ -1,5 +1,5 @@
 ---
-title: Har du problemer med å tilbakestille selv betjening for passord (SSPR)?
+title: Har du problemer med selvbetjent tilbakestilling av passord (SSPR) ?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945859"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Har du problemer med å tilbakestille selv betjening for passord (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Har du problemer med selvbetjent tilbakestilling av passord (SSPR) ?
 
-Vanlige problemer med selv betjent tilbakestilling av passord (SSPR) i hybrid Sky og lokale miljøer er:
+Vanlige selvbetjente problemer med tilbakestilling av passord (SSPR) i hybridsky og lokale miljøer er:
 
-- [SSPR for passord bakgrunns skriving ikke aktivert](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Azure AD Premium-lisens er ikke tilordnet](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- Problemer med [Azure ad Connect-problemer](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) eller- [nettverk](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [Godkjennings metoder for SSPR ikke registrert](https://mysignins.microsoft.com/security-info)
-- [Scenarier for bakgrunns skriving som ikke støttes](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , for eksempel Microsoft 365s administrasjons senter eller administratorer ved hjelp av SSPR
+- [Tilbakeskriving av SSPR-passord er ikke aktivert](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Azure AD premium-lisens ikke tilordnet](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Azure AD Koble til problemer eller](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [nettverksproblemer](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [SSPR-godkjenningsmetoder er ikke registrert](https://mysignins.microsoft.com/security-info)
+- [Scenarioer som ikke støttes,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) for eksempel Microsoft 365 administrasjon eller administratorer som bruker SSPR
 
 
 Hvis du vil ha mer informasjon, kan du se:
 
-- [Feilsøke selv betjent tilbakestilling av passord](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Feilsøke tilbake skriving av selv betjent passord i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Feilsøke selvbetjent tilbakestilling av passord](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Feilsøke selvbetjent tilbakestilling av passord i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

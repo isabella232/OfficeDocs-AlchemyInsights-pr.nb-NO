@@ -1,5 +1,5 @@
 ---
-title: Rolle for privilegert identitets behandling
+title: Privileged Identity Management rolle
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973238"
 ---
-# <a name="privileged-identity-managementpim-role"></a>PIM-rolle (Privileged Identity Management)
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management(PIM)-rolle
 
 **Tillatelser gis ikke etter aktivering av en rolle**
 
-Når du aktiverer en rolle i Azure AD Privileged Identity Management (PIM), kan det hende at aktiveringen ikke overføres direkte til alle portaler som krever rollen som privilegerte rettigheter. Noen ganger, selv om endringen er overført, kan Web buffer i en portal føre til at endringen trer i kraft umiddelbart.
+Når du aktiverer en rolle i Azure AD Privileged Identity Management (PIM), overføres kanskje ikke aktiveringen umiddelbart til alle portaler som krever den privilegerte rollen. Noen ganger, selv om endringen overføres, kan nettbufring i en portal føre til at endringen ikke trer i kraft umiddelbart.
 
 Hvis aktiveringen er forsinket, følger du disse trinnene:
 
-1. Logg av Azure-portalen, og logg deretter på igjen. Når du aktiverer en Azure AD-rolle eller en Azure-ressurs rolle, vil du se trinnene for aktiveringen. Når alle trinnene er fullført, vil du se koblingen Logg av. Du kan bruke denne koblingen til å logge av. Dette vil løse de fleste tilfeller for aktiverings forsinkelse.
+1. Logg av Azure-portalen, og logg deretter på igjen. Når du aktiverer en Azure AD-rolle eller en Azure-ressursrolle, ser du trinnene i aktiveringen. Når alle trinnene er fullført, ser du koblingen Logg av. Du kan bruke denne koblingen til å logge av. Dette løser de fleste tilfeller for aktiveringsforsinkelse.
 2. Kontroller at du er oppført som medlem av rollen i PIM.
-3. Hvis du aktiverer Exchange Administrator-rollen, må du passe på at du logger av og logger deg på igjen. Hvis problemet vedvarer, åpner du en støtte forespørsel og opphever dette som et problem. Hvis du bruker Exchange Administrator-rollen til å få tilgang til sikkerhets-og Samsvars senteret, kan du se neste trinn.
-4. Hvis du aktiverer en rolle for å få tilgang til sikkerhets-og Samsvars senteret, eller hvis du aktiverer SharePoint-Administrator rollen, får du noen timer på opptil et par minutter. Dette er et kjent problem, og vi jobber aktivt med disse teamene for å løse dette problemet så snart som mulig.
+3. Hvis du aktiverer administratorrollen Exchange, må du logge av og logge på igjen. Hvis problemet vedvarer, åpner du en støtteforespørsel og oppdrar dette som et problem. Hvis du bruker administratorrollen Exchange tilgang til sikkerhets- og samsvarssenteret, kan du se neste trinn.
+4. Hvis du aktiverer en rolle for å få tilgang til sikkerhets- og samsvarssenteret, eller hvis du aktiverer SharePoint Administrator-rollen, vil du oppleve en viss aktiveringsforsinkelse fra noen minutter til noen timer. Dette er et kjent problem, og vi arbeider aktivt med disse teamene for å løse dette problemet så snart som mulig.
 
-Hvis du vil ha mer informasjon, kan du ta en titt på:
+Hvis du vil ha mer informasjon, kan du se:
 
-- [Aktivere mine Azure AD-roller i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [Aktivere mine Azure-ressurser-roller i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivere Mine Azure AD-roller i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivere mine Azure-ressursroller i PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**Tillatelser fjernes ikke etter at en rolle er deaktivert eller rolle aktiveringen utløper**
+**Tillatelser fjernes ikke når du deaktiverer en rolle eller rolleaktiveringen utløper**
 
-Når du deaktiverer en rolle i Azure AD Privileged Identity Management eller når en aktiverings periode for en rolle utløper, kan det oppstå en forsinkelse der du fortsatt har tilgang.
+Når du deaktiverer en rolle i Azure AD Privileged Identity Management eller når en rolleaktiveringsperiode utløper, kan det være en forsinkelse der du fortsatt har tilgang.
 
-Hvis deaktivering er forsinket, følger du denne Fremgangs måten:
+Hvis deaktiveringen er forsinket, følger du disse trinnene:
 
-1. Hvis du deaktiverer Exchange Administrator-rollen eller aktiverings perioden for rolle utløper, og du legger merke til en betydelig forsinkelse før tillatelsene fjernes, kan du åpne en støtte forespørsel og be kunde støtte teknikeren om å hjelpe deg med å arkivere en billett med den privilegerte tilgangs behandlings gruppen (PAM) i Office om dette problemet.
-2. Hvis aktiverings perioden er utløpt, men du fremdeles har åpnet nett leser økten, lukker du nett leseren. Du kan fortsette å bruke rollen til du lukker den økten. Dette er et kjent problem, og vi ser på en mulig løsning for aktivt å oppheve hver økt når aktiveringen er utløpt.
+1. Hvis du deaktiverer Exchange-administratorrollen eller rolleaktiveringsperioden utløper, og du ser en betydelig forsinkelse før tillatelsene fjernes, åpner du en støtteforespørsel og ber kundestøtteteknikeren om å hjelpe deg med å sende inn en billett med PAM-teamet (Privileged Access Management) i Office om dette problemet.
+2. Hvis aktiveringsperioden er utløpt, men du fremdeles har nettleserøkten åpen, lukker du nettleseren. Du kan fortsette å bruke rollen til du lukker økten. Dette er et kjent problem, og vi ser på en mulig løsning for å aktivt tilbakekalle hver økt når aktiveringen er utløpt.
 
-Hvis forsinkelsen er forskjellig fra disse to scenariene, kan du åpne en støtte forespørsel.
+Hvis forsinkelsen er forskjellig fra disse to scenariene, kan du åpne en støtteforespørsel.

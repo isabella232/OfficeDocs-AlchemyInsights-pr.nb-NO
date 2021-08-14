@@ -1,5 +1,5 @@
 ---
-title: feil søkings kategorier for 604
+title: 604 Feilsøkingskategorier
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972536"
 ---
-# <a name="outlook-categories"></a>Outlook-kategorier
+# <a name="outlook-categories"></a>Outlook kategorier
 
-Kategorier gjelder bare for elementer i kalenderen. Hvis du bruker en farge kategori på en møte innkallelse eller et møte du har mottatt fra en annen person, vises denne farge kategorien bare i kalenderen.  Hvis du bruker en farge kategori i en delt post boks, må du delegere post boks, gruppe post boks, romliste og så videre. farge kategorien påvirker bare visningen.
+Kategorier gjelder bare for elementer i kalenderen. Hvis du bruker en fargekategori på en møteinnkallelse eller et møte du har mottatt fra en annen person, vises denne fargekategorien bare i kalenderen.  Hvis du bruker en fargekategori på en delt postboks, representantpostboks, gruppepostboks, rompostboks og så videre, påvirker fargekategorien bare visningen.
 
-Hvis du vil ha mer informasjon: [tilordne en farge kategori til en avtale, et møte eller en hendelse i kalenderen](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Hvis du vil ha mer informasjon: [Tilordne en fargekategori til en avtale, et møte eller en hendelse i kalenderen](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)

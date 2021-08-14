@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004991"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP-problemer med sosiale sikkerhets numre
+# <a name="dlp-issues-with-social-security-numbers"></a>DLP-problemer med personnumre
 
 **Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
-**DLP-problemer med SSNs**
+**DLP-problemer med SSN-er**
 
-Har du problemer med **tap av datatap (DLP)** fungerer ikke for innhold som inneholder et **person nummer (SSN)** når du bruker en sensitiv informasjons type i Microsoft 365? Hvis det er tilfelle, må du sørge for at innholdet inneholder den nødvendige informasjonen for hva DLP-policyen ser ut. 
+Har du problemer med datatapsforhindring **(DLP)** fungerer ikke for innhold som inneholder et personnummer **(SSN)** når du bruker en sensitiv informasjonstype i Microsoft 365? Hvis dette er det, må du kontrollere at innholdet inneholder den nødvendige informasjonen for hva DLP-policyen ser ut. 
   
-Hvis du for eksempel har en person som er konfigurert med et visshets nivå på 85%, evalueres følgende og må oppdages for at regelen skal utløse:
+For en SSN-policy som er konfigurert med et konfidensnivå på 85 %, evalueres for eksempel følgende og må oppdages for at regelen skal utløse:
   
 - **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 sifre, som kan være i et formatert eller uformatert mønster
 
-- **[Mønster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Fire funksjoner ser etter SSNs i fire forskjellige mønstre:
+- **[Mønster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Fire funksjoner ser etter SSN-er i fire forskjellige mønstre:
 
-  - Func_ssn finner SSNs med forhånds 2011, sterk formatering som er formatert med binde streker eller mellomrom (DDD-DD-dddd eller DDD DD dddd)
+  - Func_ssn finner SSN-er med sterk formatering før 2011 som er formatert med bindestreker eller mellomrom (ddd-dddd ELLER ddd ddd dddd)
 
-  - Func_unformatted_ssn finner SSNs med forhånds 2011, sterk formatering som ikke er formatert som ni påfølgende sifre (ddddddddd)
+  - Func_unformatted_ssn finner SSN-er med sterk formatering før 2011 som ikke er formatert som ni etterfølgende sifre (ddddddddd)
 
-  - Func_randomized_formatted_ssn finner SSNs-2011 som er formatert med binde streker eller mellomrom (DDD-DD-dddd eller DDD DD dddd)
+  - Func_randomized_formatted_ssn finner SSN-er etter 2011 som er formatert med bindestreker eller mellomrom (ddd-dddd ELLER ddd dddd)
 
-  - Func_randomized_unformatted_ssn finner SSNs-2011 som ikke er formatert som ni påfølgende sifre (ddddddddd)
+  - Func_randomized_unformatted_ssn finner SSN-er etter 2011 som ikke er formatert som ni etterfølgende sifre (ddddddddd)
 
-- **[Kontroll sum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nei, det er ingen kontroll sum
+- **[Sjekksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nei, det finnes ingen Checksum
 
-- **[Definisjon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** En DLP-policy er 85% sikker på at den har funnet denne typen sensitiv informasjon hvis, innenfor en nærhet av 300-tegn:
+- **[Definisjon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** En DLP-policy er 85 % sikker på at den har oppdaget denne typen sensitiv informasjon hvis den er i nærheten av 300 tegn:
 
-  - [Funksjonen Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) finner innhold som Sams varer med mønsteret.
+  - Funksjonen [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) finner innhold som samsvarer med mønsteret.
 
-  - Et nøkkel ord fra [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) blir funnet. Eksempler på nøkkel ord omfatter:  *sosial sikkerhet, trygd #, SoC SEC, person nummer*  . Følgende eksempel vil for eksempel utløses for DLP SSN-policyen: **SSN: 489-36-8350**
+  - Et nøkkelord [fra Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) finnes. Eksempler på nøkkelord omfatter:  *Personnummer, Personnummer#, Soc Sec , SSN*  . Følgende eksempel vil for eksempel utløse for DLP SSN-policyen: **SSN: 489-36-8350**
   
-Hvis du vil ha mer informasjon om hva som kreves for at SSNs skal oppdages for innholdet, kan du se følgende avsnitt i denne artikkelen: [hva de sensitive informasjons typene ser ut for SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Hvis du vil ha mer informasjon om hva som kreves for at SSN-er skal oppdages for innholdet, kan du se følgende del i denne artikkelen: Hva de sensitive informasjonstypene ser [etter SSN-er?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Hvis du bruker en annen innebygd sensitiv informasjons type, kan du se følgende artikkel for informasjon om hva som er nødvendig for andre typer: [hva de sensitive informasjons typene ser etter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Hvis du bruker en annen innebygd sensitiv informasjonstype, kan du se følgende artikkel for informasjon om hva som kreves for andre typer: Hva de [sensitive informasjonstypene ser etter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
