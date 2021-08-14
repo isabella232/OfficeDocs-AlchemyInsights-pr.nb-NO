@@ -1,5 +1,5 @@
 ---
-title: Bytte til Betal med faktura (Sjekk/telegraf overføring)
+title: Bytt til å betale med faktura (sjekk/bankoverføring)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009077"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Bytte til Betal med faktura (Sjekk/telegraf overføring)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Bytt til å betale med faktura (sjekk/bankoverføring)
 
-Basert på problem beskrivelsen har vi funnet en løsning for deg. De fleste kunder kunne løse problemet sitt på egen hånd etter å ha følge dokumentasjonen vår.
+Basert på beskrivelsen av problemet har vi funnet en løsning for deg. De fleste kunder kunne løse problemet på egen hånd etter å ha fulgt dokumentasjonen vår.
 
-Hvis du bytter til Betal med faktura, betyr det at du betaler fakturaen innen 30 dager etter faktura datoen. Hvis du vil betale for Azure-abonnementet ditt etter faktura, kan du sende inn en forespørsel til Azure kunde støtte. Når forespørselen er godkjent, kan du bytte abonnement for å fakturere Betal i Azure-portalen.
+Hvis du bytter til å betale med faktura, betyr det at du betaler fakturaen innen 30 dager etter fakturadatoen. Hvis du vil bli kvalifisert til å betale for Azure-abonnementet med faktura, sender du en forespørsel til Azure-kundestøtte. Når forespørselen er godkjent, kan du bytte et abonnement for å fakturere betaling i Azure-portalen.
 
-**Før du går videre, kan du se gjennom følgende krav/begrensninger ved alternativet for å be om faktura betaling:**
+**Før du fortsetter videre, bør du se gjennom følgende krav/begrensninger for å be om betalingsalternativ for faktura:**
 
-- Logg på Azure- [portalen](https://portal.azure.com/), Naviger til betalings metoder, og sjekk om du allerede er forhånds godkjent for faktura betaling.
-- Faktura lønn er bare tilgjengelig for forretnings kontoer, ikke for personlige kontoer.
-- Du må betale alle ute stående kostnader før du bytter til faktura lønn.
-- Kunde støtte teamet vil se gjennom kontoen for å finne ut om den er kvalifisert for fakturerings betalings måten.
-- Når du bytter til faktura betaling, kan du ikke bytte tilbake til kreditt-eller debetkort.
+- Logg på [Azure-portalen,](https://portal.azure.com/)naviger til betalingsmåter og sjekk om du allerede er forhåndsgodkjent for fakturabetaling.
+- Fakturabetaling er bare tilgjengelig for bedriftskontoer, ikke for personlige kontoer.
+- Du må betale alle utestående kostnader før du bytter til fakturabetaling.
+- Kundestøtteteamet går gjennom kontoen for å finne ut om den er kvalifisert for fakturamodus for betaling.
+- Når du bytter til fakturabetaling, kan du ikke bytte tilbake til kreditt- eller debetkortbetaling.
 
-Når du er godkjent til å betale med faktura, kan du bytte Azure-abonnementet til fakturaen Betal via sjekk eller telegraf overføring i [Azure-portalen](https://portal.azure.com/).
+Når du er godkjent til å betale med faktura, kan du bytte Azure-abonnementet til fakturabetalingen via sjekk eller bankoverføring i [Azure-portalen.](https://portal.azure.com/)
 Slik gjør du det:
 
-1. Logg deg på [Azure-portalen](https://portal.azure.com/)   som administrator for kontoen. Søk etter og velg **kostnads administrasjon + fakturering**.
-2. Velg **fakturerings profiler** på menyen.
-3. Velg en fakturerings profil.
-4. På *fakturerings profil* -menyen velger du **betalings metoder**.
-5. Velg banneret som sier at du er berettiget til å betale med sjekk/telegrafisk overføring.
+1. Logg på [Azure-portalen](https://portal.azure.com/)   som kontoadministrator. Søk etter og velg **Kostnadsstyring + Fakturering**.
+2. Velg Faktureringsprofiler **i menyen.**
+3. Velg en faktureringsprofil.
+4. Velg *Betalingsmåter på* **Faktureringsprofil-menyen.**
+5. Velg banneret som sier at du er kvalifisert til å betale med sjekk/bankoverføring.
 
 **Anbefalte dokumenter**
 
-- [Be om/laste ned/vise faktura-og bruks dataene i Azure-fakturering](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Slik sender jeg Azure fakturaer direkte til innboksen din](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Be om/last ned/vis fakturerings- og bruksdataene for Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Slik sender du Azure-fakturaer via e-post direkte til innboksen](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Betal med faktura](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Forstå termer på fakturaen](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Forstå vilkårene på fakturaen](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

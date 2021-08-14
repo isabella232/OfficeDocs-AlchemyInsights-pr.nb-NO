@@ -1,5 +1,5 @@
 ---
-title: Informasjon om Teams-kontakter
+title: Informasjon om Teams kontakter
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868355"
 ---
-# <a name="information-about-teams-contacts"></a>Informasjon om Teams-kontakter
-
-Hvis kontakter ikke synkroniseres for én eller flere brukere, gjør du følgende:
-- Kontroller at brukerens Exchange-postboks er tilkoblet (ikke lokalt). Hvis du vil ha mer informasjon, [kan du se Hvordan Exchange og Microsoft Teams samhandler](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Kontroller at kontaktens telefonnummer er lagt til i kontaktinformasjonen.
+# <a name="information-about-teams-contacts"></a>Informasjon om Teams kontakter
 
 Teams bruker disse kontaktene:
 
 - Kontakter i organisasjonens Active Directory
-- Kontakter som er lagt til i brukerens standardmappe i Outlook
+- Kontakter lagt til i brukerens Outlook standardmappe
 
-Teams-brukere kan kommunisere med hvem som helst i organisasjonens Active Directory og kan legge til hvem som helst i organisasjonens Active Directory som en kontakt og i kontaktlistene sine ved å gå til **Chat > Kontakter** eller Anrop > Kontakter .
+Hvis kontakter ikke er fullført eller ikke synkroniseres for én eller flere brukere, gjør du følgende:
 
-Teams-brukere kan også legge til en person som ikke er i organisasjonens Active Directory som en kontakt, ved å gå til **Anrop > Kontakter**.
+- Kontroller at brukerens Exchange er tilkoblet (ikke lokalt). Hvis du vil ha mer informasjon, [kan du se Hvordan Exchange og Microsoft Teams samhandle](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+- Kontroller at kontaktens telefonnummer er lagt til i kontaktinformasjonen.
+- Søk etter kontaktens e-post i **søkefeltet.** Kontakter du kan hente synkronisering til kontaktlisten.
 
 

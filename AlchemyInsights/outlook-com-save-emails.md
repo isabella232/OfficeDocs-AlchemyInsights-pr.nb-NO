@@ -1,5 +1,5 @@
 ---
-title: 8000088 lagre e-post i Outlook.com
+title: 8000088 Lagre e-post på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,27 +15,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: a85a6aa5dd10b31029e9341f24679e22318ce264
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 518bce3c59bf7c89d1f2444678b93623066d39b35b6f889696723dd35acbf572
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095227"
 ---
-# <a name="saving-messages-in-outlookcom"></a>Lagre meldinger i Outlook.com
+# <a name="saving-messages-in-outlookcom"></a>Lagre meldinger på Outlook.com
 
-Du kan ikke lagre e-postmeldinger i Outlook.com, men du kan skrive dem ut på en PDF-fil som du kan lagre på PC-en.
+Du kan ikke lagre e-postmeldinger på Outlook.com, men du kan skrive dem ut i en PDF-fil som du kan lagre på PC-en.
 
-Microsoft Print to PDF-verktøyet som følger med Windows 10, lar deg skrive ut e-postmeldinger direkte til en PDF-fil.
+Microsoft Print To PDF-verktøyet som er inkludert i Windows 10 kan du skrive ut alle e-postmeldinger direkte til en PDF-fil.
 
 1. Velg meldingen du vil lagre.
-2. Merk de tre prikkene <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+2. Merke de tre prikkene <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  øverst i meldingen, og velg deretter <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
- **Skrive ut**.
-3. Velg **Skriv ut** på nytt, og velg deretter **Microsoft Skriv ut til PDF**på rulle gardin menyen skriver.
+ **Skriv ut**.
+3. Velg **Skriv ut** på nytt, og velg Microsoft Skriv ut til PDF på rullegardinmenyen for **skriveren.**
 4. Velg **Skriv ut**.
-5. Skriv inn et fil navn, og velg deretter **Lagre**.
+5. Skriv inn et filnavn, og velg deretter **Lagre**.
 
-**Obs!** Dette anbefales ikke på delte eller offentlige data maskiner som andre brukere kan ha tilgang til PDF-filer du lagrer på PC-en, og som ikke kan slettes.
+**Obs!** Dette anbefales ikke på delte eller offentlige datamaskiner fordi andre brukere kan ha tilgang til PDF-filer du lagrer på PC-en og ikke sletter.
 
-Hvis du vil ha mer informasjon om utskrift, kan du se [skrive ut e-postmeldinger, vedlegg og kalendere i Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon om utskrift, kan du se Skrive ut e-postmeldinger, [vedlegg og kalendere i Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
