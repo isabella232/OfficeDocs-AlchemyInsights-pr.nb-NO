@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source reglene for god oppførsel
-Dette prosjektet har tatt i bruk [Microsoft åpen kilde reglene for god oppførsel](https://opensource.microsoft.com/codeofconduct/). For mer informasjon se [Koden for utføre vanlige spørsmål](https://opensource.microsoft.com/codeofconduct/faq/) eller kontakt [opencode@microsoft.com](mailto:opencode@microsoft.com) med eventuelle andre spørsmål eller kommentarer.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Code of Conduct
+Dette prosjektet har tatt [i bruk Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+Hvis du vil ha mer [informasjon,](https://opensource.microsoft.com/codeofconduct/faq/) kan du se Vanlige spørsmål om regler for god oppførsel [eller kontaktinformasjon opencode@microsoft.com](mailto:opencode@microsoft.com) eventuelle andre spørsmål eller kommentarer.

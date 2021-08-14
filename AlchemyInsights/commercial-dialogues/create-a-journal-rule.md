@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988808"
 ---
 # <a name="create-a-journal-rule"></a>Opprette en journalregel
 
 Slik gjør du det:
 
-1. Gå til [journalregler for](https://go.microsoft.com/fwlink/p/?linkid=2059104)samsvarsbehandling i administrasjonssenteret for   >  Exchange, og velg deretter Legg **til (+)-ikonet.**
+1. Gå til [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)i administrasjonssenteret for samsvar, og velg deretter Legg til  >   **(+)-ikonet.**
 2. Angi **et navn** på journalregelen i den nye journalregelen, og konkurrer deretter følgende felt:  
     - **Send journalrapporter til**: Skriv inn adressen til loggføringspostboksen som skal motta alle loggrapportene.  
     - **Hvis meldingen sendes til eller mottas fra**: Angi mottakeren som regelen skal målrettes mot. Du kan enten velge en bestemt mottaker eller bruke regelen på alle meldinger.  
