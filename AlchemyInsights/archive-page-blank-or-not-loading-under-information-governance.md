@@ -1,5 +1,5 @@
 ---
-title: Arkivsiden er tom eller kan ikke lastes inn under Information Governance
+title: Arkivside tom eller ikke innlasting under Informasjonsstyring
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997359"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arkivsiden er tom eller kan ikke lastes inn under Information Governance
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arkivside tom eller ikke innlasting under Informasjonsstyring
 
-Hvis **arkivsiden** under Informasjonsstyring i sikkerhets- og samsvarssenteret er  tom eller ikke lastes inn, kan du bruke arkiveringsalternativet i det nye samsvarssenteret for M365 i stedet.
+Hvis **Arkiv-siden** under Informasjonsstyring i sikkerhets- og samsvarssenteret  er tom eller ikke lastes inn, kan du bruke arkivalternativet i det nye samsvarssenteret for M365 i stedet.
 
 1. gå til [https://compliance.microsoft.com](https://compliance.microsoft.com/)
 1. Velg Informasjonsstyring.

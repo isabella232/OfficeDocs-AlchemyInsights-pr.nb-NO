@@ -1,5 +1,5 @@
 ---
-title: Kan ikke laste opp et bilde til en team chat
+title: Kan ikke laste opp et bilde til en Teams chat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930810"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Kan ikke laste opp et bilde til en team chat
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Kan ikke laste opp et bilde til en Teams chat
 
-Feil søking av forslag:
+Feilsøkingsforslag:
 
-- Hvis du bruker Teams på nettet, kan du prøve en annen nett leser. Hvis du vil ha en liste over nett lesere som støttes, kan du se delen nett lesere i [begrensninger og spesifikasjoner for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Kontroller kompatibiliteten til maskin varen og operativ systemet. Hvis du vil ha mer informasjon, kan du se [maskin vare krav for Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Kontroller at du har den nyeste team versjonen. Hvis du vil ha mer informasjon, kan du se [Teams Update-prosessen](https://docs.microsoft.com/microsoftteams/teams-client-update) for detaljer.
+- Hvis du bruker Teams på nettet, kan du prøve en annen nettleser. Hvis du vil ha en liste over støttede nettlesere, kan du se «Nettlesere»-delen av Grenser og spesifikasjoner [for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Kontroller kompatibiliteten til maskinvaren og operativsystemet. Hvis du vil ha mer informasjon, [kan du se Maskinvarekrav for Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Kontroller at du har den nyeste Teams versjonen. Hvis du vil ha mer [informasjon, Teams oppdateringsprosessen](https://docs.microsoft.com/microsoftteams/teams-client-update) for mer informasjon.
