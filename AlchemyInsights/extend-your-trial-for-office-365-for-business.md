@@ -16,20 +16,20 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 5b460b597a0c5a7875240747c12f20bad2476e1fc37ce817a61e332cc404f9ac
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500781"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868651"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Forlenge prøveperioden for Microsoft 365 for bedrifter
 
-Du kan forlenge den gratis prøveperioden i én ekstra 30-dagers periode. Etter dette går prøveperioden inn i en 30-dagers [løpeperiode.](/alchemyinsights/grace-period-for-microsoft-365-free-trial) Følg disse trinnene for å forlenge prøveperioden:
+Du kan forlenge den gratis prøveperioden i én ekstra 30-dagers periode. Etter dette går prøveperioden inn i en 30-dagers [løpeperiode.](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial) Følg disse trinnene for å forlenge prøveperioden:
   
 1. Gå til Fakturering produkter-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
 2. Velg **prøveabonnementet** du vil forlenge, på Produkter-fanen.
 3. Velg Forleng sluttdato under Abonnements- og **betalingsinnstillinger** på **abonnementsdetaljer-siden.**
 4. Se gjennom **utvidelsesinformasjonen** i ruten Forleng sluttdato, og velg om nødvendig en betalingsmåte. Når du er ferdig, velger du **Forleng prøveperioden**.
 
-Hvis du vil lære mer om utvidelse av prøveperioden eller trinnvise instruksjoner, kan du se Forlenge prøveperioden for Office 365 [for bedrifter.](/microsoft-365/commerce/extend-your-trial)
+Hvis du vil lære mer om utvidelse av prøveperioden eller trinnvise instruksjoner, kan du se Forlenge prøveperioden for Office 365 [for bedrifter.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

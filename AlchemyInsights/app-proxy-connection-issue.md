@@ -1,5 +1,5 @@
 ---
-title: Tilkoblings problem for proxy for App
+title: Problem med appproxytilkobling
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951610"
 ---
-# <a name="app-proxy-connection-issue"></a>Tilkoblings problem for proxy for App
+# <a name="app-proxy-connection-issue"></a>Problem med appproxytilkobling
 
-1. Hvis du bruker tjenesten Application proxy for ekstern tilgang til et lokalt Web program, men du har problemer med å koble til programmet, kan du bruke [denne artikkelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) til å feilsøke problemer med Azure Active Directory (Azure ad)-proxy-kontakter.
-2. Hvis du trenger hjelp med å løse vanlige problemer når en kobling ikke oppdages for et programproxy som er integrert med Azure Active Directory, følger du Fremgangs måten i artikkelen [ingen arbeids koblings gruppe som ble funnet for et](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) programproxy-program, for å feilsøke.
+1. Hvis du bruker Application Proxy-tjenesten for ekstern tilgang til et lokalt nettprogram, men [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) du har problemer med å koble til programmet, kan du bruke denne artikkelen til å hjelpe deg med å feilsøke problemer med Azure Active Directory (Azure AD) Application Proxy-koblinger.
+2. Hvis du trenger hjelp til å løse vanlige problemer når en kobling ikke oppdages for et Programproxy-program som er integrert med Azure Active Directory, følger du fremgangsmåten i artikkelen Finner ingen fungerende koblingsgruppe [for](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) et programproxyprogram som skal feilsøkes.
