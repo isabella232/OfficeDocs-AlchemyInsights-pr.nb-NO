@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931550"
 ---
 # <a name="application-connection-issues"></a>Problemer med programtilkobling
 
-[Veiledninger for](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) å integrere programmer med Azure Active Directory – for å bidra til å integrere programmene dine med Azure Active Directory, har vi utviklet en samling av veiledninger som veileder deg gjennom konfigurasjonen.
+[Veiledninger for](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) å integrere programmer med Azure Active Directory – For å bidra til å integrere programmene med Azure Active Directory, har vi utviklet en samling med opplæringer som veileder deg gjennom konfigurasjonen.
 
-**Feilsøke kobling for programproxyagent**
+**Feilsøke Application Proxy Agent Connector**
 
-Hvis du trenger hjelp hvis installasjonen av en kobling mislykkes, kan du se Problem når du [installerer koblingen til programproxyagenten.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
+Hvis du trenger hjelp hvis installasjonen av en kobling mislykkes, kan du se [Problem med å installere Application Proxy Agent Connector](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
 
-[Feilsøking av tilkoblingsproblemer med programproxyen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) hjelper deg med å feilsøke problemer med Azure Active Directory -programproxykontakter (Azure AD). Hvis du bruker programproxytjenesten for ekstern tilgang til et lokalt nettprogram, men du har problemer med å koble til programmet, kan du bruke dette flytskjemaet til å feilsøke koblingsproblemer.
+[Problemer med feilsøking av programproxykobling](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) hjelper deg med å feilsøke problemer med Azure Active Directory (Azure AD) Application Proxy-koblinger. Hvis du bruker Application Proxy-tjenesten for ekstern tilgang til et lokalt nettprogram, men du har problemer med å koble til programmet, kan du bruke dette flytskjemaet til å feilsøke tilkoblingsproblemer.
 
-Finner ingen gruppe med [fungerende koblinger for](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) et programproxyprogram bidrar til å løse de vanlige problemene som oppdages når det ikke oppdages en kobling for et programproxyprogram integrert med Azure Active Directory.
+[Finner ingen fungerende](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) koblingsgruppe for et Programproxy-program bidrar til å løse vanlige problemer når det ikke oppdages en kobling for et Programproxy-program som er integrert med Azure Active Directory.
 
-**Feilsøke Cisco AnyConnect-integrasjon**
+**Feilsøke Cisco AnyConnect-integrering**
 
-Hvis du vil lære hvordan du integrerer Cisco AnyConnect med Azure Active Directory (Azure AD), kan du se Opplæring: Integrering av enkel pålogging (SSO) for Azure Active Directory med [Cisco AnyConnect.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
+Hvis du vil lære hvordan du integrerer Cisco AnyConnect med Azure Active Directory (Azure AD), kan du se Opplæring: Azure Active Directory enkel pålogging (SSO) integrasjon med [Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).
