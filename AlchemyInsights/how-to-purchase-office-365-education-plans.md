@@ -17,12 +17,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 47e00c8390c52dfe4ba1d8643601c113eea5591bed1248f8db6fe6d20cfa13c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501465"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868499"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Slik kjøper du Office 365 Education abonnementer
 
@@ -38,4 +38,4 @@ Du har blitt godkjent for Office 365 Education.  Slik kjøper du det:
 
 - Se gjennom [Ekstern undervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for å se den mest oppdaterte veiledningen om hvordan du konfigurerer læreplanen for skolen din, virtuelle møter og deler innhold med elever.
 
-- Det finnes mer IT-veiledning i [Komme i gang med Microsoft Teams for ekstern læring](/MicrosoftTeams/remote-learning-edu) og [Ta overgangen til ekstern læring](https://www.microsoft.com/education/remote-learning).
+- Det finnes mer IT-veiledning i [Komme i gang med Microsoft Teams for ekstern læring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Ta overgangen til ekstern læring](https://www.microsoft.com/education/remote-learning).

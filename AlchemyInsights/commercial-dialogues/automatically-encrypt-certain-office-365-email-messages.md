@@ -1,5 +1,5 @@
 ---
-title: Kryptere bestemte Office 365-e-postmeldinger automatisk
+title: Kryptere bestemte Office 365 e-postmeldinger automatisk
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949576"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Kryptere bestemte Office 365-e-postmeldinger automatisk
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Kryptere bestemte Office 365 e-postmeldinger automatisk
 
 Du kan automatisk kryptere meldinger som brukere sender til bestemte eksterne personer eller organisasjoner. Hvis du vil gjøre dette, utfører du følgende trinn:
 
-1. Velg [e-postflyt i](https://outlook.office365.com/ecp/) **administrasjonssenteret for** Exchange > regler . 
-2. Klikk på **Nytt (+)-ikonet,** og klikk deretter Bruk Meldingskryptering og rettighetsbeskyttelse for **Office 365 på meldinger.**
+1. I [administrasjonssenteret Exchange](https://outlook.office365.com/ecp/)velger du **e-postflyt > regler**. 
+2. Klikk Ny **(+)-ikonet,** og klikk **deretter Bruk Office 365-meldingskryptering og rettighetsbeskyttelse på meldinger.**
 3. Skriv **inn** et navn på regelen i Navn, for eksempel Krypter *meldinger som sendes til DrToniRamos@gmail.com*.
 4. I **Bruk denne regelen hvis** velger du Mottakeren > denne **personen**. 
 5. Velg navnet **på** personen du vil at krypteringsregelen skal gjelde for, i Velg **medlemmer-vinduet,** og klikk deretter legg til . 
@@ -38,5 +38,5 @@ Du kan automatisk kryptere meldinger som brukere sender til bestemte eksterne pe
 > [!IMPORTANT]
 > Du kan alltid komme tilbake og redigere denne regelen senere.
 
-Hvis du vil ha mer informasjon om hvordan du oppretter regler for kryptering, kan du se Definere regler for e-postflyt for [å kryptere e-postmeldinger i Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
+Hvis du vil ha mer informasjon om hvordan du oppretter regler for kryptering, kan du se Definere regler for e-postflyt for å kryptere [e-postmeldinger i Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

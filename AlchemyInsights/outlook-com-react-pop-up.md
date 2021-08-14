@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reagere popup
+title: 8000091 Outlook.com React popup-vindu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095731"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com er klar for en gang
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com er klar for prime time
 
-Vi er klar over at noen kunder kan se popup-opp hver gang de logger på, og vi jobber med å finne en løsning.
+Vi er klar over at noen kunder kan se popup-et «Outlook.com er klar for beste sendetid» hver gang de logger på, og vi jobber med en løsning.
 
-Beklager.
+Beklager det.
 
-[Lær mer om den nye Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Finn ut mer om den nye Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
