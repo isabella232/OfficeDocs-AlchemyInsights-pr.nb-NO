@@ -1,5 +1,5 @@
 ---
-title: Abonnementer på Outlook.com-e-post
+title: Outlook.com e-postabonnementer
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962320"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Kan ikke legge ved eller laste opp filer fra Facebook
 
-På grunn av en endring i Facebook-vilkår og-betingelser, kan du ikke lenger laste opp vedlegg direkte fra Facebook etter oktober 23, 2019, og Facebook vises ikke lenger i listen over Sky plasseringer. 
+På grunn av en endring i Facebooks vilkår og betingelser, vil du ikke lenger kunne laste opp vedlegg direkte fra Facebook etter 23. oktober 2019, og Facebook vises ikke lenger i listen over plasseringer i skyen. 
 
-Du kan behandle listen over andre Sky plasseringer i [lagrings kontoene](https://go.microsoft.com/fwlink/?linkid=2111075)dine.
+Du kan administrere listen over andre skyplasseringer i Storage [kontoer.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-Lær mer om [lagrings kontoer](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Finn ut mer [om Storage kontoer](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

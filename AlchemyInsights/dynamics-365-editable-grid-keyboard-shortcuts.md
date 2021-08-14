@@ -1,5 +1,5 @@
 ---
-title: Hurtig taster for rute nett i Dynamics 365
+title: Hurtigtaster som kan redigeres i Dynamics 365 Rutenett
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d2dd0b2ff1b848f0c33d6488138e90474ca891b047b750361ea509ddc5f535f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004091"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>Hurtig taster for rute nett i Dynamics 365
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>Hurtigtaster som kan redigeres i Dynamics 365
 
-* [Redigerbare hurtig taster for rute nett](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [Redigerbare hurtigtaster for rutenett](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
