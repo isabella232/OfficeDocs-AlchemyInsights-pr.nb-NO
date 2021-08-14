@@ -1,5 +1,5 @@
 ---
-title: Project online er i skrivebeskyttet status
+title: Project Online er skrivebeskyttet
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063025"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project online er i skrivebeskyttet status
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online er skrivebeskyttet
 
-Det er tre vanlige årsaker til at Project online kan nå en skrivebeskyttet status:
+Det er tre vanlige årsaker til Project Online kan nå en skrivebeskyttet tilstand:
 
-1. Organisasjoner har bare en Project online Essentials-lisens (er). Dette er ikke nok til å holde nettstedet aktivt, og det vil til slutt bli klargjort.Vi plasserer nettstedet i skrivebeskyttet status, slik at administratorer vet noe som er galt, og kan få tak i de riktige lisensene. Administratorer må legge til en Project online Professional og/eller Premium-lisens. Området vil bare være skrivebeskyttet på det tidspunktet. Hvis du vil ha mer informasjon, kan du se [sammenligne prosjekt Styrings løsninger](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Tilordnet kvote er nådd. Hvis du vil ha mer informasjon, kan du se [Project Web App-kvote](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Kontroller [Konfigurer fremheving av tids inndelte rapporterings data i Project online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) for å se hvordan rapporterings kornet het kan påvirke kvote bruken.
-3. Skrivebeskyttet kan være en svært midlertidig tilstand som kan oppstå under vedlikehold. De fleste vedlikeholder er ikke engang lagt ut av kundene våre, og du vil ikke se dette, men det er noen ganger når det er støtte for korte perioder med skrive beskyttelse.
+1. Organisasjoner har bare Project Online Essentials lisens(er). Dette er ikke nok til å holde nettstedet i live, og det vil etter hvert bli klargjort. Vi plasserer nettstedet i skrivebeskyttet tilstand, slik at administratorer vet at noe er galt og kan skaffe de riktige lisensene. Administratorer må legge til en Project Online Professional og/eller Premium lisens. Nettstedet vil komme ut av skrivebeskyttet på det tidspunktet. Hvis du vil ha mer informasjon, [kan du se Sammenligne Project Administrasjonsløsninger](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Tilordnet kvote er nådd. Hvis du vil ha mer informasjon, [kan du Project Web App Kvote](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Kontroller [Konfigurere en beregnet verdi for tidsinndelte rapporteringsdata i](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) Project Online for å se hvordan rapporteringsgranuitet kan påvirke kvotebruken.
+3. Skrivebeskyttet kan være en svært midlertidig tilstand som kan oppstå under vedlikehold. Det meste av vedlikeholdet blir ikke engang lagt merke til av kundene våre, og du vil ikke se dette ofte, men noen ganger oppleves korte perioder med skrivebeskyttet.
