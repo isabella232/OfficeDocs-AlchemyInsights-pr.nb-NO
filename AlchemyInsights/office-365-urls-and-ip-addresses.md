@@ -1,5 +1,5 @@
 ---
-title: Nettadresser og IP-adresser for Microsoft 365
+title: Microsoft 365 Nettadresser og IP-adresser
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89611ac0a3f39e7317df9719d1ea4a0ab2b9fe13da0ec634bb83190870fe5874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985514"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Nettadresser og IP-adresseområder for Microsoft 365
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 Nettadresser og IP-adresseområder
 
-Microsoft 365 krever tilkobling til Internett via bestemte IP-adresser kalt *endepunkter.*
-Hvis du vil ha en liste over endepunkter som må nås, kan du se Nettadresser og [IP-adresseområder for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Microsoft 365 krever tilkobling til Internett via bestemte IP-adresser kalt *endepunkter*.
+Hvis du vil se en liste over endepunkter som må [nås, kan du Microsoft 365 nettadresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Microsoft 365 IP-adresse og nettadresse-nettjenesten hjelper deg med å identifisere og skille nettverkstrafikk fra Microsoft 365 bedre, noe som gjør det enklere for deg å evaluere, konfigurere og holde deg oppdatert med endringer. Se [Ip-adresse og netttjeneste for Microsoft 365.](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)
+Nettjenesten Microsoft 365 IP-adresse og nettadresse gjør det enklere å identifisere og skille Microsoft 365 nettverkstrafikk, noe som gjør det enklere for deg å evaluere, konfigurere og holde deg oppdatert med endringer. Se [Microsoft 365 IP-adresse og nettadressetjeneste](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

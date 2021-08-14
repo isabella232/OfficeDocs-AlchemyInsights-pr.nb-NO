@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: e0df3bb3ed1ca61b34133814332f643c280a2251
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965542"
 ---
 # <a name="create-email-signature-in-outlook-on-the-web"></a>Opprette e-postsignatur i Outlook på nettet
 
 1. Logg på Outlook på nettet.
-2. Velg Innstillinger e-post i det øverste  >  **navigasjonsfeltet.**
-3. Velg Oppsett **for e-postsignatur** under **E-post** i   >  **Alternativer-panelet.**
+2. I det øverste navigasjonsfeltet velger **du Innstillinger**  >  **E-post**.
+3. Velg **E-postsignatur** for oppsett under **E-post** i  >  **Alternativer-panelet.**
 4. Skriv inn signaturen i tekstboksen, og bruk de tilgjengelige formateringsalternativene til å endre utseendet.
 
     > [!TIP]
-    > Innsetting av en bildefil (for eksempel i GIF- eller JPG-format) for signaturen støttes ikke, men du kan kopiere et bilde fra en nettside og lime det inn i signaturboksen.
+    > Innsetting av en bildefil (for eksempel i et .gif- eller .jpg-format) for signaturen støttes ikke, men du kan kopiere et bilde fra en nettside og lime det inn i signaturboksen.
 
-5. Hvis du vil at signaturen skal vises nederst i alle utgående e-postmeldinger, inkludert svar og videresendte meldinger, velger du Ta med signaturen min automatisk på nye meldinger **jeg skriver.**
+5. Hvis du vil at signaturen skal vises nederst i alle utgående e-postmeldinger, inkludert svar og videresendinger, velger du Ta med signaturen min automatisk i nye meldinger **jeg skriver.**
 6. Klikk på **Lagre**.
