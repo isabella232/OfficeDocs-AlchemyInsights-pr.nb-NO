@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 728a96a1ebfa3e064128a29d30971736ea2f6236ecf1c9152b0a542efdc032e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018771"
 ---
 # <a name="change-account-picture"></a>Endre kontobilde
 
 Hvis du bruker et brukernavn og passord til å logge på Windows 10, bruker du en lokal konto. **Slik endrer du det lokale kontobildet:**
 
-1. Gå til **Start**  >  **innstillinger**  >  **Kontoer**  >  **Informasjonen din**.
+1. Gå til **Start**  >  **Innstillinger**  >  **Kontoer**  >  **Informasjonen din**.
 2. Klikk **Bla gjennom etter ett** under Opprett **bildet.** Hvis enheten har et kamera, klikker du **kamera** og tar en selfie. 
     **Obs!** Windows husker de tre siste bildene du har brukt. Klikk bildet på Din informasjon-siden for å bytte til det.
 

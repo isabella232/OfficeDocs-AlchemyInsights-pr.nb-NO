@@ -1,5 +1,5 @@
 ---
-title: Policy innstillinger for organisasjonen for eksterne brukere
+title: Innstillinger for organisasjonspolicy for eksterne brukere
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011309"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Policy innstillinger for organisasjonen for eksterne brukere
+# <a name="organization-policy-settings-for-external-users"></a>Innstillinger for organisasjonspolicy for eksterne brukere
 
-Brukerne kan se følgende advarsels melding når de prøver å dele med eksterne brukere av organisasjonen: 
+Brukere kan se følgende advarsel når de prøver å dele med eksterne brukere av organisasjonen: 
 
-   **Organisasjonens policyer lar deg ikke dele med disse brukerne. Gå til ekstern deling i administrasjons senteret for Microsoft 365 for å aktivere det.** 
+   **Organisasjonens policyer tillater ikke at du deler med disse brukerne. Gå til Ekstern deling i Administrasjonssenter for Microsoft 365 for å aktivere den.** 
 
-Dette skjer ofte første gang du prøver å dele med eksterne brukere, eller når du deler med nye eksterne brukere. Hvis du vil ha mer informasjon, kan du se artikkelen nedenfor:
+Dette skjer ofte første gang du prøver å dele med eksterne brukere eller når du deler med nye eksterne brukere. Hvis du vil ha mer informasjon, kan du se artikkelen nedenfor:
 
 [Organisasjonens policyer tillater ikke at du deler med disse brukerne](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
