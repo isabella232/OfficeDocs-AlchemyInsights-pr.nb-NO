@@ -1,5 +1,5 @@
 ---
-title: Oppdatere e-postinnstillingene i Outlook for PC
+title: Slik oppdaterer du e-postinnstillinger i Outlook for PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976982"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Oppdatere e-postinnstillingene i Outlook for PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Slik oppdaterer du e-postinnstillinger i Outlook for PC
 
-1. Åpne Outlook, og velg **fil > konto innstillinger > konto innstillinger**.
+1. Åpne Outlook, og **velg Fil > konto Innstillinger > konto Innstillinger**.
 
-2. Velg e-postkontoen du vil endre, og klikk deretter **endre**. 
+2. Velg e-postkontoen du vil endre, og klikk deretter **Endre**. 
 
-3. På **Innstillinger** -siden oppdaterer du inn kommende og utgående server navn, e-postadressen din, navnet ditt, bruker navnet og passordet ditt etter behov. Hvis du må endre SSL-innstillingene eller port innstillingene, klikker du **flere innstillinger**. De vanligste innstillingene for å oppdatere er på fanen **utgående server** og **Avansert** -fanen.
+3. Oppdater **Innstillinger** og utgående servernavn, e-postadresse, navn, brukernavn og passord etter behov på siden for innkommende og utgående server. Hvis du må endre SSL-innstillingene eller portinnstillingene, klikker du **Mer Innstillinger**. De vanligste innstillingene som skal oppdateres, er på fanen **Server for utgående e-post** og **Avansert-fanen.**
 
-4. Hvis du har problemer med å sende e-post eller motta meldinger om den utgående serveren, kontrollerer du at det er merket av for **utgående server (SMTP) krever godkjenning** avmerket.
+4. Hvis du har problemer med å sende e-post eller mottar meldinger om den utgående serveren, må du kontrollere at det er merket av for Serveren for utgående e-post **(SMTP)** krever godkjenning.
 
-5. Hvis du må oppdatere inn kommende eller utgående server-porter eller SSL-innstillinger, går du til **Avansert** -fanen og gjør de ønskede endringene.
+5. Hvis du må oppdatere innkommende eller utgående serverporter  eller SSL-innstillinger, går du til Avansert-fanen og gjør endringene du vil.
 
 > [!NOTE]
-> **For AOL-og Verizon-kunder: Hvis** du velger **SSL/TLS** fra rulle gardin listen under **inn kommende og utgående server krypterte tilkoblinger** , sikrer du at du fremdeles kan sende og motta e-post etter november 7, 2017.
+> **For AOL-** og Verizon-kunder: Hvis du velger **SSL/TLS** fra rullegardinlisten **under** Krypterte tilkoblinger for innkommende og utgående server, sikrer du at du fortsatt kan sende og motta e-post etter 7. november 2017.
 
-6. Når du er ferdig med å oppdatere innstillingene, klikker du **OK**, deretter **neste** og deretter **Fullfør**.
+6. Når du er ferdig med å oppdatere innstillingene, klikker du **OK,** **neste** og deretter **Fullfør**.
 
 

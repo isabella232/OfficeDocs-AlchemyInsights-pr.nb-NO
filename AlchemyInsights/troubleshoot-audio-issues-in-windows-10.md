@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039435"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Feilsøke lydproblemer i Windows 10
 
@@ -61,6 +61,6 @@ Slik kontrollerer du at driverne er oppdatert:
 
 Hvis du ikke kan oppdatere via Enhetsbehandling eller finne en ny driver på produsentens nettsted, kan du prøve disse trinnene:
 
-1. Høyreklikk (eller trykk og hold) lyddriveren i **Enhetsbehandling,** og velg Avinstaller . Start enheten på nytt, så prøver Windows å installere driveren på nytt.
+1. Høyreklikk (eller trykk og hold) lyddriveren i **Enhetsbehandling,** og velg Avinstaller . Start enheten på nytt, Windows vil prøve å installere driveren på nytt.
 
 2. Hvis det ikke fungerer å installere driveren på nytt, kan du prøve å bruke den generiske lyddriveren som følger med Windows. Høyreklikk (eller trykk og hold) lyddriveren i Enhetsbehandling > Oppdater driverprogramvaren Bla gjennom datamaskinen for driverprogramvaren La meg velge fra en liste over enhetsdrivere på datamaskinen, velg  >    >    **Hd-lydenhet,** velg Neste , og følg instruksjonene for å installere den.

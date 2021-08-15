@@ -1,5 +1,5 @@
 ---
-title: Behandle søke ord lister i SharePoint Online
+title: Behandle søkebøker i SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976622"
 ---
-# <a name="manage-search-dictionaries"></a>Behandle søke ord lister
+# <a name="manage-search-dictionaries"></a>Behandle ordlister for søk
 
-Søke ord lister i SharePoint Online administreres i SharePoint Online-term lageret, som befinner seg i det nye administrasjons senteret for SharePoint. Hvis du vil ha mer informasjon om hvordan du legger til eller redigerer søke ord lister, kan du se [Behandle søke ord lister](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Søkebøker i SharePoint online administreres i SharePoint Online Term Store som er plassert i det nye SharePoint administrasjonssenteret. Hvis du vil ha mer informasjon om hvordan du legger til eller redigerer ordlister, kan du se [Behandle ordlister for søk](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Hvis du ikke ser term settet for søke ord listen vises i term lageret, kan du vente i 24 timer. Hvis ord listen fremdeles ikke vises etter 24 timer, kan du logge en støtte forespørsel.
+Hvis du ikke ser et søkeordsett for ordlisten vises i termlageret, venter du 24 timer. Hvis ordlisten fremdeles ikke vises etter 24 timer, logger du en støtteforespørsel.
   

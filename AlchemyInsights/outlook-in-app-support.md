@@ -1,5 +1,5 @@
 ---
-title: Leieren er pålogget i app-støtte for Outlook
+title: Leier piloterer appbasert støtte for Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991904"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Støtte for apper i Outlook for Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>Appbasert støtte i Outlook for Windows
 
-Som leier administrator kan du få hjelp i appen for problemer i Outlook for Windows. I Outlook velger du **hjelp til å**  >  **kontakte kunde støtte**. Skriv inn spørsmålet ditt, og et medlem av støtte teamet for Outlook for Windows vil svare på meldingen din.
+Som leieradministrator kan du motta appbasert støtte for problemer i Outlook for Windows. I Outlook velger du **Hjelp kontakt**  >  **kundestøtte**. Skriv inn spørsmålet ditt, og et medlem av Outlook for Windows kundestøtte vil svare på meldingen.
