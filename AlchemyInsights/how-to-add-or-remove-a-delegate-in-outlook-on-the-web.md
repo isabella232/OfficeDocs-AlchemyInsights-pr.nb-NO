@@ -1,5 +1,5 @@
 ---
-title: Slik legger du til eller fjerner en representant i Outlook på nettet (OWA)
+title: Slik legger du til eller fjerner en representant Outlook på nettet (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993434"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Slik legger du til eller fjerner en representant i Outlook på nettet (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Slik legger du til eller fjerner en representant Outlook på nettet (OWA)
 
-Slik tilordner du et redigerings program eller representant tilgang til kalenderen:
+Slik tilordner du en redigerings- eller representanttilgang til kalenderen:
 
-1. I Outlook på nettet velger du Kalender ikonet nederst på siden.
-2. Velg **del > kalender** øverst på siden.
-3. Skriv inn navnet eller e-postadressen til personen du vil dele kalenderen med, i siden **deling og tillatelser** . Selv om du kan dele kalenderen med mer enn én person, kan du bare legge til én person om gangen fra Outlook på nettet.
-4. Når du har lagt til personen du vil skal administrere kalenderen, velger du rulle gardin listen ved siden av navnet og velger tilgangs nivået du vil de skal ha.
+1. I Outlook på nettet velger du Kalender-ikonet nederst på siden.
+2. Velg Del > øverst **på siden.**
+3. Skriv inn **navnet eller** e-postadressen til personen du vil dele kalenderen med, på siden Deling og tillatelser. Selv om du kan dele kalenderen med mer enn én person, kan du bare legge til én person om gangen fra Outlook på nettet.
+4. Når du har lagt til personen du vil administrere kalenderen, velger du rullegardinlisten ved siden av navnet og velger tilgangsnivået du vil at vedkommende skal ha.
 
-    - Velg **kan redigere** for å gi dem tillatelse til å gjøre endringer i kalenderen.
-    - Velg **representant** for å gi dem den samme tillatelsen som redigerings program, og de vil motta møte innkallelser og svar på dine vegne.
+    - Velg **Kan redigere for** å gi dem tillatelse til å gjøre endringer i kalenderen.
+    - Velg **Representant** for å gi dem samme tillatelse som en redaktør, i tillegg til at de vil motta møteinnkallelser og svar på dine vegne.
     > [!NOTE]
-    > Når en representant svarer på en møte invitasjon på dine vegne, vil du ikke se svaret på invitasjonen i innboksen når du bruker Outlook på nettet. Møter som godtas eller foreløpig godtas, vises i kalenderen og viser at representanten godtok dem.
-    - Alternativene **kan vise når jeg er opptatt**, **kan vise titler og plasseringer**, og **kan vise alle detaljer** lar andre vise kalenderen din, men ikke gjøre endringer i den. Tilgang til personer utenfor organisasjonen er begrenset til disse alternativene.
+    > Når en representant svarer på en møteinvitasjon på dine vegne, ser du ikke svaret på invitasjonen i innboksen når du bruker Outlook på nettet. Møter som er godtatt eller foreløpig godtatt, vises i kalenderen og viser at representanten har godtatt dem.
+    - Alternativene **Kan vise når** jeg er opptatt, Kan  vise **titler** og plasseringer og Kan vise alle detaljer gjør det mulig for andre å vise kalenderen, men ikke gjøre endringer i den. Tilgang for personer utenfor organisasjonen er begrenset til disse alternativene.
 
-5. Når du er ferdig med å legge til personen du vil dele kalenderen med, og har valgt hvilken tillatelse du vil gi dem, velger du **del**. Hvis du bestemmer deg for ikke å dele kalenderen akkurat nå, velger du **Fjern**.
+5. Når du er ferdig med å legge til personen du vil dele kalenderen med, og har valgt hvilken tillatelse du vil gi dem, velger du **Del**. Hvis du bestemmer deg for ikke å dele kalenderen akkurat nå, velger du **Fjern**.
 
-Personen du delte kalenderen med, mottar en e-postmelding som forteller dem om den. Når de velger **godta** -knappen i invitasjonen, blir kalenderen lagt til i listen over kalendere.
+Personen du delte kalenderen med, mottar en e-postmelding som forteller dem om den. Når de velger **Godta-knappen** i invitasjonen, legges kalenderen til i listen over kalendere.
 
 > [!NOTE]
-> Kalender elementer som er merket som **private** , er beskyttet. De fleste personer du deler kalenderen med, ser bare tidspunktet for elementer merket som **privat**, ikke emnet, plasseringen eller andre detaljer. Unntaket til dette er hvis du velger avmerkings boksen **La representanten vise private hendelser** .
+> Kalenderelementer som er **merket Privat,** er beskyttet. De fleste du deler kalenderen med, ser bare tidspunktet for elementer merket **Privat,** ikke emnet, plasseringen eller andre detaljer. Unntaket til dette er hvis du merker av for La **representant vise private hendelser.**
 
-Slik fjerner du en representant i Outlook på nettet (OWA):
+Slik fjerner du en representant Outlook på nettet (OWA):
 
-1. I Outlook på nettet velger du Kalender ikonet nederst på siden.
-2. Velg **del** øverst på siden, og velg kalenderen du vil slutte å dele.
+1. I Outlook på nettet velger du Kalender-ikonet nederst på siden.
+2. Velg Del øverst på **siden,** og velg kalenderen du vil slutte å dele.
 3. Velg **Fjern** ved siden av personen du vil slutte å dele kalenderen med.

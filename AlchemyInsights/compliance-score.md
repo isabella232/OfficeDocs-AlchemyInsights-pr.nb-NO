@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5a7afaa9dbcb7f648f75f9a12fbcae295d59879b374721f5f7156b2d8c06d62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966262"
 ---
 # <a name="compliance-score"></a>Samsvarsresultat
 
@@ -27,14 +27,14 @@ Den globale administratoren må konfigurere de riktige tillatelsene [i](https://
 
 **Slik får du tilgang til samsvarsresultater**
 
-1. Gå til Samsvarssenteret for Microsoft 365, og **logg på** med den globale administratorkontoen for Microsoft 365.
+1. Gå til Samsvarssenter for Microsoft 365, **og logg** på med den Microsoft 365 globale administratorkontoen.
 
 2. Velg **Samsvarsresultat** i den venstre navigasjonsruten. Deretter skal du se instrumentbordet [for samsvarsresultater med poengsummen din.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
 **Hvis du vil ha mer informasjon om:**
 
-- Hvis du vil konfigurere tilgangstillatelser for samsvarsresultater, kan du se Gi brukere tilgang til Sikkerhetssenter for [Microsoft 365 & samsvarssentre.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Hvis du vil konfigurere tilgangstillatelser for samsvarsresultater, kan du se Gi brukere tilgang til Microsoft 365 [sikkerhets- & samsvarssentre.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
 - Hvis du arbeider med forbedringshandlinger i samsvarsresultater, kan du se  [Arbeide med samsvarsresultater](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Hvordan samsvarsresultat beregnes, kan du se [Metodikk for samsvarsresultater](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Samsvarsresultater kontra Samsvarsbehandling, se [Relasjon til Samsvarsbehandling.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
