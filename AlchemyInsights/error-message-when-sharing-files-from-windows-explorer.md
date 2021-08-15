@@ -1,5 +1,5 @@
 ---
-title: Feil melding når du deler filer fra Windows Utforsker
+title: Feilmelding når du deler filer fra Windows Explorer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030101"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Feil melding når du deler filer fra Windows Utforsker
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Feilmelding når du deler filer fra Windows Explorer
 
-Når du prøver å dele fra Windows Utforsker, kan du få følgende feil melding:
+Når du prøver å dele fra Windows Explorer, kan du få følgende feilmelding:
   
-Beklager, men vi kan ikke nå serveren akkurat nå. Vennligst prøv på nytt senere.
+«Beklager, vi kan ikke nå serveren akkurat nå. Prøv på nytt senere»
   
-Hvis du vil løse feil meldinger, går du til **verktøy** alternativer for Internet t i Internet Explorer \> **Internet Options** \> , og deretter fjerner du merket for **ikke lagre krypterte sider på disken**med tittelen. **Advanced**
+Hvis du vil løse en  feilmelding, går du til Alternativer for Internett-verktøy i Internet Explorer, klikker avansert-fanen og fjerner merket for Ikke lagre krypterte sider \>  \> på  **disken.**
   
- **Obs**! du må kanskje starte nett leseren på nytt for at innstillingen skal gjelde. Hvis du vil ha mer informasjon, ser du [feil meldingen «kan ikke nå serveren akkurat nå» når du deler filer](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Obs!** Det kan hende du må starte nettleseren på nytt for at innstillingen skal tre i kraft. Hvis du vil ha mer [informasjon, kan](https://go.microsoft.com/fwlink/?linkid=2022914)du se feilmeldingen «Kan ikke nå serveren akkurat nå» når du deler filer .
   

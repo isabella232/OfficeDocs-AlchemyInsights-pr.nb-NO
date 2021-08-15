@@ -1,5 +1,5 @@
 ---
-title: Problemer med å få tilgang til Microsoft Defender ATP-portalen
+title: Problemer med tilgang til Microsoft Defender ATP-portalen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013577"
 ---
-# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemer med å få tilgang til Microsoft Defender ATP-portalen
+# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemer med tilgang til Microsoft Defender ATP-portalen
 
-Hvis du får meldingen «Abonnementet er utløpt», er abonnementet på nettjenesten utløpt. Et Microsoft Defender ATP-abonnement, i likhet med andre abonnementer på nettjenester, har en utløpsdato.
+Hvis du får meldingen «Abonnementet er utløpt», har abonnementet på nettjenesten utløpt. Et Microsoft Defender ATP-abonnement, som andre nettbaserte tjenesteabonnementer, har en utløpsdato.
 
-Meldingen «Abonnementet har utløpt» vises med et alternativ for å laste ned pakken for avlasting av enheten hvis du velger ikke å fornye lisensen.
+Meldingen «Abonnementet er utløpt» vises med et alternativ for å laste ned enhetens avlastningspakke hvis du velger ikke å fornye lisensen.

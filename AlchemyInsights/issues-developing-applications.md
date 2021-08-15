@@ -13,49 +13,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013433"
 ---
 # <a name="issues-developing-applications"></a>Problemer med å utvikle programmer
 
-Hvis du vil feilsøke de vanligste problemene ved bygging av Azure Active Directory-apper (AD), kan du se følgende artikler:
+Hvis du vil feilsøke de vanligste problemene når du Azure Active Directory (AD)-apper, kan du se følgende artikler:
 
-- [Jeg har problemer med å logge deg på programmet (ene) ved bruk av Chrome-leser](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [Jeg vet ikke hvordan du endrer standard verdien for leve tiden for token for programmet](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
-- [Jeg er forvirret om hvordan program samtykke fungerer](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
+- [Jeg ser problemer med å logge på program(er) bare ved hjelp av Chrome-nettleseren](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [Jeg vet ikke hvordan jeg endrer standardverdiene for tokenlevetid for programmet](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
+- [Jeg er forvirret over hvordan programsamtykke fungerer](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
 - [Jeg vet ikke hvordan jeg gir tillatelser til programmet mitt](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
-- [Jeg forstår ikke forskjellen mellom delegerte og applikasjons tillatelser](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
+- [Jeg forstår ikke forskjellen mellom delegerte tillatelser og programtillatelser](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Slutten av støtte for Azure Active Directory Authentication Library (ADAL) og Azure ad Graph API (AAD-graf)** _
+***Slutt på støtte for Azure Active Directory autentiseringsbibliotek (ADAL) og Azure AD Graph API (AAD Graph)***
 
-- Fra og med 30. juni 2020 vil vi ikke lenger legge til nye funksjoner i Azure Active Directory Authentication Library (ADAL) og Azure AD Graph API (AAD-graf). Vi vil fortsette å gi tekniske støtte og sikkerhets oppdateringer, men vil ikke lenger gi funksjons oppdateringer.
+- Fra og med 30. juni 2020 kommer vi ikke til å legge til nye funksjoner i godkjenningsbiblioteket for Azure Active Directory (ADAL) og Azure AD Graph-API-en (AAD Graph). Vi vil fortsette å tilby teknisk støtte og sikkerhetsoppdateringer, men vi vil ikke lenger tilby funksjonsoppdateringer.
 
-- Fra og med 30. juni 2022 vil vi avslutte støtte for ADAL og AAD-graf og vil ikke lenger gi tekniske støtte eller sikkerhets oppdateringer. Som følge av denne situasjonen er følgende implikasjoner:
+- Fra og med 30. juni 2022 vil vi avvikle støtten for ADAL og AAD Graph og vil ikke lenger tilby teknisk støtte eller sikkerhetsoppdateringer. Som et resultat av denne betingelsen er følgende konsekvenser:
 
-    - Apper som bruker ADAL på eksisterende OS-versjoner vil fortsatt fungere etter denne tiden, men får ingen tekniske støtte eller sikkerhets oppdateringer.
+    - Apper som bruker ADAL på eksisterende operativsystemversjoner, vil fortsette å fungere etter dette tidspunktet, men vil ikke få teknisk støtte eller sikkerhetsoppdateringer.
 
-    - Apper som bruker AAD Graph etter dette tidspunktet vil kanskje ikke lenger motta svar fra ende punktet til AAD-Graph
+    - Apper som bruker AAD Graph etter dette tidspunktet, kan ikke lenger motta svar fra AAD-Graph endepunktet
 
-_ *ADAL-overføring**
+**ADAL-overføring**
 
-Hvis du bruker Microsoft-apper, anbefaler vi at du oppdaterer til Microsoft Authentication Library (MSAL), som har de nyeste funksjonene og sikkerhets oppdateringene. Denne anbefalingen er i konteksten til Microsoft som starter prosessen med å overføre sine apper til MSAL av tids fristen for slutt på støtte. 
+Hvis du bruker Microsoft-apper, anbefaler vi å oppdatere til Microsoft Authentication Library (MSAL), som har de nyeste funksjonene og sikkerhetsoppdateringene. Denne anbefalingen er i sammenheng med at Microsoft starter prosessen med å overføre appene til MSAL innen tidsfristen for slutten av støtten. 
 
-Overføringen av Microsoft-appene til MSAL sikrer at appene drar nytte av MSALs kontinuerlige sikkerhets-og funksjons forbedringer.
+Overføringen av Microsofts apper til MSAL sikrer at appene drar nytte av MSALs pågående sikkerhets- og funksjonsforbedringer.
 
-1. [Les ADAL vanlige spørsmål](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-2. [Lær om hvordan du overfører apper på en per-plattform-basis](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-3. Hvis du trenger hjelp til å forstå hvilke av appene dine som bruker ADAL, anbefaler vi at du ser gjennom alle appenes kilde kode og, hvis det er aktuelt, nå ut til alle uavhengige program vare leverandører (ISV-er) eller program leverandører. Microsoft kunde støtte kan også gi deg en liste over alle ikke-Microsoft-ADAL-apper i leieren din.
+1. [Les Vanlige spørsmål om ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+2. [Finn ut hvordan du overfører apper per plattform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+3. Hvis du trenger hjelp til å forstå hvilke av appene som bruker ADAL, anbefaler vi at du går gjennom alle appenes kildekode, og eventuelt kan ta kontakt med uavhengige programvareleverandører eller appleverandører. Microsoft Kundestøtte kan også gi deg en liste over alle ADAL-appene i tenanten som ikke er fra Microsoft.
 
-**Overføring av AAD-graf**
+**AAD Graph-overføring**
 
-For programmer som bruker AAD-grafen, følger du veiledningen vår for å overføre apper for AAD-graf til Microsoft Graph:
+For programmer som bruker AAD Graph, følger du veiledningen vår for å overføre AAD Graph-apper til Microsoft Graph:
 
-1. [Overførings sjekk listen vår gir et komme i gang-punkt](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-2. Registrerings portalen for Azure-apper viser hvilke programmer som bruker AAD-graf. Vi anbefaler at du ser gjennom alle appenes kilde kode, og når det er aktuelt, nå til alle uavhengige program vare leverandører (ISV) eller program leverandører. Microsoft kunde støtte kan også gi deg informasjon om AAD Graph-bruk i leieren din.
+1. [Sjekklisten for overføring gir et utgangspunkt for å komme i gang](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+2. Appregistreringsportalen for Azure viser hvilke programmer som bruker AAD Graph. Vi anbefaler at du går gjennom kildekoden til alle appene dine, og hvis det er aktuelt, kan du ta kontakt med uavhengige programvareleverandører eller appleverandører. Microsoft Kundestøtte kan også gi deg informasjon om AAD Graph bruk i leieren.
 
 
 

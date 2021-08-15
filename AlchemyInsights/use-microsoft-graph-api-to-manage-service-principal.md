@@ -1,5 +1,5 @@
 ---
-title: Bruke Microsoft Graph API til å administrere tjeneste objektet
+title: Bruke Microsoft Graph API til å administrere tjenesteprinsipp
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038013"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Bruke Microsoft Graph API til å administrere tjeneste objektet
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Bruke Microsoft Graph API til å administrere tjenesteprinsipp
 
-Med [service PRINCIPAL API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)kan du programmatisk behandle forekomster av programmer og kontrollere hva et program kan gjøre i leieren din.
+Med [tjenesteprinsipp-API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)kan du programmatisk administrere forekomster av programmer og kontrollere hva et program kan gjøre i leieren.
 
-Hvis du vil ha mer informasjon om forholdet mellom program-og tjeneste objekter, kan du se [program-og tjeneste objektet i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Hvis du vil ha mer informasjon om forholdet mellom programmer og tjenesteprinsipper, kan du se programmer [og tjenesteprinsippobjekter i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).

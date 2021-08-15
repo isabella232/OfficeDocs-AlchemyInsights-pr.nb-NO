@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979070"
 ---
 # <a name="how-users-open-an-encrypted-email-message"></a>Slik åpner brukere en kryptert e-postmelding
 
 Nedenfor finner du noen av scenarioene som beskriver hvordan brukere som mottar en kryptert e-postmelding, åpner den:
 
-- Hvis brukeren bruker en Office 365-e-postkonto, kan brukeren vise den på samme måte som alle andre meldinger.
+- Hvis brukeren bruker en Office 365 e-postkonto, kan brukeren vise den på samme måte som alle andre meldinger.
 - Hvis brukeren bruker Gmail, klikker  de Klikk her for å klargjøre meldingen, og deretter logger de på, og klikker Tillat **for** å vise meldingen.
 - Hvis brukeren bruker Yahoo eller en annen Internett-leverandør, klikker de **Les** meldingen eller Klikk her for **å lese meldingen.** De ser en kobling for å få et engangspassord. De må klikke koblingen for å få passordet, og deretter skrive inn passordet. Deretter kan de vise meldingen i en nettleser.
 - Hvis brukere ikke mottar krypterte e-postmeldinger, må de sjekke søppelpost- **eller** **søppelpostmappen.**
