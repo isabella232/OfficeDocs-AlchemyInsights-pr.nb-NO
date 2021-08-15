@@ -1,5 +1,5 @@
 ---
-title: Deling av 410-kalender i office365
+title: 410 Kalenderdeling i Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
-ms.openlocfilehash: 8f70e566882dd90f4918eb0462e2165a25cdecf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1e2e8c5aa0ed37457114ffe9edf385dbe865a570ddb823ce9f44bd1391d9bd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979574"
 ---
-# <a name="calendar-sharing"></a>Kalender deling
+# <a name="calendar-sharing"></a>Kalenderdeling
 
-Hvis du har problemer med å få tilgang til kalenderen eller andre kalendere, kan du bruke [Microsoft-assistent for støtte og gjenoppretting for microsoft 365](https://diagnostics.office.com/).
+Hvis du har problemer med å få tilgang til kalenderen eller andre kalendere, kan du bruke [Microsoft assistent for støtte og gjenoppretting for Microsoft 365.](https://diagnostics.office.com/)
   
-Hvis du vil lære mer om deling av kalenderen, kan du se [dele en Outlook-kalender med andre personer](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Hvis du vil lære mer om deling av kalenderen, kan [du se Dele en Outlook kalender med andre](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
