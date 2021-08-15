@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983462"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Eksisterende Premium-abonnenter**
+**Eksisterende Premium abonnenter**
 
-- Hvis du allerede har et Outlook.com Premium-abonnement, kan du lese [vanlige spørsmål om Outlook.com-premie](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Hvis du allerede har et Outlook.com Premium abonnement, kan du lese [vanlige spørsmål Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy)Premium .
 
 **Nye abonnenter**
 
-- Vi beklager, men Outlook.com Premium er nå lukket for nye abonnenter.
-- Mange av [funksjonene og fordelene](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) er nå inkludert i [abonnementer på Microsoft 365 Home og Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Vi beklager, men Outlook.com Premium nå lukket for nye abonnenter.
+- Mange av funksjonene [og fordelene er](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) nå inkludert i abonnementer for å Microsoft 365 Home og [Microsoft 365 Personal.](https://go.microsoft.com/fwlink/?linkid=2017122)
