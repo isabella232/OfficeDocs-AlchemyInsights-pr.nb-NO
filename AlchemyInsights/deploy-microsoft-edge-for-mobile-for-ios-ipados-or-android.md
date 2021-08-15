@@ -1,5 +1,5 @@
 ---
-title: Distribuere Microsoft Edge for mobile for iOS/iPadOS eller Android
+title: Distribuere Microsoft Edge for Mobile for iOS/iPadOS eller Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005459"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Distribuere Microsoft Edge for mobile for iOS/iPadOS eller Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Distribuere Microsoft Edge for Mobile for iOS/iPadOS eller Android
 
-Veilednings scenarioet som summeres nedenfor, hjelper deg med å tilordne Microsoft Edge til brukere av iOS-, iPadOS-og Android-enheter. Når du har fullført disse trinnene, vil Microsoft Intune-policyer aktivere følgende funksjoner i Microsoft Edge for bedrifter:
+Det veiledede scenarioet som er oppsummert nedenfor, hjelper deg med å Microsoft Edge til brukere av iOS-, iPadOS- og Android-enheter. Når du har fullført disse trinnene, Microsoft Intune policyer aktivere følgende funksjoner i Microsoft Edge for bedrifter:
 
 - Dobbel identitet
-- Integrasjon med policy for Microsoft Intune app Protection
-- Integrasjon med programproxy for Azure Active Directory
-- Administrerte favoritter og hurtig taster for hjemme side
+- Integrering med Microsoft Intune appbeskyttelsespolicy
+- Integrasjon med Azure Active Directory programproxy
+- Administrerte favoritter og snarveier på hjemmesiden
 
 > [!NOTE]
-> Hvis du blokkerte brukere fra å registrere mobile enheter, vil ikke dette veilednings scenarioet fungere, og brukerne må installere Microsoft Edge på egen hånd.
+> Hvis du har blokkert brukere fra å registrere mobile enheter, vil ikke dette veiledede scenarioet fungere, og brukerne må installere Microsoft Edge på egen hånd.
 
-Hvis du vil distribuere Microsoft Edge for mobile for iOS/iPadOS eller Android, kan du se:
+Hvis du vil Microsoft Edge for Mobile for iOS/iPadOS eller Android, kan du se:
 
 1. [Forutsetninger](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Innledning](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Hvordan](https://go.microsoft.com/fwlink/?linkid=2133421)
+3. [Grunnleggende](https://go.microsoft.com/fwlink/?linkid=2133421)
 4. [Konfigurasjon](https://go.microsoft.com/fwlink/?linkid=2133521)
 5. [Oppgaver](https://go.microsoft.com/fwlink/?linkid=2132869)
-6. [Se gjennom og opprette](https://go.microsoft.com/fwlink/?linkid=2133522)
+6. [Se gjennom og oppretting](https://go.microsoft.com/fwlink/?linkid=2133522)

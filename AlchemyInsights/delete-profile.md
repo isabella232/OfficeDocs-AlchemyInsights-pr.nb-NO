@@ -1,5 +1,5 @@
 ---
-title: 1800001 Slett profil
+title: 1800001 Slette profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005531"
 ---
 # <a name="delete-a-profile"></a>Slette en profil
 
-Følg Fremgangs måten nedenfor for å slette en profil.
+Hvis du vil slette en profil, bruker du fremgangsmåten nedenfor.
   
-1. Velg innstillinger for **fil** konto i Outlook for å \> **Account Settings** \> **administrere profiler**.
+1. I Outlook velger du  \> **Filkonto Innstillinger** Behandle \> **profiler**.
 
 2. Velg **Vis profiler**.
 
-3. Velg profilen du vil slette, i dialog boksen **e-post** , og klikk deretter **Fjern**.
+3. Velg **profilen** du vil slette, i dialogboksen E-post, og klikk deretter **Fjern**.
 
     > [!NOTE]
-    > Outlook kan advare deg om at sletting av profilen vil fjerne frakoblede data. Du mister ikke informasjon som er lagret i data filene for Outlook (PST) eller informasjon som er lagret i Internett-kontoene dine, for eksempel Outlook.com-, Exchange-eller Microsoft 365-kontoer.
+    > Outlook kan varsle deg om at sletting av profilen vil fjerne frakoblede data. Du mister ikke informasjon som er lagret i Outlook-datafiler (PST) eller informasjon som er lagret i nettkontoene dine, for eksempel Outlook.com, Exchange eller Microsoft 365 kontoer.
   
-For profil behandling for **Outlook for Mac** kan du se [Behandle profiler eller identiteter i Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) eller bruke følgende Fremgangs måte.
+Hvis **Outlook for Mac** bruker profilbehandling, kan du se Administrere profiler [eller identiteter i](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) Outlook for Mac eller følge fremgangsmåten nedenfor.
   
-1. Fra Finder åpner du **programmer** -mappen.
+1. Fra Finder, åpner du **Applikasjoner**-mappen.
 
-2. CTRL + klikk eller høyre klikk på **Microsoft Outlook**, og velg deretter **Vis innhold i pakken**.
+2. Ctrl og klikk eller høyreklikk **Microsoft Outlook**, og velg deretter **Vis pakkeinnhold**.
 
-3. Velg **innhold** \> **som deles av kunde støtte**, og start deretter **Outlook Profile Manager**.
+3. Velg **Delt støtte** for \> **innhold**, og start Outlook **Profilbehandling**.

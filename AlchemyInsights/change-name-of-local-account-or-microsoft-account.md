@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017825"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Endre navnet på en lokal konto eller en Microsoft-konto
 
-Hvis du bruker bare et brukernavn og passord til å logge på Windows 10, bruker du en lokal konto. 
+Hvis du bare bruker et brukernavn og passord til å logge på Windows 10, bruker du en lokal konto. 
 
 **Slik endrer du navnet på en lokal konto:**
 
@@ -37,7 +37,7 @@ Hvis du bruker en e-postadresse og et passord til å logge på, bruker du en Mic
 
 **Slik endrer du visningsnavnet for Microsoft-kontoen:**
 
-Du bruker visningsnavnet når du logger på kontoen. Det er også navnet du ser på Windows 10-enhetene dine, og det er navnet som vises når du sender e-postmeldinger. Dette navnet kan være forskjellig fra visningsnavnet for den lokale kontoen. Slik endrer du visningsnavnet:
+Du bruker visningsnavnet når du logger på kontoen. Det er også navnet du ser på Windows 10 enheter, og det er navnet som vises når du sender e-postmeldinger. Dette navnet kan være forskjellig fra visningsnavnet for den lokale kontoen. Slik endrer du visningsnavnet:
 
 1. Logg på Din **informasjon-siden** på [nettstedet for Microsoft-kontoen.](https://account.microsoft.com/)
 
