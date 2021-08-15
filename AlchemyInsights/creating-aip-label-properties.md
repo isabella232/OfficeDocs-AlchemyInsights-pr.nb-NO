@@ -1,5 +1,5 @@
 ---
-title: Opprette regler for INSTALLASJONs etikett
+title: Opprette AIP-etikettpolicyer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031991"
 ---
-# <a name="creating-aip-label-policies"></a>Opprette regler for INSTALLASJONs etikett
+# <a name="creating-aip-label-policies"></a>Opprette AIP-etikettpolicyer
 
-Azure Information Protection-etiketter kan brukes med hele data området som en organisasjon vanligvis oppretter og lagrer, fra den laveste klassifiseringen av personlige data, til den høyeste klassifiseringen av svært konfidensielle data. Policyer for Azure Information Protection gjelder for Classic-klienten (Azure Information Protection), og ikke den informative,  [enhetlige etikett klienten](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Du kan konfigurere flere elementer i en policy for en administrator, inkludert alternativer som:
+Azure Information Protection(AIP)-etiketter kan brukes med hele dataområdet som en organisasjon vanligvis oppretter og lagrer, fra den laveste klassifiseringen av personlige data, til den høyeste klassifiseringen av svært konfidensielle data. Azure Information Protection Policies gjelder for den klassiske Azure Information Protection(AIP)-klienten og ikke [AIP Unified Labeling-klienten.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Du kan konfigurere flere elementer i en AIP-policy, inkludert alternativer som:
 
-- Alternativ for hvilken etikett vil la administratorer eller bruker klassifisering og beskyttelse (valg fritt) dokumenter og e-postmeldinger
+- Alternativ for hvilken etikett som lar administratorer eller bruker klassifisere og beskytte (valgfrie) dokumenter og e-postmeldinger
 - Alternativ for å fremtvinge klassifisering når brukere lagrer dokumenter og sender e-post
-- Alternativ for å automatisk merke en e-postmelding, basert på vedleggene.
-- Alternativ for å kontrollere om informasjons beskyttelses feltet vises i Office-programmer
+- Alternativ for å merke en e-postmelding automatisk, basert på vedleggene.
+- Alternativ for å kontrollere om informasjonsbeskyttelseslinjen vises i Office programmer
 
-Hvis du vil ha flere alternativer og informasjon om policyer for Azure Information Protection, kan du se: [Oversikt over policyen for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Hvis du vil ha flere alternativer og informasjon om Azure Information Protection-policyer, kan du se: [Oversikt over Azure Information Protection-policyen](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-Hvis du vil ha andre nyttige ressurser vedrørende policyer for å gjøre det.
+Hvis du vil ha andre nyttige ressurser angående AIP-policyer, kan du se:
 
-- [Opplæring: konfigurere policy innstillinger for Azure Information Protection og opprette en ny etikett](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Opplæring: Konfigurere policyinnstillinger for Azure Information Protection og opprette en ny etikett](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - [Konfigurere policyen for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Opprette og konfigurere følsomme etiketter og deres policyer](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Veiledninger for vanlige scenarier som bruker Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Gå gjennom dokumentasjon for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Opprette og konfigurere følsomhetsetiketter og policyene deres](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Veiledninger for vanlige scenarioer som bruker Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Gå gjennom Azure Information Protection-dokumentasjon](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
 - [Krav for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Hurtigst Art opplæring for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Last ned Azure Information Protection-klienten](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Hurtigstartveiledning for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Last ned Azure Information Protection-klient](https://www.microsoft.com/download/details.aspx?id=53018)

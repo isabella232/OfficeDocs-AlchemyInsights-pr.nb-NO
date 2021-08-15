@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969308"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Bruke følsomhetsetiketter automatisk
 
-Følsomhetsetiketter kan brukes manuelt på innhold av brukere, eller du kan konfigurere dem til å brukes automatisk på innhold.
+Følsomhetsetiketter kan brukes manuelt på innhold av brukere, eller du kan konfigurere dem slik at de brukes automatisk på innhold.
 
-Automatisk bruk av følsomhetsetiketter fjerner behovet for å lære opp brukere om hvordan de skal klassifisere innhold og behovet for å varsle dem om policykonfigurasjoner.
+Automatisk bruk av følsomhetsetiketter fjerner behovet for å lære opp brukere om hvordan de klassifiserer innhold, og behovet for å varsle dem om policykonfigurasjoner.
 
-Hvis du vil bruke etiketter automatisk, er følgende obligatorisk:
+Hvis du vil bruke etiketter automatisk, må du gjøre følgende:
 
 - Azure Information Protection P2-abonnement
-- [Laste ned og installere den enhetlige merkingsklienten for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Last ned og installer Azure Information Protection enhetlig merkingsklient](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi jobber med opprinnelig støtte som ikke krever den enhetlige merkingsklienten for Azure Information Protection i fremtiden.
+Vi arbeider med opprinnelig støtte som ikke krever azure Information Protection unified labeling-klienten i fremtiden.
 
-For øyeblikket er det bare Windows som støtter klienten for enhetlig merking.  Funksjonen støttes ennå ikke på Mac, iOS og Android.
+Foreløpig er det Windows støtter den enhetlige etikettklienten.  Funksjonen støttes ennå ikke på Mac, iOS og Android.
 
-Hvis du vil ha mer informasjon om følsomhetsetiketter og automatisk bruk av dem på innhold, kan du se:
+Hvis du vil ha mer informasjon om følsomhetsetiketter og hvordan du bruker dem automatisk på innhold, kan du se:
 
 - [Oversikt over følsomhetsetiketter](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [Bruke en følsomhetsetikett på innhold automatisk](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
