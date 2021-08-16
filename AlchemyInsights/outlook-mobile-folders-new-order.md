@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile-mapper i ny rekkefølge
+title: Outlook Mobilmapper i ny rekkefølge
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000257"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Mappene mine er i en ny rekkefølge
 
-Når du har lagt til favoritt mapper og-grupper i Outlook for iOS og Android, kan du legge merke til at mappene er i en ny rekkefølge. Hvis du har favoritter, ser du en favoritter-del øverst på side stolpen. Du kan legge til Favoritter ved hjelp av blyant ikonet nær toppen av side panelet. Dette vil beholde alle de viktigste mappene og gruppene øverst der du enkelt kan få tilgang til dem.
+Med tillegg av favorittmapper og -grupper Outlook for iOS og Android, vil du kanskje legge merke til at mappene er i en ny rekkefølge. Hvis du har favoritter, ser du en Favoritter-inndeling øverst i sidepanelet. Du kan legge til favoritter ved hjelp av blyantikonet nær toppen av sidepanelet. Dette vil holde alle de viktigste mappene og gruppene øverst der du enkelt kan få tilgang til dem.

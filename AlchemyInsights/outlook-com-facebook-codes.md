@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063961"
 ---
 # <a name="not-receiving-facebook-codes-using-outlookcom"></a>Mottar ikke Facebook-koder ved hjelp av Outlook.com
 
-Hvis du ba om et nytt passord fra Facebook, men ikke mottok e-posten for tilbakestilling av passord:
+Hvis du har bedt om et nytt passord fra Facebook, men ikke har mottatt e-postadressen for tilbakestilling av passord:
 
-- Sjekk søppel [post mappen](https://outlook.live.com/mail/junkemail).
-- Prøv å [tilbakestille Facebook-passordet på nytt](https://aka.ms/facebook-password-reset).
+- Kontroller [søppelpostmappen.](https://outlook.live.com/mail/junkemail)
+- Prøv å [tilbakestille Facebook-passordet på nytt](https://aka.ms/facebook-password-reset).
 
-Hvis du ikke kan tilbakestille passordet fordi du ikke får tilgang til e-post-eller mobil telefon nummeret på kontoen, kan du prøve å bruke innstillingene for å [tilbakestille passordet for Facebook](https://aka.ms/facebook-password-help).
+Hvis du ikke kan tilbakestille passordet fordi du ikke får tilgang til e-postadressen eller mobiltelefonnummeret på kontoen din, kan du prøve [Facebooks](https://aka.ms/facebook-password-help)tilbakestilling av passord Tips .
