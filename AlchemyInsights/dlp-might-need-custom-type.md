@@ -1,5 +1,5 @@
 ---
-title: DLP kan trenge en egen definert type
+title: DLP trenger kanskje en egendefinert type
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030803"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP kan trenge en egen definert type
+# <a name="dlp-might-need-a-custom-type"></a>DLP trenger kanskje en egendefinert type
 
 **Viktig**: I disse enestående tidene tar vi grep for å sikre at SharePoint Online-og OneDrive-tjenester forblir svært tilgjengelige – Gå til [Midlertidige SharePoint Online-funksjoner](https://aka.ms/ODSPAdjustments) for mer informasjon.
 
-**DLP kan kreve en egen definert informasjons type**
+**DLP kan kreve en egendefinert informasjonstype**
 
-Med en policy for hindring av tap av data (HINDRING) kan du identifisere og beskytte sensitive data i organisasjonen. I noen scenarioer kan det hende du må opprette en egen **definert** sensitiv informasjons type for å beskytte organisasjonens data.
+Med en policy for hindring av datatap (DLP) kan du identifisere og beskytte sensitive data i organisasjonen. I noen scenarioer må du kanskje opprette din egen egendefinerte **sensitive** informasjonstype for å beskytte organisasjonens data.
 
-Organisasjonen kan for eksempel identifisere og beskytte ansatt-IDer eller andre data i et bestemt format for organisasjonen. Hvis dette er tilfelle, kan du se følgende artikler for mer informasjon.
+Organisasjonen må for eksempel kanskje identifisere og beskytte ansatt-ID-er eller andre data i et format som er spesifikk for organisasjonen. Hvis dette er det, kan du se følgende artikler for mer informasjon.
   
- **Tilpasse en innebygd sensitiv informasjons type**
+ **Tilpasse en innebygd sensitiv informasjonstype**
   
-Hvis en innebygd sensitiv informasjons type oppfyller behovene dine med bare noen få tilpasninger, kan du [tilpasse en innebygd sensitiv informasjons type](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Du kan for eksempel legge til eller fjerne nøkkel ord, eller legge til eller fjerne støtte bevis som en dato eller adresse.
+Hvis en innebygd sensitiv informasjonstype oppfyller behovene dine med bare noen få tilpasninger, kan du tilpasse en innebygd [sensitiv informasjonstype.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Du kan for eksempel legge til eller fjerne nøkkelord, eller legge til eller fjerne støttebevis, for eksempel en dato eller adresse.
   
- **Opprette en egen definert sensitiv informasjons type**
+ **Opprette en egendefinert sensitiv informasjonstype**
   
-Men hvis du trenger å identifisere og beskytte en annen type sensitiv informasjon helt, kan du [opprette en egen definert sensitiv informasjons type](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) i bruker grensesnittet til sikkerhets & samsvars senteret.
+Men hvis du trenger å identifisere og beskytte en annen type sensitiv informasjon, kan du opprette en egendefinert [sensitiv](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) informasjonstype i brukergrensesnittet i sikkerhetssenteret & samsvarssenteret.
   
-**Opprette en egen definert sensitiv informasjons type i sikkerhets & overholdelses senteret PowerShell**
+**Opprette en egendefinert sensitiv informasjonstype i Sikkerhets- & PowerShell**
 
-Til slutt, hvis bruker grensesnittet ikke gir alle alternativene du trenger, kan du [opprette en egen definert sensitiv informasjons type i sikkerhets & Overholdelses senteret PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Når du starter med en XML-fil, kan du bruke alle alternativene som er tilgjengelige.
+Hvis brukergrensesnittet ikke har alle alternativene du trenger, kan du opprette en egendefinert sensitiv informasjonstype i [PowerShell & Security & Compliance Center.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Ved å begynne med en XML-fil kan du bruke alle tilgjengelige alternativer.

@@ -1,5 +1,5 @@
 ---
-title: Aktivere kostnads styring
+title: Aktivere kostnadsstyring
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003578"
 ---
-# <a name="enable-cost-management"></a>Aktivere kostnads styring
+# <a name="enable-cost-management"></a>Aktivere kostnadsstyring
 
-**Hva er kostnadene deaktivert for organisasjonen?**
+**Hva betyr «kostnader er deaktivert for organisasjonen»?**
 
-Organisasjoner som bruker Enterprise Agreement (EA) eller MCA-kontoer (Microsoft Customer Agreement), kan deaktivere tilgang til kostnads informasjon og pris informasjon.
+Organisasjoner som Microsoft Foretaksavtale (EA) eller Microsoft Customer Agreement (MCA)-kontoer, kan deaktivere tilgang til kostnadsinformasjon og prisinformasjon.
 
-Når du logger deg på Azure-portalen, kan de bruke fakturerings-APIene til å få fakturaer i en programmatisk (når det er registrert) og bruks detaljer.
+Når de har logget på Azure-portalen, kan de bruke fakturerings-API-ene til å hente fakturaer (når de er valgt inn) og bruksdetaljer.
 
 **Slik tillater du at flere brukere får tilgang til fakturaer**
 
-1. Gå til **abonnements blad** i Azure-portalen.
-2. Velg **fakturaer** og deretter **tilgang til fakturaer**.
-3. Slå på Access, etterfulgt av endringer, slik at brukere i abonnements relaterte roller kan laste ned fakturaer.
+1. Gå til **Abonnementer-bladet** i Azure Portal.
+2. Velg **Fakturaer** og deretter **Tilgang til fakturaer**.
+3. Aktiver tilgangen, etterfulgt av å lagre endringene, slik at brukere i abonnementsomfangsroller kan laste ned fakturaer.
 
 > [!NOTE]
-> Konto administratoren kan også konfigurere til å få fakturaer sendt via e-post. Hvis du vil ha mer informasjon, kan du se [få fakturaen i e-post](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+> Kontoadministratoren kan også konfigurere slik at fakturaer sendes via e-post. Hvis du vil ha mer informasjon, [kan du se Få fakturaen i e-post](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
-**Slik legger du til brukere i rollen som fakturerings leser**
+**Slik legger du til brukere i faktureringsleserrollen**
 
-1. Gå til **abonnements blad** i Azure-portalen.
-2. Velg **tilgangs kontroll (iam)** , og klikk deretter **Legg til**.
-3. Velg **fakturerings leser** på siden **Velg en rolle** .
-4. Skriv inn e-postadressen til brukeren du vil invitere, og klikk deretter **OK** for å sende invitasjonen.
-5. Følg instruksjonene som er oppgitt i invitasjons-e-post for å logge på som en fakturerings leser. Hvis du vil ha mer informasjon, kan du se [gi tilgang til fakturering](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+1. Gå til **Abonnementer-bladet** i Azure Portal.
+2. Velg **Access-kontroll (IAM),** og klikk deretter Legg **til**.
+3. Velg **Faktureringsleser** på **siden Velg en rolle.**
+4. Skriv inn e-postmeldingen til brukeren du vil invitere, og klikk deretter **OK** for å sende invitasjonen.
+5. Følg instruksjonene i invitasjons-e-postmeldingen for å logge på som en faktureringsleser. Hvis du vil ha mer informasjon, [kan du se Gi tilgang til fakturering](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
 
 **Anbefalte dokumenter**
 
-- [Aktiver DA og AO visninger via Enterprise Portal](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
-- [Kostnader som er inkludert i kostnads styring](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [Støttet Microsoft Azure-tilbud](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
-- [Se gjennom kostnader i kostnads analyse](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [Gi tilgang til fakturerings informasjon](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Kontrollere tilgang til en Microsoft-kunde avtale](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Aktivere DA- og AO-visninger via EA-portalen](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [Kostnader som er inkludert i Kostnadsstyring](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [Støttede Microsoft Azure tilbud](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [Se gjennom kostnader i kostnadsanalyse](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [Gi tilgang til faktureringsinformasjon](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kontroller tilgang til en Microsoft-kundeavtale](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

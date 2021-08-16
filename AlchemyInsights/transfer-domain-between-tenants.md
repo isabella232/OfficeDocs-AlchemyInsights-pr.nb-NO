@@ -1,5 +1,5 @@
 ---
-title: Overføre domene mellom tenanter
+title: Overføre domene mellom leiere
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048633"
 ---
-# <a name="transfer-domain-between-tenants"></a>Overføre domene mellom tenanter
+# <a name="transfer-domain-between-tenants"></a>Overføre domene mellom leiere
 
-Et egen definert domene, for eksempel forthcoffee.com, kan fjernes manuelt fra én Tenant og deretter bekreftes i en ny Tenant.
+Et egendefinert domene, for eksempel forthcoffee.com, kan fjernes manuelt fra én leier og deretter bekreftes i en ny leier.
 
-Følg disse trinnene for å [fjerne et domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). I den nye leieren går du til **Innstillinger**-  >  **domener** og  >  **legger til domene**.
+Følg disse trinnene for [å fjerne et domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). I den nye leieren går du **til** Innstillinger  >  **Domener Legg** til  >  **domene**.
 
-Hvis du vil ha mer komplekse scenarier, kan du se [Microsoft 365 leie-til-leie-overføringer](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Hvis du vil ha mer komplekse scenarier, [Microsoft 365 leier-til-leier-overføringer](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
 
-**Legg også merke til**:
-- Det opprinnelige onmicrosoft.com-domenet kan ikke slettes eller flyttes mellom tenanter.
-- Et egen definert domene kjøpt fra Microsoft kan ikke flyttes mellom tenanter.
+**Merk også:**
+- Det første onmicrosoft.com domenet kan ikke slettes eller flyttes mellom leiere.
+- Et egendefinert domene som er kjøpt fra Microsoft, kan ikke flyttes mellom leiere.

@@ -1,5 +1,5 @@
 ---
-title: Behandle representant tillatelser for en enkelt mappe i Outlook for Mac
+title: Behandle representanttillatelser for én enkelt mappe i Outlook for Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066805"
 ---
-# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Behandle representant tillatelser for en enkelt mappe i Outlook for Mac
+# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Behandle representanttillatelser for én enkelt mappe i Outlook for Mac
 
-1. Velg mappen du vil endre, i navigasjons ruten.
-2. Velg **tillatelser** i kalender på **Ordne** -fanen, og velg **mappe tillatelser** i e-post eller personer.
+1. Velg mappen du vil endre, i navigasjonsruten.
+2. Velg Tillatelser **i** kalender på Organiser-fanen, og velg **Mappetillatelser** i E-post eller Personer. 
 3. Klikk navnet på personen du vil endre tillatelsene for.
-4. Velg tilgangs nivået du vil bruke, i **tillatelses nivå** -listen. Individuelle tillatelses nivåer fylles automatisk inn basert på utvalget ditt i listen.
+4. Velg **tilgangsnivået** du vil bruke, i Tillatelsesnivå-listen. Individuelle tilgangsnivåer fylles automatisk ut basert på valget i listen.
 
-Hvis du vil tilpasse tillatelses nivåene, merker du av for elementene du vil bruke, og deretter velger du tilgangs nivået du vil bruke, under **Rediger elementer** og **Slett elementer**.
+Hvis du vil tilpasse tilgangsnivåene, merker du av for elementene du vil bruke, og deretter velger du tilgangsnivået du vil **bruke,** under Rediger elementer og Slett elementer.
 
 > [!NOTE]
-> Hvis du angir tilgangs nivået til **ingen**, forblir representanten på listen, slik at du raskt kan aktivere tillatelser senere. Hvis du vil ha informasjon om tilgangs nivåer, kan du se [om deling og delegering](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
+> Hvis du angir tilgangsnivået til **Ingen,** forblir representanten på listen, slik at du raskt kan gjenoppta tillatelser senere. Hvis du vil ha informasjon om tilgangsnivåene, kan [du se Om deling og delegering](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
