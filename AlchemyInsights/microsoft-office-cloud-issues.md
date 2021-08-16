@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012425"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Har du problemer med en sky tjeneste?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Har du problemer med en skytjeneste?
 
-Hvis du har problemer med en sky tjeneste, kan du kontrollere [tjeneste tilstanden](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) i administrasjons senteret for Microsoft 365 for å finne ut om det er et kjent problem med en løsning som pågår, før du ringer feil søking for kunde støtte eller bruks tid. Problemet kan være svært midlertidig og allerede identifisert av Microsoft, men det kan være forkortelses i tid mellom problem identifikasjon og postering til instrument bordet for tjeneste tilstand. Fortsett å kontrollere tjeneste instrument bordet for ytterligere oppdateringer.
+Hvis du har problemer med en skytjeneste, [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kan du kontrollere tjenestetilstanden i Administrasjonssenter for Microsoft 365 for å finne ut om det er et kjent problem med en pågående løsning før du ringer kundestøtte eller bruker tid på feilsøking. Problemet kan være svært midlertidig og allerede identifisert av Microsoft, men det kan være forfalskt i tid mellom problem-ID og publisering på instrumentbordet for tjenestetilstand. Fortsett å se etter flere oppdateringer på instrumentbordet for tjenesten.
 
-**Varslings policy**
+**Varslingspolicy**
 
-Når det oppstår en tjeneste hendelse, gjenkjenner Microsoft at rett, målrettet og nøyaktig kommunikasjon er viktig for kunder. Microsoft varsler administratorer ved å oppdatere det leietaker spesifikke [tjeneste tilstands instrument bord (shd)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Microsoft 365 admin Portal. Oppdateringer for tjeneste hendelser leveres på en time frekvensen eller, hvis en annen frekvensen kreves, angis det i SHD kommunikasjons postering. Hvis du vil ha mer informasjon, kan du se [slik sjekker du tjeneste tilstand for Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Når det oppstår en tjenestehendelse, anerkjenner Microsoft at riktig, målrettet og nøyaktig kommunikasjon er viktig for kundene. Microsoft varsler administratorer ved å oppdatere det leierspesifikke tjenestetilstandsinstrumentbordet [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Microsoft 365 administrasjon-portalen. Oppdateringer av tjenestehendelser gis på en timefrekvens, eller, hvis en annen frekvens er nødvendig, vil det bli angitt i SHD-kommunikasjonsposten. Hvis du vil ha mer informasjon, [kan du se Slik Microsoft 365 tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

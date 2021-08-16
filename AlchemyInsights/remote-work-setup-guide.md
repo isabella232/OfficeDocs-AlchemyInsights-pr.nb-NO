@@ -1,5 +1,5 @@
 ---
-title: Konfigurasjons veiledning for ekstern arbeid
+title: Installasjonsveiledning for eksternt arbeid
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023999"
 ---
-# <a name="remote-work-setup-guide"></a>Konfigurasjons veiledning for ekstern arbeid
+# <a name="remote-work-setup-guide"></a>Installasjonsveiledning for eksternt arbeid
 
-Mer og mer arbeid gjøres eksternt. Organisasjonen må være utstyrt for å administrere den økte etterspørselen i det eksterne arbeidet.
+Mer og mer arbeid gjøres eksternt. Organisasjonen må være utstyrt for å håndtere det økte behovet for eksternt arbeid.
 
-Bruk [veiledningen for ekstern arbeids konfigurasjon](https://go.microsoft.com/fwlink/?linkid=2142062) for å aktivere grunnleggende sikkerhets funksjoner og se gjennom flere sikkerhets anbefalinger. Du får veiledning for å redusere begrensningen i din VPN-infrastruktur og eventuelt konfigurere ekstern tilgang for stasjonære og apper. Deretter skal du se gjennom alternativene for å distribuere Microsoft Teams og Office-apper.
+Bruk [installasjonsveiledningen for eksternt arbeid til](https://go.microsoft.com/fwlink/?linkid=2142062) å aktivere viktige sikkerhetsfunksjoner og se gjennom flere sikkerhetsanbefalinger. Du får veiledning for å redusere belastningen på VPN-infrastrukturen og eventuelt konfigurere ekstern tilgang for skrivebord og apper. Deretter ser du gjennom alternativene for å distribuere Microsoft Teams og Office apper.

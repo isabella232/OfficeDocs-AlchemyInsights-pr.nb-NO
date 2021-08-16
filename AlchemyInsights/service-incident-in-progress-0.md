@@ -1,5 +1,5 @@
 ---
-title: Tjeneste hendelse som pågår
+title: Tjenestehendelse pågår
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -18,19 +18,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 8da7304ca776700322dff9db351a6ee60cca71dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4e89801d500b4d75680ac2a973a7ef3adef16e414bdc0636c222dde6e462cd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052215"
 ---
-# <a name="service-incident-in-progress"></a>Tjeneste hendelse som pågår
+# <a name="service-incident-in-progress"></a>Tjenestehendelse pågår
 
-Du kan bli påvirket av en tjeneste hendelse eller veiledning som blir undersøkt for øyeblikket. Du kan kontrollere den nyeste statusen ved å gå til [tjeneste tilstand](https://admin.microsoft.com/adminportal/home#/servicehealth) -siden.
+Du kan bli påvirket av en tjenestehendelse eller veiledning som for øyeblikket undersøkes. Du kan kontrollere den nyeste statusen ved å gå til [Tjenestetilstand-siden.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Du kan få en oversikt over denne hendelsen nedenfor:
+For enkelhets skyld kan du finne et sammendrag av denne hendelsen nedenfor:
   
-> **Hendelses nummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Hendelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
-> Innvirknings beskrivelse: {ImpactDescription}
+> Innvirkningsbeskrivelse: {ImpactDescription}

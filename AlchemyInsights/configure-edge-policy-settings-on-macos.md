@@ -1,5 +1,5 @@
 ---
-title: Bruke Jamf til å konfigurere policyinnstillinger for Microsoft Edge på macOS
+title: Bruke Jamf til å konfigurere Microsoft Edge policyinnstillinger på macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -16,15 +16,15 @@ ms.custom:
 - "6901"
 - "8360"
 - "11115"
-ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: bce0cf25800fae2d6adc27a7f6fd90528e042323c6f9c1fda0c4fb6f139d46b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994622"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Bruke Jamf til å konfigurere policyinnstillinger for Microsoft Edge på macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Bruke Jamf til å konfigurere Microsoft Edge policyinnstillinger på macOS
 
-Hvis du vil konfigurere Microsoft Edge (Stable channel 81 eller nyere) på macOS, bruker du en Microsoft Edge-policymanifestfil på Jamf Pro 10.19.
+Hvis du Microsoft Edge (Stable channel 81 eller nyere) på macOS, bruker du en Microsoft Edge policymanifestfil på Jamf Pro 10.19.
 
-Hvis du vil ha mer informasjon, kan du se Konfigurere policyinnstillinger for [Microsoft Edge på macOS med Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+Hvis du vil ha mer informasjon, [kan du se Konfigurere Microsoft Edge policyinnstillinger på macOS med Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).

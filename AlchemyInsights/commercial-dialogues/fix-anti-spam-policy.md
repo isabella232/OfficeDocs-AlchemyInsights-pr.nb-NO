@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988268"
 ---
 # <a name="fix-anti-spam-policy"></a>Løse søppelpostpolicy
 
 En egendefinert policy for søppelpost i leieren påvirket denne meldingen. Gjør følgende for å se gjennom policyen:
 
-1. Gå til sikkerhets- og samsvarssenteret [for Office 365 &](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til Policy for beskyttelse mot søppelpost for   >    >  [trusler.](https://go.microsoft.com/fwlink/?linkid=2101518)
+1. Gå til Office 365 [Sikkerhets- & samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til **Policy** for trusselbehandling  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
 2. Velg Standard **policy** for  søppelpostfilter eller andre egendefinerte policyer du har opprettet, på **Egendefinert-fanen,** og velg deretter Rediger policy .
 3. Utvid **alternativet Egenskaper for søppelpost,** og se gjennom innstillingene for Merk som **søppelpost.**
 

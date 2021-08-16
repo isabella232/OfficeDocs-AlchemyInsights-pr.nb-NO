@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988340"
 ---
 # <a name="create-an-alert-policy"></a>Opprette en varslingspolicy
 
 Slik gjør du dette:
 
-1. Gå til [sikkerhetssenteret for Office 365 & samsvarssenteret](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Gå til [Office 365 Sikkerhets- & Samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Velg **Varslingspolicyer**  >  [](https://go.microsoft.com/fwlink/?linkid=2103208).
 1. Velg **+ Ny varslingspolicy**. Det vises en undermeny.
 1. Angi feltene **Navn,** **Beskrivelse,** **Alvorsgrad** og **Kategori** etter behov. Velg **Neste**.

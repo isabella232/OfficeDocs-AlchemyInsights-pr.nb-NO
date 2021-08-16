@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024431"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>PST data filer i Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST-datafiler i Outlook.com
 
-Det er ikke mulig å importere en Outlook. PST-datafil til Outlook.com-kontoen ved hjelp av en nett leser.
+Det er ikke mulig å importere en Outlook . PST-datafil til Outlook.com-kontoen ved hjelp av en nettleser.
 
-For å importere en. PST-datafil, må du bruke skrive bords versjonen av Outlook. Hvis du vil ha mer informasjon, kan du lese [importere e-post, kontakter og kalender fra en Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Slik importerer du en . PST-datafil, må du bruke Outlook skrivebordsappen. Hvis du vil ha mer informasjon, kan du lese [Importere e-post, kontakter](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy) og kalender fra en Outlook PST.
