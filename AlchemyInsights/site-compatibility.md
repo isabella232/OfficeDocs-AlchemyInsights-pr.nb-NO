@@ -1,5 +1,5 @@
 ---
-title: Lær om nettsteds kompatibilitet – påvirker endringer som kommer til Microsoft Edge
+title: Lær om nettstedskompatibilitet – påvirker endringer som kommer til Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022145"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Lær om nettsteds kompatibilitet – påvirker endringer som kommer til Microsoft Edge
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Lær om nettstedskompatibilitet – påvirker endringer som kommer til Microsoft Edge
 
-Nett leseren utvikler seg kontinuerlig for å forbedre bruker opplevelsen, sikkerheten og person vernet. Noen endringer er betydelige nok til å påvirke funksjonaliteten til eksisterende sider. Microsoft Edge-teamet oppdaterer sidene som tenker, tids linjer solidify og [endringer blir kunngjort](https://go.microsoft.com/fwlink/?linkid=2135534).
+Nettet er i stadig utvikling for å forbedre brukeropplevelsen, sikkerheten og personvernet. Noen endringer er betydelige nok til å påvirke funksjonaliteten til eksisterende sider. Gruppen Microsoft Edge oppdaterer sidene etter hvert som de tenker utvikler seg, tidslinjene støkner og [endringene blir kunngjort.](https://go.microsoft.com/fwlink/?linkid=2135534)
