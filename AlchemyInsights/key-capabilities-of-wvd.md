@@ -1,5 +1,5 @@
 ---
-title: Viktige funksjoner i Windows virtuelt skrive bord
+title: Viktige funksjoner i Windows virtual desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067129"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Viktige funksjoner i Windows virtuelt skrive bord
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Viktige funksjoner i Windows virtual desktop
 
-Windows Virtual Desktop er en stasjonær virtualisering og app-virtualisering-tjeneste som kjører i skyen. Her er det du kan gjøre når du kjører Windows virtuelt skrive bord på Azure:
+Windows Virtuelt skrivebord er en skrivebords-virtualiserings- og app-virtualiseringstjeneste som kjører i skyen. Dette kan du gjøre når du kjører et virtuelt skrivebord Windows Azure:
 
-- Konfigurere en fler økts Windows 10-distribusjon som gir en komplett Windows 10-opplevelse med skalerbar het
-- Virtualiser Microsoft 365-apper, og Optimaliser det for kjøring i virtuelle scenarioer med flere brukere
-- Gi Windows 7-virtuelle skrive bord med gratis utvidede sikkerhets oppdateringer (ESU)
-- Hent eksisterende Remote Desktop Services (RDS) og Windows Server-skrivebord og-apper til en hvilken som helst data maskin
-- Administrere stasjonære og apper i Windows 10, Windows Server og Windows 7 med en samlet administrasjons opplevelse
-- Opprett et komplett miljø for stasjonært virtualisering i Azure-abonnementet ditt uten å måtte kjøre flere Gateway-servere
-- Publiser så mange verts utvalg som du trenger for å få plass til de ulike arbeids mengdene
-- I Azure-galleriet kan du ta dine egne bilder for produksjons arbeids belastninger og tester
-- Redusere kostnader ved hjelp av grupper med ressurser for flere økter
-- Gi enkelt eierskap gjennom personlige skrive bord (faste)
+- Konfigurere en distribusjon med Windows 10 økter som gir en fullstendig Windows 10 opplevelse med skalerbarhet
+- Virtualiser Microsoft 365 Apps, og optimaliser den for å kjøre i virtuelle scenarier for flere brukere
+- Gi Windows 7 virtuelle skrivebord med gratis utvidede sikkerhetsoppdateringer (ESU)
+- Ta med eksisterende Eksterne skrivebordstjenester (RDS) og Windows Server-skrivebord og apper til en hvilken som helst datamaskin
+- Administrer Windows 10, Windows Server og Windows 7 skrivebord og apper med en enhetlig administrasjonsopplevelse
+- Opprett et fullstendig skrivebords-virtualiseringsmiljø i Azure-abonnementet, uten å måtte kjøre flere gatewayservere
+- Publiser så mange vertsutvalg du trenger for å få plass til ulike arbeidsbelastninger
+- Ta med egne bilder for produksjonsarbeidsbelastninger og tester fra Azure-galleriet
+- Redusere kostnader ved hjelp av samlede ressurser med flere økter
+- Gi individuelle eierskap gjennom personlige (vedvarende) skrivebord
 
-Hvis du vil ha mer informasjon, kan du se [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) og [Key Capabilities](https://go.microsoft.com/fwlink/?linkid=2127033).
+Hvis du vil ha mer [informasjon, kan du Windows Funksjoner for Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) og [Key](https://go.microsoft.com/fwlink/?linkid=2127033).
 

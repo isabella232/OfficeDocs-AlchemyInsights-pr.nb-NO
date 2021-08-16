@@ -1,5 +1,5 @@
 ---
-title: Kjøp Azure Active Directory Premium-P2
+title: Kjøp Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996675"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Kjøp Azure Active Directory Premium-P2
+# <a name="buy-azure-active-directory-premium-p2"></a>Kjøp Azure Active Directory Premium P2
 
-Hvis du vil prøve eller kjøpe Azure Active Directory Premium P2, følger du denne Fremgangs måten:
+Hvis du vil prøve eller kjøpe Azure Active Directory Premium P2, følger du disse trinnene:
 
-1. Gå til **fakturerings**  >  -og identitet for **kjøps tjenester**  >  [](https://go.microsoft.com/fwlink/?linkid=2131946), og klikk deretter **Azure Active Directory Premium P2**.
-Hvis du har valgt den gratis prøve perioden, full fører du prosessen ved å følge instruksjonene på siden. ellers går du til trinn 2.
-1. Skriv inn antall bruker lisenser og betalings perioden på neste side, og klikk deretter **Sjekk ut nå**.
-1. Gå gjennom pris informasjon på **Sjekk** -siden, og klikk deretter **neste**.
-1. Skriv inn betalings-og adresse informasjonen på neste side, og plasser deretter bestillingen.
-1. Skriv inn telefon nummeret, og klikk deretter på **tekst meg** eller **Ring meg**.
-1. Skriv inn bekreftelses koden vi har sendt deg, og fullfør deretter prosessen ved å følge instruksjonene på siden.
+1. Gå til  >  **Faktureringskjøpstjenester**  >  [**Sikkerhet og identitet**](https://go.microsoft.com/fwlink/?linkid=2131946), og klikk deretter Azure Active Directory Premium **P2**.
+Hvis du har valgt en gratis prøveperiode, fullfører du prosessen ved å følge instruksjonene på siden. Hvis ikke, går du videre til trinn 2.
+1. Angi antall brukerlisenser og betalingsperioden på neste side, og klikk deretter **Sjekk ut nå**.
+1. Se gjennom prisinformasjonen på **Utsjekking-siden,** og klikk deretter **Neste**.
+1. På neste side skriver du inn betalings- og adresseinformasjonen, og deretter legger du inn bestillingen.
+1. Skriv inn telefonnummeret ditt, og klikk deretter **På Sms eller** Ring **meg.**
+1. Skriv inn bekreftelseskoden vi har sendt deg, og fullfør deretter prosessen ved å følge instruksjonene på siden.

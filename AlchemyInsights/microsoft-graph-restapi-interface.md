@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027203"
 ---
 # <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph REST API-grensesnitt
 
-Graf-API-settene på ende punktet i v 1.0 er i generell tilgjengelighet (GA)-status, og har gått gjennom en streng vurdering og tilbake melding med kunder for å imøtekomme praktisk, produksjons behov.
+De Graph API-settene på v1.0-endepunktet er i generell tilgjengelighetsstatus (GA), og har gått gjennom en grundig gjennomgangs- og tilbakemeldingsprosess med kunder for å dekke praktiske produksjonsbehov.
 
-- Hvis du vil ha mer informasjon om Graph API v 1.0, kan du se [Referanse for Microsoft Graph REST API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Hvis du vil ha mer informasjon om beta versjonen av Graph API, kan du se [Microsoft Graph beta-sluttpunkt-referanse](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Hvis du vil ha mer Graph API v1.0, kan du se Referanse for [Microsoft Graph REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
+- Hvis du vil ha mer informasjon Graph API-betaversjonen, kan du [se Microsoft Graph beta-endepunktreferanse](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
 
-Hvis du vil ha mer informasjon om Microsoft Graph, kan du se [Microsoft Graph-dokumentasjonen](https://docs.microsoft.com/graph/).
+Hvis du vil ha mer informasjon om Microsoft Graph, kan [du se Microsoft Graph dokumentasjon](https://docs.microsoft.com/graph/).
 
 

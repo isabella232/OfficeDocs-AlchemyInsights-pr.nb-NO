@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027392"
 ---
 # <a name="deploy-microsoft-365"></a>Distribuere Microsoft 365
 
-[Distribusjons rådgiveren for Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646) gir kommersielle kunder med veiledning når du konfigurerer produktivitets verktøy, sikkerhets policyer og funksjoner for enhets behandling. Med et Microsoft 365 Business Premium eller Microsoft 365 for Enterprise-abonnement kan du bruke denne rådgiveren til å konfigurere og konfigurere organisasjonens enheter.
+[Distribusjonsrådgiveren Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646) gir kommersielle kunder veiledning når de konfigurerer produktivitetsverktøy, sikkerhetspolicyer og funksjoner for enhetsbehandling. Med en Microsoft 365 Business Premium eller Microsoft 365 for bedriftsabonnement, kan du bruke denne rådgiveren til å konfigurere og konfigurere organisasjonens enheter.
 
-Du får veiledning og tilgang til ressurser for å aktivere Sky tjenestene, oppdatere enheter til den nyeste støttede versjonen av Windows 10, og koble til enheter til Azure Active Directory (Azure AD), alt på én sentral plassering.
+Du vil motta veiledning og tilgang til ressurser for å aktivere skytjenestene, oppdatere enheter til den nyeste støttede versjonen av Windows 10 og bli med i enheter til Azure Active Directory (Azure AD), alt på ett sentralt sted.
