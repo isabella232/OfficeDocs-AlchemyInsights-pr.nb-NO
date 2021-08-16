@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034367"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>Finn ut mer om Microsoft Defender for Office 365
 
@@ -30,7 +30,7 @@ Microsoft Defender for Office 365 er en skybasert e-postfiltreringstjeneste som 
 
 **Hvordan aktiverer jeg Microsoft Defender for Office 365?**
 
-Klarerte vedlegg, klarerte koblinger og phishing er en del av Funksjonen Microsoft Defender for Office 365. Enterprise E5, Education A5 og Microsoft 365 Business innebygde Microsoft Defender for Office 365 funksjoner. Alle andre abonnementer krever et tillegg for Microsoft Defender for Office 365 abonnement. Du må tilordne de aktuelle lisensene til brukerne for å være beskyttet av Microsoft Defender for Office 365. Du må ha globale administrator- eller sikkerhetsadministratortillatelser for å få tilgang til denne funksjonen. Hvis du vil lære mer om hvordan du bruker lisenser samlet for sluttbrukerne, kan du se Tilordne lisenser til brukere i Office 365 [for bedrifter](https://go.microsoft.com/fwlink/?linkid=2093435).
+Safe Vedlegg, Safe koblinger og phishing er en del av Microsoft Defender for Office 365-funksjonen. Enterprise E5, Education A5 og Microsoft 365 Business inkluderer innebygd Microsoft Defender for Office 365 funksjoner. Alle andre abonnementer krever et tillegg for Microsoft Defender for Office 365 abonnement. Du må tilordne de aktuelle lisensene til brukerne for å være beskyttet av Microsoft Defender for Office 365. Du må ha globale administrator- eller sikkerhetsadministratortillatelser for å få tilgang til denne funksjonen. Hvis du vil lære mer om hvordan du bruker lisenser samlet for sluttbrukerne, kan du se Tilordne lisenser til brukere i Office 365 [for bedrifter](https://go.microsoft.com/fwlink/?linkid=2093435).
 
 **Hvordan administrerer jeg Microsoft Defender for Office 365 eller lærer mer om det?**
 

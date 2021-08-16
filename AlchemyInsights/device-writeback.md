@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101959"
 ---
 # <a name="device-writeback"></a>Tilbakeskriving av enhet
 
-Tilbakeskriving av enhet brukes i følgende scenarier:
+Tilbakeskriving av enhet brukes i følgende scenarioer:
 
-- Aktivere [Windows Hello for bedrifter ved hjelp av distribusjon av hybrid sertifikatklarering](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Aktiver betinget tilgang basert på enheter til ADFS (2012 R2 eller høyere) beskyttede programmer (stole på parters klareringer)
+- Aktivere [Windows Hello for Business ved hjelp av distribusjon av hybridsertifikatklarering](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Aktivere betinget tilgang basert på enheter til ADFS (2012 R2 eller nyere) beskyttede programmer (stole på klareringer fra parter)
 
     > [!NOTE]
-    > Det kreves et abonnement på Azure AD Premium for tilbakeskriving av enheter.
+    > Et abonnement på Azure AD Premium kreves for tilbakeskriving av enheten.
 
-Dette gir ekstra sikkerhet og sikring av at tilgang til programmer bare gis til klarerte enheter. Hvis du vil ha mer informasjon om betinget tilgang, kan du se Administrere risiko med betinget [tilgang](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) og konfigurere lokal betinget tilgang ved hjelp av registrering av [Azure Active Directory-enheter.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Dette gir ekstra sikkerhet og sikkerhet for at tilgang til programmer bare gis til klarerte enheter. Hvis du vil ha mer informasjon om betinget tilgang, kan du se Administrere risiko med betinget [tilgang](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) og Konfigurere lokal betinget tilgang ved hjelp [av Azure Active Directory enhetsregistrering](https://docs.microsoft.com/azure/active-directory/devices/overview).
 
-Hvis du vil ha mer informasjon om aktivering av tilbakeskriving av enhet for enheter, kan du se [Aktivere tilbakeskriving av enhet.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Hvis du vil ha mer informasjon om Aktivering av tilbakeskriving av enhet for enheter, kan du se [Aktivere tilbakeskriving av enhet](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
