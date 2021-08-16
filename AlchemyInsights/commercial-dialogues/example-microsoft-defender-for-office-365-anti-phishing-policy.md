@@ -1,5 +1,5 @@
 ---
-title: Eksempel på Microsoft Defender for office 365-policy mot phishing
+title: Eksempel på Microsoft Defender for Office 365 phishing-policy
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035015"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Eksempel på Microsoft Defender for office 365-policy mot phishing
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Eksempel på Microsoft Defender for Office 365 phishing-policy
 
 Disse innstillingene aktiverer en policy kalt *Domene og ADMINISTRERENDE DIREKTØR.* Denne policyen gir både bruker- og domenebeskyttelse mot representasjon og bruker deretter policyen på all e-post som mottas av brukere i domenet. Først legger du til følgende informasjon for å opprette policyen:
 
@@ -33,4 +33,4 @@ Disse innstillingene aktiverer en policy kalt *Domene og ADMINISTRERENDE DIREKT�
   - **Legg til klarerte avsendere og domener:** I dette eksemplet må du ikke definere noen overstyringer.
 - Når du har gått gjennom innstillingene, velger du **Opprett denne policyen** eller **Lagre** etter behov.
 
-Hvis du vil ha mer informasjon, kan du se [Phishing-policyer i Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Hvis du vil ha mer informasjon, kan du [se Phishing-policyer i Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).

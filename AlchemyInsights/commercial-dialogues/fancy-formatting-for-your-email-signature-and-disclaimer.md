@@ -1,5 +1,5 @@
 ---
-title: Avansert formatering for e-postsignatur og ansvarsfraskrivelse
+title: Avansert formatering for e-postsignaturen og ansvarsfraskrivelsen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058695"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Avansert formatering for e-postsignatur og ansvarsfraskrivelse
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Avansert formatering for e-postsignaturen og ansvarsfraskrivelsen
 Hvis du vil ha informasjon om avansert formatering (for eksempel hvordan du legger til ikoner for sosiale medier, bilder og koblinger til organisasjonens ansvarsfraskrivelse), informasjon om kompatibilitet med mobile enheter og mer.
 
-Søk etter ressurser for **e-postsignatur på Internett.** Flere firmaer som tilbyr informasjon og verktøy, er Microsoft Gold Partners.
+Søk etter ressurser for e-postsignatur på **Internett.** Flere selskaper som leverer informasjon og verktøy, er Microsoft Gold-partnere.
