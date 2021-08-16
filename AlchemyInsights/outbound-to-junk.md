@@ -1,5 +1,5 @@
 ---
-title: Utgående e-post til søppel post mappen
+title: Utgående e-post til søppelpostmappe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096667"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Utgående e-post til søppel post mappen
+# <a name="outbound-email-to-junk-email-folder"></a>Utgående e-post til søppelpostmappe
 
-Hvis du ser utgående meldinger som blir merket som søppel post, gjør du følgende:
+Hvis du ser utgående meldinger som merkes som søppelpost, gjør du følgende:
 
-- Hvis du ikke allerede har gjort det, bør du vurdere å [konfigurere policyer for utgående søppel post](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Hvis du ikke allerede har gjort det, kan du vurdere å konfigurere utgående [søppelpostpolicyvarsler](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Bruk [meldings sporing](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) til å se om den utgående meldingen har hendelses verdien **søppel post** med tilleggs detaljene: **Bruk høy risiko for leverings utvalg**.
+- Bruk [meldingssporing](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) for å se om den utgående meldingen har hendelsesverdien **Søppelpost** med tilleggsdetaljene: Bruk utvalget for levering med **høy risiko**.
 
-  For disse meldingene kontrollerer du meldings innholdet for å se hva som kan anses som søppel post. Signaturer kan for eksempel noen ganger forårsake problemer for mange brukere.
+  For disse meldingene må du kontrollere meldingsinnholdet for å se hva som kan betraktes som søppelpost. Signaturer kan for eksempel noen ganger føre til problemer for mange brukere.
 
-  Hvis du har flere eksempler på legitime utgående meldinger som skal merkes som søppel post, åpner du en kunde støtte billett og ber kunde støtte agenten om å sende meldinger som falske positiver til vår søppel post analytikere. Vær klar til å gi eksempel meldinger som inneholder alle meldings hodene.
+  Hvis du har flere eksempler på legitime utgående meldinger som merkes som søppelpost, åpner du en støtteforespørsel og ber kundestøtterepresentanten om å sende inn meldingene dine som falske positiver til våre søppelpostanalytikere. Vær forberedt på å gi eksempelmeldinger som inneholder alle meldingshoder.

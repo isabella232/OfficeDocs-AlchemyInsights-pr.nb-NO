@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com Velg alle
+title: 8000090 Outlook.com velg alle
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010805"
 ---
 # <a name="how-to-select-all-in-outlookcom"></a>Slik velger du alle i Outlook.com
 
-Du kan bare velge alle hvis alle meldinger er synlige. Dette er for å forhindre tilfeldige handlinger for meldinger du ikke kan se.
+Du kan bare merke alle hvis alle meldingene er synlige. Dette er for å forhindre utilsiktede handlinger på meldinger du ikke kan se.
 
-**CTRL + klikk** velger flere individuelle meldinger.
+**CTRL + klikk** velger flere enkeltmeldinger.
 
-**Skift + klikk** merker alle meldinger mellom den første og den siste meldingen du velger.
+**SKIFT + klikk** merker alle meldinger mellom den første og siste meldingen du velger.

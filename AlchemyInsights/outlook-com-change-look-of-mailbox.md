@@ -1,5 +1,5 @@
 ---
-title: Outlook.com endre utseendet på post boksen
+title: Outlook.com endre utseendet på postboksen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096487"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Endre utseendet på Outlook.com-postboksen
 
-Du kan endre utseendet på meldings listen og lese ruten i Outlook.com.
+Du kan endre utseendet på meldingslisten og leseruten i Outlook.com.
 
-- Hvis du vil endre oppsettet for meldings vinduet, åpner du alternativene i [lese ruten](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Hvis du vil endre hvordan e-postmeldingen er sortert, velger du **Filtrer**Sorter etter på toppen av meldings listen,  >  **Sort by** og deretter velger du hvordan du vil sortere e-postmeldingen.
-- Hvis du vil gruppere meldingene etter diskusjon, åpner du alternativene for [meldings organisasjonen](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Hvis du vil aktivere eller deaktivere innboks med fokus, åpner du [Oppsett](https://outlook.live.com/mail/options/mail/layout/focused) alternativene.
+- Hvis du vil endre oppsettet for meldingsvinduet, åpner du [alternativene for leseruten.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Hvis du vil endre hvordan e-posten er sortert, velger du Filtrer sorter etter øverst i meldingslisten og velger hvordan du   >   vil sortere e-postmeldingen.
+- Hvis du vil gruppere meldingene etter samtale, åpner du [alternativene for Meldingsorganisasjon.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Hvis du vil aktivere eller deaktivere Innboks med fokus, åpner du [Oppsett-alternativene.](https://outlook.live.com/mail/options/mail/layout/focused)

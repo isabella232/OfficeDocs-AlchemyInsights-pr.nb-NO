@@ -1,5 +1,5 @@
 ---
-title: Legg til Gmail-konto i Outlook.com
+title: Legge til Gmail-konto på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55f06a9f19d30526b2d5218223087749d29ff784a492c82858aaeacbd6166391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096595"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Legge til Gmail-kontoen i Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Legge til Gmail-kontoen på Outlook.com
 
-1. Åpne [e-postinnstillingene for synkronisering](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Velg **Gmail**under **tilkoblede kontoer**.
-3. Skriv inn et visnings navn (navnet mottakerne vil se når de mottar en e-postmelding fra deg).
-4. Velg om Outlook.com skal importere e-post fra Gmail og hvor den importerte e-postmeldingen skal lagres.
-5. Velg **OK** for å gå til påloggings siden for Google.
+1. Åpne innstillingene [for Synkronisering av e-post](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Velg **Gmail under Tilkoblede** **kontoer**.
+3. Skriv inn et visningsnavn (navnet mottakerne vil se når de mottar en e-postmelding fra deg).
+4. Velg om Outlook.com skal importere e-posten fra Gmail, og hvor importert e-post skal lagres.
+5. Velg **OK** for å gå til Påloggingssiden for Google.
 
-Synkronisering fra en tilkoblet konto til Outlook.com-kontoen din er bare en veis. E-post sendt fra Gmail-kontoen ved hjelp av Outlook.com, vises ikke i sendte elementer i Gmail.
+Synkronisering fra en tilkoblet konto til Outlook.com-kontoen er bare enveis. E-post som sendes fra Gmail-kontoen ved hjelp av Outlook.com, vises ikke i Sendte elementer i Gmail.
 
-Du kan sende e-post i Outlook.com fra den tilkoblede Gmail-kontoen din. Når du skriver en e-post, velger du **fra** og velger Gmail-adressen din eller [oppdaterer standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
+Du kan sende e-post på Outlook.com fra den tilkoblede Gmail-kontoen. Når du skriver en e-postmelding, velger du **Fra** og velger Gmail-adressen din eller [oppdaterer standard Fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Hvis du vil ha mer informasjon, kan du se [legge til andre e-postkontoer i Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ha mer informasjon, kan du se Legge til andre [e-postkontoer Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

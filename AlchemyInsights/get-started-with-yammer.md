@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002303"
 ---
 # <a name="get-started-with-yammer"></a>Komme i gang med Yammer
 
-Yammer er et beste-i-klasse-, sikker-og privat bedrifts sosialt nettverk. Yammer gir en engasjerende og brukervennlig opplevelse på nettet og i Yammer-appen for Android-og iOS-enheter. Yammer kan integreres med Microsoft Teams og Outlook. Yammer tilbyr også en oppdatert integrerings opplevelse i SharePoint Online.
+Yammer er et sosialt nettverk som er best i klassen, sikret og privat. Yammer gir en engasjerende og brukervennlig opplevelse på nettet og i Yammer-appen for Android- og iOS-enheter. Yammer kan integreres med Microsoft Teams og Outlook. Yammer gir også en oppdatert integreringsopplevelse i SharePoint Online.
 
-Bruk distribusjons rådgiveren for Yammer til å klargjøre Yammer-nettverket ved å legge til domener, definere administratorer og kombinere Yammer-nettverk. Distribuere Yammer og deretter tilpasse utseendet, konfigurere sikkerhet og samsvar og fin justere innstillingene.
+Bruk Yammer distribusjonsrådgiveren til å klargjøre Yammer-nettverket ved å legge til domener, definere administratorer og kombinere Yammer nettverk. Distribuer Yammer og tilpass deretter utseendet, konfigurer sikkerhet og samsvar, og begrens innstillingene.
