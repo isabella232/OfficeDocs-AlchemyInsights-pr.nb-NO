@@ -1,5 +1,5 @@
 ---
-title: Endre kontoen du bruker til å logge på Windows 10-PC-en
+title: Endre kontoen du bruker til å logge på Windows 10 PC-en
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018617"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Endre kontoen du bruker til å logge på Windows 10-PC-en
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Endre kontoen du bruker til å logge på Windows 10 PC-en
 
-**Obs!** Hvis du selger eller donerer PC-en, bør du vurdere å tilbakestille den fullstendig i stedet for å fjerne alle personlige opplysninger. Hvis du vil fjerne alle filer, innstillinger og apper, kan du se Før du selger eller gir bort [Windows 10-enheten eller Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
+**Obs!** Hvis du selger eller donerer PC-en, bør du vurdere å tilbakestille den fullstendig i stedet for å fjerne alle personlige opplysninger. Hvis du vil fjerne alle filer, innstillinger og apper, kan du se Før du selger eller gir Windows 10 [eller Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
 
 Slik erstatter du en eksisterende bruker med en ny konto:
 
@@ -36,15 +36,15 @@ Slik erstatter du en eksisterende bruker med en ny konto:
 
 **Bytte til en annen brukerkonto**
 
-1. Velg **Start** (Start-knappen for Windows-logoen) på oppgavelinjen. 
+1. Velg **Start** (Windows startknappen) på oppgavelinjen. 
 
-1. På venstre side av Start-menyen velger du kontonavnikonet (eller bildet) > Bytt bruker > en annen bruker.
+1. På venstre side av Start-meny velger du kontonavnikonet (eller bildet) > Bytt bruker > en annen bruker.
 
 **Slik endrer du kontotypen som brukes til å logge på**
 
 - Endre fra en Microsoft-konto til en lokal konto
 
-    1. Velg Start-knappen, og velg **Innstillinger**  >   kontoer > Din informasjon.
+    1. Velg Start-knappen, og **velg Innstillinger**  >  **kontoer** > Din informasjon.
 
     1. Hvis du bruker en lokal konto som ikke er koblet til en e-postadresse, men du vil bruke en Microsoft-konto, velger du Logg på med **en Microsoft-konto i stedet.**
 
@@ -56,7 +56,7 @@ Slik erstatter du en eksisterende bruker med en ny konto:
 
 - Endre fra en standardkonto til en administrator
 
-    1. Velg Start, og velg deretter **Innstillinger**  >  **Kontofamilie**& andre personer (eller Andre personer hvis du bruker Windows  >   10 Enterprise). 
+    1. Velg Start, og **Innstillinger**  >  **kontofamilien**  >  **&** andre personer (eller Andre **personer** hvis du bruker Windows 10 Enterprise).
 
     1. Velg kontoen du vil gjøre til administrator, og velg **Endre konto**.
 

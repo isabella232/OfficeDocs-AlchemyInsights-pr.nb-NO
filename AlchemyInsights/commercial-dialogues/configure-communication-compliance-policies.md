@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968134"
 ---
 # <a name="configure-communication-compliance-policies"></a>Konfigurere policyer for kommunikasjonssamsvar
 
-Etter utgivelsen av kommunikasjonssamsvar i Microsoft 365-samsvar i februar 2020, avvikles tilsyn i Office 365. Overvåkingspolicyer vil ikke lenger være tilgjengelige for oppretting, og policyer vil etter hvert bli fjernet, etter en lengre periode med skrivebeskyttet tilgang.
+Etter utgivelsen av kommunikasjonssamsvar i Microsoft 365 samsvar i februar 2020, avvikles overvåking i Office 365 avvikles. Overvåkingspolicyer vil ikke lenger være tilgjengelige for oppretting, og policyer vil etter hvert bli fjernet, etter en lengre periode med skrivebeskyttet tilgang.
 
 > [!IMPORTANT]
 > Hvis du bruker Tilsyn, må du være oppmerksom på at:

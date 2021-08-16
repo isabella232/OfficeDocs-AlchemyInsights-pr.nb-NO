@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968026"
 ---
 # <a name="find-email-in-archive-folder-in-outlook-app"></a>Finne e-post i arkivmappen i Outlook-appen
 
-I Outlook 2016 er arkivmappen en av Outlooks standardmapper, for eksempel Innboks, Sendte elementer og Slettede elementer-mappen. Du kan ikke slette arkivmappen. Hvis du bruker Outlook med en Office 365-konto, gjelder mappepolicyer som oppbevaringspolicyer for arkivmappen.
+I Outlook 2016 er arkivmappen en av Outlook standardmappene, for eksempel Innboks, Sendte elementer og Slettede elementer-mappen. Du kan ikke slette arkivmappen. Hvis du bruker Outlook med en Office 365 konto, gjelder mappepolicyer som oppbevaringspolicyer for Arkiv-mappen.
 
 Slik finner du arkivmappen:
 
-1. Velg Visning-fanen i **Outlook >** **Mapperute**  >  **Normal**.
+1. I Outlook velger du **Visning-fanen** > **Mapperute**  >  **Normal**.
 2. Arkivmappen er i listen over mapper.
-3. Når du søker etter Outlook-elementer ved hjelp av funksjonen Søk i gjeldende postboks øverst i mappelisten, søker Outlook som standard i hele postboksen, inkludert arkivmappen.
+3. Når du søker etter Outlook elementer ved hjelp av søk etter gjeldende postboks-funksjonen øverst i mappelisten, søker Outlook hele postboksen, inkludert Arkiv-mappen.

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995450"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (sikkerhet og identitet)
 
 Velg en av følgende installasjonsveiledninger:
 
-- **Azure Active Directory** connect Sync users to your [directory](https://go.microsoft.com/fwlink/?linkid=2071310) Configure password hash synchronization or pass-through authentication, so your users can sign-in to their email and to your on-premises Active Directory (domain controller) using the same password. Du kan også konfigurere forbundslogg med Active Directory Federation Services (AD FS).
+- **Azure Active Directory Koble til** [](https://go.microsoft.com/fwlink/?linkid=2071310) Synkroniser brukere til katalogen Konfigurere hashsynkronisering av passord eller godkjenning, slik at brukerne kan logge på e-posten og den lokale Active Directory (domenekontrolleren) med samme passord. Du kan også konfigurere forbunds pålogging med Active Directory Federation Services (AD FS).
 
-- **Konfigurere Azure-funksjoner** [konfigurasjonsveiledning](https://go.microsoft.com/fwlink/?linkid=2134390) for Azure AD Konfigurer de avanserte funksjonene som er tilgjengelige i Azure Active Directory Premium, som godkjenning med flere faktorer, enhetsregistrering og sikkerhetsovervåking.
+- **Konfigurere Azure-funksjoner** [Konfigurasjonsveiledning](https://go.microsoft.com/fwlink/?linkid=2134390) for Azure AD Konfigurer de avanserte funksjonene som er tilgjengelige i Azure Active Directory Premium, for eksempel godkjenning med flere faktorer, enhetsregistrering og sikkerhetsovervåking.

@@ -1,5 +1,5 @@
 ---
-title: Konfigurere policyinnstillinger for Microsoft Edge i Windows
+title: Konfigurere Microsoft Edge policyinnstillinger på Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978710"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurere policyinnstillinger for Microsoft Edge i Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurere Microsoft Edge policyinnstillinger på Windows
 
-Hvis du vil konfigurere policyinnstillinger og administrerte oppdateringer for Microsoft Edge, bruker du gruppepolicyobjekter (GPOer). Du kan også klargjøre policyer gjennom registeret. dette vil være passende for (1) Windows-enheter som er koblet til et Microsoft Active Directory-domene og for (2) Windows 10 Pro- og Enterprise-forekomster registrert for enhetsbehandling i Microsoft Intune.
+Hvis du vil konfigurere policyinnstillinger og administrerte oppdateringer for Microsoft Edge, bruker du gruppepolicyobjekter (GPOer). Du kan også klargjøre policyer gjennom registeret. Dette vil være passende for (1) Windows-enheter som er koblet til et Microsoft Active Directory-domene og for (2) Windows 10 Pro- og Enterprise-forekomster som er registrert for enhetsbehandling i Microsoft Intune.
 
-Gjør følgende for å konfigurere Microsoft Edge ved hjelp av gruppepolicyobjekter:
+Hvis du Microsoft Edge ved hjelp av gruppepolicyobjekter, gjør du følgende:
 
-1. Gå til sentrallageret for gruppepolicy i Active Directory-domenet, eller til policydefinisjonsmalmappen på individuelle datamaskiner, og installer alle administrative maler som legger til regler og innstillinger for Microsoft Edge.
+1. Gå til Gruppepolicy Sentral-Store i Active Directory-domenet, eller til policydefinisjonsmalmappen på individuelle datamaskiner, og installer alle administrative maler som legger til regler og innstillinger for Microsoft Edge.
 2. Konfigurer de bestemte policyene du vil angi.
 
-Hvis du vil ha mer informasjon, [kan du se Konfigurere policyinnstillinger](https://go.microsoft.com/fwlink/?linkid=2135024)for Microsoft Edge i Windows .
+Hvis du vil ha mer informasjon, [kan du se Konfigurere Microsoft Edge policyinnstillinger på Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
