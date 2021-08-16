@@ -1,5 +1,5 @@
 ---
-title: Endringer i ekstern bruker tilgang
+title: Endringer i ekstern brukertilgang
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045681"
 ---
-# <a name="changes-to-external-user-access"></a>Endringer i ekstern bruker tilgang
+# <a name="changes-to-external-user-access"></a>Endringer i ekstern brukertilgang
 
-Hvis du starter mars 23, 2018, vil ikke eksterne brukere lenger få tilgang til innhold som er delt med alle, alle godkjente brukere eller alle skjema brukere, selv om de har blitt invitert eller lagt til i autoriserte grupper. Eksterne brukere vil bare kunne få tilgang til innhold som er delt med brukeren, eller med grupper som brukeren tilhører. Hvis du ønsker å beholde eksisterende innstillinger, kan du se: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Fra og med 23. mars 2018 vil eksterne brukere ikke lenger ha tilgang til innhold som er delt med alle, alle godkjente brukere eller Alle skjemabrukere, selv om de har blitt invitert eller lagt til i autoriserte grupper. Eksterne brukere får bare tilgang til innhold som er delt med brukeren eller med grupper som brukeren tilhører. Hvis du vil beholde de eksisterende innstillingene, kan du se: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 
