@@ -1,5 +1,5 @@
 ---
-title: Intune Exchange on-lokal kobling
+title: Intune Exchange lokale kobling
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013973"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange on-lokal kobling
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokale kobling
 
-Hvis du vil ha informasjon om hvordan du konfigurerer koblingen mellom Intune og Exchange som er vert for lokalt, kan du se følgende dokumentasjon:
+Hvis du vil ha mer informasjon om hvordan du konfigurerer koblingen mellom Intune og Exchange som driftes lokalt, kan du se følgende dokumentasjon:
 
-[Konfigurere Intune on-Premises Exchange Connector i Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Konfigurere den lokale Intune-Exchange i Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**VANLIGE spørsmål**
+**Vanlige spørsmål:**
 
-Sp.: Jeg ser en feil, for eksempel «Exchange Connector-versjonen støttes ikke» når du prøver å konfigurere Exchange Connector. Hva kan være årsaken?
+Sp.: Jeg ser en feil, for eksempel «Exchange Connector-versjonen støttes ikke» når jeg prøver å konfigurere Exchange koblingen. Hva kan være årsaken?
 
-A: kontoen du bruker, er lisensiert riktig – den må ha en aktiv Intune-lisens
+Svar: Kontoen du bruker, er lisensiert på riktig måte – den må ha en aktiv Intune-lisens
 
-Sp.: er det mulig å ha flere Exchange-koblinger?
+Spørsmål: Er det mulig å ha flere Exchange koblinger?
 
-A: du kan bare konfigurere én Exchange Connector per Intune-leier per Exchange-organisasjon. Koblingen kan bare installeres på én server i en Exchange-organisasjon med flere servere.
+A: Du kan bare konfigurere én Exchange kobling per Intune-leier per Exchange organisasjon. Koblingen kan bare installeres på én server i en organisasjon med flere servere.
 
-Du kan heller ikke konfigurere koblinger for både Exchange lokal pålogging og Exchange Online konfigurert i samme Tenant.
+Du kan heller ikke ha koblinger konfigurert for både Exchange lokale og Exchange Online konfigurert i samme tenant.
 
-Spørsmål: kan koblingen bruke en CAS-matrise som tilkobling til Exchange?
+Spørsmål: Kan koblingen bruke en CAS-matrise som tilkobling til Exchange?
 
-A: angivelse av en CAS-matrise er ikke en støttet konfigurasjon i koblings oppsettet. Bare én server må være angitt og bør være hardkodet i koblings konfigurasjons filen som du finner i
+A: Angivelse av en CAS-matrise er ikke en støttet konfigurasjon i koblingsoppsettet. Bare én enkelt server bør angis og skal være hardkodet i konfigurasjonsfilen for koblinger som du finner i
 
-program data\microsoft\microsoft Intune på den lokale Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premiss Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Finn følgende oppføring ```<ExchangeWebServiceURL />``` , og erstatt URL-adressen med Exchange-serveren.
+Finn følgende oppføring, ```<ExchangeWebServiceURL />``` og erstatt nettadressen med Exchange-serveren.
 
-**Eksempel**
+**Eksempel:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Hvis du vil ha mer informasjon, kan du se følgende dokumentasjon for ytterligere feil søking: [Feilsøke Intune on-Premises Exchange Connector](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Se følgende dokumentasjon for ytterligere feilsøking: Feilsøke [den lokale Intune-Exchange-koblingen](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Aktivere utførlig logging for Exchange Connector**
+**Aktivere detaljert logging for Exchange-koblingen**
 
-1. Åpne konfigurasjons filen for sporing av Exchange Connector for redigering.  
-Filen er plassert på:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Åpne konfigurasjonsfilen Exchange koblingssporing for redigering.  
+Filen er plassert på : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Eksempel**
+**Eksempel:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
 2. Finn TraceSourceLine med følgende nøkkel: OnPremisesExchangeConnectorService  
   
-3. Endre verdien for SourceLevel-noden fra Information ActivityTracing (standard) til detaljert ActivityTracing  
+3. Endre SourceLevel-nodeverdien fra Information ActivityTracing (standard) til Detaljert ActivityTracing  
 
-**Eksempel**
+**Eksempel:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Filen er plassert på:%ProgramData%\Microsoft\Windows Intune Exchange Connector\
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Start Microsoft Intune Exchange-tjenesten på nytt  
-5. Full synkronisering i Intune-portalen til den er ferdig og deretter endrer XML tilbake til «informasjon ActivityTracing» og starter Microsoft Intune Exchange-tjenesten på nytt.  
+4. Start Microsoft Intune Exchange tjenesten på nytt  
+5. Full synkronisering i Intune Portal til den er ferdig, og endre deretter XML-filen tilbake til «Information ActivityTracing», og start Microsoft Intune Exchange tjenesten.  
 6. Plasseringen av loggene er: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

@@ -1,5 +1,5 @@
 ---
-title: Opprette et område i SharePoint Online
+title: Opprette et nettsted i SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: dcc0f24e807c4fcf4930cd9d988d053d894171f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab24766fb3685a90bd29b66168364b7451e1c98685ed792eb595bec9cb1b0ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032243"
 ---
-# <a name="create-a-site"></a>Opprette et område
+# <a name="create-a-site"></a>Opprette et nettsted
 
-Du kan opprette forskjellige typer områder i SharePoint Online. Hvis du vil lære hvordan du gjør dette i det nye administrasjons senteret for SharePoint, kan du se [opprette et område](https://go.microsoft.com/fwlink/?linkid=866295). Hvis du vil ha informasjon om hvordan du tillater at brukere oppretter sine egne områder, kan du se [Behandle område oppretting i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Du kan opprette forskjellige typer nettsteder i SharePoint Online. Hvis du vil lære hvordan du gjør dette i det nye SharePoint administrasjonssenteret, kan du se [Opprette et nettsted](https://go.microsoft.com/fwlink/?linkid=866295). Hvis du vil ha informasjon om hvordan du tillater brukere å opprette sine egne nettsteder, kan du se [Administrere opprettelse av nettsteder i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Hvis du vil ha informasjon om de nye område typene, kan du se [gruppere tilkoblede gruppe områder](https://go.microsoft.com/fwlink/?linkid=866292) eller [kommunikasjons nett steder](https://go.microsoft.com/fwlink/?linkid=866294).
+Hvis du vil ha informasjon om de nye nettstedstypene, kan du se Gruppere tilkoblede [gruppenettsteder](https://go.microsoft.com/fwlink/?linkid=866292) eller [Kommunikasjonsnettsteder](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

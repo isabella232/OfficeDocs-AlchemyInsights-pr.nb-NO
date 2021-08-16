@@ -1,5 +1,5 @@
 ---
-title: Kryptere Office 365-e-postmeldinger som sendes til bestemte domener automatisk
+title: Krypter Office 365 e-postmeldinger som sendes til bestemte domener automatisk
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082195"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Kryptere Office 365-e-postmeldinger som sendes til bestemte domener automatisk
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Krypter Office 365 e-postmeldinger som sendes til bestemte domener automatisk
 
-1. Velg [e-postflyt i](https://outlook.office365.com/ecp/) **administrasjonssenteret for** Exchange > regler . 
-2. Klikk på **Nytt (+)-ikonet,** og klikk deretter Bruk Meldingskryptering og rettighetsbeskyttelse for **Office 365 på meldinger.**
+1. I [administrasjonssenteret Exchange](https://outlook.office365.com/ecp/)velger du **e-postflyt > regler**. 
+2. Klikk Ny **(+)-ikonet,** og klikk **deretter Bruk Office 365-meldingskryptering og rettighetsbeskyttelse på meldinger.**
 3. Skriv **inn** et navn på regelen i Navn, for eksempel Krypter *meldinger som sendes til contoso.com*.
 4. I **Bruk denne regelen hvis** velger du Mottakeren > domenet **er**. 
 5. Skriv inn navnet på domenet, for eksempel **contoso.com**.
@@ -36,4 +36,4 @@ ms.locfileid: "50749306"
 > [!IMPORTANT]
 > Du kan alltid komme tilbake og redigere denne regelen senere.
 
-Hvis du vil ha mer informasjon om hvordan du oppretter regler for kryptering, kan du se Definere regler for e-postflyt for [å kryptere e-postmeldinger i Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Hvis du vil ha mer informasjon om hvordan du oppretter regler for kryptering, kan du se Definere regler for e-postflyt for [å kryptere e-postmeldinger Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

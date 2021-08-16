@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045249"
 ---
 # <a name="create-an-email-signature-in-outlook-2016"></a>Opprette en e-postsignatur i Outlook 2016
 
-I Outlook kan e-postsignaturen inneholde tekst, bilder, elektronisk visittkort, en logo eller et bilde av din håndskrevne underskrift.
+I Outlook kan e-postsignaturen inneholde tekst, bilder, det elektroniske visittkortet, en logo eller til og med et bilde av den håndskrevne signaturen.
 
-1. Åpne en ny e-postmelding i Outlook.
+1. Åpne Outlook ny e-postmelding i dialogboksen.
 2. Velg **Signatursignaturer** på   >  **Melding-fanen.**
-3. Velg **Ny under Velg signatur som skal** **redigeres,** og skriv deretter inn et navn på signaturen.
-4. Skriv **inn signaturen** under Rediger signatur.
+3. Velg **Ny under Velg signatur som skal** redigeres, og skriv deretter inn et navn for signaturen. 
+4. Skriv **signaturen under** Rediger signatur.

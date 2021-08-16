@@ -1,5 +1,5 @@
 ---
-title: Spar diskplass med OneDrive-filer ved behov for Mac
+title: Spar diskplass med OneDrive filer ved behov for Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074365"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Spar diskplass med OneDrive-filer ved behov for Mac
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Spar diskplass med OneDrive filer ved behov for Mac
 
-OneDrive-filer ved behov hjelper deg med å få tilgang til alle filene dine i OneDrive uten å måtte laste ned alle og bruke lagringsplass på enheten.  
+OneDrive Filer ved behov hjelper deg med å få tilgang til alle filene i OneDrive uten å måtte laste ned alle og bruke lagringsplass på enheten.  
 
-For nye OneDrive-kontoer på Mac OS Mojave eller nyere er Filer ved behov aktivert som standard når du konfigurerer OneDrive. Eksisterende brukere må aktivere Filer ved behov i OneDrive-innstillinger.  
+For nye OneDrive på Mac OS Mojave eller nyere er Filer ved behov aktivert som standard når du konfigurerer OneDrive. Eksisterende brukere må aktivere Filer ved behov i OneDrive Innstillinger.  
 
 [Finn ut mer om Filer ved behov for Mac OS.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

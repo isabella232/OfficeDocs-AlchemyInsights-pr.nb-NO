@@ -1,5 +1,5 @@
 ---
-title: Opprette en tillatelses liste for ende punkter for Microsoft Edge
+title: Opprette en tillatelsesliste over endepunkter for Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032099"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Opprette en tillatelses liste for ende punkter for Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Opprette en tillatelsesliste over endepunkter for Microsoft Edge
 
-Hvis du vil ha den fullstendige matrisen til Microsoft Edge-funksjonene hos salget, må du ha den koblet til Internet t. I tillegg må du legge til et sett med URL-adresser for domenet i [tillatelses listen for ende punkter for](https://go.microsoft.com/fwlink/?linkid=2135054)å la nett leseren kommunisere gjennom brann murer og andre sikkerhets mekanismer på Internet t.
+Hvis du vil ha hele Microsoft Edge funksjoner til din disposisjon, må du ha den koblet til Internett. Hvis du vil la nettleseren kommunisere gjennom brannmurer og andre sikkerhetsmekanismer på Internett, må du i tillegg legge til et sett med nettadresser for domener i tillatelseslisten [over endepunkter.](https://go.microsoft.com/fwlink/?linkid=2135054)
