@@ -12,12 +12,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
-ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
+ms.openlocfilehash: b7274404ed5c88273af1cc6ba0f967a7d9529a6126b6dc6f5a8e9561f0b77418
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51857889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100807"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivere en arkivpostboks
 
@@ -31,7 +31,7 @@ Eller følg [denne koblingen](https://sip.compliance.microsoft.com/informationgo
 
 For delte postbokser:
 
-1. Gå til [administrasjonssenteret for Exchange,](https://outlook.office365.com/ecp) og logg på med administratorkontoen.
+1. Gå til Exchange [administrasjonssenteret,](https://outlook.office365.com/ecp) og logg på med administratorkontoen.
 2. Gå til **Delte**  >  **mottakere**.
 3. Velg den delte postboksen.
 4. Klikk Aktiver i detaljruten til høyre under **Arkiv** på **stedet,** og klikk deretter **Ja** for å aktivere arkivpostboksen.

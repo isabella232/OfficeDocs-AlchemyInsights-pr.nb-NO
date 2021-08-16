@@ -1,5 +1,5 @@
 ---
-title: Vei viser for distribusjon av Office til eksterne brukere
+title: Distribuere Office til veiviseren for eksterne brukere
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031451"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Vei viser for distribusjon av Office til eksterne brukere
+# <a name="deploy-office-to-remote-users-wizard"></a>Distribuere Office til veiviseren for eksterne brukere
 
-Nå som du jobber eksternt er normen, må brukerne motta organisasjonens Office-innstillinger når de ikke er koblet til det interne nettverket eller når de bruker sine egne enheter.
+Nå som det å arbeide eksternt er normen, må brukerne motta organisasjonens Office når de ikke er koblet til det interne nettverket eller når de bruker sine egne enheter.
 
-Bruk vei viseren [Distribuer Office til eksterne brukere](https://go.microsoft.com/fwlink/?linkid=2149564) til å opprette en tilpasset Office-installasjon, og send deretter brukere et generert PowerShell-skript som sømløst installerer Office med konfigurasjonen.
+Bruk veiviseren [Distribuer Office](https://go.microsoft.com/fwlink/?linkid=2149564) til eksterne brukere til å opprette en tilpasset Office-installasjon og deretter sende brukere et generert PowerShell-skript som sømløst installerer Office med konfigurasjonen.

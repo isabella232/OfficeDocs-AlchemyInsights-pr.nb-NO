@@ -1,5 +1,5 @@
 ---
-title: Konfigurere policyer for sikker kobling i Microsoft Defender for Office 365
+title: Konfigurere Safe koblingspolicyer i Microsoft Defender for Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070369"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurere policyer for sikker kobling i Microsoft Defender for Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurere Safe koblingspolicyer i Microsoft Defender for Office 365
 
-En standardpolicy for klarerte koblinger i Microsoft Defender for Office 365 er allerede opprettet for deg. Slik endrer du konfigurasjonene:
+En standardpolicy for Safe Koblinger i Microsoft Defender for Office 365 allerede er opprettet for deg. Slik endrer du konfigurasjonene:
 
-1. Gå til [sikkerhetssenteret for Office 365 & samsvarssenteret](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Velg **Policy for**  >  **trusselbehandling**. Velg Microsoft **Defender** [for Klarerte koblinger for Office 365 på Policy-siden.](https://go.microsoft.com/fwlink/?linkid=2101058)
+1. Gå til [Office 365 Sikkerhets- & Samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Velg **Policy for**  >  **trusselbehandling**. På **Policy-siden** velger du [Microsoft Defender for Office 365 Safe Koblinger](https://go.microsoft.com/fwlink/?linkid=2101058).
 3. Velg Standard **under Policyer som gjelder** for hele organisasjonen, og velg deretter **Rediger-ikonet.** 
-4. I delen **Blokker følgende nettadresser** angir du én eller flere nettadresser som du vil hindre at personer i organisasjonen besøker. Hvis du vil ha mer informasjon, kan du [se «Blokkere følgende nettadresser»-listen for Klarerte koblinger](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. Velg **(eller fjern) alternativene** du vil bruke, i delen Innstillinger som gjelder for innhold unntatt e-post. (Det anbefales at du velger alle alternativene.)
+4. I delen **Blokker følgende nettadresser** angir du én eller flere nettadresser som du vil hindre at personer i organisasjonen besøker. Hvis du vil ha mer informasjon, kan du [se «Blokkere følgende nettadresser»-liste for Safe Koblinger](https://go.microsoft.com/fwlink/?linkid=2092123).
+5. Velg **Innstillinger alternativene** du vil bruke, i delen Innstillinger gjelder for innhold unntatt e-post. (Det anbefales at du velger alle alternativene.)
 6. Velg **Lagre**.

@@ -1,5 +1,5 @@
 ---
-title: Redigere fakturerings profil for apper
+title: Redigere faktureringsprofil for apper
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100843"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Redigere fakturerings profil for apper
+# <a name="edit-billing-profile-for-apps"></a>Redigere faktureringsprofil for apper
 
-**Redigere fakturerings profiler**
+**Redigere faktureringsprofiler**
 
-1. Gå til siden **betalings**  >  **[regninger & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039)** , og klikk deretter på **fakturerings profiler**.
+1. Gå til   >  **[faktureringsregninger & betalingssiden,](https://go.microsoft.com/fwlink/p/?linkid=848039)** og klikk deretter **Faktureringsprofiler**.
 
-2. Velg fakturerings profilen du vil redigere, fra listen over fakturerings profiler.
+2. Velg faktureringsprofilen du vil redigere, fra listen over faktureringsprofiler.
 
-**Slik endrer du fakturerings profilen på apper**
+**Slik endrer du faktureringsprofilen for apper**
 
-1. Gå til siden for **fakturering**  >  **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** , og klikk deretter **apper** -fanen.
+1. Gå til **Fakturering**  >  **[av produkter-siden,](https://go.microsoft.com/fwlink/p/?linkid=842054)** og klikk deretter **Apper-fanen.**
 
 2. Finn og velg appen du vil administrere.  
 
-3. Ved siden av **fakturerings profil** klikker du **Rediger** og velger fakturerings profil som du vil knytte til appen.
+3. Klikk Rediger **ved siden** av **Faktureringsprofil,** og velg faktureringsprofilen du vil knytte til appen.

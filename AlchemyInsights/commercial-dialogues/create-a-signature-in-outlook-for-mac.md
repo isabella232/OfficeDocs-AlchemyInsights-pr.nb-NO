@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070729"
 ---
 # <a name="create-a-signature-in-outlook-for-mac"></a>Opprette en signatur i Outlook for Mac
 
-1.  Klikk Innstillinger på **Outlook-menyen.** 
-2.  Klikk **Signaturer under E-post.** 
-3.  Klikk **Legg til.** **+**
-4.  Dobbeltklikk uten **navn,** og skriv deretter inn et navn på signaturen.
-5.  Skriv inn teksten du vil ta med i signaturen, i ruten til høyre.
+1.  Klikk Innstillinger **Outlook** **menyen.**
+2.  Klikk **Signaturer under E-post**. 
+3.  Klikk **Legg til** **+** .
+4.  Dobbeltklikk **Uten** tittel , og skriv deretter inn et navn på signaturen.
+5.  Skriv inn teksten du vil inkludere i signaturen, i ruten til høyre.
 6.  Lukk **Signaturer-siden.**
-7.  Hvis du vil bruke formatering, for eksempel skrift, skriftstil, skriftstørrelse, skriftfarge eller utheving, merker du teksten, og deretter klikker du alternativet du vil bruke, på Format-menyen.
+7.  Hvis du vil bruke formatering, for eksempel skrift, skriftstil, skriftstørrelse, skriftfarge eller utheving, merker du teksten og klikker ønsket alternativ på Format-menyen.
 8.  Lukk **Signaturer-siden.**
