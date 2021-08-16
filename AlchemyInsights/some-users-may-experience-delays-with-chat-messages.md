@@ -1,5 +1,5 @@
 ---
-title: Enkelte brukere kan oppleve forsinkelser med chattemeldinger
+title: Noen brukere kan oppleve forsinkelser med chattemeldinger
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
-ms.openlocfilehash: ad5f11e60aa4c14f1accc43300dc1b3af75709ff
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: ec2adfdcfd4145a187cb1a1e816594a19f825fe84619c4972be73ee565befe77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021677"
 ---
-# <a name="some-users-may-experience-delays-with-chat-messages"></a>Enkelte brukere kan oppleve forsinkelser med chattemeldinger
+# <a name="some-users-may-experience-delays-with-chat-messages"></a>Noen brukere kan oppleve forsinkelser med chattemeldinger
 
-Microsoft er oppmerksomme på et problem der brukere kan oppleve forsinkelser i å sende og motta chattemeldinger når de bruker Teams.
+Microsoft er klar over et problem der brukere kan oppleve forsinkelser i sending og mottak av chattemeldinger når de bruker Teams.
 
 Hvis du vil ha den nyeste informasjonen, kan du se [https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228](https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228)
