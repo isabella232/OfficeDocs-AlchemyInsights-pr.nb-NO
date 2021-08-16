@@ -1,5 +1,5 @@
 ---
-title: 8000037 mottar ikke e-post i Outlook.com
+title: 8000037 mottar ikke e-post på Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097351"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Ikke motta e-post i Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Mottar ikke e-post på Outlook.com
 
-Hvis du ikke mottar e-post fra en bestemt avsender, for eksempel bank konto utdrag eller meldinger for tilbakestilling av passord, må du kontakte avsenderen og fortelle dem at du ikke mottar e-post på Outlook.com-kontoen din. Henvis avsenderen til [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , der de kan finne informasjon om anbefalte Fremgangs måter, anbefale feil søking og en kobling til å kontakte avsender støtte teamet.
+Hvis du ikke mottar e-post fra en bestemt avsender, for eksempel kontoutskriftene dine eller meldinger om tilbakestilling av passord, må du kontakte avsenderen og gi dem beskjed om at du ikke mottar e-post på Outlook.com-kontoen. Henvis avsenderen til , der de kan finne informasjon om anbefalte fremgangsmåter, anbefale feilsøking og en kobling for å [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) kontakte kundestøtteteamet for avsendere.
   
-Hvis Outlook.com-kontoen din ikke mottar e-post i det hele tatt, kan du se [løse synkroniserings problemer med Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363)
+Hvis Outlook.com-kontoen ikke mottar e-post i det hele tatt, kan du se Løse Outlook.com problemer med [e-postsynkronisering.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 
