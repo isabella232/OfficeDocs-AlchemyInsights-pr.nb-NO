@@ -1,5 +1,5 @@
 ---
-title: Overvåke Betinget tilgang med Intune
+title: Overvåk Betinget tilgang for Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025511"
 ---
-# <a name="monitor-intune-conditional-access"></a>Overvåke Betinget tilgang med Intune
+# <a name="monitor-intune-conditional-access"></a>Overvåk Betinget tilgang for Intune
 
-Brukere som er angitt med betinget tilgang, mottar en e-postmelding hvis de ikke oppfyller organisasjonens krav for tilgang. Hvis du vil løse problemet, anbefaler vi én eller flere av følgende løsninger:
+Brukere som er målrettet med betinget tilgang, mottar en e-postmelding hvis de ikke oppfyller organisasjonens tilgangskrav. Vi anbefaler én eller flere av følgende løsninger for å løse problemet:
 
-1. Hvis det antas at enheten er registrert, ber du brukeren om å gå til Firmaportal-appen og kontrollere at den vises i firmaportalen. Hvis den ikke gjør det, må brukeren registrere enheten.
-1. Gå til Enhetssamsvar for **Intune**  >  **i Azure-portalen.** 
-1. Hvis du vil vise rapporten om enhetssamsvar for å kontrollere at brukerens enhet er merket som kompatibel, klikker du Enhetssamsvar **under** **Skjerm.**
-1. Gå til Enhetssamsvar for **Intune**  >  **i Azure-portalen.** Klikk **Policyer** under **Behandle.** Kontroller at brukerens enhet er tilordnet en profil i listen over samsvarspolicyer. Hvis ingen profil er tilordnet, kan ikke Intune bekrefte enhetens samsvarsstatus.
-1. Rediger brukerens tilordning av betinget tilgang.
-1. Gå til **Intune-policyer** for betinget tilgang i Azure-portalen, velg en policy fra listen, og klikk  >    >  Brukere **og grupper.**
-1. Hvis du vil rette en bestemt policy mot noen, legger du dem til **i Inkluder-listen.** Hvis du vil sikre at en person er utelatt fra policyen, legger du vedkommende til i **utelatingslisten.**
+1. Hvis enheten antas å være registrert, ber du brukeren om å gå til firmaportal-appen og kontrollere at den vises i firmaportal. Hvis den ikke gjør det, må brukeren registrere enheten.
+1. Gå til **Intune** Device compliance i Azure-portalen.  >   
+1. Hvis du vil vise samsvarsrapporten for enheten for å bekrefte at brukerens enhet er merket som kompatibel, **klikker** du Enhetssamsvar under **Skjerm**.
+1. Gå til **Intune** Device compliance i Azure-portalen.  >   Klikk **Policyer** under **Behandle.** Kontroller at en profil er tilordnet brukerens enhet i listen over samsvarspolicyer. Hvis ingen profil er tilordnet, kan ikke Intune bekrefte enhetens samsvarsstatus.
+1. Rediger brukerens tilordning for betinget tilgang.
+1. Gå til Policyer for **betinget** tilgang i Azure-portalen, velg en policy fra  >    >  listen, og klikk **Brukere og grupper**.
+1. Hvis du vil rette en bestemt policy mot noen, legger du dem til i **Inkluder-listen**. Hvis du vil sikre at en person utelates fra policyen, legger du vedkommende til i **Utelat-listen**.
 
 **Nyttige koblinger:**
 
 - [Oversikt over enhetssamsvar](https://docs.microsoft.com/intune/device-compliance-get-started)
 - [Feilsøking av sertifiseringsinstans](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
-- [Feilsøking av policy](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Feilsøkingspolicy](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Overvåke intune-enhetssamsvar](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Disse trinnene er bare nyttige når du skal feilsøke Azure Active Directory-funksjonen betinget tilgang. Det er også mulig å sette en enhet i karantene for å blokkere tilgangen til e-post med Exchange-policy. Du finner mer informasjon om administrasjon av Exchange-enheter [**her.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+> Disse trinnene er bare nyttige når du skal feilsøke Azure Active Directory-funksjonen Betinget tilgang. Det er også mulig å sette en enhet i karantene som blokkerer e-posttilgang med Exchange policy. Du finner mer Exchange informasjon om enhetsbehandling [**her**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).

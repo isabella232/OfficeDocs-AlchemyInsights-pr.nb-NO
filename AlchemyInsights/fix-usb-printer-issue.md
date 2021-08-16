@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068461"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Løse tilkoblingsproblemer med USB-skriver
 
@@ -31,10 +31,10 @@ Hvis dette ikke fungerer, kan du prøve **å fjerne og installere USB-skriveren 
 
 1. Fjern skriveren i Innstillinger:
     1. Koble skriverens USB-kabel fra PC-en.
-    2. Velg **Start**  >  **Innstillinger**  >  **Enheter**  >  **Skrivere & skannere**.
+    2. Velg **Start**  >  **Innstillinger**  >    >  **enheter Skrivere & skannere**.
     3. Under **Skrivere & skannere** velger du skriveren du feilsøker. Velg **Fjern enhet**. Følg instruksjonene for å fjerne skriveren fullstendig.
 2. Fjern eventuell tredjeparts programvare for skriverprodusent:
-    1. Velg **Start**  >  **Innstillinger-apper**  >  .
+    1. Velg **Start**  >  **Innstillinger**  >  **apper**.
     2. Rull **& apper** under Apper for å finne programvare som er installert fra produsenten av skriveren (for eksempel HP, Canon eller Epson).
     3. Velg programvaren, og velg **Avinstaller**.
 3. Slå av og start skriveren på nytt.<br>

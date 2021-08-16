@@ -1,5 +1,5 @@
 ---
-title: Øke Begrensnings grensen for overføring av e-post
+title: Øke begrensninger for EWS-begrensning for e-postoverføring
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24194ccb4ef4d981001ebf1c0c911eb881a53a5f178529b783ee9114af944e90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099367"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Øke Begrensnings grensen for overføring av e-post
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Øke begrensninger for EWS-begrensning for e-postoverføring
 
-Hvis du vil øke leier EWS-begrensning for en e-postoverføring, kan du fortsette og åpne en støtte forespørsel.
+Hvis du vil øke leierens begrensninger for EWS-begrensning for en e-postoverføring, kan du fortsette og åpne en støtteforespørsel.
