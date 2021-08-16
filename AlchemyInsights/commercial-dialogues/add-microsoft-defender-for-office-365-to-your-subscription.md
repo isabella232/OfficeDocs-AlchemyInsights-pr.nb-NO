@@ -1,5 +1,5 @@
 ---
-title: Legge til Microsoft Defender for Office 365 i abonnementet
+title: Legg til Microsoft Defender for Office 365 i abonnementet
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006251"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Legge til Microsoft Defender for Office 365 i abonnementet
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Legg til Microsoft Defender for Office 365 i abonnementet
 
-Slik gjør du det:
+For å gjøre dette:
 
 1. Gå til Tjenester for faktureringskjøp **i**  >  [administrasjonssenteret.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Trykk **CTRL+F** på  Kjøp tjenester-siden for å åpne søkeboksen, og søk deretter etter **Microsoft Defender for Office 365**. Hvis du ikke finner tillegget, er det fordi planen ikke støtter å legge det til.
