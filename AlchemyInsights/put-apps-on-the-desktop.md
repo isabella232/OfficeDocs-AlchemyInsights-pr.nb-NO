@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fef1b01647ca0a2828f6b1f09bc9850b54da777edd04d2fd76e6c79579fbefcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075141"
 ---
 # <a name="put-apps-on-the-desktop"></a>Plassere apper på skrivebordet
 
 Søk etter appen på **Start-menyen,** og ta tak i appikonet ved å holde nede venstre museknapp og flytte ikonet til skrivebordet.
 
-Du kan også trykke **Windows-tasten + R** og deretter skrive inn denne kommandoen:
+Du kan også trykke **Windows + R** og deretter skrive inn denne kommandoen:
 
 `shell:appsfolder`
 

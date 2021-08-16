@@ -1,5 +1,5 @@
 ---
-title: Oppbevaringspolicyer i administrasjonssenteret for Exchange fungerer ikke
+title: Oppbevaringspolicyer Exchange administrasjonssenteret fungerer ikke
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074941"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Oppbevaringspolicyer i administrasjonssenteret for Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Oppbevaringspolicyer Exchange administrasjonssenteret
 
 Hvis du vil at vi skal kjøre automatiserte kontroller for innstillingene som er nevnt nedenfor, velger du Tilbake-knappen <- øverst på denne siden, og deretter skriver du inn e-postadressen til brukeren som har problemer med oppbevaringspolicyer.
 
-Hvis du har problemer med oppbevaringspolicyer i administrasjonssenteret for Exchange som ikke gjelder for postbokser eller elementer som ikke flyttes til arkivpostboksen, kontrollerer du følgende:
+Hvis du har problemer med oppbevaringspolicyer i Exchange administrasjonssenteret som ikke gjelder for postbokser eller elementer som ikke flyttes til arkivpostboksen, kontrollerer du følgende:
 
 **Grunnårsaker:**
 
@@ -38,7 +38,7 @@ Hvis du har problemer med oppbevaringspolicyer i administrasjonssenteret for Exc
  
 **Obs!** Hvis en postboks er mindre enn 10 MB, behandler ikke assistenten for administrert mappe postboksen automatisk.
  
-Hvis du vil ha mer informasjon om oppbevaringspolicyer i administrasjonssenteret for Exchange, kan du se:
+Hvis du vil ha mer informasjon om oppbevaringspolicyer i Exchange administrasjonssenteret, kan du se:
 
 - [Oppbevaringskoder og oppbevaringspolicyer](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 
