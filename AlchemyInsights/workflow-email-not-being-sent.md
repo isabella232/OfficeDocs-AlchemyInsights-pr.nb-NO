@@ -1,5 +1,5 @@
 ---
-title: E-post for arbeids flyt sendes ikke
+title: E-post for arbeidsflyt sendes ikke
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072529"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-post for arbeids flyt sendes ikke for en SharePoint-liste eller et bibliotek
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbeidsflyt-e-post sendes ikke for en SharePoint liste eller bibliotek
 
-1. E-post fra arbeids flyter sendes ikke til alle brukere eller bare bestemte brukere, eller du får feil **meldingen kan ikke sendes. Kontroller at e-posten har en gyldig mottaker**.
+1. E-post fra arbeidsflyter sendes ikke til alle brukere eller bare bestemte brukere, eller du ser feilen E-postmeldingen kan ikke sendes. Kontroller at **e-postmeldingen** har en gyldig mottaker .
 
-    Kontroller om brukeren er i gruppen **alle personer** tillatelser (bruker informasjons liste) for denne nettsteds samlingen.  Eksempel på direkte URL: https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/People.aspx? MembershipGroupId = 0
+    Kontroller om brukeren finnes i gruppen **Alle personer-tillatelser** (brukerinformasjonsliste) for denne nettstedssamlingen.  Eksempel på direkte nettadresse: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
     - Hvis brukeren ikke finnes, må du kontrollere at brukeren er logget på siden. 
     - Hvis det er en ekstern bruker, må du kontrollere at invitasjonen er godtatt.
-    - Hvis brukeren finnes i tillatelses gruppen, må du kontrollere at e-postadressen er riktig.
-    - Hvis e-postadressen for brukere ikke er angitt her, oppretter du et eksempel varsel for brukeren som tvinger synkroniseringen av den bruker kontoen fra bruker profiler for SharePoint til denne nettsteds samlingen.
+    - Hvis brukeren finnes i tillatelsesgruppen, må du kontrollere at e-postadressen er riktig.
+    - Hvis brukernes e-postadresse ikke er angitt her, oppretter du et eksempelvarsel for denne brukeren som tvinger synkroniseringen av denne brukerkontoen fra brukerprofiler for SharePoint til denne nettstedssamlingen.
  
-2. E-post fra arbeids flyter sendes til administratorer for område samlinger, men ikke til andre brukere og ser feil **http forbudt til <span>https:</span>//URL/_vti_bin/Client.xvc.sp.Utilities.Utility.SendEmail**.
+2. E-post fra arbeidsflyter sendes til administratorene for områdesamlingen, men ikke til andre brukere og ser feilen **HTTP Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Se ingen [tilgang når du sender en e-post til en SharePoint-gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Se [Ingen tilgang når du sender en e-postmelding til en SharePoint gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Kontroller også at funksjonen for **låsing av bruker tillatelse for begrenset tilgang** ikke er aktiv i nettsteds samlings modus.
+    Kontroller også at funksjonen **Låsingsmodus for brukertillatelser med** begrenset tilgang ikke er aktiv.
 
 
 ## <a name="related-topics"></a>Beslektede emner
-Vil du prøve Microsoft flyt inn i SharePoint Online?
-- [Opprett flyt](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og flyt](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vil du prøve Microsoft Flow i SharePoint Online?
+- [Opprette Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

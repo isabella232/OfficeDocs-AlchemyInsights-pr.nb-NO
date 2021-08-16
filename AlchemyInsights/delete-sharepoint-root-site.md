@@ -1,5 +1,5 @@
 ---
-title: Slette sharePoint-rotnettstedet
+title: Slette SharePoint rotnettstedet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4965e38f69c9d7f3a5c1facd23a0ee487e499f55f5779672808a54b86c90aeaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102269"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>Slette sharePoint-rotnettstedet
+# <a name="delete-the-sharepoint-root-site"></a>Slette SharePoint rotnettstedet
 
-Sletting av SharePoint-rotnettstedet  **støttes ikke.**
+Sletting av SharePoint rotnettstedet **støttes ikke.**
 
 1.  Hvis rotnettstedet allerede er slettet, vil brukere oppleve en 404-fil som ikke ble funnet når de prøver å få tilgang til nettstedet.
-2.  Du kan løse dette ved å gjenopprette nettstedet fra [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) det nye administrasjonssenteret for SharePoint ved å gå til Slettede områder-siden, velge rotnettstedet og klikke Gjenopprett.
-3.  I stedet for å slette [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) rotnettstedet, kan du bruke erstatt nettsted fra det nye administrasjonssenteret for SharePoint når rotnettstedet gjenopprettes.
+2.  Du kan løse dette ved å gjenopprette nettstedet SharePoint det [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) nye administrasjonssenteret ved å gå til Slettede nettsteder-siden, velge rotnettstedet og klikke Gjenopprett.
+3.  I stedet for å slette [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) rotnettstedet, kan du bruke erstatt nettsted fra det nye SharePoint administrasjonssenteret når rotnettstedet er gjenopprettet.
 
 Hvis du vil ha mer informasjon, kan [du se Modernisere rotnettstedet](https://docs.microsoft.com/sharepoint/modern-root-site)
