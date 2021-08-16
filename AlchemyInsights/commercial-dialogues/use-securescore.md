@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033791"
 ---
 # <a name="use-securescore"></a>Bruke SecureScore
 
-Sikker poengsum er et sikkerhetsanalyseverktøy som anbefaler hva du kan gjøre for å redusere risikoen ytterligere. Sikker poengsum ser på Office 365-innstillingene og -aktivitetene dine og sammenligner dem med en opprinnelig plan som er opprettet av Microsoft. Du får en poengsum basert på hvor justert du er med anbefalte sikkerhetsrutiner.
+Sikker poengsum er et sikkerhetsanalyseverktøy som anbefaler hva du kan gjøre for å redusere risikoen ytterligere. Sikker poengsum ser på innstillingene Office 365 aktiviteter og sammenligner dem med en opprinnelig plan som er opprettet av Microsoft. Du får en poengsum basert på hvor justert du er med anbefalte sikkerhetsrutiner.
 
-Vil du prøve Sikker poengsum? Når du er logget på Office 365 som global administrator, kan du gå til [SecureScore.com.](https://securescore.office.com/)
+Vil du prøve Sikker poengsum? Når du er logget på Office 365 global administrator, kan du gå til [SecureScore.com.](https://securescore.office.com/)

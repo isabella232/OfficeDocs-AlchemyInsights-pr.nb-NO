@@ -1,5 +1,5 @@
 ---
-title: Ingen resultater ble returnert under innholds søk/eksport
+title: Ingen resultater som returneres under innholdssøk/eksport
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101275"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Ingen resultater ble returnert under innholds søk/eksport
+# <a name="no-results-returned-during-content-searchexport"></a>Ingen resultater som returneres under innholdssøk/eksport
 
-Hvis du har problemer med følgende eDiscovery-scenarioer:
+Hvis du har problemer med følgende eDiscovery-scenarier:
 
-- Innholds søk/eksport returnerer ingen data eller uventede data
-- eDiscovery-søk eller eksport mislyktes
+- Innholdssøk/eksport returnerer ingen data eller uventede data
+- eDiscovery-søk eller -eksport mislykkes
 
-Dette kan skyldes bestemte sikkerhets filtre for samsvar som ble konfigurert av en bestemt administrator, og som ikke er formidlet til alle administratorer.
+Dette kan være på grunn av visse sikkerhetsfiltre for samsvar som ble konfigurert av en bestemt administrator, og som ikke ble formidlet til alle administratorer.
 
-Du kan løse dette ved å kontrollere om det finnes noen Samsvars sikkerhets filtre som for år saker disse problemene:
+Du kan løse dette ved å kontrollere om det er noen sikkerhetsfiltre for samsvar som kan forårsake disse problemene:
 
-1. Koble til sikkerhets-og Samsvars senteret PowerShell
-2. Kjør følgende cmdleter:
+1. Koble til sikkerhets- og samsvarssenteret Powershell
+2. Kjør følgende kommandoleter:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Hvis du vil ha mer informasjon om Samsvars sikkerhets filtre, kan du se [tillatelses filtrering for innholds søk](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Hvis du vil ha mer informasjon om sikkerhetsfiltre for samsvar, kan du se [Tillatelsesfiltrering for innholdssøk](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
