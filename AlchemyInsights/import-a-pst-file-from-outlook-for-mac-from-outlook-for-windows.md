@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987404"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295916"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importere en PST-fil fra Outlook for Windows å Outlook for Mac 
 
@@ -26,7 +26,7 @@ Hvis du vil overføre meldinger og andre elementer fra en Windows-basert datamas
 
 **I nyere versjoner – importere en PST-fil fra Windows til Mac**
 
-1. Velg Importer Outlook for Mac **Fil-menyen** **på Fil-menyen.**
+1. Velg Outlook for Mac **Fil-menyen.** 
 
 2. Velg **Outlook for Windows arkivfil (PST),** og klikk deretter **Fortsett**.
 
@@ -41,7 +41,7 @@ Hvis du vil overføre meldinger og andre elementer fra en Windows-basert datamas
 
 1. Overfør PST-filen til Macintosh-datamaskinen.
 
-2. Klikk Importer Outlook for Mac **fil-menyen** **på filmenyen.**
+2. Klikk Importer Outlook for Mac **Fil-menyen** **på Fil-menyen.**
 
 3. Klikk **Outlook datafil**, og klikk deretter pil høyre.
 
@@ -53,12 +53,11 @@ Hvis du vil overføre meldinger og andre elementer fra en Windows-basert datamas
 
    De importerte elementene vises i navigasjonsruten under **På min datamaskin**.
 
-> [!NOTE]
-> Outlook for Mac kan bare importere Unicode-baserte PST-filer, som er standardformatet for filer med personlige mapper for Outlook (for Windows) 2003 og nyere versjoner. ANSI-formaterte PST-filer, også kjent som Outlook 97-2002 Filer med personlige mapper, var standardformatet for personlige mapper for lagring av data i Outlook for Windows i versjon 97-2002. Dette filformatet kan ikke importeres til Outlook for Mac. Hvis du har den eldre versjonen av ANSI-formatert PST-fil, finnes det ingen automatisert fremgangsmåte for å konvertere filen til det nyere filformatet. Du kan imidlertid opprette en ny Outlook-datafil (PST) i Microsoft Outlook for Windows 2003 eller nyere versjoner, og deretter importere elementer fra den eldre filen til den nye filen. Deretter kan du importere den nye PST-filen til Outlook for Mac. Hvis du vil ha mer informasjon om hvordan du oppretter PST-filer og importerer elementer, kan du se Hjelp **for** din versjon av Outlook for Windows.
+**Obs!** Outlook for Mac kan bare importere Unicode-baserte PST-filer, som er standardformatet for filer med personlige mapper for Outlook (for Windows) 2003 og nyere versjoner. ANSI-formaterte PST-filer, også kjent som Outlook 97-2002 Filer med personlige mapper, var standardformat for personlig mappe for lagring av data i Outlook for Windows i versjon 97-2002. Dette filformatet kan ikke importeres til Outlook for Mac. Hvis du har den eldre versjonen av ANSI-formatert PST-fil, er det ingen automatisert fremgangsmåte for å konvertere filen til det nyere filformatet. Du kan imidlertid opprette en ny Outlook-datafil (PST) i Microsoft Outlook for Windows 2003 eller nyere versjoner, og deretter importere elementer fra den eldre filen til den nye filen. Deretter kan du importere den nye PST-filen til Outlook for Mac. Hvis du vil ha mer informasjon om hvordan du oppretter PST-filer og importerer elementer, kan du se Hjelp **for** din versjon av Outlook for Windows.
 
 **Åpne en Outlook -datafil (PST eller OLM)**
 
-Du kan importere en Outlook for Windows -datafil (PST) eller en Outlook for Mac -datafil (OLM). Disse datafilene kan inneholde store mengder data av flere elementtyper. Outlook Datafiler brukes ofte som et arkiv eller til å overføre data mellom datamaskiner.
+Du kan importere en Outlook for Windows datafil (PST) eller en Outlook for Mac -datafil (OLM). Disse datafilene kan inneholde store mengder data av flere elementtyper. Outlook Datafiler brukes ofte som et arkiv eller til å overføre data mellom datamaskiner.
 
 1. Klikk Importer Outlook for Mac **Fil-menyen.**
 
@@ -72,23 +71,22 @@ Du kan importere en Outlook for Windows -datafil (PST) eller en Outlook for Mac 
 
 De importerte elementene vises i navigasjonsruten under **På min datamaskin**.
 
-> [!NOTE]
-> Outlook for Mac kan bare importere Unicode-baserte PST-filer som er standardformatet for filer med personlige mapper for Outlook (for Windows) 2003 og nyere versjoner. DE ANSI-formaterte PST-filene, også kalt Outlook 97-2002 Filer med personlige mapper, kan ikke importeres til Outlook for Mac. Hvis du har den eldre versjonen av ANSI-formatert PST-fil, finnes det ingen automatisert fremgangsmåte for å konvertere filen til det nyere filformatet. Du kan imidlertid opprette en ny Outlook-datafil (PST) i Microsoft Outlook for Windows 2003 eller nyere, og deretter importere elementer fra den eldre filen til den nye filen. Deretter kan du importere den nye PST-filen til Outlook for Mac. Hvis du vil ha mer informasjon om hvordan du oppretter PST-filer og importerer elementer, kan du se Hjelp for din versjon av Outlook for Windows. 
+**Obs!** Outlook for Mac kan bare importere Unicode-baserte PST-filer som er standardformatet for filer med personlige mapper for Outlook (for Windows) 2003 og nyere versjoner. DE ANSI-formaterte PST-filene, også kalt Outlook 97-2002 Filer med personlige mapper, kan ikke importeres til Outlook for Mac. Hvis du har den eldre versjonen av ANSI-formatert PST-fil, er det ingen automatisert fremgangsmåte for å konvertere filen til det nyere filformatet. Du kan imidlertid opprette en ny Outlook-datafil (PST) i Microsoft Outlook for Windows 2003 eller nyere, og deretter importere elementer fra den eldre filen til den nye filen. Deretter kan du importere den nye PST-filen til Outlook for Mac. Hvis du vil ha mer informasjon om hvordan du oppretter PST-filer og importerer elementer, kan du se Hjelp for din versjon av Outlook for Windows. 
 
 **Åpne entourage-elementer fra et arkiv eller en tidligere versjon**
 
 Du kan importere elementer som e-postmeldinger, kontakter og hendelser fra Entourage 2004, Entourage 2008 eller Entourage 2008, Web Services Edition. Du kan også importere disse elementene fra et Entourage-arkiv, som har filtypen RGE.
 
-1. Klikk Importer Outlook for Mac **fil-menyen** **på filmenyen.**
+1. Klikk Importer Outlook for Mac **Fil-menyen** **på Fil-menyen.**
 
-2. Klikk **Entourage-informasjon fra et arkiv eller en tidligere** versjon, klikk pil høyre, og følg deretter instruksjonene.
+2. Klikk **Entourage-informasjon fra et arkiv eller en tidligere versjon,** klikk pil høyre, og følg deretter instruksjonene.
 
-> [!NOTE]
-- Hvis du brukte en Microsoft Exchange-konto med Entourage, lastes alle elementene i Exchange-kontoen ned fra Exchange-serveren etter at importprosessen er fullført. Eventuelle regler eller tidsplaner relatert til Exchange må konfigureres på nytt i Outlook.
+**Obs!**
+- Hvis du brukte en Microsoft Exchange-konto med Entourage, lastes alle elementene i Exchange-kontoen ned fra Exchange-serveren når importprosessen er fullført. Eventuelle regler eller tidsplaner relatert til Exchange må konfigureres på nytt i Outlook.
 
 - Hvis du importerer elementer fra Entourage 2004 eller Entourage 2008, importeres ikke kategoriinformasjon for elementer i en Exchange-konto til Outlook. Men med Entourage 2008 Web Services Edition blir kategoriinformasjon lastet ned fra Exchange serveren.
 
-- Outlook inneholder ikke Project i midten. Hvis du brukte Project-senteret i Entourage og deretter importerer Entourage-informasjonen til Outlook, konverteres Project Center-tilknytninger til kategorier. Hvis du for eksempel har lagt til elementer i et prosjekt med tittelen Oppslagspapir i Entourage, tilordnes disse elementene en kategori som kalles Oppslagspapir i Outlook.
+- Outlook inkluderer ikke Project center. Hvis du brukte Project-senteret i Entourage og deretter importerer Entourage-informasjonen til Outlook, konverteres Project Center-tilknytninger til kategorier. Hvis du for eksempel har lagt til elementer i et prosjekt med tittelen Oppslagspapir i Entourage, tilordnes disse elementene en kategori som kalles «Oppslagspapir» i Outlook.
 
 - Egendefinerte visninger, søkeinnstillinger og informasjon om reisetid for hendelser fra Entourage importeres ikke til Outlook. Outlook hendelser inneholder ikke informasjon om reisetid.
 
@@ -100,8 +98,7 @@ Du kan importere elementer som e-postmeldinger, kontakter og hendelser fra Entou
 
 3. Skriv inn navnet på mappen du vil flytte, i **søkeboksen,** og klikk Flytt .
 
-> [!TIP]
-> Hvis du vil kopiere et element fra en arkivmappe til en annen mappe i Outlook, drar du ganske enkelt elementet til mappen der du vil plassere kopien.
+   **Tips:** Hvis du vil kopiere et element fra en arkivmappe til en annen mappe i Outlook, drar du ganske enkelt elementet til mappen der du vil plassere kopien.
 
 **Se også**
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,16 +16,16 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 60d42cfe8aa1d4559669ccc2b66ef1eff5578a9e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687471"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295640"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 for ideelle organisasjoner og priser
 
-Kvalifiserte ideelle organisasjoner kan motta Microsoft 365 ideelle organisasjoner som en donasjon eller oppgradere til avanserte funksjoner med betydelig rabatt. Hvis du vil kvalifisere for Microsoft 365 nonprofit-abonnement, må du ha anerkjent veldedig status i landet ditt og signere en policy om ikke-diskriminering av Microsoft. [](https://go.microsoft.com/fwlink/p/?LinkID=330253) Microsoft forbeholder seg retten til når som helst å bekrefte kvalifiseringen og suspendere tjenesten for ikke-kvalifiserte organisasjoner.
+Kvalifiserte ideelle organisasjoner kan motta Microsoft 365 ideelle organisasjoner som en donasjon eller oppgradere til avanserte funksjoner med betydelig rabatt. Hvis du vil kvalifisere for Microsoft 365 nonprofit-plan, må du ha anerkjent veldedig status i landet ditt og signere en policy for ikke-diskriminering fra Microsoft. [](https://go.microsoft.com/fwlink/p/?LinkID=330253) Microsoft forbeholder seg retten til når som helst å bekrefte kvalifiseringen og suspendere tjenesten for ikke-kvalifiserte organisasjoner.
   
 Hvis du vil ha mer informasjon, kan du se [Vanlige spørsmål](https://products.office.com/nonprofit/office-365-nonprofit).
   

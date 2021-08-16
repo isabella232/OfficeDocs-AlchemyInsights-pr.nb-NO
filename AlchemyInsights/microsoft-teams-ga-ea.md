@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams – gjeste tilgang
+title: Microsoft Teams – gjestetilgang
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012317"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – gjeste tilgang
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – gjestetilgang
 
-Hvis du trenger hjelp til å kommunisere med brukere utenfor organisasjonen i Teams, må du bestemme om du vil bruke [gjeste tilgang eller ekstern tilgang (forbund)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), eller du kan bruke begge.
+Hvis du trenger hjelp til å kommunisere med brukere utenfor organisasjonen i Teams, må du bestemme om du vil bruke gjestetilgang eller ekstern tilgang [(forbund),](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)eller du kan bruke begge.
 
-Pass på å [se gjennom forskjellene](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) for å forstå hvilke funksjoner som er tilgjengelige for hver.  Ekstern tilgang (forbund) tillater for eksempel 1:1-kommunikasjon, som chat og tilstede værelse.  Forbunds brukere kan imidlertid ikke delta i Teams-samarbeid.  Hvis du vil at en ekstern bruker skal bli med i og delta i Teams kanal samtaler eller dele filer, må du aktivere gjeste tilgang.
+Pass på å [se gjennom forskjellene for](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) å forstå funksjonene som er tilgjengelige for hver av dem.  Ekstern tilgang (forbund) tillater for eksempel 1:1-kommunikasjon, for eksempel Chat og Tilstedeværelse.  Brukere i forbund kan imidlertid ikke delta Teams samarbeid.  Hvis du vil at en ekstern bruker skal bli med i og delta Teams i kanalsamtaler eller dele filer, må du aktivere Gjestetilgang.
 
-**Alternativ 1: slå på gjeste tilgang** I administrasjons senteret for Teams, går du til [brede innstillinger for organisasjonen > gjeste tilgang](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) og aktiverer «Tillat gjeste tilgang i Teams».  For en leier med alle andre standard innstillinger, skal dette være alt du trenger å gjøre.  Hvis du vil tilpasse konfigurasjonen for gjeste tilgang, må du passe på å følge alle trinnene i [kontrollisten for gjeste tilgang](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Når du er helt ferdig, må du [vente opptil 24 timer](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) før innstillingene trer i kraft.
+**Alternativ 1: Aktivere gjestetilgang** Gå til Teams i administrasjonssenteret [](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) for organisasjon Innstillinger > gjestetilgang, og slå på Tillat gjestetilgang i Teams.  For en leier med alle andre standardinnstillinger bør dette være alt du trenger å gjøre.  Hvis du vil tilpasse gjestetilgangskonfigurasjonen, må du passe på at du følger alle trinnene i [sjekklisten for gjestetilgang](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Når du er ferdig, må du vente opptil [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) timer før innstillingene trer i kraft.
 
-Hvis du er trygg på at du har fullført alle trinnene i sjekk listen, og det er mer enn 24 timer, kan du prøve å [legge til en gjest i gruppen](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Hvis du er sikker på at du har fullført alle trinnene i sjekklisten, og det har gått mer enn 24 timer, kan du prøve å legge til en gjest i [teamet.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Hvis du vil ha mer informasjon, inkludert hvordan-videoer, kan du se [gjeste tilgang i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Hvis du vil ha mer informasjon, inkludert slik gjør du det, kan du se [Gjestetilgang i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Alternativ 2: slå på ekstern tilgang (forbund)** Hvis du også vil slå på ekstern tilgang (Federation), går du til innstillinger for hele organisasjonen i administrasjons senteret for Teams [> ekstern tilgang](https://admin.teams.microsoft.com/company-wide-settings/external-communications) og slår på brukere kan kommunisere med Skype for Business og Teams-brukere, og deretter følger du alle trinnene i [La teamne dine chatte og kommunisere med brukere i en annen organisasjon](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Alternativ 2: Slå på ekstern tilgang (forbund)** Hvis du også vil aktivere Ekstern tilgang (forbund), går du til Organisasjonsbasert tilgang i administrasjonssenteret for Teams og slår på «Brukere kan kommunisere med Skype for Business- og Teams-brukere», og deretter følger du alle trinnene i La [Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization) [Innstillinger >-brukerne](https://admin.teams.microsoft.com/company-wide-settings/external-communications) chatte og kommunisere med brukere i en annen organisasjon .
