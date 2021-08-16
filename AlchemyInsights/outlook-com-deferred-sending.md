@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041415"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Forsinke eller planlegge sending av e-postmeldinger
+# <a name="delay-or-schedule-sending-email-messages"></a>Utsette eller planlegge sending av e-postmeldinger
 
-Beklager, men du kan ikke utsette eller planlegge sending av e-postmeldinger i en mobilapp eller nett leser. Du gjør dette ved å bruke [Outlook for Windows eller Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Beklager, men du kan ikke utsette eller planlegge sending av e-postmeldinger i en mobilapp eller nettleser. Dette gjør du ved å [Outlook for Windows eller Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Angre Send**
+**Angre sending**
 
-Du kan endre Outlook.com-innstillingene for å forsinke sending av en melding i opptil ti sekunder. Du kan avbryte sendingen av meldingen i løpet av denne perioden. Hvis du vil slå på denne funksjonen, åpner du innstillingene for [Angre sending](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Du kan endre Outlook.com-innstillingene for å forsinke sending av en melding i opptil 10 sekunder. Du kan avbryte sendingen av meldingen i denne perioden. Hvis du vil aktivere denne funksjonen, åpner du [Angre innstillinger for sending.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Lær mer om å [ringe e-post på nytt i Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Finn ut mer [om tilbakekalling av e-post på Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1180ca96f0e1fdf0dc6e45829283fb3c99586683feb6ad7da1571fc05f41c48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002885"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Slik aktiverer du Microsoft To-Do
 
-Hvis du vil bruke Microsoft To-Do, må en administrator aktivere appen på hver brukers konto. Gå til [ &amp; Tjenester-tillegg-siden](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) på siden for administratorinnstillinger for Microsoft 365 for å aktivere To-Do for hver bruker.
+Hvis du vil bruke Microsoft To-Do, må en administrator aktivere appen på hver brukers konto. Gå til [ &amp; Tjenester-tillegg-siden](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) på siden Microsoft 365 administratorinnstillinger for å aktivere To-Do for hver bruker.
   
-Microsoft To-Do bruker funksjoner i Exchange Online til å synkronisere og lagre brukernes gjøremålselementer. En bruker trenger en gyldig Exchange Online-postboks for å kunne bruke Microsoft To-Do.
+Microsoft To-Do bruker funksjoner i Exchange Online til å synkronisere og lagre brukernes gjøremålselementer. Hvis du vil bruke Microsoft To-Do, trenger en bruker en gyldig Exchange Online postboks.
   
 Hvis du vil ha mer informasjon, [kan du se Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   

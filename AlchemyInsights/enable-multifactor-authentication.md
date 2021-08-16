@@ -1,5 +1,5 @@
 ---
-title: Aktiver godkjenning med mer enn fakultet
+title: Aktivere godkjenning med flere faktorer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002921"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivere godkjenning med flere faktorer
 
-Slik aktiverer du godkjenning med flere faktorer i administrasjons senteret for Microsoft 365:
+Slik aktiverer du godkjenning med flere faktorer i Administrasjonssenter for Microsoft 365:
 
-1. Gå til siden **brukere** for \> **aktive brukere** .
+1. Gå til siden **Brukere** \> **aktive** brukere.
     
-2. Velg **godkjenning med flere faktorer**øverst på siden. 
+2. Velg Godkjenning med flere faktorer øverst på **siden.** 
     
-3. Finn brukeren eller brukerne som du vil aktivere for godkjenning med flere faktorer. Hvis du vil se alle brukerne, kan det hende du må endre filteret for **godkjennings status for flere faktorer** øverst.
+3. Finn brukeren eller brukerne du vil aktivere for godkjenning med flere faktorer. Hvis du vil se alle brukerne,  må du kanskje endre statusfilteret for godkjenning med flere faktorer øverst.
     
-4. Merk av i boksen ved siden av brukerne du vil aktivere.
+4. Merk av for brukerne du vil aktivere.
     
-5.  Velg **Aktiver**under **hurtig trinn**i ruten til høyre bruker informasjon. 
+5.  Velg Aktiver under hurtigtrinn **i** ruten til høyre **brukerinformasjon.** 
     
-6. Velg **Aktiver godkjenning med flere faktorer**i dialog boksen som åpnes. 
+6. Velg Aktiver godkjenning med flere faktorer i dialogboksen som **åpnes.** 
     
 
