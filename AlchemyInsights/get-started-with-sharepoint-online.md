@@ -1,5 +1,5 @@
 ---
-title: Komme i gang med SharePoint Online
+title: Kom i gang med SharePoint Online
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48142ab68f3478c9becd51e658bd07255803f47f00611e0f1f8ab1757fdc984d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029489"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Komme i gang med SharePoint Online
+# <a name="get-started-with-sharepoint-online"></a>Kom i gang med SharePoint Online
 
-Kom i gang med [video opplæring for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) og [hurtigst Art veiledning](https://go.microsoft.com/fwlink/?linkid=866437). Hvis du leter etter et mer omfattende trinn for trinn-veiledning, følger du Fremgangs måten i [distribusjons rådgiveren for SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)
+Kom i gang med vår SharePoint [videoopplæring på](https://go.microsoft.com/fwlink/?linkid=866438) nettet og [hurtigstartveiledning.](https://go.microsoft.com/fwlink/?linkid=866437) Hvis du leter etter en mer omfattende veiledning, følger du fremgangsmåten i distribusjonsrådgiveren [for SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)
   
 
