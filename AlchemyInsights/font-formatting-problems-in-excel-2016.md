@@ -1,5 +1,5 @@
 ---
-title: Problemer med skrift formatering i Excel 2016
+title: Problemer med skriftformatering i Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068209"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemer med skrift formatering i Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemer med skriftformatering i Excel
 
-I Excel 2016 vises kanskje ikke skrift formatering på riktig måte i en celle. Dette kan skje hvis en celle inneholder mer enn én type skrift formatering. Hvis noen tegn for eksempel er fet, og andre ikke har fet formatering, vises kanskje ikke det fete formatet. Hvis du har forskjellige fargede tegn i samme celle, vises kanskje ikke fargene på riktig måte. Teknisk teamet vårt er klar over dette problemet og arbeider med å finne en løsning. I mellom tiden kan du prøve å bruke en annen skrift. Du kan imidlertid prøve å unngå å bruke flere typer formatering i samme celle til problemet er løst.
+I Excel 2016 kan det hende at skriftformateringen ikke vises riktig i en celle. Dette kan skje hvis en celle inneholder mer enn én type skriftformatering. Hvis noen tegn for eksempel har fet skrift og andre ikke har fet skrift, kan det hende at du ikke ser fet skrift. Hvis du har forskjellige fargede tegn i samme celle, kan det hende at fargene ikke vises riktig. Teknikerteamet vårt er klar over dette problemet og arbeider med en løsning. I mellomtiden kan du prøve å bruke en annen skrift. Du kan også prøve å unngå å bruke flere typer formatering i samme celle til problemet er løst.
   

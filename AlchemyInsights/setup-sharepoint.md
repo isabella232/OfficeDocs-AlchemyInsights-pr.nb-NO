@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023459"
 ---
 # <a name="set-up-sharepoint"></a>Konfigurere SharePoint
 
-[Oppsett veiledningen for SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) hjelper deg med å konfigurere lagring og innholds behandling for SharePoint-dokumenter, opprette nett steder, konfigurere ekstern deling, overføre data og konfigurere avanserte innstillinger og drive bruker engasjement og kommunikasjon i organisasjonen.
+[Installasjonsveiledningen SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) hjelper deg med å konfigurere SharePoint dokumentlagring og innholdsbehandling, opprette nettsteder, konfigurere ekstern deling, overføre data og konfigurere avanserte innstillinger og drive brukerengasjement og kommunikasjon i organisasjonen.
 
-Du følger Fremgangs måten for å konfigurere tillatelses policyer for innholds deling, velge synkroniserings verktøy for overføring og aktivere sikkerhets innstillingene for SharePoint-miljøet.
+Du følger trinnene for å konfigurere tillatelsespolicyene for innholdsdeling, velge synkroniseringsverktøy for overføring og aktivere sikkerhetsinnstillingene for SharePoint miljøet.

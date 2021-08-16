@@ -1,5 +1,5 @@
 ---
-title: Konfigurere Business Premium-abonnementet for O365
+title: Konfigurere O365 Business Premium-abonnementet
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,14 +11,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0253198b20f32497f1316284017a6d337c3d88c64fba9a3c8e05c0057b655d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023495"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a>Konfigurere Business Premium-abonnementet for O365
+# <a name="setting-up-your-o365-business-premium-subscription"></a>Konfigurere O365 Business Premium-abonnementet
 
-Hvis du trenger hjelp med å konfigurere Microsoft 365-abonnementet, følger du Fremgangs måten i [denne artikkelen](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) for å få oppsettet fullført.
+Hvis du trenger hjelp til å konfigurere Microsoft 365 abonnementet, følger du fremgangsmåten i [denne artikkelen](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) for å fullføre konfigurasjonen.
   
