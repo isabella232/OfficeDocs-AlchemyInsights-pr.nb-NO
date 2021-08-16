@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams sammen-modus
+title: Microsoft Teams Sammen-modus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012245"
 ---
-# <a name="microsoft-teams-together-mode"></a>Microsoft Teams sammen-modus
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Sammen-modus
 
-Sammen-modus kombinerer årevis av forsknings-og produkt utvikling for deltakerne på en video samtale for å være samlet i et virtuelt område, for eksempel et Auditorium, møterom eller kaffe bar. 
+Sammen-modus kombinerer flere tiår med forskning og produktutvikling for at deltakerne i en videosamtale skal se ut til å være sammen i et virtuelt rom, for eksempel et auditorium, et møterom eller en kaffebar. 
 
-Den nye funksjonen ditches det tradisjonelle rute nettet med bokser, og det å opprette et miljø som brukere sier, har en Profound-innvirkning på video konferansens følelse og gir mer Cohesion til gruppen. Hvis du vil lære mer om sammen-modus, kan du se [hvordan du får mest mulig ut av modus](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Den nye funksjonen grøfter det tradisjonelle rutenettet med bokser og skaper et miljø som brukere sier har en stor innvirkning på følelsen av videokonferansen og gir mer samhold til gruppen. Hvis du vil lære mer om sammen-modus, kan du se Slik får du [mest mulig ut av Sammen-modus](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Hvis du vil ha mer informasjon om når sammen-modus vil være tilgjengelig for organisasjonen, kan du se Microsoft 365-vei kart, [Microsoft Teams-modus](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Hvis du vil ha mer informasjon om når Sammen-modus vil være tilgjengelig for organisasjonen, kan du Microsoft 365 veikart, Microsoft Teams [- sammen-modus](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
