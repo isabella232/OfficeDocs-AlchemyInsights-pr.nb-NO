@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: deab64517985921277d9ca3561fb81cec65bffd9c8d739f2fd2f891f1b35b381
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101527"
 ---
 # <a name="domains"></a>Domener
 
-- **Bekreft domenet i** administrasjonssenteret ved hjelp av veiviseren [Legg til domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Hvis du vil ha mer hjelp, [kan du lese Legge til et domene i Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
+- **Bekreft domenet i** administrasjonssenteret ved hjelp av veiviseren [Legg til domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Hvis du vil ha mer hjelp, [kan du lese Legge til et domene Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 - **Domene i bruk** – du må logge på den andre organisasjonen og [fjerne domenet](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). legg den deretter til i denne organisasjonen.
 - **Domene i bruk uadministrert / selvbetjening**  -  [Bli administrator for det uadministrerte domenet](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
 
