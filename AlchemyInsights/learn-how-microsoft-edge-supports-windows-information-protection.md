@@ -1,5 +1,5 @@
 ---
-title: Lær hvordan Microsoft Edge støtter Windows Information Protection (via)
+title: Lær hvordan Microsoft Edge støtter Windows Information Protection (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054327"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Lær hvordan Microsoft Edge støtter Windows Information Protection (via)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Lær hvordan Microsoft Edge støtter Windows Information Protection (WIP)
 
-Etter hvert som antall eksterne arbeidere øker, kan antall personlige-og arbeids aktiviteter forekomme på firma enheter. Dette øker risikoen for at bedrifts data kan deles utenfor arbeids plassen, i sin tur. For å redusere denne risikoen har Microsoft Edge (versjon 81 eller nyere) støtte for Windows Information Protection (via): en Windows-10-funksjon som bidrar til å beskytte virksomhets data mot uautoriserte og tilfeldige avsløringer.
+Etter hvert som antallet eksterne arbeidere øker, øker også antallet personlige aktiviteter og arbeidsaktiviteter som forekommer på bedriftsenheter. Dette øker i sin tur risikoen for at bedriftsdata kan deles utenfor arbeidsplassen. For å redusere denne risikoen støtter Microsoft Edge (versjon 81 eller nyere) Windows Information Protection (WIP): en Windows-10-funksjon som bidrar til å beskytte bedriftsdata mot uautoriserte og utilsiktede opplysninger.

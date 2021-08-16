@@ -1,5 +1,5 @@
 ---
-title: Slik oppdaterer du et bestillings nummer i Azure-portalen
+title: Slik oppdaterer du et innkjøpsordrenummer i Azure Portal
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028805"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Slik oppdaterer du et bestillings nummer i Azure-portalen
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Slik oppdaterer du et innkjøpsordrenummer i Azure Portal
 
-Du kan oppdatere bestillings nummeret (PO) i Azure-portalen. Hvis du vil gjøre dette, må du ha en eier eller en bidrags yter rolle på fakturerings kontoen for en Microsoft Customer Agreement (MCA). 
+Du kan oppdatere innkjøpsordrenummeret (PO) i Azure Portal. Hvis du vil gjøre dette, må du ha en eier- eller bidragsyterrolle på faktureringskontoen for en Microsoft-kundeavtale (MCA). 
 
-Slik oppdaterer du BESTILLINGs nummeret:
-1. Logg på Azure-portalen, og naviger til **kostnads administrasjon + fakturering**.
-1. Klikk **fakturerings profiler** , og velg en fakturerings profil for å oppdatere bestillings nummeret.
-1. Klikk **Egenskaper** , og velg **Oppdater bestillings nummer**. 
+Slik oppdaterer du bestillingsnummeret:
+1. Logg på Azure-portalen, og gå til **Kostnadsstyring + Fakturering**.
+1. Klikk **Faktureringsprofiler,** og velg en faktureringsprofil for å oppdatere bestillingsnummeret.
+1. Klikk **Egenskaper,** og **velg Oppdater bestillingsnummer**. 
 
 **Anbefalt dokumentasjon**
 
-- [Forstå den MCA-fakturaen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Oppdater konto innstillinger for fakturering](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Forstå MCA-fakturaen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Oppdatere innstillinger for faktureringskonto](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
