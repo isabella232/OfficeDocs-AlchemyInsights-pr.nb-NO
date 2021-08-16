@@ -1,5 +1,5 @@
 ---
-title: Hindre microsoft søk i Bing fra å installere med Microsoft 365-apper
+title: Hindre Microsoft Søk i Bing installere med Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040119"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Hindre microsoft søk i Bing fra å installere med Microsoft 365-apper
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Hindre Microsoft Søk i Bing installere med Microsoft 365 Apps
 
-Hvis du vil hindre at bakgrunnstjenesten for Microsoft Search i Bing installeres med Microsoft 365-apper for bedrifter, kan du bruke ett av følgende alternativer:
+Hvis du vil hindre at bakgrunnstjenesten for Microsoft Søk i Bing installere med Microsoft 365 Apps for enterprise, kan du bruke ett av følgende alternativer:
 
-- Distribusjonsverktøyet eller gruppepolicyen for Office
+- Distribusjonsverktøyet Office eller gruppepolicy
 - Microsoft Endpoint Configuration Manager (gjeldende gren) eller Microsoft Intune
 
-Hvis du vil ha mer informasjon, kan du se Slik hindrer du at bakgrunnstjenesten for Microsoft Search i Bing installeres med [Microsoft 365-apper for bedrifter.](https://go.microsoft.com/fwlink/?linkid=2151946)
+Hvis du vil ha mer informasjon, kan du se Slik hindrer du at bakgrunnstjenesten for Microsoft Søk i Bing [installeres med Microsoft 365 Apps for enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
