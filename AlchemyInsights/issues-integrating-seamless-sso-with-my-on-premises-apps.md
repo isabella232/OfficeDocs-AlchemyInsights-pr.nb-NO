@@ -1,5 +1,5 @@
 ---
-title: Problemer med integrering av sømløst SSO med de lokale appene
+title: Problemer med integrering av Sømløs SSO med de lokale appene mine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028301"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemer med integrering av sømløst SSO med de lokale appene
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemer med integrering av Sømløs SSO med de lokale appene mine
 
-Hvis du vil feilsøke problemer med integrering av sømløst SSO med lokale programmer, gjør du følgende:
+Gjør følgende for å feilsøke problemer med integrering av Sømløs SSO med lokale programmer:
 
 **Anbefalte trinn**
 
-1. Hvis du vil konfigurere et **lokalt program** for **enkel pålogging via program-proxy**, kan du se [passord hvelving for enkel pålogging med programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Feilsøke proxy-problemer med programmet**: Vi anbefaler at du starter med å se gjennom feil søkings flyt, [Feilsøk program for proxy Connector-problemer](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), for å finne ut om proxy-koblinger for appen er konfigurert riktig. Hvis du fremdeles har problemer med å koble til programmet, følger du Fremgangs måten for feil søking i forbindelse med program for [proxy-program for Feilsøk](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Du kan [identifisere CORS-problemer](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) ved å bruke følgende feil søkings verktøy for nett:
-    1. Start nett leseren, og gå til net tap pen.
-    1. Trykk **F12** for å åpne Debug-konsollen.
-    1. Prøv å gjenskape transaksjonen, og se gjennom konsoll meldingen. Et CORS-brudd gir en konsoll feil om opprinnelse.
-    1. Noen CORS-problemer kan ikke løses, for eksempel når appen omdirigeres til login.microsoftonline.com for godkjenning, og tilgangstoken utløper. CORS-samtalen mislykkes. En midlertidig løsning for dette scenariet er å forlenge leve tiden til tilgangstoken for å hindre at det utløper under en brukers økt. Hvis du vil ha mer informasjon om hvordan du gjør dette, kan du se [konfigurerbare token-leve tid i Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Hvis du vil konfigurere **et lokalt program** for enkel pålogging via Programproxy, kan du se Passordhvelv for enkel pålogging [med Programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting). 
+1. **Feilsøke problemer med** programproxy : Vi anbefaler at du begynner med å se gjennom feilsøkingsflyten, Feilsøke problemer med Application Proxy Connector , for å finne ut om Application [Proxy-koblinger](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)er riktig konfigurert. Hvis du fremdeles har problemer med å koble til programmet, følger du feilsøkingstrinnene i Problemer med feilsøking [av programproxyprogram](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Du kan [identifisere CORS-problemer](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) ved hjelp av følgende feilsøkingsverktøy for nettleser:
+    1. Start nettleseren, og bla til nettappen.
+    1. Trykk **F12 for** å hente frem feilsøkingskonsollen.
+    1. Prøv å reprodusere transaksjonen, og se gjennom konsollmeldingen. Et CORS-brudd gir en konsollfeil om opprinnelsen.
+    1. Noen CORS-problemer kan ikke løses, for eksempel når appen omdirigerer til login.microsoftonline.com for å godkjenne, og tilgangstokenet utløper. CORS-anropet mislykkes deretter. En midlertidig løsning for dette scenariet er å forlenge levetiden til tilgangstokenet for å hindre at det utløper under en brukers økt. Hvis du vil ha mer informasjon om hvordan du gjør dette, kan du se Konfigurerbar levetid for [token i Microsofts identitetsplattform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 **Anbefalte dokumenter**
 
-- [Konfigurere enkel pålogging til et program-proxy-program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [SAML Single Sign-on for lokale programmer med programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Forstå og løse problemer med proxy-CORS for Azure Active Directory-app](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Feilsøke konfigurasjoner med begrenset Kerberos-delegering for programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Slik konfigurerer du enkel pålogging til et programproxyprogram](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [SAML enkel pålogging for lokale programmer med Programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Forstå og løse Azure Active Directory cors-problemer med programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Feilsøke Kerberos begrensede delegeringskonfigurasjoner for programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

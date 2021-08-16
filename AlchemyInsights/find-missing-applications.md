@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068929"
 ---
 # <a name="find-missing-applications"></a>Finne manglende programmer
 
-- [Hurtigst Art: Vis listen over programmer som bruker Azure Active Directory-leieren (Azure ad) for identitets behandling](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) viser deg hvordan du viser programmene, også kalt apper, som allerede er konfigurert til å bruke Azure ad-leieren som identitets leverandør (IDP).
-- Hvis du vil søke etter et bestemt program, går du til **program type** -menyen, velger **alle programmer** og velger **Bruk**.
-  - Skriv inn navnet på programmet du vil finne. Hvis programmet er lagt til i Azure AD-leieren, vises det i søke resultatene. Du kan også skrive inn de første bokstavene i et program navn.
-- [Feilsøke vanlig problem med å legge til eller fjerne et program i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) hjelper deg med å forstå vanlige problemer personer som ser på apper i Azure Active Directory.
+- Hurtigstart: Vis listen over programmer som bruker [Azure Active Directory-tenanten (Azure AD) for](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) identitetsbehandling, som viser deg hvordan du viser programmene, også kalt apper, som allerede er konfigurert til å bruke Azure AD-leieren som identitetsleverandør (IdP).
+- Hvis du vil søke etter et bestemt program, går du til **Programtype-menyen,** velger **Alle programmer** og velger **Bruk**.
+  - Skriv inn navnet på programmet du vil finne. Hvis programmet er lagt til i Azure AD-leieren, vises det i søkeresultatene. Du kan også skrive inn de første bokstavene i et programnavn.
+- [Feilsøke vanlige problemer med å legge](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) til eller fjerne et program Azure Active Directory hjelper deg med å forstå de vanlige problemene personer opplever når de viser apper i Azure Active Directory.

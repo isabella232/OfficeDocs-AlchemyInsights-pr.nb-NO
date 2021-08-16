@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978854"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874548"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Sende en e-postmelding ved hjelp av meldingssporing
 
-1. Gå til Office 365 [Sikkerhets- & samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til Sporing av e-postflytmelding   >  [](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Gå til Exchange (EAC) på <https://admin.exchange.microsoft.com> \> **E-postflytMeldingssporing** \> .
+
+   Hvis du vil gå direkte til **Meldingssporing-siden,** bruker du <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Velg **+ Start en sporing**.
 3. Gå gjennom alternativene som presenteres. Velg mottakere og avsendere, og juster deretter datoområdet etter behov. Du kan la standardinnstillingene for de gjenværende alternativene være igjen.
 4. Velg **Søk**. En liste over e-postmeldinger vises basert på søkekriteriene. Dobbeltklikk meldingen du vil sende, og velg deretter **Send melding**.
-5. Hvis du vil ha mer informasjon, kan du [se Meldingssporing i Sikkerhets- & Samsvarssenter](https://go.microsoft.com/fwlink/?linkid=2101557).
+
+Hvis du vil ha mer informasjon, [kan du se Meldingssporing i den moderne EAC](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).

@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874584"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Konfigurere beskyttelse mot søppelpost
 
-Slik gjør du dette:
+1. I Microsoft 365 Defender-portalen på går du til Policyer & e-post for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
 
-1. Gå til [Office 365 Sikkerhets- & Samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Gå til **Policy for**  >  **trusselbehandling**, og klikk **[Søppelpost](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Aktiver **Egendefinerte** innstillinger på **Egendefinert-fanen.**
-1. Utvid **standard policy for søppelpostfilter,** klikk Rediger **policy**, og angi deretter følgende innstillinger:
-    1. Angi **terskelen** til en verdi på 5 eller 6 i delen Søppelpost og massehandlinger.
-1. Klikk på **Lagre**.
+   Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
 
-Hvis du vil lære mer om alternativene for søppelpostpolicy, kan du [se Konfigurere policyer for søppelpost](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Gjør ett av følgende på siden Retningslinjer for **søppelpost:**
+   - Hvis du vil legge til en ny policy, **velger du + Opprett** \> **inngående**. En veiviser starter for å hjelpe deg med å definere policyinnstillingene.
+   - Hvis du vil redigere en eksisterende policy, velger du policyen ved å klikke  på navnet på policyen (**Type** er egendefinert **søppelpostpolicy,** eller Navnet er inngående policy for søppelpost **(standard).** Velg Rediger i delen som  inneholder innstillingene du vil konfigurere, i detaljer-undermenyen som vises.
+
+3. Når du har sett gjennom innstillingene, velger du **Send** inn (ny) eller **Lagre** (rediger).
+
+Hvis du vil ha mer informasjon, [kan du se Konfigurere søppelpostpolicyer i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
