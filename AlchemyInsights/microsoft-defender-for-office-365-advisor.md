@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365-rådgiver
+title: Microsoft Defender for Office 365 rådgiver
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098122"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender for Office 365-rådgiver
+# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender for Office 365 rådgiver
 
-[Microsoft Defender for Office 365-rådgiveren](https://go.microsoft.com/fwlink/?linkid=2146614) beskytter organisasjonen mot ondsinnede trusler som miljøet kan støte på via e-postmeldinger, koblinger og tredje parts samarbeids verktøy. Denne veiledningen gir deg ressursene og informasjonen som hjelper deg med å klargjøre og identifisere en Microsoft Defender plan for å få plass til organisasjonens behov.
+[Microsoft Defender for Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) beskytter organisasjonen mot skadelige trusler som miljøet kan støte på gjennom e-postmeldinger, koblinger og tredjeparts samarbeidsverktøy. Denne veiledningen gir deg ressurser og informasjon som hjelper deg med å klargjøre og identifisere en Microsoft Defender-plan som passer til organisasjonens behov.
