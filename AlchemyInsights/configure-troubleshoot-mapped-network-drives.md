@@ -1,5 +1,5 @@
 ---
-title: Konfigurere og feilsøke tilkoblede nettverks stasjoner
+title: Slik konfigurerer og feilsøker du tilordnede nettverksstasjoner
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044457"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Konfigurere og feilsøke tilkoblede nettverks stasjoner
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Slik konfigurerer og feilsøker du tilordnede nettverksstasjoner
 
-Tilordning av et bibliotek som en nettverks stasjon er midlertidig og støttes bare gjennom Internet Explorer. I stedet bør [du synkronisere SharePoint-filer med den nye synkroniserings klienten for OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) , som inneholder [filer ved behov](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Få tilgang til alle filene dine i OneDrive uten å bruke lokal lagrings plass.
+Tilordning av et bibliotek som en nettverksstasjon er midlertidig og støttes bare via Internet Explorer. Synkroniser SharePoint filer med den [nye OneDrive-synkronisering-klienten](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) som gir [Filer ved behov](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Få tilgang til alle filene i OneDrive uten å bruke lokal lagringsplass.
 
-* [Feilsøke tilordnede nettverks stasjoner som kobles til SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [Feilsøke tilordnede nettverksstasjoner som kobler til SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

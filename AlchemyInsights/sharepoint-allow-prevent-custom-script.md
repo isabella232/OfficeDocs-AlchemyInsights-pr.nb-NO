@@ -1,5 +1,5 @@
 ---
-title: Tillat egen definert skript for å aktivere funksjoner
+title: Tillat egendefinert skript for å aktivere funksjoner
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd75d37b20ad2b624ee9944c9c7e62b93277dcd5e2669e3748647636d99e1b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051459"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Tillat egen definert skript for å aktivere funksjoner
+# <a name="allow-custom-script-to-enable-features"></a>Tillat egendefinert skript for å aktivere funksjoner
 
-Det kan hende at administratorer må **tillate egen definert skript** for å aktivere bestemte funksjoner. Brukere kan for eksempel motta feil 403 når du kobler til SharePoint med SharePoint Designer. For detaljerte trinn, eksempler og hensyn kan du se [tillate eller forhindre egen definert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratorer må kanskje tillate **egendefinert skript for** å aktivere bestemte funksjoner. Brukere kan for eksempel få feil 403 når de kobler til SharePoint med SharePoint Designer. Hvis du vil ha detaljerte trinn, eksempler og hensyn, kan du se [Tillate eller forhindre egendefinert skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Hvis brukere opplever en **feil 403** med SharePoint eller OneDrive, kan du kontrollere [instrument bordet for tjeneste tilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for å finne ut om det er et kjent problem med en løsning som pågår, før du ringer feil søking for kunde støtte eller bruks tid. Problemet kan være svært midlertidig og allerede identifisert av Microsoft, men det kan være en forkortelses i tid mellom problem identifikasjon og postering til instrument bordet for tjeneste tilstand. Fortsett å kontrollere instrument bordet for tjeneste tilstand for ytterligere oppdateringer.
+Hvis brukere har en feil **403** med SharePoint eller OneDrive, kan [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) du kontrollere instrumentbordet for tjenestetilstand for å finne ut om det er et kjent problem med en pågående løsning før du ringer kundestøtte eller bruker tid på feilsøking. Problemet kan være svært midlertidig og allerede identifisert av Microsoft, men det kan være en forkortelse i tid mellom problem-ID og publisering på instrumentbordet for tjenestetilstand. Fortsett å se instrumentbordet for tjenestetilstand for ytterligere oppdateringer.
 

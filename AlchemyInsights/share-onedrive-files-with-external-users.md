@@ -1,5 +1,5 @@
 ---
-title: Dele OneDrive-filer med eksterne brukere
+title: Dele OneDrive filer med eksterne brukere
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,34 +12,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051603"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Dele filer i OneDrive med personer utenfor organisasjonen
 
-1. Bruk start programmet for apper for å gå til OneDrive i nett leseren. 
+1. Bruk startprogrammet for apper til å gå til OneDrive i nettleseren. 
     
-2. Velg filen eller mappen du vil dele, og velg deretter **del**. 
+2. Velg filen eller mappen du vil dele, og velg deretter **Del**. 
     
-3. Hvis koblings typen er satt til «personer i \<your organization\> », klikker du pil ned og velger ett av følgende: 
+3. Hvis koblingstypen er satt til Personer i , klikker du pil ned og \<your organization\> velger ett av følgende: 
     
-  - **Alle** gir tilgang til alle som mottar denne koblingen, enten de får direkte fra deg eller videresendt fra noen andre. Dette kan inkludere personer utenfor organisasjonen. 
+  - **Alle** gir tilgang til alle som mottar denne koblingen, enten de mottar den direkte fra deg eller videresendt fra noen andre. Dette kan omfatte personer utenfor organisasjonen. 
     
-  - **Bestemte personer** gir tilgang bare til de personene du angir, selv om andre personer allerede har tilgang. Hvis personer videre sender Delings invitasjonen, vil bare personer som allerede har tilgang til elementet, kunne bruke koblingen. 
+  - **Bestemte personer** gir bare tilgang til personene du angir, selv om andre allerede har tilgang. Hvis personer videresender delingsinvitasjonen, kan bare personer som allerede har tilgang til elementet, bruke koblingen. 
     
     > [!NOTE]
-    > Hvis et av disse alternativene ikke er tilgjengelig, eller hvis du vil at en annen koblings type skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til administrasjons senteret for OneDrive og klikke **deling** i den venstre ruten. [få mer informasjon](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Hvis ett av disse alternativene ikke er tilgjengelig, eller hvis du vil at en annen koblingstype skal vises som standard, kan du endre innstillingene for hele organisasjonen ved å gå til administrasjonssenteret for OneDrive og klikke Deling i den venstre ruten.  [Finn ut mer](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Som standard er **Tillat redigering** aktivert. Hvis du vil at personer bare skal kunne vise filene, fjerner du merket i avmerkings boksen. 
+4. Tillat redigering **er** aktivert som standard. Hvis du vil at andre bare skal vise filene dine, fjerner du merket for dette alternativet. 
     
 5. Skriv inn navnene på personene du vil dele med, og en melding hvis du vil.
     
 6. Når du er klar til å sende koblingen, klikker du **Send**. 
     
-[få mer informasjon](https://go.microsoft.com/fwlink/?linkid=871861)
+[Finn ut mer](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

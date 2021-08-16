@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: c5a97cbeca4cfae1deac9171d7df4a81e33d88dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f776d830fc3e017c8611353f31af8f0164f2f0873d01d0d6bc5bc5f5c92eef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983102"
 ---
 # <a name="organize-your-email"></a>Organisere e-post
 
-I Outlook på nettet kan du bruke kommandoer som **Opprydding** og **Flytt til** for å slette eller flytte meldinger automatisk fra en bestemt avsender. Disse kommandoene vises over meldings listen når du velger en melding i innboksen.
+I Outlook på nettet kan du bruke kommandoer som  Opprydninger og Flytt til for automatisk å slette eller flytte meldinger fra en bestemt avsender.  Disse kommandoene vises over meldingslisten når du velger en melding i innboksen.
 
-- **Opprydding** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
- lar deg raskt slette meldinger i innboksen. Du kan automatisk slette all inn kommende e-post fra avsenderen, beholde bare den nyeste e-posten og slette resten, eller slette e-post som er eldre enn 10 dager.
-- **Flytt til** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> lar deg flytte en melding til en bestemt melding til en annen mappe.
+- **Opprydd** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
+ lar deg raskt slette meldinger i innboksen. Du kan automatisk slette all innkommende e-post fra denne avsenderen, beholde bare den nyeste e-posten og slette resten, eller slette e-post som er eldre enn 10 dager.
+- **Flytt til** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> lar deg flytte en melding en bestemt melding til en annen mappe.
 
-Hvis du vil ha mer informasjon, kan du se [arbeide med meldings mapper i Outlook på nettet](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Hvis du vil ha mer informasjon, kan du se Arbeide [med meldingsmapper i Outlook på nettet](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

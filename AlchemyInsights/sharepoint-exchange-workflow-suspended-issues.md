@@ -1,5 +1,5 @@
 ---
-title: Komme i gang med SharePoint Online
+title: Kom i gang med SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051423"
 ---
-# <a name="workflows-in-sharepoint"></a>Arbeids flyter i SharePoint
+# <a name="workflows-in-sharepoint"></a>Arbeidsflyter i SharePoint
 
-Hvis SharePoint-arbeidsflyter ikke sender e-postmeldinger, kan det hende at organisasjonen har funnet grensen for Exchange Online-avsenderen.
+Hvis SharePoint arbeidsflyter ikke sender e-postmeldinger, kan organisasjonen ha støtt Exchange Online avsendergrenser.
 
-Feil meldingen «arbeids flyten er ute stengt» kan oppstå hvis du har ett av følgende elementer:
+Feilmeldingen Arbeidsflyt er deaktivert kan oppstå hvis du har ett av følgende elementer:
 
-- Du har en arbeids flyt i SharePoint Online som bruker arbeids flyt plattform typen for SharePoint 2010 eller SharePoint 2013.
+- Du har en arbeidsflyt i SharePoint Online som bruker arbeidsflytplattformtypen SharePoint 2010 eller SharePoint 2013.
 
-- Arbeids flyten er konfigurert til å sende en egen definert e-postmelding til flere enn 200 brukere om gangen, mer enn 10 000 mottakere per dag eller mer enn 30 meldinger per minutt.
+- Arbeidsflyten er konfigurert til å sende en egendefinert e-postmelding til mer enn 200 brukere om gangen, mer enn 10 000 mottakere per dag eller mer enn 30 meldinger per minutt.
 
-Når du kjører arbeids flyten, sendes ikke e-postmeldingen, og du ser feil meldingen, den interne statusen er satt til suspendert eller kan ikke sendes til en mottaker.
+Når du kjører arbeidsflyten, sendes ikke e-postmeldingen, og du legger merke til feilmeldingen Intern status er satt til Deaktivert eller Kan ikke sende til en mottaker vises.
 
-Hvis du vil ha mer informasjon, kan du se [artikkelen](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)nedenfor.
+Hvis du vil ha mer informasjon, kan du se følgende [artikkel](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

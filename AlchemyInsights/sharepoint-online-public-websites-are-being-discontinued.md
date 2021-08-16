@@ -1,5 +1,5 @@
 ---
-title: Offentlige SharePoint Online-webområder blir utgått
+title: SharePoint Offentlige nettsteder på nettet avvikles
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051279"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Offentlige SharePoint Online-webområder blir utgått
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Offentlige nettsteder på nettet avvikles
 
-Hvis du har opprettet et offentlig nettsted for SharePoint Online, kan du fortsette å bruke det til 31. mars 2018. Hvis du vil fortsette å ha et offentlig nettsted, må du opprette et nytt med en ny leverandør. Innholdet på det offentlige SharePoint Online-nettstedet vil bli slettet, så du må kopiere alt innholdet du vil beholde.
+Hvis du opprettet et SharePoint offentlig nettsted på Nettet, kan du fortsette å bruke det til 31. mars 2018. Hvis du vil fortsette å ha et offentlig nettsted, må du opprette et nytt med en ny leverandør. Innholdet på det offentlige SharePoint online-nettstedet slettes, så du må kopiere innholdet du vil beholde.
   
-Et banner vises nå øverst på det offentlige SharePoint Online-nettstedet som varsler om at området vil bli fjernet. Du kan ikke slå av dette banneret. Hvis du vil ha informasjon om hvordan du lagrer og kopierer innhold til et partner nettsted, kan du se [detaljer om funksjons prosessen](https://go.microsoft.com/fwlink/?linkid=866980).
+Et banner vises nå øverst på det offentlige SharePoint internett som et varsel om at nettstedet vil bli fjernet. Du kan ikke slå av dette banneret. Hvis du vil ha informasjon om hvordan du lagrer og kopierer innhold til et partnernettsted, kan du se [Detaljer om utgått funksjonsprosessen.](https://go.microsoft.com/fwlink/?linkid=866980)
   

@@ -1,5 +1,5 @@
 ---
-title: 8000063 slik høyre klikker du en Mac
+title: 8000063 Høyreklikk på en Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001949"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Slik høyre klikker du en Mac
+# <a name="how-to-right-click-on-a-mac"></a>Slik høyreklikker du på en Mac
 
-Høyre klikk på Mac-datamaskiner kalles sekundær Klikk eller kontroll klikk. Hvis musen, styre feltet eller en annen inn dataen het ikke inkluderer en høyre klikk knapp eller en annen måte å utføre et høyre klikk på, kan du holde nede **CTRL-tasten** på tastaturet mens du klikker.
+Høyreklikk på Mac-datamaskiner kalles sekundærklikk eller Kontrollklikk. Hvis musen, styrefeltet eller en annen inndataenhet ikke inneholder en høyreklikkknapp eller en annen måte  å utføre et høyreklikk på, holder du nede CTRL-tasten på tastaturet mens du klikker.
   
-Hvis du vil ha mer informasjon, kan du gå til [støtte for Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Hvis du vil ha mer informasjon, kan du gå til [Kundestøtte for Apple.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   

@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026807"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
-- [MTP-oversikt](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Oversikt over MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Forutsetninger](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Lisens krav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Lisenskrav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
 - [Slik aktiverer du MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [MTP-feilsøking](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Feilsøking av MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Slik kontrollerer du lisensiering: du må tilordnes enten fakturerings administrator eller rollen som global leser i Azure AD for å vise lisensen din. Gå til [administrasjons senteret](https://admin.microsoft.com/) , og naviger til **fakturerings**  >  **lisenser** for å vise de eksisterende lisensene.
+Slik kontrollerer du lisensiering: Du må tilordnes enten faktureringsadministratoren eller den globale leserrollen i Azure AD for å vise lisensen. Gå til [administrasjonssenteret,](https://admin.microsoft.com/) og gå til   >  **Faktureringslisenser** for å vise eksisterende lisenser.
