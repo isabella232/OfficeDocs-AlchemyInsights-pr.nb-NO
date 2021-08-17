@@ -1,5 +1,5 @@
 ---
-title: Slik øker du lagrings plass i OneDrive for Business
+title: Slik øker du lagringsplassen i OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,25 +10,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 5172f7072ec834be42e2dd35acacebcb2ad5aa5a306661c8ba5ff6ed888f63f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043179"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Slik øker du lagrings plass i OneDrive for Business
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Slik øker du lagringsplassen i OneDrive for Business
 
-Slik endrer du standard lagrings plass for nye og eksisterende OneDrive-brukere:
+Slik endrer du standard lagringsplass for nye og eksisterende OneDrive brukere:
   
-- Gå til [siden for lagring i administrasjons senteret for OneDrive](https://admin.onedrive.com/?v=StorageSettings), Skriv inn et nytt beløp i Storbritannia, og velg deretter **Lagre**.
+- Gå til Storage i administrasjonssenteret [OneDrive](https://admin.onedrive.com/?v=StorageSettings), skriv inn et nytt beløp i GB, og velg deretter **Lagre**.
 
-Denne innstillingen for lagrings plass gjelder for alle brukere som du ikke har angitt spesifikke lagrings grenser for. Hvis du vil endre lagrings plassen for bestemte brukere, kan du bruke Microsoft PowerShell. Hvis du vil ha informasjon om hvordan du gjør dette, kan du se [endre brukernes OneDrive-lagringsplass ved hjelp av PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
+Denne innstillingen for lagringsplass gjelder for alle brukere som du ikke har angitt bestemte lagringsgrenser for. Hvis du vil endre lagringsplassen for bestemte brukere, bruker du Microsoft PowerShell. Hvis du vil ha informasjon om hvordan du gjør dette, kan [du se Endre brukernes OneDrive lagringsplass ved hjelp av PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
 
-**Obs!** det ser ut til at du ikke har en plan som inneholder ubegrenset lagrings plass. Hvis du vil ha informasjon om lagrings plassen som kommer med hver plan, kan du se [OneDrive for Business-beskrivelsen](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+**OBS!** Det ser ut til at du ikke har et abonnement som inneholder ubegrenset lagringsplass. Hvis du vil ha informasjon om lagringsplassen som følger med hvert abonnement, [kan du OneDrive for Business tjenestebeskrivelse .](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)
   
-Hvis du vil øke lagrings plassen i OneDrive for Business, velger du et abonnement som inkluderer **OneDrive for Business plan 2** eller **Office 365 E3**.
+Hvis du vil øke lagringsplassen OneDrive for Business, velger du et abonnement som inneholder enten **OneDrive for Business Plan 2** **eller Office 365 E3**.
   
-Hvis du vil endre planer, går du til siden for **fakturering** av produkter i administrasjons senteret, \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) velger abonnementet du vil endre, og deretter velger du **Vis oppgraderinger som anbefales for organisasjonen din**.
+Hvis du vil endre abonnementer,  går du til \> [faktureringsprodukter-siden](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrasjonssenteret, velger abonnementet du vil endre, og deretter velger du Vis **oppgraderinger som anbefales for organisasjonen.**
   
-Hvis du vil ha mer informasjon om hvordan du endrer planer og lagrings plass for OneDrive for Business, kan du se [oppgradere til en annen plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) og [tjeneste beskrivelsen for onedrive for Business](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+Hvis du vil ha mer informasjon om hvordan du OneDrive for Business planer og lagring, kan du se Oppgradere til et annet [abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) og OneDrive for Business [Tjenestebeskrivelse](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).

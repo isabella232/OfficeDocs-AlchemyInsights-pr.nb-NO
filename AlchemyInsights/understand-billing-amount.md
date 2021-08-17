@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304342"
 ---
 # <a name="understand-billing-amount"></a>Forstå faktureringbesløp
 
@@ -28,7 +28,7 @@ ms.locfileid: "53919648"
 - Forstå vilkårene for Azure-brukskostnader: [Forklaring av bruksvilkår](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Få en PDF-fil av fakturaen og en kopi av den detaljerte daglige bruksfilen (.CSV): Få faktura- og [bruksdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Obs!** Hvis du avbryter abonnementet/ressursen midt i faktureringssyklusen, kan det hende du fremdeles ser en belastning som vil være for eventuell bruk i forrige måned. Hvis faktureringssyklusen for eksempel var fra 26. i hver måned til den 25. i neste måned & suspenderte du abonnementet den 23., som er 28 dager inn i faktureringssyklusen for juni, kan det hende du ser en belastning for de 28 dagene du bruker. Hvis du ser en belastning på tross av at du kansellerer et abonnement, må du passe på at du ikke har andre støtteplaner som forårsaker belastningen. Hvis du gjør det, kan du avbryte planen.
+**Obs!** Hvis du avbryter abonnementet/ressursen midt i faktureringssyklusen, kan det hende du fremdeles ser en belastning som vil være for eventuell bruk i forrige måned. Hvis faktureringssyklusen for eksempel var fra 26. i hver måned til den 25. neste måneden & suspenderte du abonnementet den 23., som er 28 dager inn i faktureringssyklusen for juni, kan det hende du ser en belastning for de 28 dagene du bruker. Hvis du ser en belastning på tross av at du kansellerer et abonnement, må du passe på at du ikke har noen andre støtteplaner som forårsaker belastningen. Hvis du gjør det, kan du avbryte planen.
 
 **Microsofts kundeavtale (MCA):**
 
@@ -41,7 +41,7 @@ ms.locfileid: "53919648"
 
 **Microsofts partneravtale (MPA):**
 
-- Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Veiledning: Se gjennom fakturaen for Microsoft-partneravtalen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hvis du vil ha hjelp til å se gjennom og forstå fakturaen, kan du se: [Veiledning: Se gjennom Fakturaen for Microsoft-partneravtalen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene på fakturaen: [Forklarte vilkår i Fakturaen for Microsoft-partneravtalen](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Microsoft Foretaksavtale (EA)**
@@ -54,7 +54,7 @@ Se gjennom faktura for overtidstjeneste:
 - Logg på **Enterprise-portalen**. Velg **Rapporter**
 - I øvre høyre hjørne av fanen bytter du visningen fra **M** til **C** og samsvarer med perioden på fakturaen
 - Totalt **bruksbeløp** skal samsvare med det totale **utvidede** beløpet på fakturaen for overforbruk av tjenesten
-- Gå til Last ned **> Avansert** rapportnedlasting for å få mer informasjon om belastningene: Denne rapporten inkluderer ikke avgifter, gebyrer for reservasjoner eller markedsplasskostnader
+- Gå til Last ned **> avansert** rapportnedlasting for å få mer informasjon om kostnadene Obs! Denne rapporten inkluderer ikke avgifter, gebyrer for reservasjoner eller markedsplasskostnader
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ Se gjennom faktura for overtidstjeneste:
 
 Se gjennom Marketplace-faktura:
 
-Sammenlign azure Marketplace-totalen på rapporter > sammendrag av bruk i Enterprise-portalen med marketplace-fakturaen. Markedsplassfakturaen gjelder bare for Azure Marketplace-kjøp og -bruk. Beløpene i brukssammendraget inkluderer ikke avgifter.
+Sammenlign azure Marketplace-summen på rapporter > sammendrag av bruk i Enterprise-portalen med marketplace-fakturaen. Markedsplassfakturaen gjelder bare for Azure Marketplace-kjøp og -bruk. Beløpene i brukssammendraget inkluderer ikke avgifter.
 
 - Logg på **Enterprise-portalen**. Velg **Rapporter**
 - I øvre høyre hjørne av fanen bytter du visningen fra **M** til **C** og samsvarer med perioden på fakturaen
 - **Totalsummen for Azure Marketplace** skal samsvare med **totalsalget** på marketplace-fakturaen
-- Gå til **Last ned bruk** for å få mer informasjon om bruksbaserte kostnader. Velg Last ned notat **under** **Marketplace-kostnader:** Denne rapporten inkluderer ikke avgifter eller viser engangskjøp 
+- Gå til **Last ned bruk** for å få mer informasjon om bruksbaserte kostnader. Velg **Last ned under Marketplace-belastninger**  
+
+**Obs!** Denne rapporten inkluderer ikke avgifter eller engangskjøp
 
 **Leverandør av skyløsninger (CSP)**
 
