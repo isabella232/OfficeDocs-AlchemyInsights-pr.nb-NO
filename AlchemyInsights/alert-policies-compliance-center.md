@@ -1,5 +1,5 @@
 ---
-title: Varslingspolicyer i sikkerhets- og samsvarssenteret
+title: Varslingspolicyer i Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933510"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893636"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Varslingspolicyer i sikkerhets- og samsvarssenteret
+# <a name="alert-policies-in-microsoft-365"></a>Varslingspolicyer i Microsoft 365
 
-Verktøyene for varslingspolicy og instrumentbord i Microsoft 365 sikkerhets- og samsvarssentre hjelper brukere med å opprette varslingspolicyer, og deretter vise varslene som genereres når brukere utfører aktiviteter som samsvarer med betingelsene i en varslingspolicy. Flere standard varslingspolicyer hjelper deg med å overvåke aktiviteter som å tilordne administratorrettigheter i Exchange Online, angrep fra skadelig programvare, phishing-kampanjer og uvanlige nivåer av filslettinger og ekstern deling.
+Verktøyene for varslingspolicy og instrumentbord i Samsvarssenter for Microsoft 365 og Microsoft 365 Defender-portalen hjelper administratorer med å opprette varslingspolicyer, og deretter vise varslene som genereres når brukere utfører aktiviteter som samsvarer med betingelsene i en varselspolicy. Flere standard varslingspolicyer hjelper deg med å overvåke aktiviteter som å tilordne administratorrettigheter i Exchange Online, angrep fra skadelig programvare, phishing-kampanjer og uvanlige nivåer av filslettinger og ekstern deling.
 
-Med varslingspolicyer kan du kategorisere varsler som utløses av en policy, bruke policyen for alle brukere i organisasjonen, angi et terskelnivå for når et varsel utløses, og avgjøre om du vil motta e-postvarsler når varsler utløses. En vis varsler-side i sikkerhets- og samsvarssenteret gjør det også mulig for brukere å vise og filtrere varsler, angi en varslingsstatus for å behandle varsler, og deretter avvise varsler etter at den underliggende hendelsen er behandlet eller løst.
+Med varslingspolicyer kan du kategorisere varsler som utløses av en policy, bruke policyen for alle brukere i organisasjonen, angi et terskelnivå for når et varsel utløses, og avgjøre om du vil motta e-postvarsler når varsler utløses. **Varsler-siden** gjør det også mulig for brukere å vise og filtrere varsler, angi en varslingsstatus for å behandle varsler, og deretter avvise varsler etter at den underliggende hendelsen er adressert eller løst.
 
-Hvis du vil ha mer informasjon, kan du [se Varslingspolicyer i sikkerhets- og samsvarssenteret](/microsoft-365/compliance/alert-policies)
+Hvis du vil ha mer informasjon, kan du se [Varslingspolicyer i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
