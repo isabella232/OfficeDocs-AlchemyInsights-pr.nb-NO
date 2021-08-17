@@ -1,5 +1,5 @@
 ---
-title: DLP-policytips fungerer ikke
+title: DLP-Tips fungerer ikke
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079675"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemer med DLP-policytips
 
@@ -30,6 +30,6 @@ Hvis du vil konfigurere policytips for DLP-policyen i sikkerhetssenteret & samsv
 
 - Kontroller at innholdet samsvarer med det som kreves for å utløse regelen som er beskrevet i enhetsdefinisjoner [for Sensitiv informasjonstype](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Policytips vises i både OWA og Outlook. Når du bruker Outlook 2013 eller nyere, vises imidlertid policytips bare under visse betingelser. Hvis du vil se listen over bestemte betingelser, kan du se Støttede betingelser [for Outlook 2013 eller nyere for å vise policytips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Policytips vises i både OWA og Outlook. Når du bruker Outlook 2013 eller nyere, vises imidlertid policytipsene bare under visse betingelser. Hvis du vil se listen over bestemte betingelser, kan du se Støttede betingelser [for Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)eller nyere for å vise policy Tips .
 
-Hvis du vil ha informasjon om tips for DLP-policyer, kan du se Tips for [DLP-policytips Og](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) [støttematrise for tips for DLP-policy.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+Hvis du vil ha informasjon om tips for [DLP-policyer, kan du se Tips Tips referanse-](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) og støttematrise [for DLP-policy.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)

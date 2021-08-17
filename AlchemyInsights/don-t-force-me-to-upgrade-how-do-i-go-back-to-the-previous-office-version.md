@@ -1,5 +1,5 @@
 ---
-title: Ikke Tving meg til å oppgradere. Hvordan går jeg tilbake til forrige versjon av Office?
+title: Ikke tving meg til å oppgradere. Hvordan går jeg tilbake til forrige Office versjon?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079603"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ikke Tving meg til å oppgradere. Hvordan går jeg tilbake til forrige versjon av Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ikke tving meg til å oppgradere. Hvordan går jeg tilbake til forrige Office versjon?
 
-Når du åpner en Office-fil, kan det hende at prøve versjonen av Office-appen åpnes, i stedet for en annen versjon. Dette vil skje hvis du har prøve versjonen av Microsoft 365.
+Når du åpner Office fil, kan prøveversjonen av en Office-app åpne, i stedet for en annen versjon. Dette skjer hvis du har Microsoft 365 prøveversjonen.
   
-Når du installerer prøve versjonen av Microsoft 365, blir 2016-prøve versjonen av appene installert. Disse prøve versjonene blir standard for å åpne Word-, Excel-og PowerPoint-filer. Hvis du for eksempel har Excel 2013 installert, og du også har installert prøve versjonen av Microsoft 365, vil arbeids bøker åpnes i prøve versjonen av Excel 2016.
+Når du installerer Microsoft 365 prøveversjonen av appene, installeres prøveversjonen av 2016. Disse prøveversjonene blir standard for å åpne Word-, Excel og PowerPoint filer. Hvis du for eksempel har Excel 2013 installert og du også installerte prøveversjonen av Microsoft 365, åpnes arbeidsbøkene i prøveversjonen av Excel 2016.
   
-Hvis du har dette problemet, kan du [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-appene og bruke de eldre versjonene av appene du allerede har installert. Eller du kan [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de eldre versjonene av appene og oppgradere til de nyere versjonene som følger med Microsoft 365.
+Hvis du har dette problemet, kan du [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-appene og bruke de eldre versjonene av appene du allerede har installert. Du kan også [avinstallere](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de eldre versjonene av appene og oppgradere til nyere versjoner som følger med Microsoft 365.
