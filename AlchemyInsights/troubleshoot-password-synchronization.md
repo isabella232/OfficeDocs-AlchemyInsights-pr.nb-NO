@@ -1,5 +1,5 @@
 ---
-title: Feilsøke passord synkronisering
+title: Feilsøke passordsynkronisering
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105765"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Feilsøke passord synkronisering
+# <a name="troubleshoot-password-synchronization"></a>Feilsøke passordsynkronisering
 
-Hvis du vil feilsøke problemer med passord synkronisering, starter du med denne oppgaven for feil søking av AAD Connect for å fastslå hvorfor passord ikke synkroniseres. Hvis du vil begynne, kan du gå til [administrere direkte synkronisering](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Hvis du vil feilsøke problemer med passordsynkronisering, kan du begynne med å bruke denne AAD-Koble til feilsøkingsoppgaven for å finne ut hvorfor passord ikke synkroniseres. Hvis du vil begynne, går du [til Administrer direkte synkronisering](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Åpne en ny Windows PowerShell-økt på Azure AD Connect-serveren, og velg alternativet **Kjør som administrator** .
+1. Åpne en ny Windows PowerShell økt på Azure AD Koble til-serveren, og velg alternativet **Kjør som administrator.**
 
-2. Kjør set-ExecutionPolicy RemoteSigned eller set-ExecutionPolicy unrestricted.
+2. Kjør Set-ExecutionPolicy RemoteSigned eller Set-ExecutionPolicy Unrestricted.
 
-3. Start vei viseren for Azure AD Connect.
+3. Start Azure AD Koble til-veiviseren.
 
-4. Gå til siden for flere aktiviteter > **Feilsøke**  >  **neste**.
+4. Gå til Flere oppgaver-siden > **Feilsøk**  >  **neste**.
 
-5. Velg **Start** for å åpne menyen for feil søking av PowerShell.
+5. Velg **Start** for å åpne feilsøkingsmenyen for PowerShell.
 
-6. Velg **Feilsøk passord synkronisering**.
+6. Velg **Feilsøk passordsynkronisering**.
 
-    Problemet er vanligvis at et passord ikke er synkronisert for en bestemt bruker konto.
+    Problemet er vanligvis at et passord ikke synkroniseres for en bestemt brukerkonto.
 
-    **Notater** Passord synkronisering mislykkes hvis den siste vellykkede synkroniseringen av passord var en tid siden.
+    **Notater** Passordsynkronisering mislykkes hvis den siste vellykkede passordsynkroniseringen var for en tid siden.
 
-Hvis du vil ha mer informasjon om feil søking av passord, kan du se [Feilsøke passord nummer synkronisering med Azure ad Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)-synkronisering.
+Hvis du vil ha mer hjelp til å feilsøke synkronisering av passord, kan du se Feilsøke synkronisering av hash for [passord med Azure AD Koble til synkronisering.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)

@@ -1,5 +1,5 @@
 ---
-title: Feilsøke feil med flyt godkjenning
+title: Feilsøke Flow godkjenningsfeil
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105829"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Feilsøke feil med flyt godkjenning
+# <a name="troubleshoot-flow-authentication-errors"></a>Feilsøke Flow godkjenningsfeil
 
-I mange tilfeller mislykkes flyter på grunn av en godkjennings feil. Hvis du har denne feil typen, inneholder feil meldingen "uautorisert," eller feil koden 401 eller 403 vises. Du kan vanligvis løse en godkjennings feil ved å oppdatere tilkoblingen:
+I mange tilfeller mislykkes flyter på grunn av en godkjenningsfeil. Hvis du har denne typen feil, vises feilmeldingen Uautorisert eller en feilkode på 401 eller 403. Du kan vanligvis løse en godkjenningsfeil ved å oppdatere tilkoblingen:
   
-1. Øverst i nett portalen klikker eller trykker du tann hjul ikonet for å åpne innstillinger-menyen, og deretter klikker eller trykker du **tilkoblinger**.
+1. Klikk eller trykk tannhjulikonet øverst i nettportalen for å åpne Innstillinger menyen, og klikk eller trykk deretter **Tilkoblinger**.
     
-2. Bla til tilkoblingen du så den uautoriserte feil meldingen for.
+2. Rull til tilkoblingen der du så feilmeldingen Uautorisert.
     
-3. Klikk eller trykk koblingen **Bekreft passord** i meldingen om tilkoblingen ikke godkjennes ved siden av tilkoblingen. 
+3. Klikk eller trykk koblingen Bekreft passord ved siden av tilkoblingen i meldingen om at tilkoblingen ikke blir godkjent.  
     
-4. Bekreft legitimasjonen ved å følge instruksjonene som vises, gå tilbake til flyt kjøre feil, og klikk eller trykk deretter på **Send**på nytt.
+4. Bekreft legitimasjonen ved å følge instruksjonene som vises, gå tilbake til flytkjøringsfeilen, og klikk eller trykk deretter På **nytt.**
     
-Hvis du vil ha mer hjelp, kan du se [feilsøke en flyt](https://go.microsoft.com/fwlink/?linkid=872110).
+Hvis du vil ha mer hjelp, [kan du se Feilsøke en flyt](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

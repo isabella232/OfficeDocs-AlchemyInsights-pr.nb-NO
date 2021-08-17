@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044385"
 ---
-# <a name="microsoft-flow"></a>Microsoft flyt
+# <a name="microsoft-flow"></a>Microsoft Flow
 
-Med Microsoft Flow kan du automatisere vanlige oppgaver. Bruk det til å konfigurere arbeids flyter for lister og biblioteker. Hvis du vil lære hvordan du legger til en flyt i en liste eller et bibliotek i SharePoint Online eller OneDrive, kan du se [opprette en flyt](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow hjelper deg med å automatisere vanlige oppgaver. Bruk den til å konfigurere arbeidsflyter for lister og biblioteker. Hvis du vil lære hvordan du legger til en flyt i en liste eller et bibliotek i SharePoint Online eller OneDrive, kan du se [Opprette en flyt](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Videoer om Microsoft-flyt](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoer om Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Microsoft flyt nettsted](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow nettsted](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

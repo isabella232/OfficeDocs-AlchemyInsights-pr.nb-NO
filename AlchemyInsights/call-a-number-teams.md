@@ -1,5 +1,5 @@
 ---
-title: Ring et telefon nummer i Teams
+title: Ring et telefonnummer i Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046041"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Ring et telefon nummer i Teams
+# <a name="call-a-phone-number-in-teams"></a>Ring et telefonnummer i Teams
 
-Gå til  **samtaler**, velg  **Ring et nummer**, og bruk det numeriske tastaturet til å angi nummeret. Klikk deretter  **Ring**.
+Gå til  **Anrop**, velg  **Ring et nummer**, og bruk det numeriske tastaturet til å angi nummeret. Klikk deretter  **Ring**.
 
-Hvis du ikke ser alternativet for å ringe et nummer, kan det hende at organisasjonen din ikke har kjøpt et anrops abonnement. Du kan imidlertid fortsatt ringe til andre personer i Teams.  
+Hvis du ikke ser alternativet for å ringe et nummer, kan det hende at organisasjonen ikke har kjøpt et abonnement. Men du kan fortsatt ringe til andre personer i Teams.  
 
-Hvis du vil ha mer informasjon, kan du se [ringe et telefon nummer fra Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Hvis du vil ha mer informasjon, [kan du se Ringe et telefonnummer fra Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).

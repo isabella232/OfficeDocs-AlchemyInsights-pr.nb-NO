@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045969"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>Kan ikke velge kontakter når du skriver e-post
 
-Når du skriver en ny e-post, ser ikke enkelte kunder listen over kontakter når de klikker **til** -eller **kopi** -knappene. Hvis du vil velge en kontakt, begynner du å skrive i **til** -eller **kopi** -feltene, og de relaterte kontaktene dine blir vist.
+Når du skriver en ny e-postmelding, ser ikke noen kunder listen over kontakter når de klikker **Til-** eller **Kopi-knappene.** Hvis du vil velge en kontakt, begynner du å skrive i **Til-** eller **Kopi-feltene,** og de relaterte kontaktene vises.

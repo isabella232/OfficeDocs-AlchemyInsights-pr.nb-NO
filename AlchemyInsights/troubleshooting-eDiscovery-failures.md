@@ -1,5 +1,5 @@
 ---
-title: 1490 – feil søking – eDiscovery-feil
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105577"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Feilsøke innholds søke feil
+# <a name="troubleshoot-content-search-errors"></a>Feilsøk innholdssøk
 
-Har du problemer med innholds søk, eller får feil når du eksporterer søke resultater?
+Har du problemer med innholdssøk eller mislykkede søk når du eksporterer søkeresultater?
 
-Vil du for eksempel motta følgende når du kjører søk?
+Mottar du for eksempel følgende når du kjører søk?
 
-- CS008-eller CS012-feil
+- CS008- eller CS012-feil
 
-- Feil med opptatt/tids avbrudd for server
+- Serverfeil for opptatt/tidsavbrudd
 
-- Program feil oppstod
+- Programfeil oppstod
 
-Eller når du søker etter eller eksporterer resultater fra et stort antall post bokser (over 100 000 post bokser), får du eksport feil?
+Eller når du søker etter eller eksporterer resultater fra et stort antall postbokser (over 100 000 postbokser), får du eksportfeil?
 
-For disse feil typene kan du prøve Søk på nytt for innholds plasseringer som har mislyktes. Se  [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) hvis du vil ha mer informasjon.
+For disse feiltypene prøver du å søke på nytt etter innholdsplasseringene som har mislyktes. Se  [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) hvis du vil ha mer informasjon.
 
-Hvis du eksporterer mer enn 100K post bokser, må du bruke følgende PowerShell til å laste ned eksport resultatene:  [eksportere resultater fra mer enn 100K post bokser](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Hvis du eksporterer mer enn 100 000 postbokser, må du bruke følgende Powershell til å laste ned eksportresultatene: Eksportere resultater fra mer enn  [100 000 postbokser](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
