@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7838"
-ms.openlocfilehash: a0bff21ccac29c7e0ae8369a5a8dc0ba9685cb63
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: d02dd5d019cc68b49b019dee2928924deca181a87e3d5c5f5e7689a8eb5664e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042891"
 ---
 # <a name="issues-with-saml-attributes"></a>Problemer med SAML-attributter
 
-1. Følg Fremgangs måten i [denne artikkelen](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) for å forstå hvordan du bruker egen definerte ATTRIBUTTER i SAML Response.
-2. [Merk av for godkjente attributtverdier som kan trekkes ut for krav](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) for gyldige ID-verdier per kilde.
+1. Følg fremgangsmåten i [denne artikkelen for å](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) forstå hvordan du bruker egendefinerte attributter i SAML Response.
+2. [Kontroller de godkjente attributtverdiene som kan trekkes inn for](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) krav for gyldige ID-verdier per kilde.
