@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111805"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Tømme slettede elementer-mappen
 
-1. Åpne slettede elementer-mappen, og velg **Tøm mappe**.
-2. Velg **gjen opprettelige elementer** øverst på siden, og velg **tom mappe** på nytt.
+1. Åpne Slettede elementer-mappen, og velg **Tøm mappe**.
+2. Velg **Gjenopprettelige elementer** øverst på siden, og velg **Tøm mappe på** nytt.
 
-**Kan ikke tømme mappen Slettede elementer**
+**Kan ikke tømme slettede elementer-mappen**
 
-- Hvis du har slettet mye e-post, kan det ta litt tid før de elementene flyttes til eller slettes fra Slettede elementer-mappen. La nett leser vinduet være åpent mens slettingen finner sted.
-- Hvis e-posten fremdeles ikke kan slettes riktig, velger du et mindre parti for sletting.
-- Hvis slettet e-post kommer tilbake, kan det være fordi du nylig har slettet mye e-post. Vennligst prøv på nytt senere.
+- Hvis du har slettet mye e-post, kan det ta litt tid før disse elementene flyttes til eller slettes fra Slettede elementer-mappen. La nettleservinduet være åpent mens slettingen finner sted.
+- Hvis e-postmeldingen fremdeles ikke slettes riktig, velger du en mindre gruppe for å slette.
+- Hvis slettet e-post kommer tilbake, kan det være fordi du har slettet mye e-post i det siste. Prøv på nytt senere.

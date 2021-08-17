@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893064"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314925"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
@@ -46,8 +46,7 @@ Hvis du har lagt til et nytt kort og du fremdeles får et avslått varsel på de
 
 4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og velger deretter **Erstatt**.
 
-    > [!NOTE]
-    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
+    **Obs!** Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
 
 5. Hvis du vil legge til en ny betalingsmåte, velger du **Legg til betalingsmåte**.
 

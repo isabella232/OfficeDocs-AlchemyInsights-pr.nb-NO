@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6f2067a2dcae5841aecf9acd061e4e03cf91fbac3637467e82aee2fbc9340f9a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895224"
 ---
 # <a name="enable-the-audit-log"></a>Aktivere overvåkingsloggen
 
 Kommunikasjonssamsvar krever overvåkingslogger for å vise varsler og spore utbedringshandlinger som er utført av korrekturlesere. Overvåkingsloggene er et sammendrag av alle aktiviteter som er knyttet til en definert organisasjonspolicy, inkludert når en policy for kommunikasjonssamsvar endres. Slik aktiverer du overvåkingslogging:
 
-1. Gå til Søk i overvåkingsloggsøk i [Sikkerhets- &](https://go.microsoft.com/fwlink/?linkid=2101341)   >  **samsvarssenteret**.
-2. Velg **Aktiver overvåking**.
+1. Gjør en av følgende handlinger:
+   - I Samsvarssenter for Microsoft 365 på <https://compliance.microsoft.com> går du til **Løsningsovervåking** \> . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://compliance.microsoft.com/auditlogsearch> .
+   - Gå til Microsoft 365 Defender i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
+2. Kontroller at **Søk-fanen**  er valgt på Overvåking-siden, og klikk deretter banneret Start registrering av bruker- og **administratoraktivitet.**
 
-    Når du har aktiver overvåking, vises en melding som sier at overvåkingsloggen er klargjort, og du kan kjøre et søk i løpet av et par timer etter at forberedelsen er fullført. Du trenger bare å gjøre denne handlingen én gang.
+Når du har aktiver overvåking, vises en melding som sier at overvåkingsloggen er klargjort, og du kan kjøre et søk i et par timer etter at forberedelsen er fullført. Du trenger bare å gjøre denne handlingen én gang.
 
-Hvis du vil ha mer informasjon, kan du se [Aktivere eller](https://go.microsoft.com/fwlink/?linkid=2129077) deaktivere søk i overvåkingsloggen og Søke [i overvåkingsloggen](https://go.microsoft.com/fwlink/?linkid=2123729).
+Hvis du vil ha mer informasjon, kan du se [Aktivere eller](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) deaktivere søk i overvåkingsloggen og Søke [i overvåkingsloggen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).

@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091141"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895128"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Rapportere mistenkelige e-postmeldinger, nettadresser eller vedlegg
 
-Jeg forstår at du trenger hjelp til å undersøke en mistenkelig e-postmelding eller en e-postmelding som ble filtrert feil. Jeg kan hjelpe deg med å sende inn problemet for analyse ved hjelp av Innsendinger Explorer, som gir deg umiddelbar tilbakemelding. Her er et sammendrag av trinnene:
+Jeg forstår at du trenger hjelp til å undersøke en mistenkelig e-postmelding eller en e-postmelding som ble filtrert feil. Jeg kan hjelpe deg med å sende inn problemet for analyse ved hjelp av **Innsendinger-portalen,** som gir deg umiddelbar tilbakemelding. Her er et sammendrag av trinnene:
 
-1. Gå til Office 365 [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til **Innsendinger for**  >  [trusselbehandling](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Velg **+ Ny innsending**. En undermeny vises med alternativet for å sende inn en e-post, nettadresse eller fil.
-    > [!NOTE]
-    > Informer brukerne om at de skal rapportere mistenkelige meldinger i innboksen til Microsoft ved hjelp av [Rapportmelding-tillegget](https://go.microsoft.com/fwlink/?linkid=2092385).
+1. Gå til &-samarbeidsinnsendinger i Microsoft 365 Defender <https://security.microsoft.com>  \> **portalen** på .
+
+   Hvis du vil gå direkte til **Innsendinger-siden,** bruker du <https://security.microsoft.com/reportsubmission> .
+
+2. Kontroller at fanen Innsendt **for analyse** er valgt på **Innsendinger-siden,** og klikk deretter + Send til Microsoft for **analyse.**
+
+3. En undermeny vises med alternativet for å sende en e-postmelding, en nettadresse eller en fil.
+
+Hvis du vil ha mer informasjon, kan du se Bruke administratorinnsending til å sende inn mistenkelig [søppelpost, phish, nettadresser og filer til Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+
+> [!NOTE]
+> Informer brukerne om at de skal rapportere mistenkelige meldinger i innboksen ved hjelp av tillegget Rapportmelding eller [Tillegget Rapporter phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

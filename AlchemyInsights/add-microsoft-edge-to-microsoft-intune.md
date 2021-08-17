@@ -1,5 +1,5 @@
 ---
-title: Legg til Microsoft Edge i Microsoft Intune
+title: Legg Microsoft Edge til Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194514"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315133"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>Legg til Microsoft Edge i Microsoft Intune
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>Legg Microsoft Edge til Microsoft Intune
 
-Hvis du skal kunne distribuere, konfigurere, overvåke og beskytte Microsoft Edge for Windows 10, må du først legge den til i Microsoft Intune.
+Hvis du vil distribuere, konfigurere, overvåke og beskytte Microsoft Edge for Windows 10, må du først legge det til i Microsoft Intune.
 
-> [!IMPORTANT]
+> **Viktig:**
 - Intune støtter Microsoft Edge 77 og nyere versjoner.
 - Intune oppdager eventuelle eksisterende installasjoner av Microsoft Edge.
-- Hvis Microsoft Edge er installert i brukerkontekst, overskrives installasjonen i brukerkontekst ved en systeminstallasjon.
-- Hvis Microsoft Edge er installert i systemkontekst, rapporteres installasjonssuksesset.
-- Forhåndsinstallert Microsoft Edge 77 og nyere versjoner for alle kanaler i brukerkontekst, blir overskrevet med Microsoft Edge installert i systemkontekst.
+- Hvis Microsoft Edge er installert i brukerkontekst, vil en systeminstallasjon overskrive installasjonen i brukerkontekst.
+- Hvis Microsoft Edge er installert i systemkonteksten, rapporteres installasjonssuksesset.
+- Forhåndsinstallert Microsoft Edge 77 og nyere versjoner, for alle kanaler i brukerkontekst, overskrives med Microsoft Edge installert i systemkontekst.
 
 **Forutsetning**
 
 Windows 10 versjon 1709 eller nyere versjoner
 
-**Slik legger du til Edge i Intune**
+**Fremgangsmåte for å legge til Edge i Intune**
 
-1. [Konfigurer appen i Intune.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-2. [Konfigurere appinformasjonen.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-3. [Konfigurer appinnstillingene.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+1. [Konfigurere appen i Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+2. [Konfigurere appinformasjonen](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+3. [Konfigurere appinnstillingene](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 4. [Velg omfangskodene (valgfritt).](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-5. [Legg til appen.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+5. [Legg til appen](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
-Hvis du vil ha mer hjelp, kan du se [Feilsøking.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+Hvis du vil ha mer hjelp, kan du se [Feilsøking](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
 
 

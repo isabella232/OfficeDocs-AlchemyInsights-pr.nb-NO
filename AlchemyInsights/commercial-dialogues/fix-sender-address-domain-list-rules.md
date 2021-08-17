@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930034"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896120"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Løse regler for avsenderadresse/domeneliste
 
-En policy for søppelpost i tenanten påvirket denne meldingen. Avsenderen av meldingen ble funnet i en tillatelses- eller blokkeringsliste. Gjør følgende for å se gjennom policyen:
+En av policyene for søppelpost påvirket denne meldingen. Avsenderen av meldingen ble funnet i en tillatelses- eller blokkeringsliste. Gjør følgende for å se gjennom policyene:
 
-1. Gå til Office 365 [Sikkerhets- & samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til **Policy** for trusselbehandling  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Hvis **Standardinnstillinger** er aktivert på **Standard-fanen,** merker du av for Tillat **lister** og **Blokker lister**.
-3. Hvis **Egendefinerte** innstillinger  er aktivert på Egendefinert-fanen, kan du se gjennom policyene ved å velge Rediger **policy** og merke **av for** Tillat lister **og Blokker lister**.
+1. I Microsoft 365 Defender-portalen på går du til Policyer for e-& for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
 
-Hvis du vil ha mer informasjon om hvordan du konfigurerer policyer for søppelpostfilter, kan [du se Konfigurere policyer for søppelpostfilter .](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
+
+2. Velg **policyen** ved å klikke på navnet på policyen på siden Policyer for  søppelpost (**Type** er egendefinert **søppelpostpolicy** eller Navnet er inngående policy for søppelpost **(standard).**
+3. Velg Rediger tillatte og blokkerte avsendere og domener i tillatte og blokkerte avsendere og **domener-delen** i detaljer-undermenyen som vises. 
+4. Se gjennom **avsendere** og domener i Tillatt-delen ved å klikke Behandle **\<nn\> avsendere** eller **Tillat domener**.
+
+Hvis du vil ha mer informasjon, [kan du se Konfigurere søppelpostpolicyer i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
