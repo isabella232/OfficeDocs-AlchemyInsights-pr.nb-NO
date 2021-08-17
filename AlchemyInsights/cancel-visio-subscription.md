@@ -1,5 +1,5 @@
 ---
-title: Avbryte Visio abonnementet
+title: Avbryt Visio abonnementet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895636"
 ---
-# <a name="cancel-visio-subscription"></a>Avbryte Visio abonnementet
+# <a name="cancel-visio-subscription"></a>Avbryt Visio abonnementet
 
 Administratorer kan avbryte Visio for organisasjonen i Administrasjonssenter for Microsoft 365.
 
@@ -32,4 +32,4 @@ Administratorer kan avbryte Visio for organisasjonen i Administrasjonssenter for
 
 **Refusjon:** Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.
 
-Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

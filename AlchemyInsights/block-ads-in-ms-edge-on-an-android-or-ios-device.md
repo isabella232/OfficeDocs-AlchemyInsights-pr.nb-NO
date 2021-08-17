@@ -1,5 +1,5 @@
 ---
-title: Blokkere annonser i Microsoft Edge på en Android-eller iOS-enhet
+title: Blokkere annonser i Microsoft Edge på en Adroid- eller iOS-enhet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059929"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Blokkere annonser i Microsoft Edge på en Android-eller iOS-enhet
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Blokkere annonser i Microsoft Edge på en Adroid- eller iOS-enhet
 
-Slik blokkerer du alle annonser unntatt de som er løst av AdBlock Plus:
-1. Velg **...** > **Innstillinger**  >  **Innholds blokker**.
-2. Aktiver blokker annonser.
+Slik blokkerer du alle annonser unntatt de som anses som akseptable av AdBlock Plus:
+1. Velg **...** > **Innstillinger**  >  **Innholdsblokkeringer**.
+2. Slå på Blokker annonser.
 
 Slik blokkerer du alle annonser:
-1. Velg **...** > **Innstillinger**  >  **Innholds blokker**.
-2. Aktiver blokker annonser.
+1. Velg **...** > **Innstillinger**  >  **Innholdsblokkeringer**.
+2. Slå på Blokker annonser.
 3. Velg **Avanserte innstillinger**.
-4. Deaktiver Tillat akseptable annonser.
+4. Deaktiver Tillat godkjente annonser.

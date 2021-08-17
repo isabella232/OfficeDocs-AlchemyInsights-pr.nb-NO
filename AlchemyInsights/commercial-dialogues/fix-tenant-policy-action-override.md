@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748994"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896084"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Løse tenantpolicy (handlingsoverstyring)
 
-En policy for søppelpost i tenanten påvirket denne meldingen. Gjør følgende for å se gjennom policyen:
+En av policyene for søppelpost påvirket denne meldingen. Gjør følgende for å se gjennom policyene:
 
-1. Gå til sikkerhets- og samsvarssenteret [for Office 365 &](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til Policy for beskyttelse mot søppelpost for   >    >  [trusler.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Kontroller om **Policykilde** angir følgende:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ Blindkopi-melding**
+1. I Microsoft 365 Defender-portalen på går du til Policyer & e-post for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
 
-    Hvis dette er det, **kontrollerer** du innstillingene for policyen som påvirket meldingen, på Egendefinert-fanen. Det er mulig at **standardinnstillingene som** ble brukt på alle Exchange Online Protection-kunder, påvirket meldingen.
+   Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
 
-Hvis du vil ha mer informasjon om hvordan du konfigurerer policyer for søppelpostfilter, kan [du se Konfigurere policyer for søppelpostfilter .](https://go.microsoft.com/fwlink/?linkid=2101431)
+2. Velg **policyen** ved å klikke på navnet på policyen på siden Policyer for  søppelpost (**Type** er egendefinert **søppelpostpolicy** eller Navnet er inngående policy for søppelpost **(standard).**
+3. Velg Rediger handlinger i Handlinger-delen  i detaljer-undermenyen som vises. 
+4.  Se gjennom **dommene** for søppelpost, søppelpost, **phishing** og phishing med høy trygghet under Meldingshandlinger for å se om noen av følgende verdier er valgt: 
+   - **Legg til X-topptekst**
+   - **Prepend emnelinje med tekst**
+   - **Omdiriger melding til e-postadresse**
+   - **Slett melding**
+   - **Ingen handling**
+
+   Det er mulig at **standardinnstillingene for** alle Exchange Online Protection berørte meldingen.
+
+Hvis du vil ha mer informasjon, [kan du se Konfigurere søppelpostpolicyer i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

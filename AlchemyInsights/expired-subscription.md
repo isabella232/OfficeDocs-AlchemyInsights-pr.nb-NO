@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895896"
 ---
 # <a name="expired-subscription"></a>Utløpt abonnement
 
@@ -35,7 +35,7 @@ Det ser ut til at du har ett eller flere utløpte abonnementer. Hvis du vil fort
 3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 
-For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Foreta et nytt kjøp**
   
@@ -44,4 +44,4 @@ For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/
 3. Angi antall lisenser du trenger, og velg om du vil betale hver måned eller for hele året. Velg om du vil tilordne lisenser automatisk til alle som foreløpig ikke har en lisens. Velg deretter **Sjekk ut nå**.
 4. Følg resten av trinnene for å fullføre utsjekking.
 
-Hvis du vil ha mer informasjon, kan [du se Kjøpe et annet abonnement](/microsoft-365/commerce/buy-another-subscription).
+Hvis du vil ha mer informasjon, kan [du se Kjøpe et annet abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

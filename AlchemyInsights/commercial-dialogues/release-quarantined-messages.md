@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895988"
 ---
 # <a name="release-quarantined-messages"></a>Frigi meldinger i karantene
 
 Du kan frigi en melding i karantene (eller et sett med meldinger) til alle mottakerne, eller bare frigi meldingen til bestemte personer som du velger fra listen over alle mottakerne. Slik gjør du det:
 
-1. Gå til & e-post i Microsoft 365 Defender <https://security.microsoft.com>  \>  \> **portalen** på .
+1. I Microsoft 365 Defender portalen på <https://security.microsoft.com> går du til **E-&** \> **Samarbeidsgjennomgang** \> **karantene**.
 
    Hvis du vil gå direkte til **karantenesiden,** bruker du <https://security.microsoft.com/quarantine> .
 

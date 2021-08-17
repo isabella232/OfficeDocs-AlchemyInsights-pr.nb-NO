@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500025"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895500"
 ---
 # <a name="change-payment-method"></a>Endre betalingsmetode
 
@@ -36,6 +36,6 @@ Du kan endre betalingsmåten fra **Administrasjonssenter for Microsoft 365**.
 6. I ruten **Legg til en betalingsmetode** skriver du inn kontoinformasjonen og velger deretter **Lagre**. Du må bruke en betalingsmetode fra samme land som leieren.
 7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
 
-Hvis du vil lære hvordan du legger til, oppdaterer, erstatter eller sletter betalingsmåter, kan du se [Administrere betalingsmåter](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Hvis du vil lære hvordan du legger til, oppdaterer, erstatter eller sletter betalingsmåter, kan du se [Administrere betalingsmåter](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Hvis du vil lære hvordan du endrer mellom betalingsmåter, kan du se [Slik betaler du for abonnementet.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Hvis du vil lære hvordan du endrer mellom betalingsmåter, kan du se [Slik betaler du for abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

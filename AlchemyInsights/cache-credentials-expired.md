@@ -1,5 +1,5 @@
 ---
-title: 'Feil: vi kan ikke laste opp eller laste ned endringene dine fordi den bufrede legitimasjonen din er utløpt'
+title: 'Feil: Vi kan ikke laste opp eller laste ned endringene fordi den bufrede legitimasjonen er utløpt'
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,22 +12,22 @@ ms.collection: ''
 ms.custom:
 - "3534"
 - "9001489"
-ms.openlocfilehash: 8105fa7b311bc932f95c8bff4d6b58ed9aabe74a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 623c2f1175ed2ab9638e742521395fe62ba9cad9d21b517f17426fb5c96a2d73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059451"
 ---
-# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Feil: vi kan ikke laste opp eller laste ned endringene dine fordi den bufrede legitimasjonen din er utløpt
+# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Feil: Vi kan ikke laste opp eller laste ned endringene fordi den bufrede legitimasjonen er utløpt
 
-Når du lagrer filer i OneDrive-appen, kan du bruke følgende Fremgangs måte hvis du får en feil melding som inneholder uttrykket **"den bufrede legitimasjonen er utløpt"**:
+Når du lagrer filer i OneDrive-appen, utfører du følgende trinn hvis du får en feilmelding som inneholder uttrykket «den bufrede legitimasjonen er utløpt» :
 
-1. Lukk alle Office-programmer.
-1. Åpne legitimasjons behandling, og skriv inn **legitimasjons behandling** i søke boksen på oppgave linjen, og velg deretter **kontroll panel for legitimasjons behandling**.
-1. Velg **Windows-legitimasjon**.
-1. Finn en oppføring som starter med Word **OneDrive**.
-1. Merk oppføringen, og trykk deretter **Fjern**.
-1. Lukk legitimasjons behandling, høyre klikk på den blå skyen i systray, og velg **Lukk OneDrive**.
-1. Skriv inn **onedrive** i søke boksen på oppgave linjen, og velg **onedrive-appen** for å starte onedrive.
-1. Logg på OneDrive, og prøv deretter å lagre filen i OneDrive.
+1. Lukk alle Office programmer.
+1. Åpne Legitimasjonsbehandling, og skriv inn **legitimasjonsbehandling** i søkeboksen på oppgavelinjen, og velg deretter **Kontrollpanel for legitimasjonsbehandling**.
+1. Velg **Windows legitimasjon**.
+1. Finn en oppføring som starter med ordet **OneDrive**.
+1. Velg oppføringen, og trykk deretter **Fjern**.
+1. Lukk Legitimasjonsbehandling, høyreklikk på den blå skyen i systray, og velg **Lukk OneDrive**.
+1. Skriv **OneDrive** i søkeboksen på oppgavelinjen, og **velg OneDrive for** å starte OneDrive.
+1. Logg på OneDrive, og prøv deretter å lagre filen OneDrive.

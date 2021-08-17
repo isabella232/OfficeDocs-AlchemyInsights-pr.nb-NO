@@ -1,5 +1,5 @@
 ---
-title: Lær om tilordning mellom eldre policyer for Microsoft Edge og policyer for Microsoft Edge
+title: Lær om tilordning mellom Microsoft Edge Legacy policyer og Microsoft Edge policyer
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087397"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Lær om tilordning mellom eldre policyer for Microsoft Edge og policyer for Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Lær om tilordning mellom Microsoft Edge Legacy policyer og Microsoft Edge policyer
 
-Gruppe policyer for Microsoft Edge Legacy (versjon 45 og tidligere) og innstillingene for administrasjon av mobil enheter (MDM) tilordnes de relevante retnings linjene for Microsoft Edge versjon 80. Hvis du vil ha mer informasjon, kan du se [Microsoft Edge Legacy i policy tilordning for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Gruppepolicyene for Microsoft Edge Legacy (versjon 45 og tidligere) og innstillingene for administrasjon av mobilenheter (MDM) tilordnes de relevante policyene for Microsoft Edge versjon 80. Hvis du vil ha mer [informasjon, Microsoft Edge Legacy du Microsoft Edge policytilordning](https://go.microsoft.com/fwlink/?linkid=2141665).

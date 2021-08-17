@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065293"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895800"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angrepssimulator i Microsoft 365
 
-- Mangler du Attack Simulator? Attack Simulator krever **Microsoft Defender for Office 365 Plan 2** **eller Office 365 Enterprise E5.** Attack Simulator er **ikke** inkludert i Microsoft Defender for Office 365 Plan 1, Office 365 Enterprise E3 eller Microsoft 365 Apps for business abonnementer.
+- Mangler du Angrepssimulator? Attack Simulator krever **Microsoft Defender for Office 365 Plan 2** **eller Office 365 Enterprise E5**. Attack Simulator er **ikke** inkludert i Microsoft Defender for Office 365 Plan 1, Office 365 Enterprise E3 eller noen Microsoft 365 Apps for business abonnementer.
 
-- Kontoen du bruker til å starte simulerte angrep, krever globale administrator- eller sikkerhetsadministratortillatelser og godkjenning med flere faktorer (MFA). Hvis du vil ha mer informasjon om angrepssimulatorkrav, kan du [se dette emnet](/microsoft-365/security/office-365-security/attack-simulator).
+- Kontoen du bruker til å starte simulerte angrep, krever globale administrator- eller sikkerhetsadministratortillatelser og godkjenning med flere faktorer (MFA). Hvis du vil ha mer informasjon om angrepssimulatorkrav, kan du [se dette emnet](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Viktige ting du må vite om **Angrepssimuleringer for Brute Force-passord:**
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065293"
 
   - Som utforming kan du ikke angi en egendefinert verdi for nettadressen for **phishing-påloggingsserveren**.
 
-  - Hvis en mottaker bruker [tillegget](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Aktiver rapportmelding til å rapportere meldingen som phishing, mottar du kanskje ikke varsler for meldingen (fordi dette er et simulert angrep).
+  - Hvis en mottaker bruker [tillegget](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Aktiver rapportmelding til å rapportere meldingen som phishing, mottar du kanskje ikke varsler for meldingen (fordi dette er et simulert angrep).
 
 - Rapporter: Når det simulerte angrepet er fullført, kan du klikke **Angrepsdetaljer** for å se rapporten.
 
-- Hvis du vil ha detaljerte instruksjoner og nye funksjoner i Attack Simulator, kan du se [Angrepssimulator i Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Hvis du vil ha detaljerte instruksjoner og nye funksjoner i Attack Simulator, kan du se [Angrepssimulator i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

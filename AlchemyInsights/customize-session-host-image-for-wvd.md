@@ -1,5 +1,5 @@
 ---
-title: Tilpasse et verts bilde for en økt for Windows virtuelt skrive bord
+title: Tilpasse et vertsbilde for økter for Windows virtuelt skrivebord
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118645"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Tilpasse et verts bilde for en økt for Windows virtuelt skrive bord
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Tilpasse et vertsbilde for økter for Windows virtuelt skrivebord
 
-Det er to måter å klargjøre en virtuell maskin på (VM) ved å bruke en overordnet virtuell hard disk avbildning for Windows virtuelt skrive bord:
+Det finnes to måter å klargjøre en virtuell maskin (VM) på ved å bruke en hovedavbildning av virtuell harddisk for Windows virtuelt skrivebord:
 
-1. [Opprett en virtuell maskin fra et administrert bilde i Azure](https://go.microsoft.com/fwlink/?linkid=2127906), og gå deretter videre til [forberedelse og installasjon av program vare](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Opprett bildet lokalt](https://go.microsoft.com/fwlink/?linkid=2128065) ved å laste ned bildet, [klar gjøring av en Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907), og tilpass deretter den etter dine behov.
+1. [Opprett en VM fra et administrert bilde i Azure,](https://go.microsoft.com/fwlink/?linkid=2127906)og gå deretter videre til klargjøring [og installasjon av programvare](https://go.microsoft.com/fwlink/?linkid=2128064).
+1. [Opprett bildet lokalt ved å](https://go.microsoft.com/fwlink/?linkid=2128065) laste ned bildet, klargjøre en [Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907), og deretter tilpasse det etter behov.
 
-Hvis du vil ha mer informasjon, kan du se [klargjøre og tilpasse en Master VHD-avbildning](https://go.microsoft.com/fwlink/?linkid=2127838).
+Hvis du vil ha mer informasjon, [kan du se Klargjøre og tilpasse et VHD-bilde for hoved.](https://go.microsoft.com/fwlink/?linkid=2127838)
