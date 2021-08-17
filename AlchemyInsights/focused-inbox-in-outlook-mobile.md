@@ -1,5 +1,5 @@
 ---
-title: Innboks med fokus på 1800019 i Outlook Mobile
+title: 1800019 Innboks med fokus Outlook mobil
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117061"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Innboks med fokus for Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>Innboks med fokus for Outlook mobil
 
-[Hva er innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Hva er Innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Hvordan redigerer jeg reglene som flytter e-posten min i og ut av innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Hvordan redigerer jeg reglene som flytter e-posten min inn og ut av Innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Hvordan slår jeg av innboks med fokus, eller endrer om uttalene og varslingene synkroniseres til innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Hvordan deaktiverer jeg Innboks med fokus eller endrer om antall merker og varsler synkroniseres til Innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Hvordan slår jeg av innboks med fokus, eller endrer hvorvidt varsler synkroniseres til innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Hvordan deaktiverer jeg Innboks med fokus eller endrer om varsler synkroniseres til Innboks med fokus?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Hvordan veksler jeg mellom fokusert og annet?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Hvordan veksler jeg mellom Fokusert og Annet?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Les mer: [få hjelp i appen for Outlook for IOS og Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Finn ut mer: [Få hjelp i appen for Outlook for iOS og Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

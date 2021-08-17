@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501825"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892204"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Legge til eller fjerne lisenser for abonnementet
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501825"
 4. Hvis du vil kjøpe eller fjerne  lisenser, **angir** du det totale antallet lisenser du vil bruke for dette abonnementet, under Nytt antall i Totalt antall lisenser-boksen. Hvis du for eksempel har 100 lisenser og vil legge til 25 flere, skriver du inn 125. Hvis du vil fjerne 25 lisenser, skriver du inn 75.
 5. Velg **Lagre**.
 
-Hvis du vil ha informasjon om hvordan du tilordner lisenser, kan [du se Tilordne lisenser til brukere](/microsoft-365/admin/manage/assign-licenses-to-users).
+Hvis du vil ha informasjon om hvordan du tilordner lisenser, kan [du se Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Ressurser**
   
-- [Kjøpe eller fjerne lisenser](/microsoft-365/commerce/licenses/buy-licenses)
-- [Avbryte Microsoft 365 for bedrifter](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Prøv eller kjøp et Microsoft 365 for business-abonnement](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Kjøpe eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Avbryte Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Prøv eller kjøp et abonnement Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

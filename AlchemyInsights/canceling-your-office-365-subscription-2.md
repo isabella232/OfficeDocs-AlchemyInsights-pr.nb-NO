@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686931"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893964"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vil du avbryte Microsoft 365 abonnementet?
 
@@ -33,4 +33,4 @@ Basert på organisasjonsdataene mener vi at alle gjeldende abonnementer har mer 
 
 **Refusjon:** Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.
 
-Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

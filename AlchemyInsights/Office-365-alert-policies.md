@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891688"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312696"
 ---
 # <a name="alert-policies"></a>Varslingspolicyer
 
@@ -33,7 +33,7 @@ Slik ser du gjennom og handler på et varsel:
 
 1. Gjør ett av følgende:
    - I Samsvarssenter for Microsoft 365 på <https://compliance.microsoft.com> går du til **Varsler**. Du kan også gå direkte til **Varsler-siden** ved å bruke <https://compliance.microsoft.com/compliancealerts> .
-   - Gå til Microsoft 365 Defender-varsler i portalen <https://security.microsoft.com> **& på** \> . Du kan også gå direkte til **Varsler-siden** ved å bruke <https://security.microsoft.com/alerts> .
+   - Gå til Microsoft 365 Defender varsler i portalen <https://security.microsoft.com> **& på** \> . Du kan også gå direkte til **Varsler-siden** ved å bruke <https://security.microsoft.com/alerts> .
 2. Klikk et varsel for å vise en undermenyside med informasjon om varselet.
 
 Du kan gjøre noe med et varsel, for eksempel fjerne [en mistenkelig innboksregel](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Du kan også ganske enkelt lukke varselet ved å klikke **Løs** på undermenyen for varselet.

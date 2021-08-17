@@ -1,5 +1,5 @@
 ---
-title: Bruke et Wix-nettsted med Microsoft-kjøpte eller administrerte domener
+title: Bruke et Wix-nettsted med Microsoft kjøpt eller administrert domener
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083743"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Bruke et Wix-nettsted med Microsoft-kjøpte eller administrerte domener
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Bruke et Wix-nettsted med Microsoft kjøpt eller administrert domener
 
-Hvis du vil ha informasjon om hvordan du bruker et Wix-nettsted med et Microsoft-kjøpt eller forvaltet domene, kan du se [oppdatere DNS-poster for å beholde nettstedet hos din nå værende verts leverandør](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Hvis du vil ha informasjon om hvordan du bruker et Wix-nettsted med et Microsoft-kjøpt eller administrert domene, kan du se Oppdatere DNS-poster for å beholde nettstedet hos [gjeldende vertsleverandør.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 
-Hvis du vil ha mer informasjon, se: 
+Hvis du vil ha mer informasjon, kan du se: 
 
-- Wix-artikkelen «koble et domene til Wix ved hjelp av peke metoden» anbefaler at du legger til DNS-poster som angitt i koblingen ovenfor, i stedet for å endre navneserver når du bruker Microsoft 365.
+- Artikkelen Wix, «Koble et domene til Wix ved hjelp av pekemetoden», anbefaler at du legger til DNS-poster som beskrevet i koblingen ovenfor, i stedet for å endre navneservere når du bruker Microsoft 365.
 
-- Hvis du velger å endre navneservere til Wix, må du opprette DNS-poster på Wix for Microsoft. Hvis du vil ha mer informasjon, kan du se [opprette DNS-poster på Wix for Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
+- Hvis du velger å endre navneservere til Wix, må du opprette DNS-poster på Wix for Microsoft. Hvis du vil ha mer informasjon, kan [du se Opprette DNS-poster på Wix for Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Hvis domenet ble kjøpt fra Microsoft, kan ikke navneserverne endres. Hvis du må endre navn på servere, må Microsoft-kjøpt domene overføres til en annen verts leverandør etter 60 dager. Hvis du vil ha mer informasjon, kan du se [overføre et domene fra Microsoft til en annen vert](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Hvis domenet ble kjøpt fra Microsoft, kan ikke navneserverne endres. Hvis du må endre navneservere, må Microsoft-kjøpt domene overføres til en annen vertsleverandør etter 60 dager. Hvis du vil ha mer informasjon, kan du se [Overføre et domene fra Microsoft til en annen vert](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
