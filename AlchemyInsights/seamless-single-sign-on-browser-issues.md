@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074293"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Feilsøke problemer med enkel pålogging (SSO)
 
-De fleste brukere kan løse problemet med sømløs SSO-nettleseren ved hjelp av fremgangsmåten nedenfor:
+De fleste brukere kan løse problemet med Sømløs SSO-nettleseren ved hjelp av fremgangsmåten nedenfor:
 
 1. Kontroller at nettleseren er oppdatert.
-2. Slett informasjonskapsler fra nettleseren for å fjerne en ugyldig SSO-økt, og prøv å logge på på nytt.
+2. Slett informasjonskapsler fra nettleseren for å fjerne en ugyldig SSO-økt, og prøv å logge på igjen.
 3. Prøv å logge på med en annen nettleser.
 
 **Kjente nettleserproblemer**
 
-- Sømløs SSO fungerer ikke i privat nettlesermodus i Firefox.
-- Sømløs SSO fungerer ikke i Internet Explorer når utvidet beskyttet modus er slått på.
+- Sømløs SSO fungerer ikke i privat nettlesermodus på Firefox.
+- Sømløs SSO fungerer ikke i Internet Explorer når forbedret beskyttet modus er aktivert.
 - Sømløs SSO fungerer ikke i privat nettlesermodus på Microsoft Edge (eldre).
 - Sømløs SSO fungerer ikke på mobilnettlesere på iOS og Android.
 
-Sømløs SSO støtter neste versjon av Microsoft Edge basert på Chromium, og den fungerer i InPrivate- og Gjestemodus etter utforming.
+Sømløs SSO støtter neste versjon av Microsoft Edge basert på Chromium og fungerer i InPrivate- og Gjestemodus etter utforming.
 
 **Veiledning**
 
-Hvis du vil ha informasjon om funksjoner eller stille tekniske spørsmål om sømløs SSO, kan du [se Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Hvis du vil ha funksjonsforespørsler eller stille tekniske spørsmål om Sømløs SSO, kan du [se Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

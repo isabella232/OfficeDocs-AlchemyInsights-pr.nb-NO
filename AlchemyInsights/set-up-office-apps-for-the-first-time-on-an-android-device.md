@@ -1,5 +1,5 @@
 ---
-title: Konfigurere Office-apper for første gang på en Android-enhet
+title: Konfigurere Office apper for første gang på en Android-enhet
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003965"
 - "7021"
-ms.openlocfilehash: 13adc48acc4dca8735115a7d4cbe57a76ea89df2
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 0bf2156e5aedce40262c2b10ccaed0fbcd7c877c8709c6f2d68d20bdad7dd517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073861"
 ---
-# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Konfigurere Office-apper for første gang på en Android-enhet
+# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Konfigurere Office apper for første gang på en Android-enhet
 
-På en Android-enhet kan du installere Office som en Office-mobilapp som kombinerer Word, Excel og PowerPoint i en enkelt app, eller du kan installere Office-appene enkeltvis. Slik gjør du det:
+På en Android-enhet kan du installere Office som en Office-mobilapp som kombinerer Word, Excel og PowerPoint i én enkelt app, eller du kan installere Office-appene enkeltvis. Slik gjør du det:
 
-1. Åpne en Office-app, for eksempel Excel, Logg på med Microsoft-kontoen, og trykk deretter **neste**.
-2. Trykk **Ja** eller **Nei** for å hjelpe oss med å forbedre Office Mobile-opplevelsen, og trykk deretter **Aktiver varsler** for å aktivere varsler, eller **ikke nå** for å velge ut.
+1. Åpne en Office-app, for eksempel Excel, logg på med Microsoft-kontoen din, og trykk deretter **Neste**.
+2. Trykk **Ja** eller **Nei** for å hjelpe oss med å  Office mobilopplevelsen, og trykk deretter på Slå på varsler for å aktivere varsler eller Ikke nå for **å** melde deg ut.
     > [!NOTE]
-    > Når du logger på, blir kontoen automatisk lagt til i de andre Office-appene som er installert på Android-enheten.
-3. Valfritt Hvis du vil legge til en annen konto eller Sky tjeneste, for eksempel OneDrive for Business eller Dropbox, trykker du på **Åpne**  >  **Legg til et sted**. Hvis du bruker OneNote, trykker du **Innstillinger**  >  -**kontoer**, og deretter velger du Sky tjenesten du vil legge til.
-4. Skriv inn e-postadressen og passordet du bruker til å logge på den tjenesten. Du er klar!
+    > Når du har logget på, legges kontoen automatisk til i de Office appene som er installert på Android-enheten.
+3. (Valgfritt) Hvis du vil legge til en annen konto eller skytjeneste, for eksempel OneDrive for bedrifter eller Dropbox, trykker du **Åpne Legg** til  >  **et sted**. Hvis du bruker OneNote, trykker **Innstillinger** kontoer , og deretter velger du  >  skytjenesten du vil legge til.
+4. Skriv inn e-postadressen og passordet du bruker til å logge på denne tjenesten. Du er god til å gå!
 
-Hvis du vil ha instruksjoner om hvordan du laster ned Office for mobile eller individuelle Office-programmer, kan du se [installere og konfigurere Office på en Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Hvis du vil ha instruksjoner om Office for mobilapper eller individuelle Office, kan du se Installere og konfigurere Office [på en Android](https://go.microsoft.com/fwlink/?linkid=2135287).
