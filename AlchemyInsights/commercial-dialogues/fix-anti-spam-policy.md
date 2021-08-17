@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988268"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898865"
 ---
 # <a name="fix-anti-spam-policy"></a>Løse søppelpostpolicy
 
-En egendefinert policy for søppelpost i leieren påvirket denne meldingen. Gjør følgende for å se gjennom policyen:
+En av policyene for søppelpost påvirket denne meldingen. Gjør følgende for å se gjennom policyen:
 
-1. Gå til Office 365 [Sikkerhets- & samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå deretter til **Policy** for trusselbehandling  >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Velg Standard **policy** for  søppelpostfilter eller andre egendefinerte policyer du har opprettet, på **Egendefinert-fanen,** og velg deretter Rediger policy .
-3. Utvid **alternativet Egenskaper for søppelpost,** og se gjennom innstillingene for Merk som **søppelpost.**
+1. I Microsoft 365 Defender-portalen på går du til Policyer & e-post for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
 
-Hvis du vil ha mer informasjon om hvordan du konfigurerer policyer for søppelpostfilter, kan du [se Konfigurere policyinnstillinger for](https://go.microsoft.com/fwlink/?linkid=2101054)egendefinert søppelpostfilter .
+   Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
+
+2. Velg **policyen** ved å klikke på navnet på policyen på siden Policyer for  søppelpost (**Type** er egendefinert **søppelpostpolicy** eller Navnet er inngående policy for søppelpost **(standard).**
+
+3. I detaljer-undermenyen som vises, klikker du Rediger terskelen for søppelpost og egenskaper i delen Masseutsendelse av **e-post** & egenskaper for søppelpost, velger Rediger handlinger **og** se gjennom innstillingene for Merk som **søppelpost.** 
+
+Hvis du vil ha mer informasjon, [kan du se Konfigurere søppelpostpolicyer i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
