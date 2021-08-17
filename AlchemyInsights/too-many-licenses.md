@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499557"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886300"
 ---
 # <a name="too-many-licenses"></a>For mange lisenser?
 
@@ -36,4 +36,4 @@ Hvis du tror du blir fakturert for for mange lisenser, skyldes dette vanligvis a
 4. Angi **det** totale antallet lisenser du  vil bruke for dette abonnementet, **under** Nytt antall i totalt antall lisenser-boksen i Fjern lisenser-ruten. Hvis du for eksempel har 100 lisenser og vil fjerne 25 av dem, skriver du inn 75.
 5. Velg **Lagre**.
 
-Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne lisenser](/microsoft-365/commerce/licenses/buy-licenses).
+Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

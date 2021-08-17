@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888251"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Komme i gang med Teams webinarer
 
@@ -27,4 +27,4 @@ Når du har satt opp nettseminarer i organisasjonen, kan brukerne planlegge nett
 
 **Obs!** Nettseminarfunksjonalitet er fortsatt i ferd med å rulles ut til Microsoft 365 tenanter. 
 
-Hvis du vil ha mer informasjon om hvordan du konfigurerer Teams webinarer, kan du se Konfigurere [for webinarer i Microsoft Teams](/microsoftteams/set-up-webinars).
+Hvis du vil ha mer informasjon om hvordan du konfigurerer Teams webinarer, kan du se Konfigurere [for webinarer i Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).

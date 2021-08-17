@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: df62d965e0dc2ddb656571af99b1e4c3cb52ea35
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887449"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikatorer fungerer ikke ved hjelp av Edge-nettleseren
 
-Når du har opprettet en indikator, innfris den ikke av Edge (Smartscreen). Hvis du vil ha mer informasjon, kan du se Opprette [indikatorer for NETTADRESSER og nettadresser/domener.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+Når du har opprettet en indikator, innfris den ikke av Edge (Smartscreen). Hvis du vil ha mer informasjon, kan du se Opprette [indikatorer for IPer og nettadresser/domener.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 
 ## <a name="step-1-ensure-the-following"></a>Trinn 1: Sikre følgende
 
@@ -34,7 +34,7 @@ Når du har opprettet en indikator, innfris den ikke av Edge (Smartscreen). Hvis
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Trinn 2: Feilsøke det potensielle problemet
 
-- Kontroller at klienten oppfyller kravene. Hvis du vil ha mer informasjon, kan du se Opprette [indikatorer for NETTADRESSER og nettadresser/domener](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- Kontroller at klienten oppfyller kravene. Hvis du vil ha mer informasjon, kan du se Opprette [indikatorer for NETTADRESSER og nettadresser/domener](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 - Kontroller at du kjører den nyeste versjonen av Edge-nettleseren. Hvis du vil finne ut den nyeste versjonen, kan du se Finne ut hvilken [versjon av Microsoft Edge du har](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Start Edge-nettleseren på nytt.
 - Gå til nettstedet der du har satt opp en indikator. Hvis nettstedet ikke vises som forventet, fortsetter du til trinn 3. 

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689055"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887545"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Slik aktiverer du et abonnement på nytt og administrerer regelmessig fakturering
 
@@ -32,7 +32,7 @@ Det ser ut til at du har et abonnement som er utløpt. Hvis du vil aktivere den 
 3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 
-For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Hvis du vil administrere månedlig eller årlig fakturering, kan du slå av eller på **gjentakelsesfakturering**.
   
@@ -42,4 +42,4 @@ Hvis du vil administrere månedlig eller årlig fakturering, kan du slå av elle
 4. Velg **På** **,** På, men **forny** én gang eller Deaktiver i ruten Rediger innstillinger for regelmessig **fakturering.**
 5. Velg **Lagre**.
 
-Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Hvis du vil ha mer informasjon, kan du se [Slå regelmessig fakturering av eller på](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
