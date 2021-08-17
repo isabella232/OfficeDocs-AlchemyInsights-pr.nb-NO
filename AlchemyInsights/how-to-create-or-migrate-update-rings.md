@@ -1,5 +1,5 @@
 ---
-title: Slik oppretter eller overfører du oppdaterings ringer
+title: Slik oppretter eller overfører du oppdateringsringer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078811"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Slik oppretter eller overfører du oppdaterings ringer
+# <a name="how-to-create-or-migrate-update-rings"></a>Slik oppretter eller overfører du oppdateringsringer
 
-Følg Fremgangs måten nedenfor hvis du har konfigurert Windows 10-oppdaterings innstillinger i Intune Classic-portalen, og ønske å overføre dem til Intune i Azure-portalen:
+Følg fremgangsmåten nedenfor hvis du konfigurerte Windows 10 oppdateringsinnstillinger i den klassiske Intune-portalen og ønsket å overføre dem til Intune i Azure-portalen:
 
-1. Gå til Azure-portalen, og klikk på **alle tjenester**.
-2. Skriv inn **Intune**i **filter** -feltet. Klikk **Microsoft Intune**i resultatene.
-3. Klikk **programvare oppdateringer**,  >  Opprett**Windows 10 oppdaterings ringer**  >  **Create**.
-4. Skriv inn et navn, beskrivelse, og klikk **Konfigurer**.
-5. Konfigurer innstillingene for oppdatering av organisasjons program vare.
+1. Gå til Azure-portalen, og klikk **Alle tjenester**.
+2. Skriv **inn** **Intune i Filter-feltet.** I resultatene klikker **du** Microsoft Intune .
+3. Klikk **Programvareoppdateringer**  >  **Windows 10 Opprett oppdateringsringer**  >  .
+4. Skriv inn et navn, en beskrivelse, og klikk **Konfigurer**.
+5. Konfigurer innstillingene for programvareoppdatering for organisasjonene.
 6. Velg **OK**.
-7. Velg **Opprett**i **Opprett oppdaterings ring**.
+7. Velg **Opprett i Opprett oppdateringsring**. 
