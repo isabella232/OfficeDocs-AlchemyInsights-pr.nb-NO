@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047157"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-filen åpnes ikke
+# <a name="excel-file-doesnt-open"></a>Excel filen ikke åpnes
 
 Prøv ett av disse forslagene:
 
 **Velg Excel som standard**
 
-* Høyreklikk regnearket, velg Åpne **med**, og velg deretter **Excel**
+* Høyreklikk regnearket, velg Åpne **med**, og velg **deretter Excel**
 
 **Kjøre en raskere reparasjon**
 
 1. Gå til **Kontrollpanel > programmer > Programmer og funksjoner**.
 
-2. Velg Office-produktet du vil reparere, og velg deretter **Endre**.
+2. Velg Office produktet du vil reparere, og velg deretter **Endre**.
 
 3. Velg alternativet **Raskere reparasjon,** og velg deretter **Reparer**.
 
-**Avinstallere versjoner av Office du ikke bruker**
+**Avinstallere versjoner Office du ikke bruker**
 
 1. Gå til **Kontrollpanel> Avinstaller et program**, og velg deretter versjonen av Office du vil fjerne.
 
@@ -43,7 +43,7 @@ Prøv ett av disse forslagene:
 
 3. Start datamaskinen på nytt.
 
-**Kjør dette feilsøkingsprogrammet for å angi at Office-filtyper skal åpnes i Office**
+**Kjør dette feilsøkingsprogrammet for å Office filtyper som skal åpnes i Office**
 
 1. Kjør dette feilsøkingsprogrammet: https://aka.ms/diag_officefile .
 

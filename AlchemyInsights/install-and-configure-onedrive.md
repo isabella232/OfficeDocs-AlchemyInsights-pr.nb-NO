@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078127"
 ---
 # <a name="install-and-configure-onedrive"></a>Installere og konfigurere OneDrive
 
-Synkroniserings klienten for OneDrive er forhånds installert med Windows 10. Hvis du vil installere OneDrive for Windows 7 eller Mac, eller få mobilappen for telefonen eller nett brettet, går du til [https://onedrive.com/download](https://onedrive.com/download) .
+Klienten OneDrive-synkronisering forhåndsinstallert med Windows 10. Hvis du OneDrive for Windows 7 eller Mac, eller hvis du vil ha mobilappen for telefonen eller nettbrettet, går du til [https://onedrive.com/download](https://onedrive.com/download) .
   
-Hvis du vil konfigurere synkroniserings klienten for OneDrive i Windows, kan du se:
+Hvis du vil konfigurere OneDrive-synkronisering-klienten i Windows, kan du se:
   
-- [Konfigurasjons veiledning for onedrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) for å komme i gang med fil lagring i onedrive, funksjoner for deling, samarbeid og synkronisering.
+- [OneDrive konfigurere Veiledning for](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) å komme i gang med OneDrive fillagring, deling, samarbeid og synkroniseringsfunksjoner.
 
-- [Konfigurere data maskinen til å synkronisere OneDrive for Business-filer](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Konfigurere datamaskinen til å synkronisere OneDrive for Business filer](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Synkronisere SharePoint-filer med den nye synkroniseringsklienten for OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)
