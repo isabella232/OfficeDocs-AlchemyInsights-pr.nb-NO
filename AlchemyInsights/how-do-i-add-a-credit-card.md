@@ -16,12 +16,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 4d4bc433684e8dc98ae8bec2a1524bad2c682f115c075b54ffa7263099de0011
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8cbfd7790c1805b2a6399e7a346ab3d471575a8c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500709"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313176"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Hvordan legger jeg til et kredittkort?
 
@@ -33,4 +33,4 @@ ms.locfileid: "54500709"
 
 4. Skriv inn informasjonen for det nye kredittkortet eller den nye bankkontoen, og klikk på **Lagre**.
 
-Se [Administrere betalingsmetoder](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) hvis du vil ha mer informasjon. 
+Se [Administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) hvis du vil ha mer informasjon. 

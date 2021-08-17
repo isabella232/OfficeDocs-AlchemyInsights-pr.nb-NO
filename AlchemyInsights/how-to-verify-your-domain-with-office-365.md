@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 989f359e5b39454189f3decd31834b12b62a66d4e794eb9e2977173effb80b60
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a15acbe1b612a5686d7dc87e9348865aaace44491c9af25c6dda470492fd06c6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893284"
 ---
 # <a name="how-to-verify-your-domain"></a>Slik bekrefter du domenet
 
-Hvis du vil bekrefte et domene, følger du veiviseren legg til [domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)eller går til **Angi**  >  **domener Legg** til domene  >  **manuelt**.
+Hvis du vil bekrefte et domene, følger du veiviseren legg til [domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)eller går til **Angi**  >    >  **domener Legg til domene manuelt**.
 
-Hvis du vil ha mer informasjon om DNS-endringer som kreves for å bekrefte domenet, kan du se instruksjonene i Legge til [DNS-poster for å koble til domenet](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Hvis du vil ha mer informasjon om DNS-endringer som kreves for å bekrefte domenet, kan du se instruksjonene i Legge til [DNS-poster for å koble til domenet](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Hvis du vil ha spørsmål om andre domener, kan du se [Vanlige spørsmål om domener](/microsoft-365/admin/setup/domains-faq).
+Hvis du vil ha spørsmål om andre domener, kan du se [Vanlige spørsmål om domener](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

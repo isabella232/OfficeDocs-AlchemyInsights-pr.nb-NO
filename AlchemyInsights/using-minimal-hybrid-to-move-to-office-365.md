@@ -1,5 +1,5 @@
 ---
-title: Bruke minimal hybrid til å flytte til Microsoft
+title: Bruke Minimal Hybrid til å flytte til Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: ec20bb87441462f2d14fa3d59633a9739535e838b06ef45ca33082a9c018d55c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084031"
 ---
-# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Bruke minimal hybrid til å flytte til Microsoft 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Bruke Minimal Hybrid til å flytte til Microsoft 365
 
-Hvis du vil lære mer om minimal hybrid, også kjent som Ekspress-overføring, kan du ta en titt [på bruk minimal hybrid for raskt å overføre Exchange-postbokser til Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Hvis du vil lære mer om Minimal Hybrid, også kalt Express-overføring, kan du se Bruke minimal hybrid til raskt å [Exchange postbokser til Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
