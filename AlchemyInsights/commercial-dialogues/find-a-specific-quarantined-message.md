@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967954"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898329"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Finne en bestemt melding i karantene
 
-1. Gå til [sikkerhets- & samsvarssenteret](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Gå til **Trusselstyring**  >  **Se gjennom**  >  **karantene**.
-3. Velg **Søk**.
-4. Velg en kombinasjon av betingelser ved å merke av i avmerkingsboksene ved siden av dem (du kan ikke bruke jokertegn på dette tidspunktet).
+1. Gå til & e-post i Microsoft 365 Defender <https://security.microsoft.com>  \>  \> **portalen** på .
+
+   Hvis du vil gå direkte til **karantenesiden,** bruker du <https://security.microsoft.com/quarantine> .
+
+2. Kontroller at **e-postfanen**  er valgt på Karantene-siden, og klikk deretter **Filtrer**.
+3. Velg en kombinasjon av egenskaper for å filtrere og finne meldingen.
+
+Hvis du vil ha mer informasjon, kan du se følgende emner:
+
+- [Finne og frigi meldinger i karantene som en bruker](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Behandle meldinger og filer i karantene som administrator](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082951"
 ---
 # <a name="authentication-app"></a>Godkjenningsapp
 
@@ -30,11 +30,11 @@ Hvis du er global administrator, kan du raskt finne ut hva som skjedde eller dia
 
 **Kontroller scenarioet som gjelder:**
 
-1. Hvis en bruker ikke får et push-varsel i Microsoft Authenticator-appen, må du kontrollere at de ikke vises under de MFA-blokkerte brukerne, som beskrevet i Blokkere og [oppheve blokkeringen av brukere.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Hvis brukeren ikke er blokkert for MFA, men ikke mottar en push-varsling, kan de åpne Microsoft Authenticator-appen, som vil trekke ventende godkjenningsforespørsler.
+1. Hvis en bruker ikke får et push-varsel i Microsoft Authenticator-appen, må du kontrollere at de ikke vises under de MFA-blokkerte brukerne, som beskrevet i Blokkere og oppheve blokkering [av brukere.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Hvis brukeren ikke er blokkert for MFA, men ikke mottar et push-varsel, kan de åpne Microsoft Authenticator-appen, som vil trekke ventende godkjenningsforespørsler.
 1. Som en alternativ påloggingsmetode kan brukeren også klikke på Logg på en annen måte og velge å bruke en bekreftelseskode fra mobilappen.
-1. Microsoft Authenticator-appen er den eneste tilgjengelige metoden for mange brukere. [Finn ut mer om sikkerhetsstandarder](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), se Vanlige spørsmål om [Authenticator-appen](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) for vanlige spørsmål og hvordan du løser dem.
+1. Appen Microsoft Authenticator den eneste tilgjengelige metoden for mange brukere. [Finn ut mer om sikkerhetsstandarder](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), [se vanlige Authenticator for](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) vanlige spørsmål om apper, og hvordan du løser dem.
  
 **Anbefalte videoer**
 
-[Slik konfigurerer du Authenticator-appen på en ny telefon (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[Slik konfigurerer du Authenticator app på en ny telefon (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).

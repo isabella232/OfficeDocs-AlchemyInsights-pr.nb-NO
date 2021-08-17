@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013145"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320764"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Løsninger på problemer ved installasjon av Office
 
@@ -30,7 +30,8 @@ Prøv disse løsningene for å løse Office-feilen:
 - Rydd opp eventuelle spor etter Office, og installer på nytt ved hjelp av Assistent for støtte og gjenoppretting (SaRA). 
 
     - Last ned og installer [Assistent for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy). Når den åpnes, velger du versjonen du vil avinstallere (hvis aktuelt) og klikker på **Neste**, fra **Avinstallere Office-produkter**. Fortsett å gå gjennom skjermer, og start datamaskinen på nytt når du blir bedt om det. Når du starter på nytt, åpnes SaRA automatisk på nytt for å fullføre avinstallasjonsprosessen.
-    - Bruk SaRA til å [installere Office på nytt](https://aka.ms/sara-officeinstall). **Obs**! Bruk [Installere Visio](https://aka.ms/SaRA-VisioSetupScenario) eller [Installere Project](https://aka.ms/SaRA-ProjectSetupScenario) for å konfigurere Visio eller Project med SaRA.  
+    - Bruk SaRA til å [installere Office på nytt](https://aka.ms/sara-officeinstall). 
+    **Obs**! Bruk [Installere Visio](https://aka.ms/SaRA-VisioSetupScenario) eller [Installere Project](https://aka.ms/SaRA-ProjectSetupScenario) for å konfigurere Visio eller Project med SaRA.  
 
 - [Bruk Office-installasjonsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) for å installere Office.
 
