@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937686"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889263"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivere Microsoft 365 apper
 
@@ -29,7 +29,7 @@ For å aktivere Office, se:
 
 - [Aktivere Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Obs!**  Kontroller at du har et Office 365- eller [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365-abonnement som omfatter Office-klientapper, for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise. I tillegg må du sørge for at brukerkontoen du bruker til å logge på Office apper har [en tilordnet lisens.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**Obs!**  Kontroller at du har et Office 365- eller [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365-abonnement som inkluderer Office-klientapper, for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise. I tillegg må du sørge for at brukerkontoen du bruker til å logge på Office apper har [en tilordnet lisens.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Hvis du vil løse problemer med å aktivere Office, kan du se:
 
@@ -48,6 +48,6 @@ Hvis du ikke kan logge på Microsoft 365 apper, følger du fremgangsmåten neden
 
 3. Gå til **Windows-innstillinger > Kontoer > Tilgang til jobb eller skole** og koble fra gamle eller ubrukte kontoer.
 
-4. [Tilbakestill aktiverings statusen for Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) og så [Logg på Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)-apper ved hjelp av den nye kontoen.
+4. [Tilbakestill aktiverings statusen for Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) og så [Logg på Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)-apper ved hjelp av den nye kontoen.
 
 Se [Et abonnementsvarsel vises når jeg åpner et Office 365-program](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) for mer informasjon.

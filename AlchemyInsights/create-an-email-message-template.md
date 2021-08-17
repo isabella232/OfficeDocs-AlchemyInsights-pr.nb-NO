@@ -1,5 +1,5 @@
 ---
-title: Opprette en mal for e-postmeldinger
+title: Opprette en mal for e-postmelding
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080575"
 ---
-# <a name="create-an-email-message-template"></a>Opprette en mal for e-postmeldinger
+# <a name="create-an-email-message-template"></a>Opprette en mal for e-postmelding
 
-Slik oppretter du en mal for e-post melding:
+Slik oppretter du en e-postmeldingsmal:
 
-1. Klikk **ny e-post** i **ny-gruppen** i kategorien **hjem** på skrive bordet i Outlook.
+1. Klikk **Ny** e-post Outlook Ny e-post i Ny **gruppe** **på Hjem-fanen i skrivebordsversjonen.**
 
-    Hurtig tasten for å opprette en e-postmelding er CTRL + SKIFT + M.
+    Hurtigtasten for å opprette en e-postmelding er CTRL+SKIFT+M.
 
-2. Skriv inn innholdet du vil ha, i meldings teksten.
-3. Klikk **fil** -fanen i meldings vinduet.
+2. Skriv inn innholdet du vil bruke, i meldingsteksten.
+3. Klikk Fil-fanen i **meldingsvinduet.**
 4. Klikk **Lagre som**.
-5. Klikk **Outlook-mal** **i Filtype-listen i** dialog boksen **Lagre som** .
-6. Skriv inn et navn på malen i **filnavn** -boksen, og klikk deretter **Lagre**.
+5. Klikk **på Lagre** som i  Filtype-listen i **dialogboksen Lagre som,** og klikk Outlook mal .
+6. Skriv inn **et navn** på malen i Filnavn-boksen, og klikk deretter **Lagre**.
 
-Standard maler lagres på følgende sted:
+Som standard lagres maler på følgende plassering:
 
-**c:\brukere\brukernavn\appdata\roaming\microsoft\templates**
+**c:\users\brukernavn\appdata\roaming\microsoft\templates**

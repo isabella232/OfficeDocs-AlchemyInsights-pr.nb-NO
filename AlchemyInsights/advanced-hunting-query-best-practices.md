@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: c602b76b82190c981273bfd2473304c20f18cfb94c925e27b6b777cba4a52c40
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2871c0d78721eb5c544fe5583ccfd7264b3af853a7184da292dff47289700d8e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952330"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889019"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Anbefalte fremgangsmåter for avansert jaktspørring
 
-Se hele artikkelen Anbefalte fremgangsmåter for [avansert jaktspørring](/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detaljerte anbefalinger og veiledning om:
+Se hele artikkelen Anbefalte fremgangsmåter for [avansert jaktspørring](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detaljerte anbefalinger og veiledning om:
 - Optimalisere spørringsytelsen.
-- Spørringstips og -feller.
+- Spørringstips og feller.
 - Spørringer med kommandolinjer.
 
 
