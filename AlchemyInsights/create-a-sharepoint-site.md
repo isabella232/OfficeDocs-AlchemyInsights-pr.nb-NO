@@ -1,5 +1,5 @@
 ---
-title: Opprette et SharePoint-område
+title: Opprette et SharePoint nettsted
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080899"
 ---
-# <a name="create-a-sharepoint-site"></a>Opprette et SharePoint-område
+# <a name="create-a-sharepoint-site"></a>Opprette et SharePoint nettsted
 
-Opprette eller behandle områder fra [aktive nett steder](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) i administrasjons senteret for SharePoint. Hvis du vil ha mer informasjon, kan du se [administrere områder i det nye administrasjons senteret for SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Opprett eller administrer områder fra [Aktive nettsteder](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) i SharePoint administrasjonssenteret. Hvis du vil ha mer informasjon, kan du se Administrere [områder i det nye SharePoint administrasjonssenteret](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Råd
+## <a name="tips"></a>Tips:
 
-- Du **kan ikke** opprette et nettsted med den samme URL-adressen til et eksisterende nettsted. Hvis du har slettet et nettsted og ønsker å bruke Netta dressen på nytt, er det mulig at det slettede nettstedet fremdeles finnes under [Slettede nett steder](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Området må slettes permanent for å bruke Netta dressen på nytt. Hvis du vil fjerne et nettsted med PowerShell fullstendig, kan du se eksempel på [Fjern SPSite-](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
-- Det kan hende at noen brukere ikke kan opprette et område. [Se administrere område oppretting i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Det er mulig at området ser fast ut for å **opprette** mer enn forventet. Hvis det har gått mer enn 24 timer siden du så dette problemet, kan du logge en støtte forespørsel. I mange tilfeller arbeider vi allerede med en løsning. Gi oss minst 24 timer til å fullføre en løsning.
+- Du **kan** ikke opprette et nettsted med samme nettadresse for et eksisterende nettsted. Hvis du har slettet et nettsted og ønsker å bruke nettadressen på nytt, er det mulig at det slettede nettstedet fremdeles finnes under [Slettede nettsteder.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Nettstedet må slettes permanent for å bruke nettadressen på nytt. Hvis du vil fjerne et nettsted med Powershell fullstendig, kan du se [cmdleteksempelet Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Enkelte brukere kan kanskje ikke opprette et nettsted. [Se Administrere opprettelse av nettsted i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Det er mulig nettstedet står fast på Opprette **lenger** enn forventet. Hvis det har gått mer enn 24 timer siden du så dette problemet, logger du en støtteforespørsel. I mange tilfeller arbeider vi allerede med en løsning. Gi oss minst 24 timer for å fullføre en løsning.
