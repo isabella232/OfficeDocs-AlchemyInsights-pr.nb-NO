@@ -1,5 +1,5 @@
 ---
-title: Laste opp en mappe eller filer til et dokument bibliotek
+title: Last opp en mappe eller filer til et dokumentbibliotek
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,16 +14,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: ac6bc3ff7b3abffe3f31f67d168e51d6b779daa0
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 2241cab0c509b010d3c427e962d9204ff86e5b6ce16b76a07c6c2b6b60485b18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073249"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Laste opp en mappe eller filer til et dokument bibliotek
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Last opp en mappe eller filer til et dokumentbibliotek
 
-Du kan laste opp filer til et dokument bibliotek i SharePoint ved å dra dem fra data maskinen og slippe dem i dokument biblioteket.
+Du kan laste opp filer til et dokumentbibliotek i SharePoint ved å dra dem fra datamaskinen og slippe dem inn i dokumentbiblioteket.
 
-* [Laste opp en mappe eller filer til et dokument bibliotek](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Last opp med OneDrive-synkronisering](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Last opp en mappe eller filer til et dokumentbibliotek](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [Last opp ved hjelp av OneDrive-synkronisering](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
