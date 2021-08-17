@@ -1,5 +1,5 @@
 ---
-title: 1374 løse to post bokser hvordan
+title: 1374 Løs to postbokser howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110077"
 ---
-# <a name="a-user-has-two-mailboxes"></a>En bruker har to post bokser
+# <a name="a-user-has-two-mailboxes"></a>En bruker har to postbokser
 
-Hybrid miljøer som bruker Azure Active Directory Connect (AAD Connect) eller DirSync kan utilsiktet føre til at en bruker har to post bokser: én lokal og en i skyen. Det kan opprettes en duplisert post boks på ett og samme sted.
+Hybridmiljøer som bruker Azure Active Directory Koble til (AAD Koble til) eller DirSync, kan utilsiktet føre til at en bruker har to postbokser: én lokalt og én i skyen. En duplisert postboks kan opprettes på begge plasser.
 
-Hvis du vil løse dette problemet, kan du se [hvordan du gjenoppretter når det finnes en post boks i både Exchange Online og lokalt](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Hvis du vil lære mer om hvordan du unngår at dette skjer i fremtiden, kan du se [brukeren har en post boks både lokalt og i Exchange Online. Hjelp!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Hvis du vil løse dette problemet, kan du se Slik gjenoppretter du når det finnes [en postboks i både](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)Exchange Online og lokalt . Hvis du vil lære mer om hvordan du kan unngå at dette skjer i fremtiden, kan du se Min bruker har en postboks både lokalt og i [Exchange Online. Hjelp!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

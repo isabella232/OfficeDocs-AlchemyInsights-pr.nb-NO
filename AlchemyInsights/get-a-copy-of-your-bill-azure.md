@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116917"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Få en kopi av fakturaen eller bruken
 
-**Last ned Azure-fakturaen (PDF)**
+**Last ned Azure-fakturaen (.pdf)**
 
 1. Velg abonnementet ditt fra [Abonnementer-siden i](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure Portal som en bruker med tilgang til [fakturaer,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) og velg **deretter Fakturaer**
 2. Klikk **Last ned faktura** for å vise en kopi av PDF-fakturaen. Hvis det står **Ikke tilgjengelig**, kan du se Hvorfor ser jeg ikke en faktura for den [siste faktureringsperioden?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Du kan også vise den daglige bruken ved å klikke faktureringsperioden For å få en PDF-fil av fakturaen og en kopi av den detaljerte filen for daglig bruk (. CSV): [Få faktura- og bruksdata](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Du kan også vise den daglige bruken ved å klikke faktureringsperioden For å få en PDF-fil av fakturaen og en kopi av den detaljerte filen for daglig bruk (.CSV): Få faktura- og [bruksdata](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Få fakturaen i e-post (PDF)**
+**Få fakturaen i e-post (.pdf)**
 
 1. Velg abonnementet fra [Abonnementer-siden](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Klikk **Fakturaer og** send **fakturaen på e-post**
 2. Klikk **på Meld deg på** og godta vilkårene. Du må melde deg på for hvert abonnement du eier. Obs! Hvis du ikke får en e-postmelding etter å ha fulgt trinnene, må du kontrollere at e-postadressen din er riktig i kommunikasjonsinnstillingene [på profilen din](https://account.windowsazure.com/profile)
@@ -47,10 +47,10 @@ Hvis du har en [Microsoft-kundeavtale,](https://docs.microsoft.com/azure/cost-ma
 
 Hvis du har en Microsoft-kundeavtale, kan du melde deg på for å få fakturaen i en e-postmelding. Alle faktureringsprofileiere, bidragsytere, lesere og fakturaledere får fakturaen via e-post. Lesere kan ikke oppdatere innstillingen for e-postfaktura
 
-- Søk etter **Kostnadsadministrasjon + fakturering**. Velg en **faktureringsprofil**. Velg Egenskaper under **Innstillinger**
+- Søk etter **Kostnadsadministrasjon + fakturering**. Velg en **faktureringsprofil**. Under Innstillinger velger du **Egenskaper**
 - Velg Oppdater foretrukket **e-postfaktura** under E-postfaktura. Velg meld deg på. Klikk **Oppdater**
 
-**Enterprise Agreement (EA)**
+**Microsoft Foretaksavtale (EA)**
 
 Hvis du vil vise og laste ned bruksdata som EA-kunde, må du være bedriftsadministrator, kontoeier eller avdelingsadministrator med policyen for visningskostnader aktivert.
 
