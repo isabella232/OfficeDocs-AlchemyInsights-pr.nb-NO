@@ -1,5 +1,5 @@
 ---
-title: Bruke Office Readiness Toolkit
+title: Bruke Office Verktøysett for klargjøring
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072925"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Bruke Office Readiness Toolkit
+# <a name="using-the-office-readiness-toolkit"></a>Bruke Office Verktøysett for klargjøring
 
-Hvis du vil ha informasjon om hvordan du bruker Office Readiness Toolkit, kan du se [bruke Readiness Toolkit til å vurdere programkompatibilitet for Microsoft 365-apper](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Hvis du vil ha informasjon om Office Verktøysett for klargjøring, kan du se Bruke [Verktøysett](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)for klargjøring til å vurdere programkompatibilitet for Microsoft 365 Apps .
 
-Hvis du har tilbake melding eller spørsmål om Readiness Toolkit, kan du sende e-post til oss på ReadyForOffice@microsoft.com.
+Hvis du har tilbakemeldinger eller spørsmål om Verktøysett for klargjøring, kan du sende oss en e-post ReadyForOffice@microsoft.com.
