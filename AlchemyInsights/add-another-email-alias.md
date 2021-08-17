@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936354"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314077"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Opprette eller legge til et e-postalias for en bruker
 
@@ -31,7 +31,7 @@ Trenger du å opprette et e-postalias for en bruker eller legge til en ekstra e-
     
 4. Skriv inn **en** ny e-postmelding i Alias-boksen, og velg deretter **Legg til**. Hvis du kjøpte abonnementet fra GoDaddy eller en annen partner, må du gå til administrasjonskonsollen for GoDaddy/partner for å angi det nye aliaset som hovedalias. 
     
-    **VIKTIG!** Hvis du får feilmeldingen «Finner ikke en parameter som samsvarer med **parameternavnet «EmailAddresses»,** betyr det at det tar litt lengre tid før Microsoft fullfører konfigureringen av leieren, eller det egendefinerte domenet hvis du nylig har lagt til et. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
+    **Viktig!** Hvis du får feilmeldingen «Finner ikke en parameter som samsvarer med **parameternavnet «EmailAddresses»,** betyr det at det tar litt lengre tid før Microsoft fullfører konfigureringen av leieren, eller det egendefinerte domenet hvis du nylig har lagt til et. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
     
     Det tar vanligvis omtrent 30 minutter før det nye aliaset trer i kraft.
     

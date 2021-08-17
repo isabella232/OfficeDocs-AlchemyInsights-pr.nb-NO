@@ -1,5 +1,5 @@
 ---
-title: Kan ikke forhånds vise alle vedlegg i Outlook.com
+title: Kan ikke forhåndsvise alle vedlegg i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9000576"
 - "2431"
-ms.openlocfilehash: 8e8c2535e0fe4f71f0a3115601bd336de6f5a12e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d51193c8196558d7a464179eb8f2f51fb25857d934d70860bc84c4f1f2bf0389
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111481"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a>Kan ikke forhånds vise alle vedlegg
+# <a name="cant-preview-all-of-an-attachment"></a>Kan ikke forhåndsvise alle vedlegg
 
-Vi er klar over et problem der noen kunder ikke kan forhånds vise hele vedlegget. Du kan unngå dette ved å åpne vedlegget i et nytt vindu.
+Vi er klar over et problem der enkelte kunder ikke kan forhåndsvise alle vedlegg. Som en midlertidig løsning kan du åpne vedlegget i et nytt vindu.

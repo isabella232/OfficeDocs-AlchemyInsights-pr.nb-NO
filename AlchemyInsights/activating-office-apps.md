@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889263"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314249"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivere Microsoft 365 apper
 
-**Obs!** Hvis du bruker en eldre versjon av Windows (for eksempel Windows 7), må du kontrollere at TLS 1.2 er aktivert som standard. Hvis du vil ha mer informasjon, kan du se Oppdatere for å aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)som standard sikre protokoller i WinHTTP i Windows .
+**Obs!** Hvis du bruker en tidligere versjon av Windows (for eksempel Windows 7 SP1, Windows Server 2008 R2), aktiverer du TLS 1.2 som standard ved hjelp av enkel [løsning](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Hvis du vil ha mer informasjon, kan du se Oppdatere for å aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)som standard sikre protokoller i WinHTTP i Windows .
 
 For å aktivere Office, se:
 
@@ -29,7 +29,7 @@ For å aktivere Office, se:
 
 - [Aktivere Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Obs!**  Kontroller at du har et Office 365- eller [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365-abonnement som inkluderer Office-klientapper, for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise. I tillegg må du sørge for at brukerkontoen du bruker til å logge på Office apper har [en tilordnet lisens.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Obs!**  Kontroller at du har et Office 365- eller [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365-abonnement som omfatter Office-klientapper, for eksempel Microsoft 365 Business Standard, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise. I tillegg må du sørge for at brukerkontoen du bruker til å logge på Office apper har [tilordnet en lisens.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Hvis du vil løse problemer med å aktivere Office, kan du se:
 
@@ -38,7 +38,7 @@ Hvis du vil løse problemer med å aktivere Office, kan du se:
 
 - [Feilsøking hvis du ikke kan installere eller aktivere Office for Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tips** På Windows-maskiner kan vi diagnostisere og ordne flere vanlige problemer med pålogging til Office for deg. Last ned og kjør **[assistent for støtte og gjenoppretting](https://aka.ms/SaRA-OfficeSignInScenario)** for å bruke vårt automatiserte verktøy.
+**Tips:** På Windows maskiner kan vi diagnostisere og automatisk løse flere vanlige Office påloggingsproblemer for deg. Last ned og kjør **[assistent for støtte og gjenoppretting](https://aka.ms/SaRA-OfficeSignInScenario)** for å bruke vårt automatiserte verktøy.
 
 Hvis du ikke kan logge på Microsoft 365 apper, følger du fremgangsmåten nedenfor:
 

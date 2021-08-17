@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889323"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314285"
 ---
 # <a name="activate-your-subscription"></a>Aktivere ditt abonnement
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889323"
 
 - Hvis du ønsker gi brukere tilgang til en tjeneste, må du tilordne dem en lisens. Hvis du vil vite hvordan, kan [du se Tilordne lisenser til brukere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Hvis du allerede har tilordnet en lisens, kan du finne programmer som du kan laste ned fra [Min konto-siden.](https://portal.office.com/account/#installs) Denne siden gir en liste over programmer som er tilgjengelige for nedlasting, basert på lisenser som er tilordnet.
-- Hvis du allerede har lastet ned Office programmene, må du kanskje logge på programmene med jobb- eller skolekontoen. Du kan gjøre dette i et hvilket som helst Office-program (Word, Excel osv.) ved å velge **Fil > Konto** (nær bunnen). Velg Bytt konto under **Brukerinformasjon.** Hvis du vil ha mer informasjon, kan du lese [Installere Office-programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Hvis du allerede har lastet ned Office programmene, må du kanskje logge på programmene med jobb- eller skolekontoen. Du kan gjøre dette i et hvilket som helst Office-program (Word, Excel og så videre) ved å velge **Fil > Konto** (nær bunnen). Velg Bytt konto under **Brukerinformasjon.** Hvis du vil ha mer informasjon, kan du lese [Installere Office-programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Aktivere et abonnement på nytt**
 
@@ -40,5 +40,5 @@ For mer informasjon, se [Aktivere abonnementet på nytt](https://docs.microsoft.
 
 **Aktivere et nytt abonnement med en produktnøkkel**
 
-- Hvis du vil aktivere Microsoft 365 et nytt abonnement med produktnøkkelen, kan du se Hvor skriver du Office [produktnøkkelen](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Hvis du vil aktivere et Microsoft 365 med produktnøkkelen, kan du se Her angir du Office [produktnøkkelen](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 - Skriv inn Microsoft 365-produktnøkkelen, og følg instruksjonene for å aktivere abonnementet. Hvis du har problemer med aktiveringen, kan du ta en titt på denne [listen over vanlige feil med produktnøkler og løsninger](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
