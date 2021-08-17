@@ -1,5 +1,5 @@
 ---
-title: Finne hendelser som utføres på innboksregler
+title: Finne hendelser som er utført på innboksregler
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482601"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882644"
 ---
-# <a name="find-events-performed-on-inbox-rules"></a>Finne hendelser som utføres på innboksregler
+# <a name="find-events-performed-on-inbox-rules"></a>Finne hendelser som er utført på innboksregler
 
 Når innboksregler opprettes, endres eller slettes, registreres hendelsene i overvåkingsloggen. Slik ser du gjennom dem:
 
-1. Gå til [sikkerhetssenteret for Office 365 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Velg Søk > søk i overvåkingsloggen.
+1. Gjør en av følgende handlinger:
+   - I Samsvarssenter for Microsoft 365 på <https://compliance.microsoft.com> går du til **Løsningsovervåking** \> . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://compliance.microsoft.com/auditlogsearch> .
+   - Gå til Microsoft 365 Defender i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
 
     > [!NOTE]
-    > Hvis du ser en melding om at du må aktivere overvåking, går du videre og slår den på nå. Hvis denne funksjonen ikke er aktivert, kan ikke søkeresultatene hente data fra tidligere datoer.
-1. Velg Aktiviteter-feltet og finn aktiviteter for Exchange-postboksen, og velg deretter New-InboxRule Opprett innboksregel fra Outlook Web App. Når du er ferdig, klikker du utenfor ruten for å minimere Aktiviteter-ruten.
-1. Angi datoområdet, og velg brukernavnet for brukeren du vil undersøke, i Brukere-feltet. Du kan velge mer enn én bruker om gangen.
-1. Velg Søk. Aktivitetene vises under Resultater.
-1. Hvis du vil vise detaljer, velger du en aktivitet og velger deretter Mer informasjon. Under Parametere-delen kan du se navnet på regelen, betingelsene som er angitt, og handlingene regelen vil utføre.
+    > Hvis du ser et varsel om at du må aktivere overvåking, kan du aktivere den nå. Hvis denne funksjonen ikke er aktivert, kan ikke søkeresultatene hente data fra tidligere datoer.
 
-Hvis du vil ha mer informasjon, kan du se Søke i overvåkingsloggen for Office 365 for å feilsøke vanlige scenarier.
+2. Konfigurer følgende innstillinger  på **Søk-fanen** på overvåkingssiden:
+   - **Dato- og klokkeslettområde:** Velg dato-/klokkeslettområdet i **Start-** og **Slutt-boksene.**
+   - **Aktiviteter:** Velg **Ny innboksRegel Opprett innboksregel fra Outlook Web App**
+
+3. Når du er ferdig, klikker du **Søk**. Aktivitetene vises på den nye **siden for overvåkingssøk.**
+
+4. Velg en aktivitet i resultatene for å åpne undermenyen for detaljer. Under **Parametere-delen** kan du se navnet på regelen, betingelsene som er angitt, og handlingene som regelen skal utføre.
+
+Hvis du vil ha mer informasjon, kan [du se Søke i overvåkingsloggen for å undersøke vanlige støtteproblemer.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

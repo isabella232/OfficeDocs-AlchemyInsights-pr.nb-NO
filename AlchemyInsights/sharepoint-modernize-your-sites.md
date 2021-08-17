@@ -1,5 +1,5 @@
 ---
-title: Modernisere SharePoint-nettsteder
+title: Modernisere SharePoint nettsteder
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107845"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Modernisere SharePoint-nettsteder
+# <a name="modernize-your-sharepoint-sites"></a>Modernisere SharePoint nettsteder
 
-Hvis du vil ha en trinnvis oversikt over modernizing dine klassiske SharePoint-områder til den moderne opplevelsen, kan du se [modernisere de klassiske SharePoint-områdene](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Hvis du vil ha en trinnvis oversikt over modernisering av de SharePoint nettsteder til den moderne opplevelsen, kan du se [Modernisere](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)de klassiske SharePoint nettsteder .
 
-* Hvis du vil maksimere bruken av moderne bruker grensesnitt for områdes IDer og liste-og biblioteks IDer, kan du se [modernisere bruker grensesnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Hvis du vil lære mer om hvordan du fjerner blokkeringen av lister og biblioteker når du bruker moderne bruker grensesnitt, kan du se [Maksimer bruk av moderne lister og biblioteker](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Hvis du vil ha mer informasjon om hvordan du kobler til en Microsoft 365-gruppe og utfører en gruppe tilkobling, kan du se [Koble til en microsoft 365-gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Hvis du vil maksimere bruken av det moderne brukergrensesnittet for nettstedssidene og liste- og biblioteksidene, kan du se [Modernisere brukergrensesnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* Hvis du vil lære mer om hvordan du opphever blokkeringen av lister og biblioteker når du bruker det moderne brukergrensesnittet, kan du se Maksimere bruken av [moderne lister og biblioteker](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+* Hvis du vil ha mer informasjon om hvordan du kobler Microsoft 365 en gruppe og utfører [en gruppetilkobling, kan du Koble til til en Microsoft 365 gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**Viktig**: Hvis du mener at siden allerede skal vises i moderne visning og ikke, kan du bla til den aktuelle siden, kopiere NETTa dressen og angi NETTa dressen som en del av detaljene i støtte forespørselen.
+**Viktig:** Hvis du føler at siden allerede skal vises i moderne visning og ikke er det, kan du bla til den aktuelle siden, kopiere nettadressen og oppgi nettadressen som en del av detaljene for støtteforespørselen.

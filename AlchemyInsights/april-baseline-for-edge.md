@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980150"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885988"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Vise grunnlinjen for april 2020 for Microsoft Edge versjon 80 og nyere
 
@@ -26,4 +26,4 @@ Microsoft Intune støtter grunnlinjeinnstillingene for Microsoft Edge. Standardv
 
 Hvis du vil finne ut hva som er endret i opprinnelig plan for april 2020, kan du bruke funksjonen Sammenlign opprinnelige planer, som er tilgjengelig i Versjoner-ruten.
 
-Hvis du vil ha mer informasjon, Microsoft Edge for [april 2020 (Edge versjon 80 og nyere).](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)
+Hvis du vil ha mer informasjon, Microsoft Edge for [april 2020 (Edge versjon 80 og nyere).](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)

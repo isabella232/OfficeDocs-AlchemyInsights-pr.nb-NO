@@ -1,5 +1,5 @@
 ---
-title: Slik oppretter du et gruppe nettsted i SharePoint
+title: Slik oppretter du et gruppeområde i SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 497e4cd8cacb9eedd25dd08ab341310f462f33ab4f5e1410058f34e99d2e7d75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080143"
 ---
-# <a name="how-to-create-a-team-site-in-sharepoint"></a>Slik oppretter du et gruppe nettsted i SharePoint
+# <a name="how-to-create-a-team-site-in-sharepoint"></a>Slik oppretter du et gruppeområde i SharePoint
 
-Opprett et SharePoint Online- [gruppeområde](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) for å angi en plassering der du og gruppen kan arbeide på prosjekter og dele informasjon fra hvor som helst på alle enheter.
+Opprett et SharePoint [online-gruppenettsted](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) for å angi en plassering der du og gruppen kan arbeide på prosjekter og dele informasjon fra hvor som helst på en hvilken som helst enhet.
 
-* [Opprette et gruppe nettsted i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
+* [Opprette et gruppeområde i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)

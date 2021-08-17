@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070369"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882576"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurere Safe koblingspolicyer i Microsoft Defender for Office 365
 
-En standardpolicy for Safe Koblinger i Microsoft Defender for Office 365 allerede er opprettet for deg. Slik endrer du konfigurasjonene:
+1. I Microsoft 365 Defender-portalen på går du til Policyer & for e-post & policyer for regler Safe koblinger <https://security.microsoft.com/>  \>  \>  \>  i **Policyer-delen.**
 
-1. Gå til [Office 365 Sikkerhets- & Samsvarssenter](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Velg **Policy for**  >  **trusselbehandling**. På **Policy-siden** velger du [Microsoft Defender for Office 365 Safe Koblinger](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Velg Standard **under Policyer som gjelder** for hele organisasjonen, og velg deretter **Rediger-ikonet.** 
-4. I delen **Blokker følgende nettadresser** angir du én eller flere nettadresser som du vil hindre at personer i organisasjonen besøker. Hvis du vil ha mer informasjon, kan du [se «Blokkere følgende nettadresser»-liste for Safe Koblinger](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. Velg **Innstillinger alternativene** du vil bruke, i delen Innstillinger gjelder for innhold unntatt e-post. (Det anbefales at du velger alle alternativene.)
-6. Velg **Lagre**.
+   Hvis du vil gå direkte **til Safe koblinger-siden,** bruker du <https://security.microsoft.com/safelinksv2> .
+
+2. Gjør **ett av Safe** på koblinger-siden:
+   - Hvis du vil legge til en ny policy, **velger du + Opprett**. En veiviser starter for å hjelpe deg med å definere policyinnstillingene.
+   - Hvis du vil redigere en eksisterende policy, velger du policyen ved å klikke på navnet på policyen. Velg Rediger i delen som  inneholder innstillingene du vil konfigurere, i detaljer-undermenyen som vises.
+   - Hvis du vil blokkere nettadresser Safe koblingsbeskyttelse eller konfigurere innstillinger for Safe Koblinger i støttede Office 365-apper, klikker du Globale **innstillinger,** konfigurerer innstillingene du vil bruke, og klikker deretter **Lagre**.
+
+3. Når du har sett gjennom innstillingene, velger du **Send** inn (ny) eller **Lagre** (rediger).
+
+Hvis du vil ha mer informasjon, kan du se følgende artikler:
+
+- [Konfigurere koblingspolicyer Safe Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Konfigurere globale innstillinger for Safe Koblinger i Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

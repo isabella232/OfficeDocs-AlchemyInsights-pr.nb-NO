@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041595"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883140"
 ---
 # <a name="outbound-relay-pool"></a>Utgående videresendingsutvalg
 
-Microsoft gjør noen endringer i konfigurasjonen for videresending eller videresending av e-post via Microsoft 365. Meldinger i bestemte scenarier videresendes eller videresendes gjennom Microsoft 365 ved hjelp av et spesielt videresendingsutvalg. Meldinger som sendes ved hjelp av videresendingsutvalget, kan ende opp i mottakerens søppelpostmappe. Hvis du vil ha mer informasjon, kan du [se Utgående leveringsutvalg](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft gjør noen endringer i konfigurasjonen for videresending eller videresending av e-post via Microsoft 365. Meldinger i bestemte scenarier videresendes eller videresendes via Microsoft 365 ved hjelp av et spesielt videresendingsutvalg. Meldinger som sendes ved hjelp av videresendingsutvalget, kan ende opp i mottakerens søppelpostmappe. Hvis du vil ha mer informasjon, kan du [se Utgående leveringsutvalg](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Hvis du vil unngå et scenario ved hjelp av videresendingsutvalget, må du kontrollere at videresendte/videresendte meldinger oppfyller ett av følgende kriterier:
 
