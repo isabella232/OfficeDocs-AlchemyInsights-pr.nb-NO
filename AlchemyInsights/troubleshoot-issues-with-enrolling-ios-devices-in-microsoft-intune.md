@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047985"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Feilsøke problemer med registrering av iOS-enheter i Microsoft Intune
 
@@ -27,7 +27,7 @@ Noen vanlige feilmeldinger og løsningstrinn:
     
 - **Denne tjenesten støttes ikke. Ingen registreringspolicy:** Apple Push Notification Service (APNS) må konfigureres eller fornyes. Se [gjennom dette dokumentet](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for instruksjoner om hvordan du gjør dette. 
     
-- **Brukerlisenstype Ugyldig eller Brukernavn gjenkjennes ikke:** Brukeren må tilordnes en Intune- eller EMS-lisens. Se gjennom disse dokumentene for å tilordne en lisens gjennom: [Administrasjonssenter for Office](https://docs.microsoft.com/intune/licenses-assign) eller [Azure-portalen.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Brukerlisenstype Ugyldig eller Brukernavn gjenkjennes ikke:** Brukeren må tilordnes en Intune- eller EMS-lisens. Se gjennom disse dokumentene for å tilordne en lisens [gjennom: Office administrasjonssenteret](https://docs.microsoft.com/intune/licenses-assign) eller [Azure-portalen.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Flere ressurser for å løse problemet:
   

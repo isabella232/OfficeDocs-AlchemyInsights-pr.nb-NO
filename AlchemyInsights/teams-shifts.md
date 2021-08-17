@@ -1,5 +1,5 @@
 ---
-title: Team SKIFT
+title: Teams Skift
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106506"
 ---
-# <a name="using-teams-shifts"></a>Bruke team SKIFT
+# <a name="using-teams-shifts"></a>Bruke Teams skift
 
-Hvis du vil ha informasjon om hvordan du administrerer Skift-appen, inkludert hvordan du konfigurerer SKIFT, aktiverer Skift for brukere og administrerer Skift-appen, kan du se:
+Hvis du vil ha informasjon om hvordan du administrerer Skift-appen, inkludert hvordan du konfigurerer skift, aktiverer skift for brukere og administrerer Skift-appen, kan du se:
  
-- [Behandle Skift-appen for organisasjonen i Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Aktiver eller deaktiver Skift for bestemte brukere i organisasjonen](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Administrer Skift-appen for organisasjonen i Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Aktivere eller deaktivere SKIFT for bestemte brukere i organisasjonen](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Hvis du vil lære mer om Skift for team, inkludert behandling av tids plan for SKIFT, kan du se [SKIFT for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Hvis du vil lære mer om skift for Teams, inkludert administrasjon av en skiftplan, kan du se [Skift for Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Fra og med 30. juni 2020**har Microsoft Staffhub blitt trukket tilbake. Hvis du vil ha mer informasjon, kan du se [Microsoft StaffHub har blitt trukket tilbake](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**Fra og med 30. juni 2020** har Microsoft Staffhub blitt fjernet. Hvis du vil ha mer informasjon, kan du se [Microsoft StaffHub har blitt fjernet.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 
