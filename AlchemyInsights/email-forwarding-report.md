@@ -1,5 +1,5 @@
 ---
-title: Rapport om videresending av e-post
+title: Rapport om automatisk videresendte meldinger
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891460"
 ---
-# <a name="email-forwarding-report"></a>Rapport om videresending av e-post
+# <a name="auto-forwarded-messages-report"></a>Rapport om automatisk videresendte meldinger
 
-Hvis du vil se en rapport om hvor mange meldinger som blir automatisk videresendt i organisasjonen din, kan du se [Innsikt om automatisk videresendte meldinger i Sikkerhets- og samsvarssenter](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) i [Microsoft 365-sikkerhets&amp;samsvarssenteret](https://protection.office.com/#/homepage).
-  
-Merk: Hvis dette er første gang du logger på sikkerhets- og samsvarssenteret, må du kanskje oppdatere nettleseren etter noen få minutter for å se alle de tilgjengelige alternativene.
+Hvis du vil se en rapport om hvor mange automatisk videresendte meldinger som finnes i organisasjonen, kan du se rapporten Automatisk videresendte meldinger i administrasjonssenteret for Exchange (EAC) i Rapporterer [e-postflyt](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) <https://admin.exchange.microsoft.com/> \>  \> . Du kan også gå direkte til siden **Automatisk videresendte** meldinger ved å bruke <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   

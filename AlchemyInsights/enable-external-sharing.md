@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057255"
 ---
 # <a name="enable-external-sharing"></a>Aktivere ekstern deling
 
@@ -22,22 +22,22 @@ ms.locfileid: "47784676"
   
 - **Global deling**
     
-  - \> \> Oversikt over deling av Portal-ekstern deling – områder, la eksterne personer få tilgang til nett stedene dine: på
+  - Portal – \> ekstern deling – oversikt over deling – \> nettsteder, la eksterne personer få tilgang til nettstedene dine: PÅ
     
-  - Portal- \> ekstern deling – \> områder – «la eksterne personer få tilgang til nett stedene»
+  - Portal – \> ekstern deling – områder – avmerkingsboksen La eksterne personer \> få tilgang til nettstedene dine
     
-- **Administrativ deling – administrasjons senter for SharePoint**
+- **Administrativ deling – SharePoint administrasjonssenteret**
     
-    Ekstern deling – pass på at begge disse to alternativene er valgt:
+    Ekstern deling – kontroller at ett av de to alternativene er valgt:
     
-  - «Tillat eksterne brukere som godtar Delings invitasjoner og logger på som godkjente brukere»
+  - «Tillat eksterne brukere som godtar delingsinvitasjoner og logger på som godkjente brukere»
     
-  - «Tillat både eksterne brukere som godtar Delings invitasjoner og anonyme gjeste koblinger»
+  - «Tillat både eksterne brukere som godtar delingsinvitasjoner og anonyme gjestekoblinger»
     
-- **Individuelle område samlinger**
+- **Individuelle nettstedssamlinger**
     
-  - Område samlinger – Velg den aktuelle område samlingen, og klikk deretter deling – fra båndet – \> pass på at det er merket av for Delings alternativer.
+  - Nettstedssamlinger – Velg den aktuelle områdesamlingen, og klikk deretter Deling – på båndet – sikre at \> begge delingsalternativene er valgt.
     
-Hvis du vil ha mer informasjon om hvordan du aktiverer ekstern deling, kan du se [slå ekstern deling på eller av for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Hvis du vil ha mer informasjon om hvordan du aktiverer ekstern deling, kan du se Aktivere eller deaktivere ekstern deling for SharePoint [Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
