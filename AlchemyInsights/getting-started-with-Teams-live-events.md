@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088873"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333168"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Komme i gang med Teams og live-hendelser
 
@@ -27,7 +27,9 @@ For å opprette en live-hendelse trenger du følgende:
 
 - Først må du kontrollere Teams direktesendte arrangementer er [tilgjengelige i ditt land og område](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Direktesendte arrangementer støttes ennå ikke i enkelte land.  Hvis du har tilordnet lisenser og angitt policyer, men fremdeles ikke kan opprette en Teams Live-hendelse, er det sannsynlig at du er i et land eller område der direktesendte arrangementer ennå ikke er tilgjengelig.
 
-- En [Office 365 Enterprise E1-, E3-eller E5-lisens eller en Office-365 A3-eller A5-lisens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Merk**: på grunn av en nylig økning i bruken av Teams kan det ta omtrent 24 timer før alt er ordentlig satt opp etter at du har gitt en lisens til en bruker. Frem til det kan du ikke tilordne Teams-policyer til dem, og det kan hende de ikke har tilgang til enkelte Teams-funksjoner som anrop og lydkonferanser.
+- En [Office 365 Enterprise E1-, E3-eller E5-lisens eller en Office-365 A3-eller A5-lisens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Merk**: på grunn av en nylig økning i bruken av Teams kan det ta omtrent 24 timer før alt er ordentlig satt opp etter at du har gitt en lisens til en bruker. Frem til det kan du ikke tilordne Teams-policyer til dem, og det kan hende de ikke har tilgang til enkelte Teams-funksjoner som anrop og lydkonferanser.
 
 - Tillatelse til å [opprette live-hendelser i administrasjonssenteret for Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

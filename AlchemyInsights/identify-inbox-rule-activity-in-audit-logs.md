@@ -13,12 +13,12 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891304"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331132"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifisere innboksregelaktivitet i overvåkingslogger
 
@@ -26,7 +26,7 @@ Du kan bruke søk i overvåkingsloggen Samsvarssenter for Microsoft 365 vise inn
 
 1. Gjør ett av følgende:
    - I Samsvarssenter for Microsoft 365 på <https://compliance.microsoft.com> går du til **Løsningsovervåking** \> . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://compliance.microsoft.com/auditlogsearch> .
-   - Gå til Microsoft 365 Defender i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
+   - Gå Microsoft 365 Defender til Overvåking i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
 
 2. Konfigurer følgende innstillinger  på **Søk-fanen** på overvåkingssiden:
    - **Dato- og klokkeslettområde:** Velg dato-/klokkeslettområdet i **Start-** og **Slutt-boksene.**

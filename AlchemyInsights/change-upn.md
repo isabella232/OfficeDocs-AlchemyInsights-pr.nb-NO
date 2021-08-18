@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082411"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332444"
 ---
 # <a name="change-a-users-email-address"></a>Endre en brukers e-postadresse
 
@@ -31,7 +31,7 @@ Det er enkelt å endre noens e-postadresse! Bare følg disse trinnene:
     
 4. Skriv inn **en** ny e-postmelding i Alias-boksen, og velg deretter **Legg til**.
     
-    **VIKTIG!** Hvis du får feilmeldingen «Finner ikke en parameter som samsvarer med **parameternavnet «EmailAddresses»,** betyr det at det tar litt lengre tid før Microsoft fullfører konfigureringen av leieren, eller det egendefinerte domenet hvis du nylig har lagt til et. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv deretter på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
+    **Viktig!** Hvis du får feilmeldingen «Finner ikke en parameter som samsvarer med **parameternavnet «EmailAddresses»,** betyr det at det tar litt lengre tid før Microsoft fullfører konfigureringen av leieren, eller det egendefinerte domenet hvis du nylig har lagt til et. Det kan ta opptil fire timer å fullføre installasjonen. Vent litt, slik at konfigurasjonsprosessen har tid til å fullføre, og prøv deretter på nytt. Hvis problemet vedvarer, kan du ringe kundestøtte, og de vil utføre en fullstendig synkronisering for deg.
     
     Hvis du får feilmeldingen **«Vi beklager, brukeren kan ikke redigeres. Se gjennom brukerinformasjonen,** og prøv på nytt . Det betyr at du ikke er global administrator, og at du ikke har tillatelse til å endre brukerens navn.
     

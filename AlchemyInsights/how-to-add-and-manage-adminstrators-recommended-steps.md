@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963796"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339041"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Slik legger du til og administrerer administratorer – anbefalte trinn
 
@@ -36,14 +36,14 @@ Tjenesteadministratoren eller medadministratoren kan selvbetjente denne handling
 1. Logg på [Azure-portalen,](https://ms.portal.azure.com/#home) og klikk **Kostnadsstyring + Fakturering** i venstre blad.
 2. Klikk linjeelementet med abonnementet. Dette åpner oversikten for abonnementet.
 3. Klikk Egenskaper på Abonnement-bladet.   
-4. Klikk **tjenesteadministrator-knappen.**
+4. Klikk på **Tjenesteadministrator-knappen.**
 5. Skriv inn e-postmeldingen til brukeren du vil angi som tjenesteadministrator, og klikk **OK**.
 
 **Legge til/endre/fjerne medadministrator**
 
 1. Logg på [Azure-portalen](https://ms.portal.azure.com/#home) som tjenesteadministrator.
 2. Åpne [Abonnementer,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) og velg et abonnement. (Medadministratorer kan bare tilordnes i abonnementsomfanget.)
-3. Gå til  >    >    >   **Access-kontroll** (IAM) Klassiske administratorer Legg til medadministrator for å åpne ruten Legg til medadministrator (Hvis alternativet Legg til medadministrator er deaktivert, betyr det at du ikke har tillatelser).
+3. Gå til   >    >    >   **Access-kontroll** (IAM) Klassiske administratorer Legg til medadministrator for å åpne ruten Legg til medadministrator (Hvis alternativet Legg til medadministrator er deaktivert, betyr det at du ikke har tillatelser).
 4. Velg brukeren du vil legge til, og klikk Legg **til**.
 
 **få mer informasjon:**
@@ -75,7 +75,7 @@ Du kan legge til nye brukere eller slette eksisterende brukere fra Azure Active 
 - [Opplæring: Gi tilgang til en bruker ved hjelp av RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Feilsøke RBAC i Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organisere ressursene dine med Azure-administrasjonsgrupper](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Slik ber du om kopi av Azure-faktura via e-post](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Slik ber du om kopi av Azure-faktura via e-post](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Slik legger du til, oppdaterer eller fjerner et kreditt- eller debetkort fra Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Behandle (aktivere på nytt/avbryte/bytte) abonnement](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

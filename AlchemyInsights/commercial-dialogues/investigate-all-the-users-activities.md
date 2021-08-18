@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898805"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332352"
 ---
 # <a name="investigate-all-the-users-activities"></a>Undersøke alle brukernes aktiviteter
 
@@ -26,10 +26,9 @@ Slik gjør du dette:
 
 1. Gjør en av følgende handlinger:
    - I Samsvarssenter for Microsoft 365 på <https://compliance.microsoft.com> går du til **Løsningsovervåking** \> . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://compliance.microsoft.com/auditlogsearch> .
-   - Gå til Microsoft 365 Defender i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
+   - Gå Microsoft 365 Defender til Overvåking i <https://security.microsoft.com> **portalen** på . Du kan også gå direkte til **overvåkingssiden** ved å bruke <https://security.microsoft.com/auditlogsearch> .
 
-    > [!NOTE]
-    > Hvis du ser et varsel om at du må aktivere funksjonen, kan du slå den på nå. Hvis funksjonen ikke er aktivert, kan ikke søkeresultatene hente data fra tidligere datoer.
+    **Obs!** Hvis du ser et varsel om at du må aktivere funksjonen, kan du slå den på nå. Hvis funksjonen ikke er aktivert, kan ikke søkeresultatene hente data fra tidligere datoer.
 
 2. Konfigurer følgende innstillinger  på **Søk-fanen** på overvåkingssiden:
    - **Dato- og klokkeslettområde:** Velg dato-/klokkeslettområdet i **Start-** og **Slutt-boksene.**

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 911c6b1860e4f44e6d88897f73173cdd11060562
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886641"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331994"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Bruk Microsoft Intune sikkerhetsgrunnlinjer til å konfigurere Windows 10 enheter
 
 Intune sikkerhetsgrunnlinjer bidrar til å beskytte brukere og enheter. Sikkerhetsgrunnlinjer er Windows forhåndskonfigurerte grupper som brukes til å bruke en kjent gruppe med innstillinger og standardverdier som anbefales av de relevante sikkerhetsteamene. Når du oppretter en profil for sikkerhetsgrunnlinje i Intune, oppretter du en mal som består av flere profiler for enhetskonfigurasjon.
 
-Når du distribuerer sikkerhetsgrunnlinjer til grupper med brukere eller enheter, brukes innstillingene på enheter som kjører på Windows 10 eller nyere. Sikkerhetsgrunnlinjen for Microsoft Mobile Device Management (MDM) aktiverer for eksempel automatisk BitLocker for flyttbare stasjoner, krever passordet for å låse opp en enhet og deaktiverer grunnleggende godkjenning. Når en standardverdi ikke fungerer for miljøet, kan du tilpasse den opprinnelige planen for å bruke innstillingene du trenger.
+Når du distribuerer sikkerhetsgrunnlinjer til grupper av brukere eller enheter, brukes innstillingene på enheter som kjører på Windows 10 eller nyere. Sikkerhetsgrunnlinjen for Microsoft Mobile Device Management (MDM) aktiverer for eksempel automatisk BitLocker for flyttbare stasjoner, krever passordet for å låse opp en enhet og deaktiverer grunnleggende godkjenning. Når en standardverdi ikke fungerer for miljøet, kan du tilpasse den opprinnelige planen for å bruke innstillingene du trenger.
 
 Sikkerhetsgrunnlinjer bidrar også til å etablere en ende-til-ende sikker arbeidsflyt i Microsoft 365. En sikkerhetsgrunnlinje inneholder anbefalte fremgangsmåter og anbefalinger for innstillinger som påvirker sikkerheten. Intune samarbeider med Windows sikkerhetsteamet som oppretter opprinnelige planer for gruppepolicyer, så disse anbefalingene er basert på solid veiledning og omfattende erfaring.
 
