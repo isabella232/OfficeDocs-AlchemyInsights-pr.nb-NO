@@ -1,5 +1,5 @@
 ---
-title: Slik bruker du term lageret i SharePoint Online
+title: Slik bruker du termlageret SharePoint online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115995"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Slik bruker du term lageret i SharePoint Online
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Slik bruker du termlageret SharePoint online
 
-Term lageret er tilgjengelig for en global administrator, SharePoint-administrator og term lager administratorer og kan finnes i det nye administrasjons senteret for SharePoint Online.
+Termen Store tilgjengelig for en global administrator, SharePoint administrator og Store administratorer, og finnes i det nye administrasjonssenteret for SharePoint Online.
   
-Hvis du vil ha mer informasjon om hvordan du bruker term lageret for SharePoint Online og taksonomi i SharePoint Online, kan du se [innføring i forvaltede metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Hvis du vil ha mer informasjon om hvordan du bruker SharePoint Online Term Store og taksonomi i SharePoint Online, kan du se Innføring [i forvaltede metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Hvis du har problemer med termer som ikke vises eller vises i perioder, anbefaler vi at du venter i 24 timer, og deretter logger du på en støtte anmodning hvis problemet vedvarer. Selv om 24 timer kan ta lang tid, kan det være et problem med hurtigbufring, eller vi kan allerede arbeide med en løsning på dette problemet.
+Hvis du har et problem med at vilkårene ikke vises eller vises av og til, anbefaler vi at du venter 24 timer og logger deretter en støtteforespørsel hvis problemet vedvarer. Selv om 24 timer kan ta lang tid, kan det være et hurtigbufringsproblem, eller vi arbeider kanskje allerede med en løsning på dette problemet.
   

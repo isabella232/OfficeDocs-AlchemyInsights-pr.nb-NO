@@ -1,5 +1,5 @@
 ---
-title: Lær om tilordning mellom policyer for Google Chrome og policyer for Microsoft Edge
+title: Finn ut mer om kartlegging mellom Google Chrome-policyer og Microsoft Edge retningslinjer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "7097"
-ms.openlocfilehash: adde475b409455b30e6a955c850a70eda8e7b625
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 04277f888ba08f6f2ae77ad76be50281e6e588f62574864446d0d62de6e0401b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116305"
 ---
-# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Lær om tilordning mellom policyer for Google Chrome og policyer for Microsoft Edge
+# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Finn ut mer om kartlegging mellom Google Chrome-policyer og Microsoft Edge retningslinjer
 
-Policyer for Google Chrome tilordnes de relevante Microsoft Edge-policyene som støttes i versjon 80 av nett leseren. Hvis du vil ha mer informasjon, kan du se [Google Chrome til policy tilordning for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141933).
+Google Chrome-policyer er tilordnet de relevante Microsoft Edge retningslinjer som støttes i versjon 80 av nettleseren. Hvis du vil ha mer informasjon, [kan du se Google Chrome for å Microsoft Edge policytilordning](https://go.microsoft.com/fwlink/?linkid=2141933).

@@ -1,5 +1,5 @@
 ---
-title: Komme i gang med utviklerverktøy i Microsoft Edge (Chromium)
+title: Kom i gang med utviklerverktøyene i Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116377"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Komme i gang med utviklerverktøy i Microsoft Edge (Chromium)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Kom i gang med utviklerverktøyene i Microsoft Edge (Chromium)
 
-Microsoft Edge har tatt i bruk det Chromium åpne kilde prosjektet, noe som har å gjøre nett mindre fragmenterte og Internett-plattformer mer kompatible. Denne endringen gir deg muligheten til å bruke Microsoft Edge til å bygge og teste nett stedene som fungerer på andre Chromium-baserte nett lesere.
+Microsoft Edge har tatt i bruk Chromium open-source-prosjektet, som har som mål å gjøre nettet mindre fragmentert og nettplattformer mer kompatible. Denne endringen gjør at du kan bruke Microsoft Edge til å bygge og teste nettsteder som fungerer på Chromium nettlesere.
 
-Microsoft Edge (Chromium) inneholder også [beste utviklerverktøy for utviklere](https://go.microsoft.com/fwlink/?linkid=2134941) som skal være kjent for deg og kompatible med verktøyene du allerede bruker.
+Microsoft Edge (Chromium) inneholder også de [](https://go.microsoft.com/fwlink/?linkid=2134941) beste utviklerverktøyene som skal være kjent for deg og kompatible med verktøyene du allerede bruker.
 
-Hvis du vil ha mer informasjon, kan du se [Hva er nytt i Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Hvis du vil ha mer informasjon, kan du se Hva er nytt i Microsoft Edge [(Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
