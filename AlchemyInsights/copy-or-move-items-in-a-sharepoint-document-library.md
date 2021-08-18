@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119149"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325694"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiere eller flytte elementer i et SharePoint dokumentbibliotek
 
@@ -27,20 +27,17 @@ Du kan kopiere og flytte filer, mapper og koblinger til forskjellige plasseringe
   
 1. Bla til filene, mappene eller koblingene du vil flytte, i en nettleser, og klikk deretter **Kopier til** eller **Flytt til**.
 
-    > [!NOTE]
-    > **Kopier til** og **Flytt til** er ikke tilgjengelige hvis du bruker den klassiske opplevelsen av SharePoint Online.
+    **Obs!** **Kopier til** og **Flytt til** er ikke tilgjengelige hvis du bruker den klassiske opplevelsen av SharePoint Online.
   
 2. Velg **plasseringen du** vil kopiere eller flytte elementene til, under  Velg et mål, eller klikk Bla gjennom nettsteder for å se hele listen over nettsteder.
 
-    > [!NOTE]
-    > Hvis du ikke ser andre nettsteder oppført når du kopierer elementer, har ikke kopiering på tvers av nettsteder blitt konfigurert. Hvis du vil aktivere det, går du til innstillinger-siden i SharePoint administrasjonssenteret og klikker **OK**.
+    **Obs!** Hvis du ikke ser andre nettsteder som er oppført når du kopierer elementer, er ikke kopiering på tvers av nettsteder konfigurert. Hvis du vil aktivere det, går du til innstillinger-siden i SharePoint administrasjonssenteret og klikker **OK**.
   
     Hvis du vil opprette en ny mappe, velger du en plassering i mappehierarkiet, klikker Ny **mappe,** skriver inn et navn for mappen og klikker merket for å lagre navnet.
 
 3. Klikk **Kopier her** eller Flytt **hit**.
 
-    > [!NOTE]
-    > Du kan kopiere opptil 500 MB filer og mapper samtidig. > Når du kopierer dokumenter som har versjonslogg, kopieres bare den nyeste versjonen. Når du flytter dokumenter, flyttes også loggen deres.
+    **Obs!** Du kan kopiere opptil 500 MB filer og mapper samtidig. > Når du kopierer dokumenter som har versjonslogg, kopieres bare den nyeste versjonen. Når du flytter dokumenter, flyttes også loggen deres.
   
  Når en fil flyttes, vises den fortsatt i kildekatalogen til den er helt flyttet til målet, og deretter slettes den. Filen forblir i papirkurven for kildenettstedene etter at flyttingen er fullført og er underlagt den normale papirkurven med mindre en bruker gjenoppretter den fra papirkurven.
 

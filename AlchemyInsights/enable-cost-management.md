@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003578"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325472"
 ---
 # <a name="enable-cost-management"></a>Aktivere kostnadsstyring
 
@@ -26,7 +26,7 @@ ms.locfileid: "54003578"
 
 Organisasjoner som Microsoft Foretaksavtale (EA) eller Microsoft Customer Agreement (MCA)-kontoer, kan deaktivere tilgang til kostnadsinformasjon og prisinformasjon.
 
-Når de har logget på Azure-portalen, kan de bruke fakturerings-API-ene til å hente fakturaer (når de er valgt inn) og bruksdetaljer.
+Når de har logget på Azure-portalen, kan de bruke fakturerings-API-ene til å få fakturaer (når de er valgt inn) og bruksdetaljer.
 
 **Slik tillater du at flere brukere får tilgang til fakturaer**
 
@@ -34,8 +34,7 @@ Når de har logget på Azure-portalen, kan de bruke fakturerings-API-ene til å 
 2. Velg **Fakturaer** og deretter **Tilgang til fakturaer**.
 3. Aktiver tilgangen, etterfulgt av å lagre endringene, slik at brukere i abonnementsomfangsroller kan laste ned fakturaer.
 
-> [!NOTE]
-> Kontoadministratoren kan også konfigurere slik at fakturaer sendes via e-post. Hvis du vil ha mer informasjon, [kan du se Få fakturaen i e-post](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Obs!** Kontoadministratoren kan også konfigurere slik at fakturaer sendes via e-post. Hvis du vil ha mer informasjon, [kan du se Få fakturaen i e-post](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Slik legger du til brukere i faktureringsleserrollen**
 

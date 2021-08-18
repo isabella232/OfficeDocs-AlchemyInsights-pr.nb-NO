@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119776"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Endre skjermlysstyrken i Windows 10
 
-Hvis Windows 10 er nyere enn versjon 1903, har den en glidebryter for lysstyrke i handlingssenteret.  Hvis du vil åpne  handlingssenteret, klikker du Varsling-knappen på høyre side av oppgavelinjen, eller trykker **Windows home + A** på tastaturet.
+Hvis Windows 10 er nyere enn versjon 1903,  har den en glidebryter for lysstyrke i handlingssenteret. Hvis du vil åpne  handlingssenteret, klikker du varslingsknappen på høyre side av oppgavelinjen, eller trykker Windows **hjem + A** på tastaturet.
 
 ![Glidebryter for lysstyrke](media/brightness-slider.png)
 
-Hvis Windows 10 er en tidligere versjon, kan du finne glidebryteren for lysstyrke ved å gå til Innstillinger **[> System > Display](ms-settings:display?activationSource=GetHelp)**.
+Hvis Windows 10 er en tidligere versjon, kan du finne glidebryteren for lysstyrke ved å gå til Innstillinger > **[System > Display](ms-settings:display?activationSource=GetHelp)**.
 
 **Notater:**
 

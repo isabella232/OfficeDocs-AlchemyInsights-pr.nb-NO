@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895896"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325304"
 ---
 # <a name="expired-subscription"></a>Utløpt abonnement
 
@@ -30,8 +30,7 @@ Det ser ut til at du har ett eller flere utløpte abonnementer. Hvis du vil fort
   
 1. Gå til Fakturering produkter-siden i  \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
 2. Finn **abonnementet** du vil aktivere på nytt på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Aktiver dette abonnementet på nytt**.
-    > [!NOTE]
-    > Hvis du ikke ser Aktivere dette abonnementet **på nytt,** kan du ringe kundestøtte.
+    **Obs!** Hvis du ikke ser Aktivere dette abonnementet **på** nytt, kan du ringe kundestøtte.
 3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 

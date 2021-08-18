@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895500"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324045"
 ---
 # <a name="change-payment-method"></a>Endre betalingsmetode
 
@@ -30,8 +30,7 @@ Du kan endre betalingsmåten fra **Administrasjonssenter for Microsoft 365**.
 2. Merk raden for betalingsmåten som skal erstattes. Den høyre ruten viser alle faktureringsprofiler og individuelle abonnementer som bruker den valgte betalingsmåten.
 3. I ruten til høyre velger du **Erstatt betalingsmåte for alle elementer**.
 4. Hvis du vil bruke en eksisterende betalingsmåte, velger du en fra rullegardinlisten, og velger deretter **Erstatt**.
-    > [!NOTE]
-    > Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
+    **Obs!** Hvis du har abonnementer knyttet til en faktureringsprofil, kan du bare bruke et kreditt- eller debetkort til å betale for dem. Hvis du har bankkontoer oppført på siden **Betalingsmetoder**, kan de ikke velges i rullegardinlisten.
 5. Hvis du vil legge til en ny betalingsmåte, velger du **Legg til betalingsmåte**.
 6. I ruten **Legg til en betalingsmetode** skriver du inn kontoinformasjonen og velger deretter **Lagre**. Du må bruke en betalingsmetode fra samme land som leieren.
 7. Den nye betalingsmåten er allerede valgt i rullegardinlisten. Velg **Erstatt**.
