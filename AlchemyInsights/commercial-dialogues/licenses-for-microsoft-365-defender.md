@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967990"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315695"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Lisenser for Microsoft 365 Defender
 
@@ -33,8 +33,7 @@ Følgende lisenser gir gratis tilgang til Microsoft 365 Defender funksjoner i Mi
 - Microsoft Cloud App Security
 - Microsoft Defender for Office 365 (plan 2)
 
-    > [!NOTE]
-    > Foreløpig gir ikke prøvelisenser for Office 365 tilgang til Microsoft 365 Defender.
+    **Obs!** Foreløpig gir prøvelisenser for Office 365 ikke tilgang til Microsoft 365 Defender.
 
 Hvis du vil ha mer informasjon, [kan du Microsoft 365 Enterprise abonnementssammenligning](https://go.microsoft.com/fwlink/?linkid=2143458).
 

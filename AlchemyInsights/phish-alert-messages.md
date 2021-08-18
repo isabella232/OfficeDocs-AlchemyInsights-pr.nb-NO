@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899341"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316367"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Varsle e-postmeldinger fra policyen «Phish Delivered på grunn av tenant eller brukeroverstyring»
 
@@ -35,4 +35,4 @@ Phishing-meldingen ble levert på grunn av en manuelt konfigurert overstyring:
 
 Hvis du mener at meldingen ble feil merket som phishing, kan du bruke [Administratorinnsending](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) til å rapportere meldingen til Microsoft.
 
-Brukere kan bruke [tillegget Rapportmelding](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) eller Tilleggsprogrammet Rapporter phishing i Outlook sende meldingseksempler til Microsoft.
+Brukere kan bruke [tillegget Rapportmelding](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) eller Tilleggsprogrammet Rapporter phishing til å Outlook sende meldingseksempler til Microsoft.

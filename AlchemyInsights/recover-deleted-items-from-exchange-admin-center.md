@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 6ef9cd8005ab8cbd2d69b09cc8192b6359b397e8d5c471d2f958ae1e751d7797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062197"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897909"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Gjenopprette slettede elementer fra Administrasjonssenter for Exchange
 
@@ -29,4 +29,4 @@ I den forenklede og [oppdaterte opplevelsen for postboksbehandling](https://admi
     - Du må kanskje se under rullegardinlisten **... mer** for å se **gjenopprette slettede elementer**.
 4. Bruk filteralternativene til å finne elementene du må gjenopprette.
 
-Hvis du vil ha mer informasjon, kan du se [Bruke ny EAC til å gjenopprette slettede meldinger](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).
+Hvis du vil ha mer informasjon, kan du se [Bruke ny EAC til å gjenopprette slettede meldinger](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940828"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316149"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Bytte det klassiske rotnettstedet med et moderne nettsted
 
@@ -28,8 +28,8 @@ Hvis miljøet ble konfigurert før april 2019, kan du endre rotnettstedet til et
     - Bruk [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til å bytte plasseringen av et nettsted med et annet nettsted mens du arkiverer det opprinnelige nettstedet. Tilgjengelig for både gruppenettsted (ikke koblet til en gruppe) og kommunikasjonsnettstedet. 
 
 - Flere funksjoner innføres snart, slik at du kan fortsette å bruke innholdet på nettstedet, men konvertere det eksisterende nettstedet til et kommunikasjonsnettsted. 
->[!Important]
->Disse funksjonene rulles ut gradvis. Fortsett å se etter oppdateringer i meldingssenteret. 
+
+**Viktig:** Disse funksjonene rulles ut gradvis. Fortsett å se etter oppdateringer i meldingssenteret. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Kjente problemer med å bytte nettsteder
 

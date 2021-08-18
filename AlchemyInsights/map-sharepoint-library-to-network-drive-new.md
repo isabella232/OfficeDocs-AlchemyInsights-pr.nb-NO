@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 4eae45992d3fe6b31ae4d1aed02484cf20cb2260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: cd3d7d272552d5cd3f21f41160522001d79339d84a6d2259e1b1868deee66ef0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087253"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Tilordne et SharePoint bibliotek til en nettverksstasjon
 
@@ -24,8 +24,8 @@ I stedet for å tilordne en nettverksstasjon, kan SharePoint filer med den nye O
 
 Hvis du velger å tilordne en stasjon i stedet for å bruke den [OneDrive-synkronisering](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)klienten, må du følge disse trinnene:
 
-- [Feilsøke tilordnede nettverksstasjoner som kobler til SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [Feilsøke tilordnede nettverksstasjoner som kobler til SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-- [Godkjenningsfeil oppstår når klienten ikke har støtte for TLS 1.2](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
+- [Godkjenningsfeil oppstår når klienten ikke har støtte for TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-**OBS!** Hvis du bruker Internet Explorer 10 med Windows 8 eller Windows 7,  og mottar  ingen tilgang eller Bane ikke er tilgjengelig når du tilordner en stasjon, kan du løse dette problemet ved å installere denne [hurtigreparasjonen](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).
+**OBS!** Hvis du bruker Internet Explorer 10 med Windows 8 eller Windows 7, og  mottar ingen  tilgang eller Bane ikke er tilgjengelig når du tilordner en stasjon, kan du løse dette problemet ved å installere denne [hurtigreparasjonen](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).

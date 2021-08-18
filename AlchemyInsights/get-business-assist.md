@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898753"
 ---
 # <a name="get-business-assist"></a>Få Business Assist
 
-1. Gå til Business Assist for Microsoft 365-siden i administrasjonssenteret [for Microsoft 365,](https://go.microsoft.com/fwlink/p/?linkid=2158423)velg en faktureringshyppighet, og velg deretter **Kjøp**.
+1. I Administrasjonssenter for Microsoft 365 går du til [Business Assist for Microsoft 365-siden,](https://go.microsoft.com/fwlink/p/?linkid=2158423)velger en faktureringshyppighet, og deretter velger du **Kjøp**.
 2. Følg fremgangsmåten for å sjekke ut.
 
-Hvis du vil ha mer informasjon, [kan du se Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).
+Hvis du vil ha mer informasjon, kan du [se Business Assist for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist).

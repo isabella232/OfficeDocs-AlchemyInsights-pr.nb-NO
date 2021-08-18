@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504021"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897425"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Endre faktureringsadresse eller e-postvarsler for fakturering
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504021"
 
 4. Skriv inn den alternative **e-postadressen** du vil bruke, i Alternativ e-post-boksen, og klikk deretter **Lagre**.
 
-Hvis du vil ha mer informasjon om adresse- og varselendringer, kan du [se Endre faktureringsadresser for](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)Microsoft 365 for bedrifter.
+Hvis du vil ha mer informasjon om adresse- og varselendringer, kan du [se Endre faktureringsadresser for](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)Microsoft 365 for bedrifter .
