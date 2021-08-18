@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317195"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Feilsøke problemer med Microsoft Defender for Office 365
 
@@ -29,4 +29,4 @@ ms.locfileid: "57890311"
     4. Velg **Bruk klarerte koblinger på meldinger som sendes i organisasjonen**.
     5. Lagre policyen, og la endringene gjelde i opptil 30 minutter.
 
-- Hvis du vil ha mer hjelp med Microsoft Defender for Office 365, kan du se [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- Hvis du vil ha mer hjelp med Microsoft Defender for Office 365, kan du se [Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)

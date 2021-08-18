@@ -15,12 +15,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062521"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900929"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Aktivere et Microsoft 365 abonnement på nytt
 
@@ -31,4 +31,4 @@ Hvis abonnementet utløper, ble deaktivert av Microsoft eller du avsluttet det m
 3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 
-For mer informasjon, se [Aktiver abonnementet på nytt](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+For mer informasjon, se [Aktiver abonnementet på nytt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

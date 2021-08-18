@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020093"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317149"
 ---
 # <a name="understand-billing-amount"></a>Forstå faktureringbesløp
 
@@ -70,7 +70,9 @@ Nei. Kunder får et fast beløp med gratisnivåtjenester og et kreditbeløp på 
 
 **Hvordan kan jeg bekrefte at gratistjenester er aktive eller når de utløper?**
 
-Gå til Ibiza-portalen> Abonnement> Oversiktsside> rull ned til gratistjenester i 12 måneder, og klikk på ikonet Informasjon. Dette viser datoen for når gratistjenestene utløper **Obs**! No V1-tjenester er en del av inkluderte gratistjenester i Azure. For å se den mest oppdaterte listen med gratistjenester, kan du se [Hvilke produkter som er gratis i 12 måneder](http://www.microsoftazuresponsorships.com/)
+Gå til Ibiza-portalen> Abonnement> Oversiktsside> rull ned til gratistjenester i 12 måneder, og klikk på ikonet Informasjon. Dette viser datoen når gratistjenester utløper
+
+**Obs!** Ingen V1-tjenester er en del av Azure Free Included Services. For å se den mest oppdaterte listen med gratistjenester, kan du se [Hvilke produkter som er gratis i 12 måneder](http://www.microsoftazuresponsorships.com/)
 
 Vanlige spørsmål (ekstra): [Vanlige spørsmål om gratiskonto](https://azure.microsoft.com/free/free-account-faq/)
 

@@ -1,5 +1,5 @@
 ---
-title: 127 får du en TenantAccessBlockedException feil melding når du får tilgang til e-post?
+title: 127 Får du en TenantAccessBlockedException-feil når du får tilgang til e-post?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089449"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Får du en TenantAccessBlockedException feil melding når du åpner e-post?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Får du en TenantAccessBlockedException-feil når du åpner e-post?
 
-Det finnes flere forskjellige årsaker til at du kan få denne feilen. Eksempel:
+Det finnes flere forskjellige årsaker til hvorfor du kan få denne feilen. For eksempel,
 
-- Kontroller at abonnementet er gyldig på siden for **fakturering** \> **[av produkter](https://portal.office.com/adminportal/home#/subscriptions)** i administrasjons senteret for Microsoft 365.
+- Kontroller at abonnementet er  gyldig på \> **[Faktureringsprodukter-siden](https://portal.office.com/adminportal/home#/subscriptions)** i Administrasjonssenter for Microsoft 365.
 
-- Kontroller om det finnes tidligere forfalls varsler på siden **fakturering** \> **[& betalinger](https://portal.office.com/adminportal/home#/billoverview)** i administrasjons senteret for Microsoft 365.
+- Se etter eventuelle forfalte varsler på  \> **[faktureringsregninger & betalingssiden](https://portal.office.com/adminportal/home#/billoverview)** i Administrasjonssenter for Microsoft 365.
 
-- Hvis fakturering og abonnementer for kontoen din er nylig oppdatert, kan det ta tid før endringene overføres. Prøv på nytt om noen minutter, og kontakt oss Hvis problemet vedvarer.
+- Hvis faktureringen og abonnementene for kontoen din nylig er oppdatert, kan det ta tid før endringene overføres. Prøv på nytt om noen minutter, og hvis problemet vedvarer, kan du kontakte oss.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113929"
 ---
 # <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts – eksperter ved behov
 
-Eksperter ved behov er den andre Microsoft Threat Experts-funksjonaliteten. Her kan du kontakte oss når du trenger konsultasjon på relevante spørsmål om oppdagelser og motstandere.
+Eksperter ved behov er den andre Microsoft Threat Experts funksjonalitet. Her kan du kontakte oss når du trenger konsultasjon på relevante spørsmål om oppdagelser og motstandere.
 
-Hvis du allerede er en Defender for Endpoint-kunde, kan du kontakte Microsoft-representanten din for å abonnere på Microsoft Threat Experts – Eksperter ved behov.
+Hvis du allerede er en Defender for Endpoint-kunde, kan du kontakte Microsoft-representanten din for å abonnere på Microsoft Threat Experts – eksperter ved behov.
 
 Alternativet for å **konsultere** en trusselekspert er tilgjengelig i følgende menyer i portalen, der du kan kommunisere med eksperter i forbindelse med undersøkelsen:
 
@@ -32,4 +32,4 @@ Alternativet for å **konsultere** en trusselekspert er tilgjengelig i følgende
 - Handlinger-menyen på varsler-siden
 - Filsidehandlinger-menyen
 
-Hvis du vil ha mer informasjon, [kan du se Konfigurere og administrere funksjoner for Microsoft Threat Experts.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Hvis du vil ha mer informasjon, [kan du se Konfigurere og Microsoft Threat Experts funksjoner](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

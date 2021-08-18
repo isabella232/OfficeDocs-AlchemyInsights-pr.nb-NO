@@ -13,18 +13,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868427"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317603"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Overvåkingslogger for slettede e-postmeldinger
 
 Fra og med januar 2019 aktiverer Microsoft overvåkingslogging for postboks som standard. Hvis du vil se gjennom slette meldingshendelser for en bestemt bruker, må du manuelt aktivere slettehandlingene for overvåking. Hvis overvåkingslogging for postboks allerede er aktivert for organisasjonen eller for den bestemte brukeren, følger du fremgangsmåten nedenfor.
 
-1. Logg på Microsoft 365 [samsvarssenteret](https://protection.office.com/)
+1. Logge på Microsoft 365 [samsvarssenteret](https://protection.office.com/)
 
 2. Klikk **Søk og undersøkelser,** og velg **Søk i overvåkingslogg**.
 
@@ -32,7 +32,7 @@ Fra og med januar 2019 aktiverer Microsoft overvåkingslogging for postboks som 
 
 4. Klikk **Søk**.
 
-Velg en overvåkingspost i resultatene. Klikk Mer informasjon på **detaljer-undermenyen.** Tilleggsinformasjon om det slettede elementet (for eksempel emnelinjen og plasseringen til elementet da det ble slettet) vises i **AffectedItems-feltet.** **ClientInfoString-egenskapen** viser om slettingen oppstod i Outlook, Outlook på nettet (tidligere kalt Outlook Web App), eller en annen enhet.
+Velg en overvåkingspost i resultatene. Klikk Mer informasjon på **detaljer-undermenyen.** Tilleggsinformasjon om det slettede elementet (for eksempel emnelinjen og plasseringen til elementet da det ble slettet) vises i **AffectedItems-feltet.** **ClientInfoString-egenskapen** viser om slettingen oppstod i Outlook, Outlook på nettet (tidligere kalt Outlook Web App) eller en annen enhet.
 
 Hvis du vil ha mer informasjon, kan du se [Fastslå hvem som konfigurerte videresending av e-post for en postboks](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 

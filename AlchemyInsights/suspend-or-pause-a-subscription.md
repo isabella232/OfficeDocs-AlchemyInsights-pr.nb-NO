@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107026"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317353"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Stoppe eller stanse et abonnement midlertidig
 
-Hvis du vil stanse eller stanse abonnementet midlertidig midlertidig, kan du avbryte abonnementet i Administrasjonssenter for Microsoft 365.
+Hvis du vil stoppe abonnementet midlertidig eller stoppe abonnementet midlertidig, kan du avbryte abonnementet i Administrasjonssenter for Microsoft 365.
 
 1. Gå til Fakturering produkter-siden i   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** administrasjonssenteret.
 2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
-3. Abonnementsstatusen vises som **Deaktivert** og viser datoen abonnementet ble avbrutt. Abonnementet forblir deaktivert i 90 dager, og har redusert funksjonalitet til det slettes eller [aktiveres på nytt.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Abonnementsstatusen vises som **Deaktivert** og viser datoen abonnementet ble avbrutt. Abonnementet forblir deaktivert i 90 dager, og har redusert funksjonalitet til det slettes eller [aktiveres på nytt.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Hvis du vil ha mer informasjon, kan du se [Hva skjer når du avbryter et abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) og Lagrer dataene [.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Hvis du vil ha mer informasjon, kan du se [Hva skjer når du avbryter et abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) og Lagrer dataene [.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
