@@ -1,5 +1,5 @@
 ---
-title: Bruke kommandolinjealternativer til å konfigurere proxy-innstillinger i Microsoft Edge
+title: Bruk kommandolinjealternativer til å konfigurere proxy-innstillinger i Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118423"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Bruke kommandolinjealternativer til å konfigurere proxy-innstillinger i Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Bruk kommandolinjealternativer til å konfigurere proxy-innstillinger i Microsoft Edge
 
 I Microsoft Edge versjon 77 og nyere bruker nettverksstakken systemets nettverksinnstillinger som standard. I hybridscenarioer der brukere ber om et alternativ, støtter Microsoft Edge kommandolinjealternativer for konfigurasjon av egendefinerte proxy-innstillinger. Hvis du vil ha mer informasjon, kan du se:
 

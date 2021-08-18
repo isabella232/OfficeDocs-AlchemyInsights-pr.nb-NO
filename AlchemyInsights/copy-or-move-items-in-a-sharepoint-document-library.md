@@ -1,5 +1,5 @@
 ---
-title: Kopiere eller flytte elementer i et SharePoint-dokumentbibliotek
+title: Kopiere eller flytte elementer i et SharePoint dokumentbibliotek
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,37 +14,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119149"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiere eller flytte elementer i et SharePoint-dokumentbibliotek
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiere eller flytte elementer i et SharePoint dokumentbibliotek
 
-Du kan kopiere og flytte filer, mapper og koblinger til forskjellige plasseringer i et dokument bibliotek. Du kan også kopiere elementer på tvers av områder. 
+Du kan kopiere og flytte filer, mapper og koblinger til forskjellige plasseringer i et dokumentbibliotek. Du kan også kopiere elementer på tvers av nettsteder. 
   
-1. Bla til filene, mappene eller koblingene du vil flytte, i en nett leser, og klikk deretter **Kopier til** eller **Flytt til**.
+1. Bla til filene, mappene eller koblingene du vil flytte, i en nettleser, og klikk deretter **Kopier til** eller **Flytt til**.
 
     > [!NOTE]
-    > **Kopier til** og **Flytt til** er ikke tilgjengelig hvis du bruker den klassiske opplevelsen av SharePoint Online.
+    > **Kopier til** og **Flytt til** er ikke tilgjengelige hvis du bruker den klassiske opplevelsen av SharePoint Online.
   
-2. Velg plasseringen du vil kopiere eller flytte elementene til, under **Velg et mål**, eller klikk på **Bla gjennom områder** for å se hele listen over områder.
+2. Velg **plasseringen du** vil kopiere eller flytte elementene til, under  Velg et mål, eller klikk Bla gjennom nettsteder for å se hele listen over nettsteder.
 
     > [!NOTE]
-    > Hvis du ikke ser andre områder som er oppført når du kopierer elementer, er kopiering på tvers av områder ikke konfigurert. Hvis du vil aktivere det, går du til Innstillinger-siden i administrasjons senteret for SharePoint og klikker **OK**.
+    > Hvis du ikke ser andre nettsteder oppført når du kopierer elementer, har ikke kopiering på tvers av nettsteder blitt konfigurert. Hvis du vil aktivere det, går du til innstillinger-siden i SharePoint administrasjonssenteret og klikker **OK**.
   
-    Hvis du vil opprette en ny mappe, velger du en plassering i mappe hierarkiet, klikker **ny mappe**, skriver inn et navn på mappen og klikker avmerkings boksen for å lagre navnet.
+    Hvis du vil opprette en ny mappe, velger du en plassering i mappehierarkiet, klikker Ny **mappe,** skriver inn et navn for mappen og klikker merket for å lagre navnet.
 
-3. Klikk **Kopier her** eller **Flytt her**.
+3. Klikk **Kopier her** eller Flytt **hit**.
 
     > [!NOTE]
-    > Du kan kopiere opptil 500 MB med filer og mapper på én gang. > når du kopierer dokumenter som har versjons Logg, kopieres bare den nyeste versjonen. Når du flytter dokumenter, flyttes også loggen.
+    > Du kan kopiere opptil 500 MB filer og mapper samtidig. > Når du kopierer dokumenter som har versjonslogg, kopieres bare den nyeste versjonen. Når du flytter dokumenter, flyttes også loggen deres.
   
- Når en fil flyttes, vil den fortsatt vises i kilde katalogen til målet er fullstendig flyttet til det, og deretter slettes den. Filen forblir i papir kurven for kilde områder etter at flyttingen er fullført og være underlagt normal resirkulerings planen med mindre en bruker gjenoppretter den fra papir kurven.
+ Når en fil flyttes, vises den fortsatt i kildekatalogen til den er helt flyttet til målet, og deretter slettes den. Filen forblir i papirkurven for kildenettstedene etter at flyttingen er fullført og er underlagt den normale papirkurven med mindre en bruker gjenoppretter den fra papirkurven.
 
-Hvis du vil ha mer informasjon, kan du ta en titt på:
+Hvis du vil ha mer informasjon, kan du se:
 
- - [Flytte eller kopiere filer i SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-støtte-artikkel)
- - [Flytt filer fra en hvilken som helst mappe](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft tech Community-blogg-artikkel)  
+ - [Flytte eller kopiere filer i SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office støtteartikkel)
+ - [Flytte filer fra en hvilken som helst mappe](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (bloggartikkelen Microsoft Tech Community)  

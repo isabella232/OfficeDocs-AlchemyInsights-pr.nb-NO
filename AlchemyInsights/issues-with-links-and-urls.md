@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054807"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321916"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemer med koblinger og nettadresser
 
@@ -42,15 +42,13 @@ Hvis du vil legge til en nettadresse for svar, går du til **Godkjenning**-fanen
     - plattformen (iOS/Android/UWP)
     - informasjonen som brukes til å bygge appen, for eksempel bunt-ID-en i iOS, og pakkenavnet og signaturhashen på Android. Azure-portalappregistreringen vil hjelpe deg. Hvis du vil ha mer informasjon, kan du se [Plattformkonfigurasjon og omdirigerings-URI-er](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Nett-API-er og noen av de stille måtene for å hente tokener på (IWA og brukernavn/passord) krever ikke en omdirigerings-URI.
+**Obs!** Web-API-er og noen av de stille måtene å anskaffe tokener på (IWA og brukernavn/passord) krever ikke en omdirigerings-URI.
 
 **Jeg har distribuert nettprogrammet, og når jeg tester den distribuerte appen, får jeg en samsvarsfeilmelding for nettadresse for svar**
 
 Legg til omdirigerings-URI-er for alle plasseringer der du distribuerer nettprogrammet. Hvis du vil ha mer informasjon, kan du se [Registrer en nettapp ved hjelp av Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Legg til omdirigerings-URI for en plassering umiddelbart etter at du har distribuert programmet på denne plasseringen.
+**Obs!** Legg til omdirigerings-URI for en plassering umiddelbart etter at du har distribuert programmet på denne plasseringen.
 
 **Jeg kan ikke registrere nok nettadresser for svar**
 

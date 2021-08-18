@@ -13,18 +13,22 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029165"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323167"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Slik finner og gjenoppretter du manglende meldinger, kontakter eller kalenderelementer i Outlook
 
-1. I Outlook går du til listen over e-postmapper, og deretter velger du **Slettede elementer**. **Viktig!** Hvis du ikke  ser Slettede elementer-mappen,  men i stedet ser papirkurvmappen, støtter ikke kontoen gjenoppretting av et element som ikke lenger er i Slettede elementer-mappen. 
+1. I Outlook går du til listen over e-postmapper, og deretter velger du **Slettede elementer**. 
 
-2. Klikk **Gjenopprett** slettede elementer fra **server på Hjem-menyen.** **Viktig!** Hvis det ikke finnes kommandoen Gjenopprett slettede elementer fra **server** på menyen, støtter ikke kontoen gjenoppretting av et element som ikke lenger er i **Slettede elementer-mappen.**
+    **Viktig!** Hvis du ikke  ser Slettede elementer-mappen,  men i stedet ser papirkurvmappen, støtter ikke kontoen gjenoppretting av et element som ikke lenger er i Slettede elementer-mappen. 
+
+2. Klikk **Gjenopprett** slettede elementer **fra server på Hjem-menyen.** 
+
+    **Viktig!** Hvis det ikke finnes kommandoen Gjenopprett slettede elementer fra **server** på menyen, støtter ikke kontoen gjenoppretting av et element som ikke lenger er i **Slettede elementer-mappen.**
 
 3. Velg elementene du vil gjenopprette, klikk **Gjenopprett merkede elementer**, og klikk deretter **OK**.
 

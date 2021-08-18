@@ -1,5 +1,5 @@
 ---
-title: Slette et SharePoint-område
+title: Slette et SharePoint nettsted
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118537"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Slette områder som tilhører en Microsoft 365-gruppe
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Slette nettsteder som tilhører en Microsoft 365 gruppe
 
-Når brukere oppretter et nytt gruppe område fra SharePoint Home eller oppretter et nytt gruppe område fra det nye administrasjons senteret for SharePoint, opprettes det automatisk en tilsvarende Microsoft 365-gruppe. Microsoft 365 Group-tilkoblede gruppe nett steder opprettes også når du oppretter en Microsoft 365-gruppe eller et team i Microsoft Teams. Hvis du vil slette et SharePoint-område som tilhører en Microsoft 365-gruppe, må du slette selve Microsoft 365-gruppen. 
+Når brukere oppretter et nytt gruppeområde fra SharePoint Home eller du oppretter et nytt gruppeområde fra det nye SharePoint administrasjonssenteret, opprettes det automatisk en tilsvarende Microsoft 365 gruppe. Microsoft 365 gruppetilknyttede gruppeområder opprettes også når du oppretter en Microsoft 365 gruppe eller et team i Microsoft Teams. Hvis du vil SharePoint et nettsted som tilhører en Microsoft 365 gruppe, må du slette Microsoft 365 selve gruppen. 
   
-1. Gå til [grupper-siden i administrasjons senteret for Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Gå til [Grupper-siden i Administrasjonssenter for Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Merk av i boksen ved siden av gruppen.
+2. Merk av for gruppen.
     
 3. Velg **Slett**.
     
-Obs! når du sletter en gruppe, kan det være en forsinkelse før området fjernes fra SharePoint.
+OBS! Når du sletter en gruppe, kan det være en forsinkelse før nettstedet fjernes fra SharePoint.
   
-**Slette kommunikasjons nett steder eller klassiske nett steder:**
+**Slette kommunikasjonsnettsteder eller klassiske nettsteder:**
 
 1. Gå til nettstedet.
   
-2. Klikk **Innstillinger** -ikonet øverst til høyre. 
+2. Klikk **Innstillinger** øverst til høyre. 
   
-3. Klikk **Innstillinger for område**. Klikk **Slett dette nettstedet**under **område informasjon** eller **nettsteds handlinger**, og klikk deretter **Slett**.
+3. Klikk **Innstillinger for nettsted.** Klikk Slett dette **nettstedet** under **Nettstedsinformasjon** eller Nettstedshandlinger **,** og klikk deretter **Slett**.
   
-**Slette en SharePoint-nettområde samling:**
+**Slette en SharePoint nettstedssamling:**
 
-Slik sletter du et område:
+Slik sletter du et nettsted:
   
-1. Klikk **avmerkings boksen** ved siden av området du vil slette, på områder-siden i det nye administrasjons senteret for SharePoint. 
+1. Klikk avmerkingsboksen SharePoint området du vil slette, på  Områder-siden i det nye administrasjonssenteret. 
     
-2. Klikk Slett på bånd verktøy linjen **.**
+2. Klikk Slett på verktøylinjen **på båndet.**
     
 **Har du slettet et nettsted ved et uhell?**
 
-Se [gjenopprette en slettet område samling](https://go.microsoft.com/fwlink/?linkid=867660).
+Se [Gjenopprette en slettet nettstedssamling](https://go.microsoft.com/fwlink/?linkid=867660).
   
 
