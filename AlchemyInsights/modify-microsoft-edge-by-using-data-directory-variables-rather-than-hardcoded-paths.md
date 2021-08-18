@@ -1,5 +1,5 @@
 ---
-title: Endre Microsoft Edge ved å bruke data katalog variabler i stedet for hardkodete baner
+title: Endre Microsoft Edge ved hjelp av datakatalogvariabler i stedet for hardkodede baner
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113425"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Endre Microsoft Edge ved å bruke data katalog variabler i stedet for hardkodete baner
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Endre Microsoft Edge ved hjelp av datakatalogvariabler i stedet for hardkodede baner
 
-I Windows kan du for eksempel lagre profil dataene under en brukers lokale program data i stedet for i standard plasseringen, ved å angi **UserDataDir** -policyen til **$ {local_app_data} \Edge\Profile**. 
+Hvis du for eksempel Windows til å lagre profildataene under brukerens lokale programdata i stedet for i standardplasseringen, angir du **UserDataDir-policyen** til **${local_app_data}\Edge\Profile**. 
 
-Hvis du vil ha mer informasjon, kan du se [opprette Microsoft Edge user data Directory-variabler](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Hvis du vil ha mer informasjon, [kan du se Opprette Microsoft Edge brukerdatakatalogvariabler](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
