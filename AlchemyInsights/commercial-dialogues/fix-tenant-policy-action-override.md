@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896084"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326806"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Løse tenantpolicy (handlingsoverstyring)
 
 En av policyene for søppelpost påvirket denne meldingen. Gjør følgende for å se gjennom policyene:
 
-1. I Microsoft 365 Defender-portalen på går du til Policyer & e-post for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
+1. I Microsoft 365 Defender-portalen på går du til Policyer & for e-post & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \> **policyer-delen.** 
 
    Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
 
@@ -36,6 +36,6 @@ En av policyene for søppelpost påvirket denne meldingen. Gjør følgende for �
    - **Slett melding**
    - **Ingen handling**
 
-   Det er mulig at **standardinnstillingene for** alle Exchange Online Protection berørte meldingen.
+   Det er mulig at **standardinnstillingene som** ble brukt på alle Exchange Online Protection kunder, påvirket meldingen.
 
 Hvis du vil ha mer informasjon, [kan du se Konfigurere søppelpostpolicyer i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

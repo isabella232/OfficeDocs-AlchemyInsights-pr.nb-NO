@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003633"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326514"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-postfaktura – eldre
 
 **Meld deg på for å motta abonnementsfakturaer via e-post**
 
-Du må ha en kontoadministratorrolle på et abonnement eller en støtteplan for å aktivere å motta faktura på e-post. E-postfakturaer er tilgjengelig bare for abonnement- og støtteplaner, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har valgt å delta, kan du legge til flere mottakere, som også mottar fakturaen via e-post.
+Du må ha en kontoadministratorrolle på et abonnement eller en støtteplan for å aktivere å motta faktura på e-post. E-postfakturaer er tilgjengelig bare for abonnement- og støtteplaner, ikke for reservasjoner eller Azure Marketplace-kjøp. Når du har meldt deg på, kan du legge til flere mottakere, som også mottar fakturaen via e-post.
 
 Følg disse trinnene for å få abonnementsfakturaene via e-post:
 
@@ -52,5 +52,4 @@ Slik lar du brukere/grupper med tilgang på abonnementsnivå laste ned fakturaen
 4. Velg Azure-abonnementet ditt, og klikk deretter **Tillat andre å laste ned faktura**.
 5. Velg **På** og **deretter** Lagre øverst på siden.
 
-> [!NOTE]
-Hvis du ikke er kontoadministrator, kan du kontakte kontoadministratoren for å følge instruksjonene ovenfor for å melde deg på, legge til mottakere eller la andre brukere laste ned fakturaen.
+**Obs!** Hvis du ikke er kontoadministrator, kan du kontakte kontoadministratoren for å følge instruksjonene ovenfor for å melde deg på, legge til mottakere eller la andre brukere laste ned fakturaen.
