@@ -15,22 +15,22 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499043"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896940"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Slik foretar du et Microsoft 365 kjøp
 
 Du kan kjøpe et Microsoft 365 abonnement i administrasjonssenteret.
   
-- Hvis du vil kjøpe en plan, går du til  \> **[faktureringskjøpstjenester-siden.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Hvis du vil kjøpe  en plan, går du til \> **[faktureringskjøpstjenester-siden.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 - Hvis du vil kjøpe flere lisenser, kan du gå til **Fakturering** \> **[av produkter-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Velg abonnementet du vil endre, og velg deretter **Kjøp lisenser**.\
 **SE en video** som viser hvordan du gjør dette: [Kjøpe nye lisenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne lisenser](/microsoft-365/commerce/licenses/buy-licenses).
+Hvis du vil ha mer informasjon, [kan du se Kjøpe eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Feilsøking**
 
@@ -38,5 +38,5 @@ Hvis du opplever problemer med siden som lastes inn, kan du prøve å åpne nett
 
 **Flere ressurser**
   
-- [Tilordne lisenser til brukere i Microsoft 365 for bedrifter](/microsoft-365/admin/add-users/add-users)
-- [Avbryte Microsoft 365 for bedrifter](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Tilordne lisenser til brukere i Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Avbryt Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

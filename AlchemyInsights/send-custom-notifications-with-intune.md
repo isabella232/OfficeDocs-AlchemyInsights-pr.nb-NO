@@ -1,5 +1,5 @@
 ---
-title: Send egen definerte varsler med Intune
+title: Sende egendefinerte varsler med Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086173"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Slik sender du egen definerte varsler til brukere av administrerte iOS-og Android-enheter
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Slik sender du egendefinerte varsler til brukere av administrerte iOS- og Android-enheter
 
-Egen definerte varsler for Intune behandles av Firmaportal-appen på en brukers enhet. Appen oppretter deretter push-varslingen på enheten.
+Egendefinerte varsler for Intune behandles av firmaportal-appen på en brukers enhet. Appen oppretter deretter push-varslingen på den enheten.
 
-Følgende er enhets krav for å støtte mottak av egen definerte varsler, og for appen oppretter du push-varslingen:
+Følgende er enhetskrav for å støtte mottak av egendefinerte varsler, og for at appen skal kunne opprette push-varslingen:
 
-- Enheten må ha Firmaportal-appen installert.  
+- Enheten må ha firmaportal-appen installert.  
 
-- Enheten må tillate at Firmaportal-appen kan sende push-varslinger. Når appen er installert eller oppdatert, blir brukeren bedt om å tillate varslinger.
+- Enheten må tillate at appen firmaportal sende push-varslinger. Når appen er installert eller oppdatert, blir brukeren bedt om å tillate varslinger.
 
-- Android-enheter må ha Google Play Services installert.
+- Android-enheter må ha Google Play-tjenester installert.
 
-- Enheten må være registrert hos Intune.
+- Enheten må være registrert med Intune.
 
-Hvis du vil ha mer informasjon, inkludert hvordan du sender en melding, kan du se [funksjons dokumentasjonen](https://docs.microsoft.com/intune/custom-notifications).
+Hvis du vil ha mer informasjon, inkludert hvordan du sender en melding, kan du se [funksjonsdokumentasjonen](https://docs.microsoft.com/intune/custom-notifications).

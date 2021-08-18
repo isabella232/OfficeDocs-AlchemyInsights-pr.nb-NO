@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085885"
 ---
 # <a name="set-up-exchange-online-protection"></a>Konfigurere Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) er en skybasert e-postfiltreringstjeneste for beskyttelse mot søppelpost og skadelig programvare, med funksjoner som beskytter organisasjonen mot brudd på meldingspolicyer.
+Microsoft Exchange Online Beskyttelse (EOP) er en skybasert e-postfiltreringstjeneste for beskyttelse mot søppelpost og skadelig programvare, med funksjoner for å beskytte organisasjonen mot brudd på meldingspolicyen.
 
-Bruk installasjonsveiledningen [for Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) til å konfigurere EOP ved å velge blant de tre distribusjonsscenarioene – lokale postbokser, hybridpostbokser (blanding av lokale postbokser og skybaserte) postbokser eller alle postbokser i skyen – som passer til organisasjonen. Veiledningen inneholder informasjon og ressurser for å konfigurere EOP og se gjennom brukerlisensiering, tilordne tillatelser i administrasjonssenteret for Microsoft 365 og konfigurere organisasjonens policyer for beskyttelse mot skadelig programvare og søppelpost i sikkerhets- & samsvarssenteret.
+Bruk [installasjonsveiledningen for Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) til å konfigurere EOP ved å velge mellom de tre distribusjonsscenarioene – lokale postbokser, hybride postbokser (blanding av lokale postbokser og skypostbokser) eller alle postbokser i skyen – som passer til organisasjonen. Veiledningen inneholder informasjon og ressurser for å konfigurere EOP og se gjennom brukerens lisensiering, tilordne tillatelser i Administrasjonssenter for Microsoft 365 og konfigurere organisasjonens policyer for skadelig programvare og søppelpost i sikkerhetssenteret for &-samsvar.

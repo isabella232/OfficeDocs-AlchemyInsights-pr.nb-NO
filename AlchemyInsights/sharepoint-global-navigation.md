@@ -14,20 +14,20 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: c6eb12c18d9640ba0343760a6f9f2bf567f677e39de84c16519327c2f24d4447
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9ceffa17f23b964d55ac19113c029a512aacd86c9f61ea7abd8db1a7c81381f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812729"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896380"
 ---
 # <a name="sharepoint-global-navigation"></a>SharePoint global navigasjon
 
 Global navigasjon kan aktiveres og tilpasses i SharePoint applinjen. Tilpass den globale navigasjonslogoen, tittelen og kilden, avhengig av brukerens og organisasjonens behov. Hvis du velger å la global navigasjon være deaktivert, vil hjem-ikonet koble til SharePoint startsiden.
 
-- [Komme i gang med å tilpasse den globale navigasjonsfanen](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
-- [Bestemme den globale navigasjonskilden](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
-- [Se alle måtene du kan konfigurere global navigasjon på](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
+- [Komme i gang med å tilpasse den globale navigasjonsfanen](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
+- [Bestemme den globale navigasjonskilden](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
+- [Se alle måtene du kan konfigurere global navigasjon på](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
 
-Hvis du vil ha mer informasjon, [kan du se Innføring i SharePoint applinjen](/sharepoint/sharepoint-app-bar). 
+Hvis du vil ha mer informasjon, [kan du se Innføring i SharePoint applinjen](https://docs.microsoft.com/sharepoint/sharepoint-app-bar). 
 

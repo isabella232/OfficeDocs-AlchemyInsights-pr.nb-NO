@@ -1,5 +1,5 @@
 ---
-title: Abonnementer på Outlook.com-e-post
+title: Outlook.com e-postabonnementer
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111913"
 ---
 # <a name="email-subscriptions"></a>E-postabonnementer
 
-Hvorfor ser jeg e-postmeldinger i abonnements listene mine?
+Hvorfor ser jeg e-postmeldinger i abonnementslistene mine?
 
-Outlook.com har oppdaget at e-postmeldingen inneholder abonnements informasjon, inkludert «Stopp abonnement» i meldingen. Outlook.com ikke automatisk abonnerer på noen nyhets brev.
+Outlook.com har oppdaget at e-postmeldingen inneholder abonnementsinformasjon, inkludert «Stoppe abonnementet» i meldingen. Outlook.com har ikke automatisk abonnert på nyhetsbrev.
 
-Hvis du vil slutte å motta nyhets brev eller kampanjer, er det to måter du kan si opp abonnementet på ved hjelp av Outlook.com:
-1. Velg et nyhets brev eller en kampanje-e-post i innboksen. Velg **Stopp abonnement**øverst i lese ruten.
-2. Åpne innstillingene for [Outlook.com-abonnementer](https://go.microsoft.com/fwlink/?linkid=2110887) , og velg **Stopp abonnement**.
+Hvis du vil slutte å motta nyhetsbrev eller kampanjer, kan du stoppe abonnementet på to måter ved å bruke Outlook.com:
+1. Velg et nyhetsbrev eller en kampanje-e-post i innboksen. Velg Stoppe abonnementet øverst i **leseruten.**
+2. Åpne [abonnementsinnstillingene Outlook.com,](https://go.microsoft.com/fwlink/?linkid=2110887) og velg Stoppe **abonnementet.**
 
-Merknader: du vil bare se denne funksjonen hvis du har mottatt en e-post fra firmaet som sender abonnement på e-post.
-Hvis spørringen er om Microsoft 365 betalte abonnementer, kan du gå til [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   eller [lære mer om Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Merknader: Du ser bare denne funksjonen hvis du har mottatt en e-postmelding fra firmaet som sender e-postmeldinger du abonnerer på.
+Hvis spørringen handler om Microsoft 365 betalte abonnementer, kan du gå til eller Lær [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) [mer om Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
