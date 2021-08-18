@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317485"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902053"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Slik utfører du innholdssøk og eDiscovery-søk
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317485"
 4. Skriv inn de nødvendige søkebetingelsene, inkludert nøkkelord og innholdsplasseringer.
 5. Velg **Lagre & kjøre** for å gi navn til søket, starte det og deretter forhåndsvise resultatene.
 
-**Obs!** **Microsoft 365 i Løsninger for** samsvarssenter utvider du  >   **eDiscovery** og velger ønsket eDiscovery-verktøy.
+> [!NOTE]
+> Utvid **Microsoft 365**  >   **eDiscovery** i samsvarssenterets løsninger, og velg ønsket eDiscovery-verktøy.
 
 Hvis du vil ha detaljerte instruksjoner om innholdssøk, eksportering [](https://docs.microsoft.com/microsoft-365/compliance/content-search) av resultater og oppretting av eDiscovery-saker som skal inneholde data, kan du se Innholdssøk og [eDiscovery-saker](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 

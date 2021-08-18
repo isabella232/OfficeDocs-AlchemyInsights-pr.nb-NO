@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314537"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901973"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Forhåndsbetalt Microsoft 365 fornyelse
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314537"
 3. Velg Forleng sluttdato under Abonnements- og **betalingsinnstillinger** på **abonnementsdetaljer-siden.**
 4. Velg **Bruk en** ny og ubrukt produktnøkkel på siden Forny eller legg til brukerlisenser, og velg deretter **Neste**.
 5. Skriv inn produktnøkkelen, og velg deretter **Neste**.
-    **Obs!** Hvis du har mer enn én produktnøkkel, kan du velge Legg til en **annen produktnøkkel** for å angi dem.
+    > [!NOTE]
+    > Hvis du har mer enn én produktnøkkel, kan du velge Legg til **en annen produktnøkkel** for å angi dem.
 6. Se gjennom bestillingsdetaljene, og velg deretter **Løs inn**.
 
 Hvis du vil ha mer informasjon, kan du se Legge til [lisenser i eller utvide et abonnement betalt for bruk av en produktnøkkel.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

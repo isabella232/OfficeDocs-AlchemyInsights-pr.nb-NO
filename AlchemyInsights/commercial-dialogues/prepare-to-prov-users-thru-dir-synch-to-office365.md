@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090972"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Prepare to provision users through directory synchronization to Office 365.
 
 Klargjøring av brukere med katalogsynkronisering krever planlegging og forberedelser, følg veiledningen nedenfor:
 
-Her er noen handlinger som må utføres for klargjøring av brukere:
-1. **Katalogopprydding.**
-1. **Katalogobjekts- og attributtklargjøring.**
-1. **Klargjør UPN-attributter.**
-1. **Valgfri tillegging av alternative UPN-suffikser i AD DS.**
-1. **Samsvare lokale UPN-er med UPN-er for Office 365.**
-1. **Katalogintegreringsverktøy.**
+Noen handlinger som må utføres i klargjøring av brukere, omfatter:
+1. **Katalogopprydding**.
+1. **Katalogobjekt og attributtforberedelse**.
+1. **Klargjør UPN-attributter**.
+1. **Valgfritt tillegg av alternative UPN-suffikser i AD DS**.
+1. **Sammenligne lokale UPN-er med Office 365 UPN-er**.
+1. **Katalogintegreringsverktøy**.
 
-Hvis du vil ha detaljerte beskrivelser av hvert forberedelsestrinn, kan du se Klargjøre for å legge til brukere [gjennom katalogsynkronisering til Office 365-artikkelen.](https://aka.ms/office365assistantprovisionuserstooffice365)
+Hvis du vil ha detaljerte beskrivelser av hvert klargjøringstrinn, kan du se Klargjøre for å klargjøre [brukere gjennom katalogsynkronisering Office 365 artikkelen](https://aka.ms/office365assistantprovisionuserstooffice365).
