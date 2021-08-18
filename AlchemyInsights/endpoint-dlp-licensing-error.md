@@ -1,5 +1,5 @@
 ---
-title: Lisensierings feil for Endpoint DLP
+title: Feil i DLP-lisensiering for endepunkt
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090158"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Lisensierings feil for Endpoint DLP
+# <a name="endpoint-dlp-licensing-error"></a>Feil i DLP-lisensiering for endepunkt
 
-Når du prøver å konfigurere Endpoint DLP, får du følgende feil melding:
+Hvis du får følgende feilmelding når du prøver å konfigurere endepunkt-DLP:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Kontroller at du har ett av følgende abonnementer eller tilleggs programmer:
+Kontroller at du har ett av følgende abonnementer eller tillegg:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
-- Microsoft 365 E5-kompatibilitet
-- Samsvar med Microsoft 365 a5
-- Microsoft 365 E5-informasjons beskyttelse og styring
-- Microsoft 365 a5-informasjons beskyttelse og styring
+- Microsoft 365 A5 (EDU)
+- Microsoft 365 E5 samsvar
+- Microsoft 365 A5 samsvar
+- Microsoft 365 E5 informasjonsbeskyttelse og styring
+- Microsoft 365 A5 informasjonsbeskyttelse og styring
 
 > [!NOTE]
-> Dette vil ikke fungere for lisens kombinasjoner som: Win E5 + O365 E5 + EMS E5. Du må ha en ren M365 E5-lisens for å konfigurere denne funksjonen.
+> Dette fungerer ikke for lisenskombinasjoner som: Win E5 + O365 E5 + EMS E5. Du må ha en ren M365 E5-lisens for å konfigurere denne funksjonen.
 
-Hvis du vil ha mer informasjon om DLP-lisensiering, kan du se [ENDPOINT DLP-lisensiering.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Hvis du vil ha mer informasjon om endepunkt-DLP-lisensiering, kan du se [Endepunkt-DLP-lisensiering.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts - Varsling om målrettede angrep
+title: Microsoft Threat Experts – Varsling om målrettede angrep
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901477"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Varsling om målrettede angrep
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts – Varsling om målrettede angrep
 
 Målrettet angrepsvarsel er én av de Microsoft Threat Experts funksjonene. Det er en proaktiv trusseljakttjeneste som gir spesiell innsikt og analyse som bidrar til å sikre at de mest kritiske truslene identifiseres og besvares raskt og nøyaktig.
 
 Hvis du er microsoft defender for endepunktkunde, må du søke om Microsoft Threat Experts – målrettede angrepsvarsler for å få spesiell innsikt og analyse som hjelper deg med å identifisere de mest kritiske truslene, slik at du raskt kan svare på dem.
 
-Hvis du vil registrere deg Microsoft Threat Experts – fordeler med målrettede angrepsvarsler, kan du **gå** til generelle Innstillinger avanserte funksjoner Microsoft Threat Experts – målrettede angrepsvarsler  >    >    >   som skal brukes. Når du har godtatt, får du fordelene med målrettede angrepsvarsler.
+Hvis du vil registrere deg Microsoft Threat Experts – fordeler med målrettede angrepsvarsler, kan du **gå til** generelle Innstillinger avanserte funksjoner Microsoft Threat Experts – målrettede angrepsvarsler  >    >    >   som skal brukes. Når du har godtatt, får du fordelene med målrettede angrepsvarsler.
 
-Du kan motta målrettet angrepsvarsel fra Microsoft Threat Experts gjennom følgende medium:
+Du kan motta målrettede angrep fra Microsoft Threat Experts gjennom følgende medium:
 
 - Siden Defender for Endpoint-portalens hendelser
 - Instrumentbordet for Defender for Endepunkt-portalens varsler
@@ -38,4 +38,4 @@ Du kan motta målrettet angrepsvarsel fra Microsoft Threat Experts gjennom følg
 
 Hvis du vil motta målrettede angrepsvarsler via e-post, oppretter du en regel for e-postvarsling. 
 
-Se [Konfigurere og Microsoft Threat Experts funksjoner](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) for mer informasjon.
+Se [Konfigurere og administrere Microsoft Threat Experts for mer](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) informasjon.

@@ -1,5 +1,5 @@
 ---
-title: 711 opprette en distribusjons liste eller gruppe
+title: 711 Opprette en distribusjonsliste eller gruppe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090205"
 ---
 # <a name="create-distribution-groups"></a>Opprette distribusjonsgrupper
 
-Du kan bruke distribusjons grupper (også kalt distribusjons lister) til å levere e-postmeldinger til grupper av personer i og utenfor organisasjonen. Det er enkelt å opprette dem. Hvis du vil ha instruksjoner, kan du se [opprette distribusjons lister i administrasjons senteret for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+Du bruker distribusjonsgrupper (også kalt distribusjonslister) til å levere e-postmeldinger til grupper av personer i og utenfor organisasjonen. Det er enkelt å opprette dem! Hvis du vil ha instruksjoner, kan du se Opprette [distribusjonslister i Administrasjonssenter for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
 
-**Obs**! en administrator må administrere medlemskapet i en distribusjons gruppe. Hvis du vil at brukere skal kunne administrere sine egne gruppe medlems lister, kan du vurdere [Microsoft 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) i stedet.
+**Obs!** En administrator må administrere medlemskapet i en distribusjonsgruppe. Hvis du vil at brukerne skal administrere sine egne lister over gruppemedlemskap, bør du vurdere å Microsoft 365 [grupper i](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) stedet.

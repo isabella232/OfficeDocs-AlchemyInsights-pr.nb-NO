@@ -1,5 +1,5 @@
 ---
-title: Løse problemer med å vise beskyttet melding i Outlook
+title: Løse problemer med visning av beskyttet melding i Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967162"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317751"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Løse problemet med å vise beskyttet melding i Outlook
 
@@ -28,8 +28,7 @@ Brukere må gjøre følgende for å åpne krypterte meldinger:
 
 1. Avhengig av hvilken e-postklient som brukes, klikker **du Les meldingen** eller en lignende melding. Brukerne omdirigeres til en side der de kan logge på og motta en engangskode.
 
-> [!NOTE]
-> Gmail-brukere blir bedt om å logge på med Gmail. Meldingen åpnes i en ny fane etter at du har klikket **Tillat**.
+    **Obs!** For Gmail-brukere blir de bedt om å logge på med Gmail. Meldingen åpnes i en ny fane etter at du har klikket **Tillat**.
 
 2. Kontroller e-posten for engangskoden, og angi deretter koden i nettleservinduet.
 

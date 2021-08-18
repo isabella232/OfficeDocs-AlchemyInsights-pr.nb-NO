@@ -13,12 +13,12 @@ ms.custom:
 - "5200004"
 - "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8166c2a19e5849de6caace4eea0fee5866f5adc3bfc2c483f18fc788c1bf2fa9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dd159b8b9e141c2fb448bae5fb624efe1014d7d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897725"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318133"
 ---
 # <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Vanlige problemer når du oppretter et gruppe tilkoblet nettsted i SharePoint
 
@@ -28,9 +28,9 @@ ms.locfileid: "57897725"
    - Hvis du vil ha mer informasjon om hvordan du kommer i gang med Powershell, kan du se Komme i gang med SharePoint [Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Fjern nettstedet fra Slettede nettsteder ved hjelp [av Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell-cmdleten. Powershell er nødvendig for å slette gruppenettsteder permanent.
 
-1. Hvis du oppretter et gruppe tilkoblet nettsted og mottar en [advarsel:](https://admin.microsoft.com/AdminPortal/Home#/groups)En annen gruppe med samme **alias** finnes allerede, kontrollerer du de eksisterende gruppene fra Administrasjonssenter for Microsoft 365 . Hvis du vil løse problemet, sletter du den eksisterende gruppen hvis den ikke lenger er nødvendig eller oppretter nettstedet med et annet alias tilordnet.
+1. Hvis du oppretter et gruppe tilkoblet nettsted og mottar en [advarsel:](https://admin.microsoft.com/AdminPortal/Home#/groups)En annen gruppe med samme **alias** finnes allerede, og kontroller de eksisterende gruppene fra Administrasjonssenter for Microsoft 365 . Hvis du vil løse problemet, sletter du den eksisterende gruppen hvis den ikke lenger er nødvendig eller oppretter nettstedet med et annet alias tilordnet.
 
 1. Det finnes ulike måter å opprette og bruke moderne grupper på med SharePoint.
 
-   - Du kan koble eksisterende nettsteder til en Microsoft 365 gruppe. Hvis du vil ha mer [informasjon, kan du Koble til en Microsoft 365 brukergruppe ved hjelp av SharePoint brukergrensesnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Hvis du vil Microsoft 365 en gruppe tilkoblet område, må du opprette et [gruppeområde.](https://admin.microsoft.com/sharepoint)
+   - Du kan koble eksisterende nettsteder til en Microsoft 365 gruppe. Hvis du vil ha mer [informasjon, kan du Koble til en Microsoft 365 gruppe ved hjelp av SharePoint brukergrensesnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Hvis du vil Microsoft 365 en gruppe tilkoblet nettsted, må du opprette et [gruppeområde](https://admin.microsoft.com/sharepoint).
