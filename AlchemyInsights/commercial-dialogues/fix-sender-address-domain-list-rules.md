@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896120"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320498"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Løse regler for avsenderadresse/domeneliste
 
 En av policyene for søppelpost påvirket denne meldingen. Avsenderen av meldingen ble funnet i en tillatelses- eller blokkeringsliste. Gjør følgende for å se gjennom policyene:
 
-1. I Microsoft 365 Defender-portalen på går du til Policyer for e-& for samarbeid & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \>  **Policyer-delen.**
+1. I Microsoft 365 Defender-portalen på går du til Policyer & for e-post & policyer for trusler mot søppelpost i <https://security.microsoft.com/>  \>  \>  \> **policyer-delen.** 
 
    Hvis du vil gå direkte til **siden for søppelpostpolicyer,** bruker du <https://security.microsoft.com/antispam> .
 

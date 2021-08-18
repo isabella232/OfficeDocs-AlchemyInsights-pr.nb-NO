@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005531"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320167"
 ---
 # <a name="delete-a-profile"></a>Slette en profil
 
@@ -31,8 +31,7 @@ Hvis du vil slette en profil, bruker du fremgangsmåten nedenfor.
 
 3. Velg **profilen** du vil slette, i dialogboksen E-post, og klikk deretter **Fjern**.
 
-    > [!NOTE]
-    > Outlook kan varsle deg om at sletting av profilen vil fjerne frakoblede data. Du mister ikke informasjon som er lagret i Outlook-datafiler (PST) eller informasjon som er lagret i nettkontoene dine, for eksempel Outlook.com, Exchange eller Microsoft 365 kontoer.
+    **Obs!** Outlook kan varsle deg om at sletting av profilen vil fjerne frakoblede data. Du mister ikke informasjon som er lagret i Outlook-datafiler (PST) eller informasjon som er lagret i nettkontoene dine, for eksempel Outlook.com, Exchange eller Microsoft 365 kontoer.
   
 Hvis **Outlook for Mac** bruker profilbehandling, kan du se Administrere profiler [eller identiteter i](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) Outlook for Mac eller følge fremgangsmåten nedenfor.
   
