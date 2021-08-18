@@ -15,16 +15,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045899"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899549"
 ---
 # <a name="cancel-power-bi"></a>Avbryt Power BI
 
-Power BI kanselleres i Administrasjonssenter for Microsoft 365.
+Power BI kan avbrytes i Administrasjonssenter for Microsoft 365.
 
 1. Gå til Fakturering-siden > **[i](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.**
 2. Finn **abonnementet** du vil avbryte, på Produkter-fanen. Velg de tre prikkene (flere handlinger), og velg deretter **Avbryt abonnement**.
@@ -36,4 +36,4 @@ Power BI kanselleres i Administrasjonssenter for Microsoft 365.
 > [!NOTE]
 > Hvis du ikke ser alternativet for å avbryte, velger du abonnementet for å vise detaljsiden. Velg **Avbryt abonnement under** Abonnements- og **betalingsinnstillinger.**
 
-Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

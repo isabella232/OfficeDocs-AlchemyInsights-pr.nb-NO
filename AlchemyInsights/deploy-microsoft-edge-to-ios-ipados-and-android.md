@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194517"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316883"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Distribuere Microsoft Edge til iOS, iPadOS og Android
 
-Veiledningsscenarioet oppsummert nedenfor hjelper deg med å tilordne Microsoft Edge til brukere av iOS-, iPadOS- og Android-enheter.
+Det veiledede scenarioet som er oppsummert nedenfor, hjelper deg med å Microsoft Edge til brukere av iOS-, iPadOS- og Android-enheter.
 
-> [!NOTE]
-> Hvis du har blokkert brukere fra å registrere mobile enheter, vil ikke dette veiledede scenarioet fungere, og brukerne må installere Microsoft Edge på egen hånd.
+**Obs!** Hvis du har blokkert brukere fra å registrere mobile enheter, vil ikke dette veiledede scenarioet fungere, og brukerne må installere Microsoft Edge på egen hånd.
 
-Veiledet scenario omfatter følgende trinn:
+Det veiledede scenarioet omfatter følgende trinn:
 
 1. [Forutsetninger](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
 2. [Innledning](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
@@ -36,9 +35,9 @@ Veiledet scenario omfatter følgende trinn:
 5. [Oppgaver](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [Se gjennom og oppretting](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Når du har fullført trinnene i det veiledede scenarioet, aktiverer Microsoft Intune-policyer følgende funksjoner i Microsoft Edge for bedrifter:
+Når du har fullført trinnene i det veiledede scenarioet, Microsoft Intune policyer aktivere følgende funksjoner i Microsoft Edge for bedrifter:
 
-- To identiteter
-- Integrering med beskyttelsespolicy for Microsoft Intune-appen
-- Integrasjon med Azure Active Directory-programproxy
-- Administrerte favoritter og snarveier på startsiden
+- Dobbel identitet
+- Integrering med Microsoft Intune appbeskyttelsespolicy
+- Integrasjon med Azure Active Directory programproxy
+- Administrerte favoritter og snarveier på hjemmesiden

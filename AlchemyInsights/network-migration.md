@@ -1,5 +1,5 @@
 ---
-title: Nettverks overføring
+title: Nettverksoverføring
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113209"
 ---
-# <a name="network-migration"></a>Nettverks overføring
+# <a name="network-migration"></a>Nettverksoverføring
 
-O365-leieren din er kanskje knyttet til flere Yammer-nettverk i en 1 leier: mange nettverk-konfigurasjon. Fra og med 16, 2018, støtter ikke lenger Yammer flere Yammer-nettverk som er tilknyttet én Tenant. Du kan utføre en nettverks overføring for å få tilgang til en foretrukket 1:1-konfigurasjon.
+O365-leieren er muligens knyttet til flere Yammer nettverk i en 1 leier: Mange nettverkskonfigurasjoner. Fra og med 16. oktober 2018 støtter Yammer ikke lenger flere Yammer nettverk knyttet til én leier. Du kan utføre en nettverksoverføring for å få tilgang til en foretrukket 1:1-konfigurasjon.
   
-- Hvis du vil vise en liste over nettverkene som er tilknyttet leieren, kan du logge på Yammer som global administrator og gå til **nettverks administrator**og deretter **nettverks overføring**. Velg **Neste**.
+- Hvis du vil vise en liste over nettverkene som er knyttet til leieren, logger du deg på Yammer global administrator og går til Nettverksadministrator **og** **deretter Nettverksoverføring**. Velg **Neste**.
 
-- Hvis du ser flere nettverk oppført i trinn 2 av 3, har du flere Yammer-nettverk tilknyttet O365-leieren.
+- Hvis du ser flere nettverk oppført i trinn 2 av 3, har du flere nettverk Yammer knyttet til O365-leieren.
 
-- Hvis du vil korrigere konfigurasjonen til en 1:1-konfigurasjon, kan du fortsette å bruke verktøyet for nettverks overføring.
+- Hvis du vil rette konfigurasjonen til en 1:1-konfigurasjon, fortsetter du å bruke nettverksoverføringsverktøyet.
 
-- Hvis du vil ha mer informasjon om nettverks overføring, kan du se [nettverks overføring: Konsolider flere Yammer-nettverk](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Hvis du vil ha mer informasjon om nettverksoverføring, kan du se [Nettverksoverføring: Konsolidere Yammer nettverk.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
 Obs!
   
-- **En nettverks overføring overfører bare aktive og ventende brukere.** I tillegg til de aktive brukerne overføres også brukernes informasjon, for eksempel navn og profil bilde. Alle nettverks innhold, inkludert grupper, blir ikke overført.
+- **En nettverksoverføring overfører bare de aktive og ventende brukerne.** Sammen med de aktive brukerne overføres også brukernes informasjon, for eksempel navn og profilbilde. Alt nettverksinnhold, inkludert grupper, overføres ikke.
 
-- **Nettverks overføring kan ikke reverseres.** Du vil ikke kunne få tilgang til det underordnede nettverket og innholdet etter overføringen. Så før du vurderer en overføring, bør du planlegge nøye.
+- **Nettverksoverføring kan ikke reverseres.** Du får ikke tilgang til det underordnede nettverket og innholdet etter overføringen. Så før du vurderer en overføring, bør du planlegge nøye.

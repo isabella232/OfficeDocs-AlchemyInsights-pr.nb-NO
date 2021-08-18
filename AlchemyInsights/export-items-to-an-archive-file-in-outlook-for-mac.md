@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100411"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316649"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Eksportere elementer til en arkivfil i Outlook for Mac
 
@@ -24,8 +24,7 @@ Hvis du vil redusere størrelsen på innboksen, arkiverer du e-postmeldinger, ko
 
 1. Klikk **Eksporter** på **Verktøy-fanen.**
 
-> [!NOTE]
-> Ser du ikke **Eksporter-knappen?** Kontroller at du har den nyeste versjonen av Outlook. Klikk Se Outlook **etter** oppdateringer på **Hjelp-menyen.** Hvis alle Outlook er tatt i bruk og du  fremdeles ikke  ser Eksporter-knappen, kan du se etter Eksporter Outlook **Fil-menyen.**
+    **Obs!** Ser du ikke **Eksporter-knappen?** Kontroller at du har den nyeste versjonen av Outlook. Klikk Se Outlook **etter** oppdateringer på **Hjelp-menyen.** Hvis alle Outlook er tatt i bruk og du  fremdeles ikke  ser Eksporter-knappen, kan du se etter Eksporter Outlook **Fil-menyen.**
 
 2. Merk av for elementene du vil eksportere, i boksen Eksporter til arkivfil **(OLM),** og klikk **Fortsett**.
 
