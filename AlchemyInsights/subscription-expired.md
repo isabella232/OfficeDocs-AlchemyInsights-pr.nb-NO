@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328345"
 ---
 # <a name="subscription-expired"></a>Abonnementet er utløpt
 
@@ -29,9 +29,8 @@ Hvis abonnementet går ut eller har blitt deaktivert av Microsoft, eller du har 
 **Aktivere et abonnement på nytt**
 
 1. Gå til Fakturering produkter-siden i   >  [](https://go.microsoft.com/fwlink/p/?linkid=842054) administrasjonssenteret.
-2. Finn **abonnementet** du vil aktivere på nytt på Produkter-fanen, velg de tre prikkene (flere handlinger), og velg deretter Aktiver **dette abonnementet på nytt**.
-    > [!NOTE]
-    > Hvis du ikke ser Aktivere dette abonnementet **på nytt,** kan du kontakte kundestøtte.
+2. Finn **abonnementet du** vil aktivere på nytt på Produkter-fanen, velg de tre prikkene (flere handlinger), og velg deretter Aktiver dette abonnementet på **nytt**.\
+    **Obs!** Hvis du ikke ser **Aktivere** dette abonnementet på nytt, kan du kontakte kundestøtte.
 3. Velg en **betalingsmåte** fra rullegardinlisten i ruten Aktiver dette abonnementet på nytt, eller velg Legg **til betalingsmåte**.
 4. Velg **Lagre**.
 

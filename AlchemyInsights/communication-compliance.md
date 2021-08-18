@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090745"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329927"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kommunikasjonssamsvar i Microsoft 365
 
@@ -43,5 +43,4 @@ Lisenskrav: Brukere som overvåkes av kommunikasjonspolicyer, må ha ett av føl
 
 Hvis du ikke har noen av de ovennevnte og vil prøve kommunikasjonssamsvar, kan du registrere deg for en prøveversjon **[av Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Det kan ta opptil 24 timer før e-postmeldinger behandles fullstendig i en policy. Kommunikasjon i Microsoft Teams, Yammer og tredjepartsplattformer kan ta opptil 48 timer å behandle fullstendig i en policy.
+**Obs!** Det kan ta opptil 24 timer før e-postmeldinger behandles fullstendig i en policy. Kommunikasjon i Microsoft Teams, Yammer og tredjepartsplattformer kan ta opptil 48 timer å behandle fullstendig i en policy.

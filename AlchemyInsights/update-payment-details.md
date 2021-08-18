@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892436"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330677"
 ---
 # <a name="update-credit-card-information"></a>Oppdater kredittkortinformasjonen
 
 1. Gå til **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806)-siden i administrasjonssenteret for Microsoft 365.
 
-    > [!NOTE]
-    > Hvis du blir fanget i en løkke som sender deg tilbake til hjemmesiden for administrator før oppdateringene er fullførte, kan du prøve InPrivate- eller inkognitomodus.
+    **Obs!** Hvis du opplever en løkke som sender deg tilbake til hjemmesiden for administratorer før oppdateringene er fullført, kan du prøve Inprivate- eller Inkognito-modus.
   
 2. Velg kredittkortet du ønsker å oppdatere.
 
-    > [!NOTE]
-    > Hvis betalingsmåten ble lagt til av en annen administrator, kan du ikke oppdatere kredittkort- eller bankkontoinformasjonen for abonnementet. Hvis kredittkortet er i ferd med å utløpe og den andre administratoren ikke kan oppdatere informasjonen, kan du hindre at tjenesten opphører ved å legge til et annet kredittkort eller en ny bankkonto for abonnementet. Dette gjør du ved å velge **Legg til betalingsmåte**.
+    **Obs!** Hvis en annen administrator har lagt til betalingsmåten, kan du ikke oppdatere kredittkort- eller bankkontoinformasjonen for den. Hvis kredittkortet er i ferd med å utløpe og den andre administratoren ikke kan oppdatere informasjonen, kan du hindre at tjenesten opphører ved å legge til et annet kredittkort eller en ny bankkonto for abonnementet. Dette gjør du ved å velge **Legg til betalingsmåte**.
   
 3. Velg **Rediger** i **detaljruten Betalingsmetode**. 
 

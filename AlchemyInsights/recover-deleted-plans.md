@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 2823e1d4fe5d4fde04060a6f031e982924a720af6f9226bf7a4c483b72ece5f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34467061757da327ec36f0b7559bbec6c1e0b574
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062161"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328575"
 ---
 # <a name="recover-deleted-plans"></a>Gjenopprett slettede planer
 
-- Berre planeiere kan slette en plan. For å [slette en plan eller oppgave](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.), følger du instruksjonene i slette en oppgave eller plan.  **Obs**: Hvis en plan slettes permanent, kan det ikke gjenopprettes. På samme måte er det heller ikke mulig å gjenopprette en slettet oppgave. Hvis du ved et uhell sletter en oppgave, må du opprette den på nytt fra grunnen av.
+- Berre planeiere kan slette en plan. For å [slette en plan eller oppgave](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.), følger du instruksjonene i slette en oppgave eller plan.  
+    **Obs**: Hvis en plan slettes permanent, kan det ikke gjenopprettes. På samme måte er det heller ikke mulig å gjenopprette en slettet oppgave. Hvis du ved et uhell sletter en oppgave, må du opprette den på nytt fra grunnen av.
 
 - Hvis planen ble slettet som et resultat av at en gruppe ble slettet, kan det hende du kan gjenopprette gruppen og innholdet. Følg instruksjonene under gjenopprette en [slettet Microsoft 365-gruppe](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) for å gjenopprette gruppen og det tilknyttede innholdet.
 

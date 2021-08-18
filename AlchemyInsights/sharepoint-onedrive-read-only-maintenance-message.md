@@ -1,5 +1,5 @@
 ---
-title: Read-Only vedlikeholdsmelding når du prøver å bruke SharePoint eller OneDrive
+title: Read-Only for vedlikeholdsmelding når du prøver å bruke SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,14 +13,14 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910555"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329457"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only vedlikeholdsmelding når du prøver å bruke SharePoint eller OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only for vedlikeholdsmelding når du prøver å bruke SharePoint eller OneDrive
 
 Brukere kan motta **en skrivebeskyttet for** vedlikeholdsmelding når de prøver å bruke SharePoint eller OneDrive for ett av følgende scenarier. 
 
@@ -38,8 +38,6 @@ Prøv å tømme hurtigbufferen for nettleseren før du navigerer til nettstedet.
 2. Velg **Velg hva du** vil fjerne, under Fjern **nettlesing**.
 3. Velg **Informasjonskapsler og lagrede nettstedsdata**, og velg **Fjern**.
 
->[!Note] 
-> Disse trinnene kan variere når du bruker andre nettlesere, for eksempel Mozilla Firefox eller Google Chrome.
+**Obs!** Disse trinnene kan variere når du bruker andre nettlesere, for eksempel Mozilla Firefox eller Google Chrome.
 
->[!Note] 
-> Et annet alternativ er å åpne SharePoint eller OneDrive i et nytt InPrivate-vindu.
+**Obs!** Et annet alternativ er å åpne SharePoint eller OneDrive i et nytt InPrivate-vindu.

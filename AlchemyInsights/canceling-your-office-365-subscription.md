@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901745"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330181"
 ---
 # <a name="canceling-your-subscription"></a>Vil du avbryte abonnementet?
 
@@ -30,7 +30,6 @@ Vi beklager at du er på farten, men hvis du vil si opp abonnementet, kan du gj�
   
 **Refusjon: Eventuell prorated credit vil bli returnert til deg i løpet av neste faktureringssyklus.**
 
-> [!NOTE]
-> Hvis du ikke ser alternativet for å avbryte, velger du abonnementet for å vise detaljsiden. Velg **Avbryt abonnement under** Abonnements- og **betalingsinnstillinger.**
+**Obs!** Hvis du ikke ser alternativet for å avbryte, velger du abonnementet for å vise detaljsiden. Velg **Avbryt abonnement under** Abonnements- og **betalingsinnstillinger.**
 
 Hvis du vil ha mer informasjon, [kan du se Avbryte abonnementet.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

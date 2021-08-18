@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330417"
 ---
 # <a name="change-your-billing-address"></a>Endre faktureringsadressen
 
@@ -41,6 +41,6 @@ Hvis du vil ha mer informasjon om adresse- og varselendringer, kan du [se Endre 
 
 1. Gå til Faktureringskontoer i **administrasjonssenteret > [faktureringskontoer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Velg **Rediger informasjon om faktureringskonto**.
-3. Oppdater faktureringskontoinformasjonen, og klikk deretter **Lagre > Fullført**.
+3. Oppdater faktureringskontoinformasjonen, og klikk deretter **Lagre > fullført**.
 
 **Obs!** Du kan ikke endre land/område. Hvis dette feltet må endres, må du kjøpe en ny leier.
