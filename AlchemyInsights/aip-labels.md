@@ -1,6 +1,6 @@
 ---
-title: Etiketter for Azure Information Protection (AIP)
-ms.author: pebuam
+title: Azure Information Protection-etiketter
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125239"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451751"
 ---
-# <a name="azure-information-protection-aip-labels"></a>Etiketter for Azure Information Protection (AIP)
+# <a name="azure-information-protection-aip-labels"></a>Azure Information Protection-etiketter
 
-Administrasjon av Azure Information Protection (AIP) i Azure Portal og AIP-klienten avvikles fra og med 31. mars 2021. Hvis du vil ha mer informasjon, kan du se Merking, klassifisering og beskyttelse for [Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Etikettadministrasjon med Azure Information Protection (AIP) i Azure Portal og AIP-klienten avvikles fra og med 31. mars 2021. Hvis du vil ha mer informasjon, kan du se [Merking, klassifisering og beskyttelse med Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
 
-For oppretting og administrasjon av etiketter kan du bruke funksjonene for enhetlig merking i Microsoft 365 i stedet. 
+Bruk funksjonene for enhetlig merking i Microsoft 365 for oppretting og administrasjon av etiketter. 
 
 Hvis du vil ha mer informasjon, kan du se:
 
-[Administrere følsomhetsetiketter Office apper](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Administrere følsomhetsetiketter i Office-apper](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[Lær om følsomhetsetiketter](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[Finn ut mer om følsomhetsetiketter](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 Hvis du vil ha en liste over kjente problemer med AIP-funksjoner, kan du se [Kjente problemer – Azure Information Protection](https://docs.microsoft.com/azure/information-protection/known-issues).

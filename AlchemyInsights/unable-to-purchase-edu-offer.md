@@ -1,26 +1,29 @@
 ---
 title: Kan ikke kjøpe EDU-tilbud
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088444"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451859"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>Kan ikke kjøpe EDU-tilbud
 
-For å finne ut om organisasjonen din kvalifiserer for akademiske priser, må du [fullføre bekreftelsesprosessen og angi domenet ditt](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). Prøveversjonen av Office 365 A1 for Faculty og prøveversjonen av Office 365 A1 for Students er tilgjengelige for deg å bruke mens du venter på at organisasjonen skal være berettigelse.
+For å finne ut om organisasjonen er kvalifisert for akademiske priser, må du [fullføre bekreftelsesprosessen og angi domenet](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). Du kan bruke prøveversjonen av Office 365 A1 for lærere og prøveversjonen av Office 365 A1 for studenter mens du venter på at organisasjonen er kvalifisert.
 
 Hvis du vil kjøpe Microsoft 365 kommersielt, kan du se [tilgjengelige tilbud](https://go.microsoft.com/fwlink/p/?linkid=868433).
