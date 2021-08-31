@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ab831696736352bf9de84f43c96bb8f7238d8eb
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998167"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744604"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Løse meldingen Microsoft 365 «Vi kan ikke koble til akkurat nå»
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Retting Microsoft 365 meldingen «Vi kan ikke koble til akkurat nå»
 
-Hvis du mottar denne meldingen, kan du prøve følgende:
+Obs! Hvis du bruker en eldre versjon av Windows (for eksempel Windows 7 SP1, Windows Server 2008 [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) R2), bruker du den enkle løsningen for å aktivere TLS 1.2 som standard. Hvis du vil ha mer informasjon, kan du se Oppdatere for å aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)som standard sikre protokoller i WinHTTP i Windows .
+
+Hvis du får denne meldingen, kan du prøve følgende:
 
 1. Kontroller brannmuren, antivirusprogramvaren og proxy-innstillingene for å bekrefte at de ikke blokkerer Internett-tilgang til Microsoft 365 apper. Se [Microsofts nettadresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
