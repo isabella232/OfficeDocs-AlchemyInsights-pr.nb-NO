@@ -1,26 +1,29 @@
 ---
 title: Lisens mangler eller forsvinner fra administrasjonssenteret
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708095"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844539"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Lisens mangler eller forsvinner fra administrasjonssenteret
 
+Hvis lisensene dine forsvant, må du kontrollere at abonnementet ikke er utløpt. Hvis du vil kontrollere utløpsdatoen, kan du gå til **Fakturering** > [Produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Hvis lisensene dine forsvant, må du kontrollere at abonnementet ikke er utløpt. Hvis du vil kontrollere utløpsdatoen, går du til **Fakturering**   >   **[av produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-Avhengig av visningen vises utløpsdatoen helt til høyre-kolonnen merket **Dato** eller i **Fakturering-delen** i abonnementsdetaljene ved siden av **Utløp på**.
+Utløpsdatoen vises i **Abonnementsstatus**-kolonnen.

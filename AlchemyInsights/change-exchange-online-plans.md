@@ -1,31 +1,32 @@
 ---
 title: Endre Exchange Online-abonnementer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706872"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841982"
 ---
 # <a name="change-exchange-online-plans"></a>Endre Exchange Online-abonnementer
 
-Administratorer må bytte abonnementer manuelt. Hvis du vil ha fullstendig fremgangsmåte, kan du se [Bytte Microsoft 365 for bedriftsabonnementer manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Administratorer må endre abonnementer manuelt i Administrasjonssenter for Microsoft 365. Hvis du vil ha fullstendige trinn, kan du se [Endre abonnementer manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Kjøpe den nye abonnementsplanen. I administrasjonssenteret for Microsoft 365 går du til **Fakturering > [Kjøpstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Det enkleste er å bruke søkeboksen for å finne Exchange-planene.
-
-2. Kontroller det nye abonnementet og lisenser. I administrasjonssenteret for Microsoft 365 går du til **Fakturering > [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Hvis det nye abonnementet ikke er oppført, eller hvis det ikke er aktivt, kan du kontrollere [her](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Tilordne lisenser til brukerne på nytt. Gå til **Brukere > [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822)** i Microsoft 365-administrasjonssenteret og tildel lisenser.
-
-4. [Avbryte abonnementer eller fjerne lisenser](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) du ikke trenger lenger.
+1. **Kjøpe den nye abonnementsplanen.** Gå til siden **Fakturering** > [Kjøp tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433), og kjøp det nye abonnementet.
+2. **Kontroller det nye abonnementet og lisenser.** Gå til siden **Fakturering** > [Produktene dine](https://go.microsoft.com/fwlink/p/?linkid=842054), og kontroller at det nye abonnementet er oppført og har riktig antall lisenser.
+3. **Tilordne lisenser til brukerne på nytt.** Gå til **Brukere** > [Aktive brukere](https://go.microsoft.com/fwlink/p/?linkid=834822)-siden, og tilordne lisenser.
+4. [Avbryt abonnementet](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) eller [fjern lisenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) du ikke trenger lenger.

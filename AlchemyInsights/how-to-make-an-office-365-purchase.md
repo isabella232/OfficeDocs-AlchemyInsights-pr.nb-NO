@@ -3,7 +3,6 @@ title: Slik foretar du et Microsoft 365 kjøp
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318571"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842415"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Slik foretar du et Microsoft 365 kjøp
 
@@ -39,4 +39,4 @@ Hvis du opplever problemer med siden som lastes inn, kan du prøve å åpne nett
 **Flere ressurser**
   
 - [Tilordne lisenser til brukere i Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Avbryt Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Avbryte Microsoft 365 for bedrifter](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
