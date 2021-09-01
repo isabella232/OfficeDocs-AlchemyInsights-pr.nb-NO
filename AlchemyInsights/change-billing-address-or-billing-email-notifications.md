@@ -3,7 +3,6 @@ title: Endre faktureringsadresse eller e-postvarsler for fakturering
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,18 +15,19 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332490"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842018"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Endre faktureringsadresse eller e-postvarsler for fakturering
 
 **Endre Bill-To adresse**
 
-1. Gå til faktureringssiden > **[betalingsmetoder i](https://go.microsoft.com/fwlink/p/?linkid=2018806) administrasjonssenteret.**
+1. Gå til faktureringssiden > **[betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806)** i administrasjonssenteret.
 
 2. Velg kredittkortet eller bankkontoen du vil endre.
 

@@ -3,7 +3,6 @@ title: Forlenge prøveperioden for Microsoft 365 for Bedrifter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "95"
 - "1400006"
+ms.date: 08/10/2021
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: b3898c5446a8193f818fd810bb3645f78865aa80
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0e982570adb76a9abaf6220e50c1aa80bab0a6ca
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313390"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841946"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Forlenge prøveperioden for Microsoft 365 for bedrifter
 
@@ -32,4 +32,4 @@ Du kan forlenge den gratis prøveperioden i én ekstra 30-dagers periode. Etter 
 3. Velg Forleng sluttdato under Abonnements- og **betalingsinnstillinger** på **abonnementsdetaljer-siden.**
 4. Se gjennom **utvidelsesinformasjonen** i ruten Forleng sluttdato, og velg om nødvendig en betalingsmåte. Når du er ferdig, velger du **Forleng prøveperioden**.
 
-Hvis du vil lære mer om utvidelse av prøveperioden eller trinnvise instruksjoner, kan du se Forlenge prøveperioden for Office 365 [for bedrifter.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+Hvis du vil lære mer om hvordan du forlenger prøveperioden eller for trinnvise instruksjoner, kan du se Forlenge prøveperioden for Office 365 [for bedrifter.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

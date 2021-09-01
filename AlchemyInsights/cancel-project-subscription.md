@@ -1,5 +1,5 @@
 ---
-title: Avbryte Project abonnement
+title: Avbryt Project abonnementet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,15 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 4b1b83f29d6ac91d3306792a405e531b174dd718
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 3f1e6e729d47bee0ff8c69b938883c32102d046c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330453"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841658"
 ---
-# <a name="cancel-project-subscription"></a>Avbryte Project abonnement
+# <a name="cancel-project-subscription"></a>Avbryt Project abonnementet
 
 Administratorer kan avbryte Project for organisasjonen i Administrasjonssenter for Microsoft 365.
 

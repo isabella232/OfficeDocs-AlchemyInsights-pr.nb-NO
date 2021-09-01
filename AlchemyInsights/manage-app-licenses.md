@@ -3,7 +3,6 @@ title: Administrere applisenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 5a698efab669df54a81e618ffb782349d8f62fd3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326188"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836762"
 ---
 # <a name="manage-app-licenses"></a>Administrere applisenser
 
@@ -38,4 +38,4 @@ ms.locfileid: "58326188"
 
 1. Gå til **Fakturering**  >  **[av produkter-siden.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Finn **og velg** appen du vil administrere, i **Apper-delen** på Produkter-fanen.
-3. Velg **koblingen Innstillinger &** Behandle i **utgiverens portal** under Innstillinger & handlinger .
+3. Under **Innstillinger & velger** du koblingen til Behandle i **utgiverens portal**.
