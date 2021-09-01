@@ -3,6 +3,7 @@ title: Aktivere eller aktivere et abonnement på nytt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314321"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842883"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller aktivere et abonnement på nytt
 
@@ -46,5 +48,5 @@ For mer informasjon, se [Aktivere abonnementet på nytt](https://docs.microsoft.
 
 **Aktivere et nytt abonnement med en produktnøkkel**
 
-1. Hvis du vil aktivere Microsoft 365 et nytt abonnement med produktnøkkelen, kan du se Her skriver du inn Office [produktnøkkelen](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Hvis du vil aktivere Microsoft 365 et nytt abonnement med produktnøkkelen, kan du se Hvor skriver du Office [produktnøkkelen](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Skriv inn Microsoft 365-produktnøkkelen, og følg instruksjonene for å aktivere abonnementet. Hvis du har problemer med aktiveringen, kan du se denne listen over vanlige feil og løsninger for [produktnøkkel](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
