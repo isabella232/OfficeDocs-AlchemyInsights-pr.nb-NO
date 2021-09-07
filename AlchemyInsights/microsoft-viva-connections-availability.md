@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Connections Tilgjengelighet
+title: Konfigurere skrivebordsappen Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000473"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923707"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections Tilgjengelighet
+# <a name="set-up-the-viva-connections-desktop-app"></a>Konfigurere skrivebordsappen Viva Connections
 
-Microsoft Viva Connections vil være tilgjengelig for skrivebordet i første halvdel av 2021 og for mobil sommeren 2021. Flere funksjoner rulles ut i løpet av 2022.
+Det er to hovedkrav for Viva-tilkoblinger for Teams skrivebord. 
 
-Hvis du vil ha mer informasjon, [kan du se hvordan Microsoft Viva Connections hjelper alle med å holde seg engasjert og informert.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Applinjen SharePoint rulles ut og aktiveres for at leieren skal få alle fordelene med Viva Connections. Det anbefales på det sterkeste å bruke hjemmesiden som landingsopplevelse i Teams. 
+- Den første versjonen av Viva Connections kan klargjøres via Microsoft Download Center ved hjelp av PowerShell (bruk den mest oppdaterte versjonen av [SharePoint PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps)). Viva Connections lastes deretter opp som en app i Teams administrasjonssenteret. PowerShell-skriptet har vært tilgjengelig siden 31. mars 2021. Last ned Skrivebordsversjonen av Viva Connections fra det offisielle [Microsoft Download Center.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Hvis du vil ha mer informasjon, kan du se Legge til [Viva-tilkoblinger for Microsoft Teams skrivebord og](https://docs.microsoft.com/SharePoint/viva-connections) Microsoft Teams [PowerShell-oversikt.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)

@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978170"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923563"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – sikkerhetsgrunnlinjer
 
@@ -37,6 +37,8 @@ Hver av grunnlinjene oppdateres med jevne mellomrom og lanseres i trinnvise vers
 Hvis du vil ha veiledning i hvordan du mest effektivt endrer hvilken versjon av grunnlinje som distribueres, kan du se [Behandle profiler for sikkerhetsgrunnlinjer i Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Når du har distribuert en grunnkonfigurasjon for sikkerhet, kan du overvåke tilstanden til distribusjonen og se gjennom innstillingene på enhetsbasis.
+
+Siden sikkerhetsgrunnlinjene inneholder mange innstillinger, er det viktig å se gjennom konfigurasjonsendringene og utføre testing for å sikre at alle innstillingene passer for enhetene og forretningsbehovene dine.
 
 **Merk:** Det kan ta opptil 24 timer før rapporteringsdataene for grunnlinjer vises fra den første distribusjonen til en enhet, og opptil seks timer for ytterligere oppdateringer. 
 
