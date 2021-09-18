@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060865"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446664"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurere Insider Risk Management
 
-Hvis du vil ha tilgang til og bruke Insider Risk Management, **må** organisasjonen ha ett av følgende abonnementer:
+Hvis du vil ha tilgang til og bruke Insider Risk Management, må organisasjonen ha ett av følgende abonnementer:
 
-- **Microsoft 365 E5**-abonnement.
+- Microsoft 365 G5-abonnement (betalt eller prøveversjon)
+- Microsoft 365 G3 +tillegget Microsoft 365 G5-samsvar
+- Microsoft 365 G3 abonnement + Microsoft 365 G5 Insider Risk Management-tillegget
+- Office 365 E3 + Enterprise Mobility and Security E3 + Microsoft 365 E5 Compliance tillegget
 
-- **Microsoft 365 E3**-abonnement med tilleggsprogram for Microsoft E5-samsvar.
+Hvis du ikke har et eksisterende Microsoft 365 E5-abonnement og vil prøve risikostyring for Insider, kan du legge til Microsoft 365 i det eksisterende abonnementet eller registrere deg for en prøveversjon av Microsoft 365 Enterprise E5.
 
-Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og vil prøve Insider Risk Management, kan du legge til Microsoft 365 til det eksisterende abonnementet eller registrere deg for en prøveversjon av Microsoft 365 Enterprise E5.
+**Tips:**
 
-> [!TIPS]
-- > Bruk av “Datalekkasje”-mal: Forsikre deg om at du har minst én DLP-policy (policy for hindring av datatap) konfigurert.
-- > Administrator ser ikke varsler: Forsikre deg om at brukeren er tilordnet til en av de følgende gruppene:
-    - >**Insider Risk Management Analysts**
-    - >**Insider Risk Management Investigators**
+- Bruk datalekkasjemalen til å kontrollere at du har konfigurert minst én policy for hindring av tap av data (DLP). Det finnes imidlertid et nytt utløseralternativ som ikke krever at en DLP-policy konfigureres.
 
-Hvis du vil ha mer informasjon om hvordan Insider Risk Policies kan hjelpe deg med å administrere risiko i organisasjonen, kan du se [Insider Risk Management i Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Globale administratorer har ikke tilgang til Insider Risk Management-portalen som standard. De må tilordnes en av rollene for Insider Risk Management.
+
+- Hvis en administrator ikke ser varsler, må du kontrollere at brukeren er tilordnet til en av følgende grupper:
+
+    Insider Risk Management Analysts
+
+    Insider Risk Management Investigators
+
+Hvis du vil ha mer informasjon om hvordan insiderrisiko-politi kan hjelpe deg med å håndtere risiko i organisasjonen, kan du se Lær om risikostyring for [insider i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)
