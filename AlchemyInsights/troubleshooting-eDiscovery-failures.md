@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105577"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481814"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Feilsøk innholdssøk
 
 Har du problemer med innholdssøk eller mislykkede søk når du eksporterer søkeresultater?
-
 Mottar du for eksempel følgende når du kjører søk?
 
-- CS008- eller CS012-feil
+- CS007-, CS008- eller CS012-feil
 
-- Serverfeil for opptatt/tidsavbrudd
+- Serverfeil med opptatt/tidsavbrudd
 
 - Programfeil oppstod
 
-Eller når du søker etter eller eksporterer resultater fra et stort antall postbokser (over 100 000 postbokser), får du eksportfeil?
+Eller får du eksportfeil når du søker etter eller eksporterer resultater fra et stort antall (over 100 000) postbokser?
 
-For disse feiltypene prøver du å søke på nytt etter innholdsplasseringene som har mislyktes. Se  [denne artikkelen](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) hvis du vil ha mer informasjon.
+For disse feilene kan du prøv å søke på nytt etter innholdsplasseringer som har mislyktes, eller oppdatere søket ved å redusere kompleksiteten i søkespørringen. Et jokertegnsøk kan for eksempel returnere for mange resultater til at systemet kan behandle, noe som fører til en CS007-feil.   
 
-Hvis du eksporterer mer enn 100 000 postbokser, må du bruke følgende Powershell til å laste ned eksportresultatene: Eksportere resultater fra mer enn  [100 000 postbokser](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Hvis du vil ha mer informasjon, kan du se [Prøve](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) et innholdssøk på nytt for å løse en innholdsplasseringsfeil eller Undersøke, feilsøke og løse vanlige [eDiscovery-problemer](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues).
+
+Hvis du eksporterer mer enn 100 000 postbokser, må du laste ned eksportresultatene. Hvis du vil ha mer informasjon, [kan du se Eksportere søkeresultater for innhold](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
