@@ -13,39 +13,48 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
+ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325612"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60041015"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuere Microsoft 365 Apps for enterprise for delt bruk på RDS, Terminal Server eller VDI
 
-Slik distribuerer Microsoft 365 Apps for enterprise bruke Remote Desktop Services (RDS), tidligere kalt Terminal Services:
+Hvis du Microsoft 365 Apps bruke Remote Desktop Services (RDS), tidligere Terminal Services, må du:
 
-- Du må ha et Microsoft 365 For Business-abonnement eller en Office 365-plan som inneholder Microsoft 365 Apps for enterprise, for eksempel Office 365 Enterprise E3 eller Enterprise E5.
-   **Obs!** Microsoft 365 Apps for business og Microsoft 365 Business Standard inkluderer ikke Microsoft 365 Apps for enterprise.
-- Du må aktivere [aktivering av delt datamaskin](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Bruk den enkle løsningen for å aktivere TLS 1.2 som standard hvis du kjører en eldre versjon av Windows (for eksempel Windows 7 SP1, Windows Server 2008 R2). Hvis du vil ha enkel løsning og mer informasjon, kan du se Oppdatere for å aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)som standard sikre protokoller i WinHTTP i Windows . 
+- Ha en plan som inneholder Microsoft 365 Apps for enterprise (tidligere Office 365 Pluss). For eksempel Office 365 E3 eller Microsoft 365 E5, eller en plan som inneholder skrivebordsversjonen av Project eller Visio, for eksempel Project-abonnement 3 eller Visio-abonnement 2 eller Microsoft 365 Business Premium-planen, som også inneholder Microsoft 365 Apps for business.
+- Aktiver aktivering av delt datamaskin. Hvis du vil ha mer informasjon, kan [du se Oversikt over aktivering av delt datamaskin for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Obs!** Du kan også laste ned og kjøre [Microsoft assistent for støtte og gjenoppretting](https://aka.ms/SaRA_OfficeSCA_M365Portal) for å installere Microsoft 365 Apps for enterprise i modus for aktivering av delt datamaskin.
+**Obs!** Hvis du vil Microsoft 365 Apps i modus for aktivering av delt datamaskin, kan du laste ned og kjøre [Microsoft assistent for støtte og gjenoppretting](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Hvis du vil ha mer informasjon om forutsetninger, installasjonsinstruksjoner og veiledning for å tilpasse installasjoner ved hjelp av distribusjonsverktøyet Office, kan du se Distribuere Microsoft 365 Apps ved hjelp av [Eksterne skrivebordstjenester](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
-Hvis du vil ha mer informasjon om forutsetninger, installasjonsinstruksjoner og veiledning om tilpassede installasjoner ved hjelp av distribusjonsverktøyet for Office, kan du se Distribuere Microsoft 365 Apps for enterprise ved hjelp av [Eksterne skrivebordstjenester](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+Hvis du vil løse feil relatert til aktivering av delt datamaskin, kan du se:
 
-Slik løser du feil relatert til aktivering av delt datamaskin:
+- [Feilsøke problemer med aktivering av delt datamaskin for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Tilbakestille Microsoft 365 Apps for enterprise aktiveringstilstand](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- Se [Feilsøke problemer med aktivering av delt datamaskin for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Se [Tilbakestille Microsoft 365 Apps for enterprise for tilstand for organisasjonsaktivering](https://go.microsoft.com/fwlink/?linkid=2109218).
+Hvis du vil installere Microsoft 365 Apps på RDS fra Administrasjonssenter for Microsoft 365, som bruker standard installasjonsinnstillinger, følger du disse trinnene:
 
-Hvis du vil installere Microsoft 365 Apps for enterprise på RDS fra ***Administrasjonssenter for Microsoft 365,*** som bruker standard installasjonsinnstillinger, bruker du følgende fremgangsmåte:
+1. Kontroller hva Microsoft 365 planen du har. Hvis du vil ha mer informasjon, [kan du se Hvilket abonnement har jeg?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 
-1. Kontroller hvilket abonnement du har. [Finn ut hvordan](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2. Bytt om nødvendig til et annet abonnement. [Finn ut hvordan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. Hvis Office allerede er installert på RDS-serveren ved hjelp av andre Microsoft-abonnementer, må du avinstallere det. Du kan for eksempel gå til **Avinstallere** et program i  >  **kontrollpanelet.** Avinstaller ved [hjelp av Microsoft assistent for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy) hvis det er problemer.
-4. På RDS-serveren logger du på Administrasjonssenter for Microsoft 365 med administratorkontoen og [installerer Microsoft 365 Apps for enterprise](https://portal.office.com/OLS/MySoftware.aspx).
-5. Når Office er installert, må du ikke åpne eller ***logge*** på noen Office programmer.
-6. Aktiver aktivering av delt datamaskin på RDS-serveren ved å redigere registeret ved å følge disse trinnene:
-   1. Høyreklikk på Windows nederst til venstre på skjermen, og velg **Kjør**. Skriv regedit i **Åpne**-boksen, og velg deretter **OK**.
-   2. Velg **Ja** når du blir bedt om å tillate at Registerredigering gjør endringer på enheten.
-   3. Legg til en strengverdi for **SharedComputerLicensing** i Registerredigering med innstillingen 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Logg på som sluttbruker  på RDS-serveren, og kontroller at aktivering av delt datamaskin [er aktivert for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+1. Bytt om nødvendig til en annen Microsoft 365 plan. Hvis du vil ha mer informasjon, kan [du se Oppgradere til en annen plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+
+1. Hvis Microsoft 365 Apps allerede er installert på RDS-serveren ved hjelp av andre inkompatible planer, må du avinstallere det ved å gå til Avinstallere et program i   >  **kontrollpanelet.** Hvis det er problemer, avinstallerer du ved å laste [ned Microsoft assistent for støtte og gjenoppretting](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. På RDS-serveren logger du på Administrasjonssenter for Microsoft 365 med administratorkontoen og [installerer Office](https://portal.office.com/OLS/MySoftware.aspx).
+
+   Når Office er installert, må du ikke åpne eller logge på noen Office programmer.
+
+1. Aktiver aktivering av delt datamaskin på RDS-serveren ved å redigere registeret:
+
+   1. Høyreklikk på knappen Windows nederst til venstre på skjermen, og velg **Kjør**. Skriv regedit i **Åpne**-boksen, og velg deretter **OK**.
+
+   1. Når du blir bedt om å tillate at Registerredigering gjør endringer på enheten, velger du **Ja**.
+
+   1. Legg til en strengverdi for **SharedComputerLicensing** med innstillingen HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft 1 under Office \Office\ClickToRun\Configuration i **Registerredigering.**
+
+1. Logg på som sluttbruker på RDS-serveren, og kontroller at aktivering av delt datamaskin er aktivert for Microsoft 365 Apps. 
+
+   Hvis du vil ha mer informasjon, kan du se Kontrollere at aktivering av delt [datamaskin er aktivert for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
