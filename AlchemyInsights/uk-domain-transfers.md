@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077223"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102374"
 ---
 # <a name="uk-domain-transfers"></a>.uk domeneoverføringer
 
 Domeneoverføringer i Storbritannia krever IPS-koden til den nye registratoren. IPS-koden kan angis i veiviseren for domeneoverføring i Microsoft-administrasjonsportalen:
 
-- Gå til **Innstillinger** Domener , dobbeltklikk domenet,  >  og velg **Overfør domene** for å starte overføringsveiviseren.
+- Gå til **Innstillinger** Domener , dobbeltklikk domenet,  >  [](https://admin.microsoft.com/#/Domains)og velg **Overfør domene** for å starte overføringsveiviseren.
 
 Når koden endres, overføres domenet umiddelbart til den nye registratoren. Deretter må du samarbeide med den nye registratoren for å fullføre overføringen, sannsynligvis betale overføringsgebyrer og legge til det overførte domenet på kontoen med den nye registratoren.
 
